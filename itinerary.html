@@ -159,9 +159,9 @@
   .notice { margin-top: 0.75rem; padding: 0.75rem 1rem; background: #FFFBF0; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; font-size: 0.78rem; color: #7A5A1A; line-height: 1.65; }
 
   /* ── LEG DIVIDER ── */
-  .leg-divider { background: var(--deep); color: #fff; padding: 1.25rem 2rem; display: flex; align-items: center; gap: 1rem; margin: 2.5rem -2rem; }
-  .leg-divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.15); }
-  .leg-divider-label { font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--aurora); font-weight: 500; white-space: nowrap; }
+  .leg-divider { background: var(--ocean); color: #fff; padding: 1.25rem 2rem; display: flex; align-items: center; gap: 1rem; margin: 2.5rem -2rem; }
+  .leg-divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.25); }
+  .leg-divider-label { font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: #fff; font-weight: 500; white-space: nowrap; }
 
   /* ── TODO ── */
   .todo-grid { display: grid; gap: 0.75rem; }
@@ -236,6 +236,39 @@
   .nav-link.active { color: var(--aurora); border-bottom-color: var(--aurora); }
   .nav-sep { color: rgba(255,255,255,0.15); font-size: 0.7rem; padding: 0 0.1rem; }
 
+  /* ── NAV DROPDOWN ── */
+  .nav-dropdown { position: relative; }
+  .nav-dropdown-menu {
+    position: absolute; top: calc(100% + 2px); left: 50%; transform: translateX(-50%);
+    background: rgba(13, 27, 38, 0.98); backdrop-filter: blur(16px);
+    border: 1px solid rgba(255,255,255,0.1); border-radius: 10px;
+    padding: 0.4rem 0; min-width: 200px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+    opacity: 0; pointer-events: none;
+    transform: translateX(-50%) translateY(-6px);
+    transition: opacity 0.18s ease, transform 0.18s ease;
+  }
+  .nav-dropdown:hover .nav-dropdown-menu,
+  .nav-dropdown:focus-within .nav-dropdown-menu {
+    opacity: 1; pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+  }
+  .nav-dropdown-menu a {
+    display: block; padding: 0.5rem 1.1rem;
+    font-size: 0.63rem; font-weight: 500; letter-spacing: 0.1em;
+    text-transform: uppercase; color: rgba(255,255,255,0.45);
+    text-decoration: none; white-space: nowrap;
+    transition: color 0.15s ease, background 0.15s ease;
+  }
+  .nav-dropdown-menu a:hover { color: var(--aurora); background: rgba(74,191,160,0.06); }
+  .nav-dropdown-menu .dropdown-sep {
+    height: 1px; background: rgba(255,255,255,0.07); margin: 0.3rem 0.75rem;
+  }
+  .nav-dropdown .nav-link::after {
+    content: '▾'; font-size: 0.55rem; margin-left: 0.2rem;
+    opacity: 0.5; vertical-align: middle;
+  }
+
   /* lang toggle — now inside nav */
   .lang-toggle {
     display: flex; align-items: center; gap: 0;
@@ -280,6 +313,14 @@
   }
   .nav-drawer .nav-link:hover,
   .nav-drawer .nav-link.active { border-left-color: var(--aurora); border-bottom-color: transparent; background: rgba(74,191,160,0.05); }
+  .nav-drawer .nav-sub {
+    padding: 0.5rem 1.5rem 0.5rem 2.5rem; border-bottom: none;
+    border-left: 3px solid transparent; font-size: 0.68rem;
+    color: rgba(255,255,255,0.4); text-decoration: none; display: block;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+  }
+  .nav-drawer .nav-sub:hover { color: var(--aurora); border-left-color: rgba(74,191,160,0.4); background: rgba(74,191,160,0.03); }
 
   @media (max-width: 680px) {
     .nav-links, .nav-sep { display: none; }
@@ -335,7 +376,18 @@
       <span class="nav-sep">·</span>
       <a class="nav-link" href="#highlights" data-en="⭐ Highlights" data-zh="⭐ 旅程亮点">⭐ Highlights</a>
       <span class="nav-sep">·</span>
-      <a class="nav-link" href="#itinerary" data-en="📅 Itinerary" data-zh="📅 行程">📅 Itinerary</a>
+      <div class="nav-dropdown">
+        <a class="nav-link" href="#itinerary" data-en="📅 Itinerary" data-zh="📅 行程">📅 Itinerary</a>
+        <div class="nav-dropdown-menu">
+          <a href="#leg-frankfurt-out" data-en="Frankfurt · Nov 11–12" data-zh="法兰克福 · 11月11-12日">Frankfurt · Nov 11–12</a>
+          <a href="#leg-reykjavik" data-en="Reykjavík · Nov 12–17" data-zh="雷克雅未克 · 11月12-17日">Reykjavík · Nov 12–17</a>
+          <a href="#leg-south-coast" data-en="South Coast · Nov 18–19" data-zh="南岸 · 11月18-19日">South Coast · Nov 18–19</a>
+          <a href="#leg-golden-circle" data-en="Golden Circle · Nov 20–21" data-zh="黄金圈 · 11月20-21日">Golden Circle · Nov 20–21</a>
+          <div class="dropdown-sep"></div>
+          <a href="#leg-departure" data-en="Departure · Nov 22" data-zh="离境 · 11月22日">Departure · Nov 22</a>
+          <a href="#leg-frankfurt-ret" data-en="Frankfurt Return · Nov 23" data-zh="法兰克福 · 11月23日">Frankfurt Return · Nov 23</a>
+        </div>
+      </div>
       <span class="nav-sep">·</span>
       <a class="nav-link" href="#book" data-en="📋 What to Book" data-zh="📋 待预订">📋 What to Book</a>
     </div>
@@ -354,6 +406,12 @@
     <a class="nav-link" href="#accommodation" onclick="closeMenu()" data-en="🏨 Accommodation" data-zh="🏨 住宿">🏨 Accommodation</a>
     <a class="nav-link" href="#highlights" onclick="closeMenu()" data-en="⭐ Highlights" data-zh="⭐ 旅程亮点">⭐ Highlights</a>
     <a class="nav-link" href="#itinerary" onclick="closeMenu()" data-en="📅 Itinerary" data-zh="📅 行程">📅 Itinerary</a>
+    <a class="nav-sub" href="#leg-frankfurt-out" onclick="closeMenu()" data-en="Frankfurt · Nov 11–12" data-zh="法兰克福 · 11月11-12日">Frankfurt · Nov 11–12</a>
+    <a class="nav-sub" href="#leg-reykjavik" onclick="closeMenu()" data-en="Reykjavík · Nov 12–17" data-zh="雷克雅未克 · 11月12-17日">Reykjavík · Nov 12–17</a>
+    <a class="nav-sub" href="#leg-south-coast" onclick="closeMenu()" data-en="South Coast · Nov 18–19" data-zh="南岸 · 11月18-19日">South Coast · Nov 18–19</a>
+    <a class="nav-sub" href="#leg-golden-circle" onclick="closeMenu()" data-en="Golden Circle · Nov 20–21" data-zh="黄金圈 · 11月20-21日">Golden Circle · Nov 20–21</a>
+    <a class="nav-sub" href="#leg-departure" onclick="closeMenu()" data-en="Departure · Nov 22" data-zh="离境 · 11月22日">Departure · Nov 22</a>
+    <a class="nav-sub" href="#leg-frankfurt-ret" onclick="closeMenu()" data-en="Frankfurt · Nov 23" data-zh="法兰克福 · 11月23日">Frankfurt · Nov 23</a>
     <a class="nav-link" href="#book" onclick="closeMenu()" data-en="📋 What to Book" data-zh="📋 待预订">📋 What to Book</a>
   </div>
 </nav>
@@ -624,11 +682,12 @@
 </div>
 
 <!-- ITINERARY -->
-<section class="section" id="itinerary" style="padding-top:0">
+<div style="background:var(--ice)">
+<section class="section" id="itinerary" style="background:transparent">
   <p class="section-eyebrow" data-en="The full plan" data-zh="完整行程">The full plan</p>
   <h2 class="section-title"><span data-en="Day-by-day itinerary" data-zh="逐日行程安排">Day-by-day <span style="color:var(--ocean);font-style:italic">itinerary</span></span></h2>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-frankfurt-out">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="Frankfurt · Outbound · Nov 11–12" data-zh="法兰克福 · 去程中转 · 11月11-12日">Frankfurt · Outbound · Nov 11–12</div>
     <div class="leg-divider-line"></div>
@@ -665,7 +724,7 @@
     </div>
   </div>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-reykjavik">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="Reykjavík Base · Nov 12–17 · Car parked" data-zh="雷克雅未克驻点 · 11月12-17日 · 车停酒店">Reykjavík Base · Nov 12–17 · Car parked</div>
     <div class="leg-divider-line"></div>
@@ -791,7 +850,7 @@
     </div>
   </div>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-south-coast">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="South Coast Excursion · Nov 18–19 · 2 nights out" data-zh="南岸之旅 · 11月18-19日 · 外出住两晚">South Coast Excursion · Nov 18–19 · 2 nights out</div>
     <div class="leg-divider-line"></div>
@@ -842,7 +901,7 @@
     </div>
   </div>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-golden-circle">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="Recovery + Golden Circle · Nov 20–21" data-zh="休整 + 黄金圈 · 11月20-21日">Recovery + Golden Circle · Nov 20–21</div>
     <div class="leg-divider-line"></div>
@@ -893,7 +952,7 @@
     </div>
   </div>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-departure">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="Departure · Nov 22 · Early morning" data-zh="离境 · 11月22日 · 清晨出发">Departure · Nov 22 · Early morning</div>
     <div class="leg-divider-line"></div>
@@ -915,7 +974,7 @@
     </div>
   </div>
 
-  <div class="leg-divider">
+  <div class="leg-divider" id="leg-frankfurt-ret">
     <div class="leg-divider-line"></div>
     <div class="leg-divider-label" data-en="Frankfurt · Return · Nov 23 · Christmas Market opens!" data-zh="法兰克福 · 返程 · 11月23日 · 圣诞市集开幕！">Frankfurt · Return · Nov 23 · Christmas Market opens!</div>
     <div class="leg-divider-line"></div>
@@ -937,6 +996,7 @@
     </div>
   </div>
 </section>
+</div>
 
 <!-- TODO -->
 <section class="section" id="book" style="background:#fff;max-width:100%;padding:5rem 2rem">
