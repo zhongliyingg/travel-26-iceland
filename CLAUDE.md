@@ -68,3 +68,5 @@ When adding new content, **always provide both `data-en` and `data-zh` attribute
 - Before editing any day section, read the current state of that section in the file first. Do not rely on memory of a previous read.
 - The `/content` markdown files are the source of truth for what content *should* be in `itinerary.html`. If uncertain whether a section is complete, cross-reference against the relevant `content/*.md` file before and after editing.
 - Past edits have accidentally removed: the Lava Show (Day 5), Perlan museum (Day 7), Hvammsvík option B (Day 6), and the 5-stop South Coast structure (Day 8). Be especially careful around these sections.
+- **Never edit files in `content/` unless explicitly asked to.** They are reference documents, not a drafting area.
+- When a `content/` file is edited, immediately apply the corresponding change to `itinerary.html`, citing which `content/` file and section was the source of the update.
