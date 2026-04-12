@@ -138,6 +138,7 @@
   .day-num-block .month { font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--stone); margin-bottom: 0.1rem; }
   .day-num-block .num { font-family: 'Cormorant Garamond', serif; font-size: 2.2rem; font-weight: 300; line-height: 1; }
   .day-num-block .weekday { font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--stone); margin-top: 0.1rem; }
+  .day-num-block .day-badge { font-size: 0.58rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--aurora); background: rgba(74,191,160,0.15); border-radius: 100px; padding: 0.15rem 0.45rem; margin-top: 0.4rem; white-space: nowrap; }
   .day-header-content { padding: 1.25rem 1.5rem; border-bottom: 1px solid var(--fog); display: flex; flex-direction: column; justify-content: center; }
   .day-location { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); margin-bottom: 0.3rem; }
   .day-title-text { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.4rem; font-weight: 600; color: var(--deep); line-height: 1.2; }
@@ -164,6 +165,41 @@
   .todo-content { padding: 0.9rem 1.1rem; }
   .todo-task { font-size: 0.88rem; font-weight: 500; color: var(--deep); margin-bottom: 0.25rem; }
   .todo-detail { font-size: 0.76rem; color: var(--muted); line-height: 1.55; }
+
+  /* ── 花少5 EPISODE REFERENCE ── */
+  .ep-ref {
+    margin-top: 0.9rem; padding: 0.85rem 1rem;
+    background: linear-gradient(135deg, #0e1f2b 0%, #162a38 100%);
+    border-left: 3px solid var(--aurora); border-radius: 0 10px 10px 0;
+    display: flex; gap: 0.75rem; align-items: flex-start;
+  }
+  .ep-ref-icon { font-size: 1rem; flex-shrink: 0; margin-top: 0.05rem; }
+  .ep-ref-label {
+    font-size: 0.6rem; font-weight: 500; letter-spacing: 0.15em;
+    text-transform: uppercase; color: var(--aurora); margin-bottom: 0.25rem;
+  }
+  .ep-ref-text { font-size: 0.78rem; color: #C8D8E4; line-height: 1.65; }
+  .ep-ref-text strong { color: #fff; font-weight: 500; }
+  body.zh-mode .ep-ref-text { font-family: 'Noto Serif SC', sans-serif; letter-spacing: 0.02em; font-size: 0.76rem; }
+
+  /* ── 花少 INTRO BANNER ── */
+  .huashao-banner {
+    background: linear-gradient(135deg, #0e2233 0%, #1a3346 100%);
+    border: 1px solid rgba(74,191,160,0.25); border-radius: 16px;
+    padding: 1.5rem 1.75rem; margin-bottom: 2rem;
+    display: flex; gap: 1.25rem; align-items: flex-start;
+  }
+  .huashao-banner-icon { font-size: 1.6rem; flex-shrink: 0; }
+  .huashao-banner-eyebrow {
+    font-size: 0.62rem; font-weight: 500; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--aurora); margin-bottom: 0.4rem;
+  }
+  .huashao-banner-title {
+    font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+    font-size: 1.2rem; color: #F0F7FA; font-weight: 400; margin-bottom: 0.5rem;
+  }
+  .huashao-banner-desc { font-size: 0.8rem; color: #C8D8E4; line-height: 1.7; }
+  body.zh-mode .huashao-banner-desc { font-family: 'Noto Serif SC', sans-serif; font-size: 0.78rem; letter-spacing: 0.02em; }
 
   /* ── FOOTER ── */
   .footer { background: var(--deep); color: rgba(255,255,255,0.4); text-align: center; padding: 2.5rem 2rem; font-size: 0.75rem; letter-spacing: 0.05em; line-height: 1.8; }
@@ -324,7 +360,7 @@
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">11</span><span class="weekday" data-en="Tue" data-zh="周二">Tue</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">11</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span><span class="day-badge" data-en="Day 1" data-zh="第1天">Day 1</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Frankfurt, Germany" data-zh="德国法兰克福">Frankfurt, Germany</div>
         <div class="day-title-text" data-en="Arrive Frankfurt — airport hotel evening" data-zh="抵达法兰克福 — 机场酒店住一晚">Arrive Frankfurt — airport hotel evening</div>
@@ -339,7 +375,7 @@
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">12</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">12</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span><span class="day-badge" data-en="Day 2" data-zh="第2天">Day 2</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Frankfurt → Keflavík → Reykjavík" data-zh="法兰克福 → 凯夫拉维克 → 雷克雅未克">Frankfurt → Keflavík → Reykjavík</div>
         <div class="day-title-text" data-en="Relaxed morning → fly to Iceland" data-zh="悠闲早晨 → 飞往冰岛">Relaxed morning → fly to Iceland</div>
@@ -359,9 +395,19 @@
     <div class="leg-divider-line"></div>
   </div>
 
+  <!-- 花少5 Iceland intro banner -->
+  <div class="huashao-banner">
+    <div class="huashao-banner-icon">🎬</div>
+    <div>
+      <div class="huashao-banner-eyebrow">花儿与少年5 · 丝路季 · Iceland Reference</div>
+      <div class="huashao-banner-title" data-en="Episodes 10–14 · Reykjavík & Höfn · 7-Day Graduation Trip" data-zh="第10–14集 · 雷克雅未克与霍芬 · 七天毕业之旅">Episodes 10–14 · Reykjavík & Höfn · 7-Day Graduation Trip</div>
+      <div class="huashao-banner-desc" data-en="The cast of Divas Hit the Road 5 (秦海璐, 秦岚, 辛芷蕾, 迪丽热巴, 赵昭仪, 王安宇, 胡先煦) spent 7 days in Iceland as their graduation trip finale. Each member took turns as daily guide — planning all transport, activities and accommodation. Their route closely matches your family plan, and each day below carries a 📺 note showing what the show did there." data-zh="《花儿与少年·丝路季》的七位嘉宾——秦海璐、秦岚、辛芷蕾、迪丽热巴、赵昭仪、王安宇、胡先煦——在冰岛度过了为期七天的毕业旅行压轴篇。成员轮流担任一日导游，自行规划交通、活动与住宿。他们的行程与您的家庭计划高度重合，每天的 📺 标注都记录了节目在这里经历的精彩故事。">The cast of Divas Hit the Road 5 (秦海璐, 秦岚, 辛芷蕾, 迪丽热巴, 赵昭仪, 王安宇, 胡先煦) spent 7 days in Iceland as their graduation trip finale. Each member took turns as daily guide — planning all transport, activities and accommodation. Their route closely matches your family plan, and each day below carries a 📺 note showing what the show did there.</div>
+    </div>
+  </div>
+
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">13</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">13</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span><span class="day-badge" data-en="Day 3" data-zh="第3天">Day 3</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
         <div class="day-title-text" data-en="First full day — orientation" data-zh="第一个完整游览日 — 熟悉城市">First full day — orientation</div>
@@ -371,12 +417,19 @@
     <div class="day-body">
       <p class="day-desc" data-en="Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. City centre is compact and walkable — no driving needed. Dinner at Reykjavík Kitchen (book in advance) — try the lamb shank and Arctic char." data-zh="参观哈尔格林姆斯教堂、哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。">Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.</p>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival" data-zh="花少5 · 第10集 · 一日导游：迪丽热巴 · 抵达雷克雅未克">花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival</div>
+          <div class="ep-ref-text" data-en="The cast settled into the Edition Hotel — Reykjavík's only international luxury hotel, on the harbour with views of Esja mountain. Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering." data-zh="嘉宾们入住雷克雅未克唯一一家国际奢华连锁酒店——艾迪逊酒店，坐落于港口旁，可远眺埃斯亚山。第一个傍晚，他们步行探索洛加维格大街及哈尔格林姆斯教堂附近的彩色街道——正是您即将漫游的同一片街区。">The cast settled into the Edition Hotel — Reykjavík's only international luxury hotel, on the harbour with views of Esja mountain. Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">14</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">14</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span><span class="day-badge" data-en="Day 4" data-zh="第4天">Day 4</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
         <div class="day-title-text" data-en="Aurora museum + Northern Lights tour" data-zh="极光博物馆 + 极光夜游">Aurora museum + Northern Lights tour</div>
@@ -386,51 +439,92 @@
     <div class="day-body">
       <p class="day-desc" data-en="Morning: Aurora Reykjavík museum — seated, accessible, fascinating intro to the science of auroras. Evening: organised Northern Lights bus tour (hot chocolate included, free re-try on cloudy nights). Leave the car at the hotel." data-zh="上午：参观极光博物馆——有座位、无障碍设施，生动介绍极光的科学原理。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。">Morning: Aurora Reykjavík museum — seated, accessible. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.</p>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Aurora" data-zh="极光">Aurora</span><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span></div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 12–13 · Aurora chase — the most moving moment of the trip" data-zh="花少5 · 第12–13集 · 追极光——旅途中最令人感动的时刻">花少5 · Ep 12–13 · Aurora chase — the most moving moment of the trip</div>
+          <div class="ep-ref-text" data-en="On one of the Reykjavík evenings the cast went spontaneously to a hilltop with unobstructed skies to wait for the northern lights. 王安宇 later called it the most moving moment of the entire trip: &quot;Although we didn't see a very obvious aurora, waiting together in the dark on the hilltop — playing, quietly watching — that time was very moving.&quot; Director 李超 said: &quot;After 迪丽热巴 was relieved of her guiding duties, they went aurora chasing and played like children — that relaxed ease was the meaning of travel.&quot; One viewer noticed 秦海璐 was alone photographing the aurora, until a group member walked over and pulled her into the group photo. The production team's live aurora stream from Iceland also drew over 3.3 million viewers. Your Nov 14 evening tour is exactly this experience — the outcome matters less than the shared waiting." data-zh="在雷克雅未克的某个夜晚，嘉宾们自发前往山顶追极光，视野开阔，无遮无挡。王安宇事后说这是整个旅途最令他感动的时刻："虽然最后没有看到非常明显的极光，但是在等待极光的时间里，我们在山顶上，一起玩，一起默默地等待极光出现，那段时间是很令人感动的。"导演李超说："迪丽热巴卸下导游重任之后，他们一起去追极光都玩得像个孩子，这种松弛感是肉眼可见的，这就是旅行的意义。"有观众注意到秦海璐独自拍极光，一个成员走来把她揽进大家的合影里。节目组的极光直播也吸引了超过330万人次观看。您11月14日的极光大巴游与他们那夜如出一辙——结果如何并不重要，重要的是一起等待的那段时光。">On one of the Reykjavík evenings the cast went spontaneously to a hilltop with unobstructed skies to wait for the northern lights. 王安宇 later called it the most moving moment of the entire trip: "Although we didn't see a very obvious aurora, waiting together in the dark on the hilltop — playing, quietly watching — that time was very moving." Director 李超 said: "After 迪丽热巴 was relieved of her guiding duties, they went aurora chasing and played like children — that relaxed ease was the meaning of travel." One viewer noticed 秦海璐 was alone photographing the aurora, until a group member pulled her into the group photo. The production team's live aurora stream drew over 3.3 million viewers. Your Nov 14 evening tour is exactly this experience — the outcome matters less than the shared waiting.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">15</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">15</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span><span class="day-badge" data-en="Day 5" data-zh="第5天">Day 5</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
-        <div class="day-title-text" data-en="National Museum & Settlement Exhibition" data-zh="国家博物馆与定居展览馆">National Museum & Settlement Exhibition</div>
+        <div class="day-title-text" data-en="National Museum, Settlement Exhibition & Lava Show" data-zh="国家博物馆、定居展览馆与熔岩秀">National Museum, Settlement Exhibition & Lava Show</div>
         <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked" data-zh="车停酒店">Car parked</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood." data-zh="参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理，环境温馨质朴。">Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið.</p>
-      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
+      <p class="day-desc" data-en="Morning: Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood. Afternoon: Lava Show at Grandi Harbour District — the world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. About 50–75 min. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here." data-zh="上午：参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理，环境温馨质朴。下午：前往格兰迪港湾区体验熔岩秀——全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。约50-75分钟。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。">Morning: Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið. Afternoon: Lava Show at Grandi Harbour — the world's only live lava experience. Real molten rock superheated to 1,100°C poured into the showroom — you see it flow, feel the heat and hear it cool. 50–75 min. Classic ticket or upgrade to Premium for balcony seats, a drink, backstage furnace tour and a lava souvenir. This is exactly what 王安宇 arranged for the 花少5 cast on their Reykjavík city day.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Lava Show" data-zh="熔岩秀">Lava Show</span></div>
+      <div class="notice" data-en="🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening completely free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight." data-zh="🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间完全自由。若11月14日未能看到极光，今天联系运营商预约免费补看名额。">🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening completely free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight.</div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium" data-zh="花少5 · 第11集 · 一日导游：王安宇 · 城市漫步、乌纳中国博物馆、熔岩秀与天文馆">花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium</div>
+          <div class="ep-ref-text" data-en="王安宇 planned a full Reykjavík day. They walked Laugavegur and the Rainbow Road footbridge, shared waffles on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing, thangka scrolls and carved wooden beds. The cast brought Chinese gifts and left a collective note: '40 years of Chinese bond — in 1983 you came to China, in 2023 we came to your home.' Wang also arranged a lava show (real molten rock heated to 1,100°C) and a planetarium aurora show that moved Hu Xianxu to tears. The day ended at a bookshop bar where Zhao Zhaoyi was pulled onto the dancefloor and the whole group sang with the live band." data-zh="王安宇精心策划了丰富的雷克雅未克城市体验日。他们走过洛加维格大街和彩虹步道，在秋千上分享华夫饼。文化重头戏是乌纳中国博物馆——一位冰岛奶奶在七十年代结缘太极拳，1983年第一次踏上中国土地，收藏了瓷器、唐装、唐卡与木雕床。嘉宾带去中国礼物，留下集体寄语："四十年中国情的牵绊，1983年你来到中国，2023年我们来到了您家。"王安宇还安排了熔岩秀（真实熔浆加热至1100度）和天文馆极光秀——胡先煦看得热泪盈眶。当天最后在书屋酒吧，赵昭仪被当地人拉上舞池，全组跟着乐队高唱，欢声笑语中圆满收尾。">王安宇 planned a full Reykjavík day. They walked Laugavegur and the Rainbow Road footbridge, shared waffles on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. The cast brought Chinese gifts and left a collective note: '40 years of Chinese bond — in 1983 you came to China, in 2023 we came to your home.' Wang also arranged a lava show (real molten rock at 1,100°C) and a planetarium aurora show that moved Hu Xianxu to tears. The day ended at a bookshop bar where the whole group sang with a live band.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">16</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">16</span><span class="weekday" data-en="Mon" data-zh="周一">Mon</span><span class="day-badge" data-en="Day 6" data-zh="第6天">Day 6</span></div>
       <div class="day-header-content">
-        <div class="day-location" data-en="Blue Lagoon, Grindavík" data-zh="蓝湖，格林达维克">Blue Lagoon, Grindavík</div>
-        <div class="day-title-text" data-en="Blue Lagoon geothermal spa" data-zh="蓝湖地热温泉">Blue Lagoon geothermal spa</div>
-        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Self-drive ~50 min each way" data-zh="自驾约50分钟（单程）">Self-drive ~50 min each way</span></div>
+        <div class="day-location" data-en="Geothermal spa day — TBD" data-zh="地热温泉日 — 待定">Geothermal spa day — TBD</div>
+        <div class="day-title-text" data-en="Blue Lagoon or Hvammsvík — deciding later" data-zh="蓝湖温泉或赫瓦姆斯维克 — 稍后决定">Blue Lagoon or Hvammsvík — deciding later</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Self-drive ~45–50 min each way" data-zh="自驾约45-50分钟（单程）">Self-drive ~45–50 min each way</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Drive ~50 min via Route 43. Pre-book Comfort or Signature package on bluelagoon.com — includes robe, silica mask, and a drink. Water is 38°C, gentle on the body — perfect for all ages. Drive back to Reykjavík after." data-zh="沿43号公路自驾约50分钟。在bluelagoon.com提前预订舒适或高级套餐——含浴袍、白硅泥面膜及一杯饮料。水温38°C，温和养身——适合全家各年龄段。游览后驾车返回雷克雅未克。">Drive ~50 min via Route 43. Pre-book Comfort or Signature package. 38°C geothermal water, silica masks. Perfect for all ages. Drive back after.</p>
-      <div class="day-tags"><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span></div>
+      <p class="day-desc" data-en="Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group." data-zh="两个绝佳选择，均距雷克雅未克约45-50分钟自驾。与家人商量后再做决定。">Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group.</p>
+      <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Option A" data-zh="选项A">Option A</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Blue Lagoon" data-zh="蓝湖温泉">Blue Lagoon</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Grindavík · south · Route 43 · bluelagoon.com" data-zh="格林达维克 · 南部 · 43号公路 · bluelagoon.com">Grindavík · south · Route 43 · bluelagoon.com</span><br><span data-en="The world-famous milky-blue geothermal spa set against lava fields. Consistent 38°C throughout, flat paved paths, railings at pool entry — the most accessible geothermal experience in Iceland. Comfort or Signature package includes robe, silica mud mask and a drink. Sells out weeks ahead. Best for: the whole group together, iconic experience, maximum comfort for parents." data-zh="举世闻名的乳白色蓝湖地热温泉，坐落于熔岩地带。全程水温38°C，平坦铺装路面，泳池入口设有扶手——冰岛无障碍设施最完善的地热体验。舒适或高级套餐含浴袍、白硅泥面膜及一杯饮料。提前数周即售罄。最适合：全组同行、标志性体验、父母最舒适。">The world-famous milky-blue geothermal spa set against lava fields. Consistent 38°C throughout, flat paved paths, railings at pool entry — the most accessible geothermal experience in Iceland. Comfort or Signature package includes robe, silica mud mask and a drink. Sells out weeks ahead. Best for: the whole group together, iconic experience, maximum comfort for parents.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Option B" data-zh="选项B">Option B</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Hvammsvík Hot Springs" data-zh="赫瓦姆斯维克温泉">Hvammsvík Hot Springs</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Whale Fjord · north · Route 47 · hvammsvik.com" data-zh="鲸鱼湾 · 北部 · 47号公路 · hvammsvik.com">Whale Fjord · north · Route 47 · hvammsvik.com</span><br><span data-en="Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykjavík. Pools range from 5°C ocean cold plunge to 42°C soak; at high tide the lowest pools merge with the sea. Upper Lounge Pool (38°C) has a swim-up bar and is more accessible. Raw fjord views, seals in the water, a bistro with seafood soup. The 花少5 cast soaked here in Ep 12. Best for: a wilder, quieter, more natural experience — parents comfortable in the upper pools while others explore the tidal pools." data-zh="八个天然温泉池嵌入北大西洋海岸，距雷克雅未克以北45分钟。水温从5°C冰海冷浸到42°C热泡不等；涨潮时最低处泳池与大海相连。上层休息池（38°C）设有泳池吧台，无障碍条件较好。峡湾壮阔美景，水中时有海豹出没，小酒馆供应海鲜汤。《花少5》第12集嘉宾们正是在此泡温泉。最适合：追求更野性、更宁静、更自然体验的人——父母在上层泳池舒适享受，其余人探索潮汐池。">Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykjavík. Pools range from 5°C ocean cold plunge to 42°C soak; at high tide the lowest pools merge with the sea. Upper Lounge Pool (38°C) has a swim-up bar and is more accessible. Raw fjord views, seals in the water, a bistro with seafood soup. The 花少5 cast soaked here in Ep 12. Best for: a wilder, quieter, more natural experience — parents comfortable in the upper pools while others explore the tidal pools.</span></div>
+        </div>
+      </div>
+      <div class="day-tags"><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span><span class="day-tag" data-en="TBD" data-zh="待定">TBD</span></div>
+      <div class="notice" data-en="⚑ Decision needed: Blue Lagoon must be pre-booked at bluelagoon.com and sells out weeks ahead — book as soon as you decide. Hvammsvík also requires advance booking at hvammsvik.com. Both are ~45–50 min self-drive from Reykjavík." data-zh="⚑ 需要决定：蓝湖须在bluelagoon.com提前预订，数周前即售罄——确定后请尽快预订。赫瓦姆斯维克也需在hvammsvik.com提前预约。两处距雷克雅未克自驾均约45-50分钟。">⚑ Decision needed: Blue Lagoon must be pre-booked at bluelagoon.com and sells out weeks ahead — book as soon as you decide. Hvammsvík also requires advance booking at hvammsvik.com. Both are ~45–50 min self-drive from Reykjavík.</div>
+      <div class="notice" data-en="🌌 Aurora retry window: Back in Reykjavík by ~5pm either way. If the lights haven't appeared yet, this is a natural second retry evening — contact your operator to secure a free spot on tonight's tour." data-zh="🌌 极光补看机会：无论选哪个，约17时返回雷克雅未克。若仍未看到极光，今晚是绝佳的第二次补看机会——联系运营商预约今晚的免费名额。">🌌 Aurora retry window: Back in Reykjavík by ~5pm either way. If the lights haven't appeared yet, this is a natural second retry evening — contact your operator to secure a free spot on tonight's tour.</div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 12 · Guide: 秦岚 · Hvammsvík hot springs + aurora chase + 迪丽热巴's lost pink bag" data-zh="花少5 · 第12集 · 一日导游：秦岚 · 赫瓦姆斯维克温泉 + 追极光 + 迪丽热巴丢失粉色小包">花少5 · Ep 12 · Guide: 秦岚 · Hvammsvík hot springs + aurora chase + 迪丽热巴's lost pink bag</div>
+          <div class="ep-ref-text" data-en="In Ep 12, 秦岚 guided the group to Hvammsvík Hot Springs — the natural fjord-side pools in Whale Fjord — rather than the Blue Lagoon. The cast soaked in the geothermal pools overlooking the North Atlantic, which set the scene for the evening's aurora chase on a hilltop nearby. The episode is also remembered for 迪丽热巴's little pink bag going missing during the soak, causing considerable worry among the group — before it was eventually found safe in a bag. Viewers noted how naturally the others rallied around her without making a big scene of it, reflecting how close the group had become by this point in the trip." data-zh="第12集中，秦岚带领大家前往赫瓦姆斯维克温泉——位于鲸鱼湾的天然峡湾温泉池，而非选择蓝湖。嘉宾们在可俯瞰北大西洋的地热温泉中放松泡浴，为当晚在附近山顶追极光营造了绝佳氛围。这一集还因迪丽热巴的粉色小包在泡温泉时不见踪影而令人难忘——引发大家一阵紧张，所幸最终在行李袋中找到。观众们注意到，其他成员自然而然地关心安慰她，却没有过分渲染，正是这种细节折射出旅途至此这个小团体已经有多默契、多亲近。">In Ep 12, 秦岚 guided the group to Hvammsvík Hot Springs — the natural fjord-side pools in Whale Fjord — rather than the Blue Lagoon. The cast soaked in the geothermal pools overlooking the North Atlantic, which set the scene for the evening aurora chase. The episode is also remembered for 迪丽热巴's little pink bag going missing during the soak, causing considerable worry — before it was eventually found safe in a bag. Viewers noted how naturally the others rallied around her without making a scene, reflecting how close the group had become by this point in the trip.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">17</span><span class="weekday" data-en="Mon" data-zh="周一">Mon</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">17</span><span class="weekday" data-en="Tue" data-zh="周二">Tue</span><span class="day-badge" data-en="Day 7" data-zh="第7天">Day 7</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
-        <div class="day-title-text" data-en="Rest day — city wander & local pools" data-zh="休闲日 — 逛街漫步与本地温泉">Rest day — city wander & local pools</div>
+        <div class="day-title-text" data-en="City wander, Perlan museum & local pools" data-zh="城市漫步、珍珠楼博物馆与本地温泉">City wander, Perlan museum & local pools</div>
         <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked" data-zh="车停酒店">Car parked</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local geothermal pool — fewer tourists, authentic local atmosphere. Evening: Grillmarkaðurinn for a splurge-worthy dinner." data-zh="漫步劳格韦格尔购物街、参观雷克雅未克艺术博物馆、欣赏特约尔宁湖。可选：游览本地Laugardalslaug温泉——游客少，原汁原味的本地氛围。晚餐前往Grillmarkaðurinn享用值得一试的豪华冰岛料理。">Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local pool. Evening: Grillmarkaðurinn splurge dinner.</p>
-      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
+      <p class="day-desc" data-en="Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — gentle wander, no agenda. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. Ideal if the weather is grey: a guaranteed, breathtaking indoor aurora experience. The 360° observation deck gives panoramic views over the entire city. Allow 2–3 hours. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance)." data-zh="上午：漫步劳格韦格尔购物街、特约尔宁湖和雷克雅未克艺术博物馆——悠然自在，无需计划。下午：珍珠楼——坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。天气阴霾时尤为推荐：室内即可感受震撼人心的极光体验。360度观景台可俯瞰整座城市全景。建议预留2-3小时。晚餐前往Grillmarkaðurinn享用值得一试的豪华料理（需提前订位）。">Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — gentle wander. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. 100m indoor ice cave, Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show in 8K. Perfect on a grey November day: a guaranteed, breathtaking indoor aurora. 360° observation deck over the whole city. Allow 2–3 hours. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance).</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Perlan" data-zh="珍珠楼">Perlan</span><span class="day-tag" data-en="Aurora" data-zh="极光">Aurora</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears" data-zh="花少5 · 第11集 · 一日导游：王安宇 · 珍珠楼天文馆极光秀——胡先煦看哭了">花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears</div>
+          <div class="ep-ref-text" data-en="王安宇 included Perlan's planetarium aurora show as part of his Reykjavík city day — arranged specifically because the group couldn't get close to a real volcano or guaranteed aurora outdoors. The Áróra show — which introduces the science, legends and visual spectacle of the northern lights — moved Hu Xianxu (a space and science enthusiast since childhood) to tears. It was one of the quiet emotional highlights of the cast's time in Reykjavík, alongside the lava show he arranged on the same day. Perlan also has an indoor ice cave, a volcano exhibit and panoramic city views from its observation deck — the same glass dome that defines Reykjavík's skyline." data-zh="王安宇在他的雷克雅未克城市日行程中特别安排了珍珠楼天文馆极光秀——正是因为嘉宾们无法近距离接触真实火山，也无法保证在室外看到极光。极光秀《Áróra》涵盖极光的科学原理、传说故事与震撼视觉，令从小痴迷宇宙与科学的胡先煦看得热泪盈眶。这是嘉宾们在雷克雅未克期间不动声色却情感充沛的高光时刻之一。珍珠楼内还设有室内冰洞、火山展览，以及可俯瞰整座城市的360度观景台——正是定义雷克雅未克天际线的那座标志性玻璃穹顶建筑。">王安宇 included Perlan's planetarium aurora show as part of his Reykjavík city day — arranged specifically because the group couldn't get close to a real volcano or guaranteed aurora outdoors. The Áróra show moved Hu Xianxu (a lifelong space enthusiast) to tears. It was one of the quiet emotional highlights of the cast's time in Reykjavík. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck — the same glass dome that defines Reykjavík's skyline.</div>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -442,23 +536,53 @@
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">18</span><span class="weekday" data-en="Tue" data-zh="周二">Tue</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">18</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span><span class="day-badge" data-en="Day 8" data-zh="第8天">Day 8</span></div>
       <div class="day-header-content">
-        <div class="day-location" data-en="South Coast — Seljalandsfoss · Skógafoss · Vík" data-zh="南岸 — 塞里雅兰 · 斯科加 · 维克">South Coast — Seljalandsfoss · Skógafoss · Vík</div>
-        <div class="day-title-text" data-en="Waterfalls & black sand beach" data-zh="瀑布与黑沙滩">Waterfalls & black sand beach</div>
+        <div class="day-location" data-en="South Coast — Seljalandsfoss · Skógafoss · Vík · Reynisfjara · Dyrhólaey" data-zh="南岸 — 塞里雅兰 · 斯科加 · 维克 · 雷尼斯 · 迪霍拉里">South Coast — Seljalandsfoss · Skógafoss · Vík · Reynisfjara · Dyrhólaey</div>
+        <div class="day-title-text" data-en="Five stops on the South Coast" data-zh="南岸五景一日游">Five stops on the South Coast</div>
         <div class="day-hotel">🏨 <span data-en="Hotel near Vík" data-zh="维克附近酒店">Hotel near Vík</span> · 🚗 <span data-en="~190 km · ~2h 30min driving" data-zh="约190公里 · 约2.5小时车程">~190 km · ~2h 30min driving</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Reykjavík → Seljalandsfoss (1h 45min) — walk around the falls, not behind in November as the path ices over. Skógafoss (30 min further) — wide accessible platform. Reynisfjara black sand beach — stay well back from the waves. Overnight near Vík." data-zh="雷克雅未克 → 塞里雅兰瀑布（1小时45分钟）——11月路面结冰，绕行瀑布而非穿越瀑布后方。斯科加瀑布（再行30分钟）——宽阔无障碍观景台。雷尼斯菲亚拉黑沙滩——切勿靠近海浪。在维克附近住一晚。">Seljalandsfoss (walk around, not behind in Nov). Skógafoss wide accessible platform. Reynisfjara black beach — stay back from waves. Overnight near Vík.</p>
-      <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span></div>
-      <div class="notice" data-en="Check road.is before leaving Reykjavík. Fill up with fuel in the city — stations are sparse on the South Coast. Sunrise ~10:00, sunset ~16:00." data-zh="出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:00，合理安排停留时间。">Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:00.</div>
+      <p class="day-desc" data-en="Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30." data-zh="完全复刻《花少5》南海岸路线，按顺序打卡五个景点。08:30前离开雷克雅未克。">Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30.</p>
+      <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 1" data-zh="第1站">Stop 1</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Seljalandsfoss" data-zh="塞里雅兰瀑布">Seljalandsfoss</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~1h 45min from Reykjavík" data-zh="距雷克雅未克约1小时45分钟">~1h 45min from Reykjavík</span><br><span data-en="Walk the full circuit around the falls. Do NOT go behind — the path ices over in November." data-zh="绕瀑布一圈。11月切勿尝试瀑布背后小径——地面结冰。">Walk the full circuit around the falls. Do NOT go behind — the path ices over in November.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 2" data-zh="第2站">Stop 2</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Skógafoss" data-zh="斯科加瀑布">Skógafoss</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~30 min further" data-zh="再行约30分钟">~30 min further</span><br><span data-en="Wide accessible viewing platform for the full curtain of water. In rain — as the cast found — 5 minutes, sprint, 冲啊, back to the car. It works." data-zh="宽阔无障碍观景台，正面欣赏如幕布般倾泻的瀑布。下雨时正如花少团所做——5分钟，冲过去，冲啊，回车上，行之有效。">Wide accessible viewing platform for the full curtain of water. In rain — as the cast found — 5 minutes, sprint, 冲啊, back to the car. It works.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 3" data-zh="第3站">Stop 3</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Vík century restaurant" data-zh="维克百年餐厅">Vík century restaurant</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Lunch" data-zh="午餐">Lunch</span><br><span data-en="Where the cast ate — a beloved local institution in the village and a well-earned warm stop mid-route." data-zh="花少团午餐之处——当地深受喜爱的老字号，路途中段温暖的补给站，吃饱再出发。">Where the cast ate — a beloved local institution in the village and a well-earned warm stop mid-route.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 4" data-zh="第4站">Stop 4</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Reynisfjara black sand beach" data-zh="雷尼斯菲亚拉黑沙滩">Reynisfjara black sand beach</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Vík" data-zh="距维克约10分钟">~10 min from Vík</span><br><span data-en="Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous." data-zh="壮观玄武岩石柱、黑沙滩、狂野大西洋。任何时候都必须与海浪保持充分距离——此处的恶作剧浪涛确实危及生命。">Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 5" data-zh="第5站">Stop 5</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Dyrhólaey Lighthouse" data-zh="迪霍拉里灯塔">Dyrhólaey Lighthouse</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Reynisfjara · weather-dependent" data-zh="距雷尼斯约10分钟 · 视天气而定">~10 min from Reynisfjara · weather-dependent</span><br><span data-en="120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call." data-zh="120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观。风力猛烈时——正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。">120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call.</span></div>
+        </div>
+      </div>
+      <p class="day-desc" style="margin-top:0.25rem" data-en="Overnight near Vík." data-zh="在维克附近住一晚。">Overnight near Vík.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="5 stops" data-zh="五景打卡">5 stops</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span></div>
+      <div class="notice" data-en="Check road.is before leaving Reykjavík. Fill up with fuel in the city — stations are sparse on the South Coast. Sunrise ~10:00, sunset ~16:00 — plan each stop to make the most of limited daylight." data-zh="出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:00——合理安排每个景点的时间，充分利用有限日照。">Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:00 — plan each stop around limited daylight.</div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales" data-zh="花少5 · 第13集上 · 一日导游：秦海璐 · 全部五景——雨伞报废、特种兵冲刺、百年餐厅午餐、黑沙滩、灯塔大风">花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales</div>
+          <div class="ep-ref-text" data-en="秦海璐 guided the cast through exactly these five stops en route to their guesthouse. At Seljalandsfoss (Stop 1), she pre-bought rain gear for everyone — but the umbrellas broke the moment they opened. Hu Xianxu walked under the falls anyway and emerged completely soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), it started raining as they arrived. 秦海璐 called it immediately: '5 minutes, speed-run, let's go!' Everyone sprinted back to the car shouting '冲啊!' — and the group's spirit lifted instantly. She reflected: 'A whole gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant, where 赵昭仪 finished her meal with a drink in each hand, alternating sips — 'not wasting a drop.' At Reynisfjara black sand beach (Stop 4), the cast experienced the raw drama of the basalt columns and the Atlantic surf. At Dyrhólaey Lighthouse (Stop 5), the winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely chose to skip the exposed tundra viewpoint entirely and drove directly to the guesthouse — a good call that your group should feel free to make too if conditions are bad. 辛芷蕾 — the next day's guide — stayed up until 3am planning meals and the route for the following day." data-zh="秦海璐带领花少团按顺序完成了这五个景点，沿途前往民宿。第1站塞里雅兰瀑布，她提前为大家准备了雨具——结果雨伞一打开就报废了。胡先煦硬是走到瀑布下，全身湿透，成了大家口中行走的景点劝退标识。第2站斯科加瀑布，抵达时开始下雨，秦海璐当机立断："5分钟，冲！"大家齐喊"冲啊"跑回车上，瞬间士气大振。她事后感慨："阴郁了一个早上，一句冲啊大家都还魂了。"第3站是维克百年餐厅午餐，赵昭仪临走前左右手各一杯饮料轮流喝，"主打不浪费"。第4站雷尼斯菲亚拉黑沙滩，花少团亲身感受了玄武岩石柱和大西洋浪涛的壮观。第5站迪霍拉里灯塔，风力之猛烈几乎令人寸步难行。秦海璐果断决定放弃开阔苔原的景点，直接驱车返回民宿——这是明智之举，您的团队若遇恶劣天气也完全可以如此处理。第二天担任导游的辛芷蕾，为准备第二天的餐食和行程，一直熬到凌晨三点。">秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Reynisfjara (Stop 4), the cast felt the raw drama of the basalt columns and Atlantic surf. At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad. 辛芷蕾 — next day's guide — stayed up until 3am planning.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">19</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">19</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span><span class="day-badge" data-en="Day 9" data-zh="第9天">Day 9</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Jökulsárlón · Diamond Beach → Reykjavík" data-zh="冰川湖 · 钻石海滩 → 雷克雅未克">Jökulsárlón · Diamond Beach → Reykjavík</div>
         <div class="day-title-text" data-en="Glacier lagoon & Diamond Beach" data-zh="冰川湖与钻石海滩">Glacier lagoon & Diamond Beach</div>
@@ -468,33 +592,70 @@
     <div class="day-body">
       <p class="day-desc" data-en="Vík → Jökulsárlón (~2h 30min). Enormous icebergs drifting silently across the lagoon. Diamond Beach directly across the road — ice glittering on black sand. Return to Reykjavík (~4h). Leave Vík by 08:30 to maximise daylight." data-zh="维克 → 杰古沙龙冰川湖（约2.5小时）。巨大冰山静静漂浮在湖面上。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返回雷克雅未克（约4小时）。08:30前离开维克，充分利用白昼时间。">Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach across the road. Return to Reykjavík (~4h). Leave Vík by 08:30.</p>
       <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="~6h driving" data-zh="约6小时驾驶">~6h driving</span></div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching + dolphins + sea fishing + hákarl challenge + Jökulsárlón" data-zh="花少5 · 第13集下 · 一日导游：辛芷蕾 · 观鲸出海 + 邂逅海豚 + 海钓 + 臭食挑战 + 杰古沙龙冰川湖">花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching, dolphins, sea fishing, hákarl + Jökulsárlón</div>
+          <div class="ep-ref-text" data-en="辛芷蕾 took over (after staying up until 3am planning). The day began on the water — whale watching and sea fishing out of a harbour near Höfn. Dilraba, Wang Anyu and Hu Xianxu reeled in fish; the others joined the crew for an impromptu seafood tasting. The expected whales never appeared — but a pod of dolphins arrived instead. Zhao Zhaoyi shouted: 'Dolphin big brother, let's be best friends!' Back on land, the group took on a Viking restaurant's stinky food challenge — hákarl (fermented shark). Dilraba ate it without flinching; Zhao Zhaoyi nearly gagged but insisted she liked it. Hu Xianxu secretly produced hand-printed photo cards as a surprise gift for each member. Then they drove to Jökulsárlón glacier lagoon and Diamond Beach — icebergs drifting in total silence, wild seals resting on floating ice." data-zh="辛芷蕾接棒担任导游（前一晚为准备行程熬到凌晨三点）。这天从出海开始——在霍芬附近的港口体验观鲸和海钓。迪丽热巴、王安宇和胡先煦相继钓上鱼，其余成员则与船员展开了一场即兴海鲜品鉴会。期待已久的鲸鱼始终未现身——却意外迎来了一群海豚，赵昭仪大喊："海豚大哥，咱俩交个铁子呗！"回到陆地后，大家前往一家维京风格餐厅参加臭食挑战——发酵鲨鱼肉（hákarl）。迪丽热巴面不改色吃下，赵昭仪臭到差点吐出来，嘴上却还坚持说喜欢。胡先煦悄悄掏出提前打印好的手写纪念照片，送给每位成员。随后一行人驱车前往杰古沙龙冰川湖和钻石海滩——巨大冰山在寂静湖面上静静漂流，野生海豹懒洋洋地躺在浮冰上休憩。">辛芷蕾 took over (after staying up until 3am planning). The day started with whale watching and sea fishing near Höfn. Dilraba, Wang Anyu and Hu Xianxu reeled in fish; the others joined a crew seafood tasting. Whales never appeared — but dolphins did. Zhao Zhaoyi shouted: 'Dolphin big brother, let's be best friends!' Then a Viking restaurant's hákarl (fermented shark) challenge: Dilraba ate it unflinching; Zhao Zhaoyi nearly gagged but insisted she liked it. Hu Xianxu produced a secret hand-printed photo card gift for each member. Then onward to Jökulsárlón — icebergs in total silence, seals on floating ice.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label" data-en="Recovery + Golden Circle · Nov 20–21" data-zh="休整 + 黄金圈 · 11月20-21日">Recovery + Golden Circle · Nov 20–21</div>
+    <div class="leg-divider-label" data-en="Last Day in Reykjavík + Golden Circle · Nov 20–21" data-zh="雷克雅未克最后一天 + 黄金圈 · 11月20-21日">Last Day in Reykjavík + Golden Circle · Nov 20–21</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">20</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">20</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span><span class="day-badge" data-en="Day 10" data-zh="第10天">Day 10</span></div>
       <div class="day-header-content">
-        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
-        <div class="day-title-text" data-en="Recovery — Laugardalslaug local pool" data-zh="休整日 — 本地温泉池">Recovery — Laugardalslaug local pool</div>
+        <div class="day-location" data-en="Reykjavík — last day" data-zh="雷克雅未克 — 最后一天">Reykjavík — last day</div>
+        <div class="day-title-text" data-en="Farewell to Reykjavík — leisure & shopping" data-zh="告别雷克雅未克 — 悠闲漫步与购物">Farewell to Reykjavík — leisure & shopping</div>
         <div class="day-hotel">🏨 <span data-en="Reykjavík hotel (last night)" data-zh="雷克雅未克酒店（最后一晚）">Reykjavík hotel (last night)</span> · 🚗 <span data-en="Car parked · pack bags tonight" data-zh="车停酒店 · 今晚打包行李">Car parked · pack bags tonight</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Reykjavík's beloved local geothermal pool — far fewer tourists than the Blue Lagoon, with hot pots, steam rooms, and locals going about their day. Gentle afternoon rest. Light dinner out. Pack all bags tonight." data-zh="雷克雅未克备受当地人喜爱的地热温泉——游客远少于蓝湖，设有热水池和蒸汽浴室，充满本地生活气息。下午轻松休息。出门享用便餐。今晚打包所有行李——明天直接开车前往凯夫拉维克机场酒店，不再返回雷克雅未克。">Beloved local geothermal pool — far fewer tourists than Blue Lagoon. Hot pots, steam rooms, local atmosphere. Pack all bags tonight.</p>
-      <div class="day-tags"><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Local life" data-zh="本地体验">Local life</span></div>
+      <p class="day-desc" data-en="Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel." data-zh="在城市的最后一整天——无需开车，无需计划，悠然告别雷克雅未克。三条主要购物街彼此相距步行可达，距酒店也很近。">Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel.</p>
+      <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Morning" data-zh="上午">Morning</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Laugavegur — the main shopping street" data-zh="劳格韦格尔大街 — 主要购物街">Laugavegur — the main shopping street</strong><br><span data-en="Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back." data-zh="冰岛历史最悠久、最热闹的购物街。逛逛冰岛标志性户外品牌66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（汇聚400余位本地设计师与工匠的冰岛设计）和Nomad（北欧风格生活礼品）。别错过15号的蓝湖护肤品店——与温泉同款产品，无需专程前往。">Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Mid-morning" data-zh="中上午">Mid-morning</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Skólavörðustígur — the charming side street" data-zh="斯科拉沃尔杜斯提格尔 — 迷人的艺术街">Skólavörðustígur — the charming side street</strong><br><span data-en="Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break." data-zh="从劳格韦格尔延伸至哈尔格林姆斯教堂的彩虹街，两旁汇聚本地精品店、艺廊、陶瓷与珠宝工作室。Iurie Fine Art出售各种格式的冰岛大地摄影作品。Kirsuberjatréð是由女性创立的设计合作社，售卖手工服饰与家居用品。街上有不少好咖啡馆，适合中途休息。">Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Lunchtime" data-zh="午餐">Lunchtime</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Old Harbour & Grandi district" data-zh="老港口与格兰迪街区">Old Harbour & Grandi district</strong><br><span data-en="A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so it's familiar territory." data-zh="距劳格韦格尔步行约10分钟。港口一带有出色的海鲜餐厅，以及科拉波蒂德跳蚤市场（周五至周六开放，11:00–17:00）——冰岛唯一的跳蚤市场，价格比主街更实惠，有洛帕披亚毛衣、冰岛特产和二手好物。格兰迪街区也是第5天熔岩秀的所在地，已是熟悉的地方。">A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so familiar territory.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Afternoon" data-zh="下午">Afternoon</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Tjörnin pond & city stroll" data-zh="特约尔宁湖与城市漫步">Tjörnin pond & city stroll</strong><br><span data-en="A quiet walk around the pond, past the city hall and through the streets near the National Theatre. A gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip." data-zh="漫步湖畔，经过市政厅，穿行国家剧院附近的街道。以悠闲的节奏感受城市氛围，为明天的长途驾驶养精蓄锐。也是重游此前旅途中最钟爱之地的好机会。">A quiet walk around the pond, past the city hall and through the streets near the National Theatre. Gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Evening" data-zh="晚上">Evening</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Light dinner + pack bags" data-zh="便餐 + 打包行李">Light dinner + pack bags</strong><br><span data-en="An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. This is also your last good chance to pick up anything forgotten from the shops." data-zh="在酒店附近享用便餐。今晚打包所有行李——明天直接驾车前往凯夫拉维克，不再返回雷克雅未克。这也是最后一次补购忘买物品的好机会。">An easy dinner near the hotel. Pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. Last chance to pick up anything forgotten from the shops.</span></div>
+        </div>
+      </div>
+      <div class="notice" data-en="💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure." data-zh="💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。">💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.</div>
+      <div class="day-tags"><span class="day-tag" data-en="Shopping" data-zh="购物">Shopping</span><span class="day-tag" data-en="Leisure" data-zh="休闲">Leisure</span><span class="day-tag" data-en="Last day" data-zh="最后一天">Last day</span></div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 14上 · Guide: 赵昭仪 · Vatnajökull glacier hike → Category 12 hurricane (skipping this)" data-zh="花少5 · 第14集上 · 一日导游：赵昭仪 · 瓦特纳冰川徒步 → 12级飓风（本次跳过）">花少5 · Ep 14上 · Guide: 赵昭仪 · Vatnajökull glacier hike → Category 12 hurricane (skipping this)</div>
+          <div class="ep-ref-text" data-en="On this day of their Iceland week, the 花少5 cast was based in Höfn — far to the east — not in Reykjavík. 赵昭仪 guided the group on a full glacier hike on Vatnajökull (Europe's largest glacier) with crampons, helmets and ice axes, walking across a vast white expanse that felt like stepping into the ice age. Then the director delivered news: a Category 12 hurricane — the first of the year in Iceland — was approaching and would hit within hours. All remaining plans were cancelled. The cast sheltered together through the storm, creating one of the most memorable bonding nights of the whole 28-day trip. Your group is skipping the glacier hike — Vatnajökull is far to the east and not on your route — in favour of a relaxed final day in Reykjavík before tomorrow's Golden Circle push. The cast's Laugavegur shopping moments were all earlier in the week, Ep 11, when 王安宇 led the group on the Rainbow Road footbridge and along the street — the same shops you'll be exploring today." data-zh="在花少团冰岛之旅的这一天，嘉宾们正驻扎在遥远东部的霍芬——而非雷克雅未克。赵昭仪带领全组在欧洲最大冰川瓦特纳冰川完成徒步——脚蹬冰爪、头戴头盔、手持冰镐，踏上那片仿佛冰河世纪的纯白世界。随后导演组宣布：今年冰岛第一场12级飓风即将在数小时内登陆。所有剩余计划被迫取消。嘉宾们共同在风雨中避险，成为整个28天旅途中最令人难忘的团体凝聚时刻。您的团队跳过了冰川徒步——瓦特纳冰川位于遥远东部，不在此次行程范围内——选择在雷克雅未克度过悠闲的最后一天，为明天的黄金圈之旅养精蓄锐。花少团在劳格韦格尔大街的购物时光出现在第11集，由王安宇带队走过彩虹步道和这条大街——正是您今天将要漫步探索的同一批店铺。">On this day of their Iceland week, the 花少5 cast was based in Höfn — far to the east — not in Reykjavík. 赵昭仪 guided the group on a glacier hike on Vatnajökull with crampons, helmets and ice axes. Then a Category 12 hurricane — the year's first — was announced with hours to spare. All plans cancelled; the cast sheltered together through the storm, creating one of the most memorable bonding nights of the 28-day trip. Your group is skipping the glacier hike — Vatnajökull is far to the east and not on your route — in favour of a relaxed final Reykjavík day before tomorrow's Golden Circle push. The cast's own Laugavegur shopping moments were earlier in the week during Ep 11, when 王安宇 led the group along the Rainbow Road footbridge and down this same street — the same shops you'll be exploring today.</div>
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">21</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">21</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span><span class="day-badge" data-en="Day 11" data-zh="第11天">Day 11</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Golden Circle → Keflavík airport area" data-zh="黄金圈 → 凯夫拉维克机场周边">Golden Circle → Keflavík airport area</div>
         <div class="day-title-text" data-en="Golden Circle → drive to KEF hotel" data-zh="黄金圈一日游 → 驾车前往机场酒店">Golden Circle → drive to KEF hotel</div>
@@ -502,9 +663,39 @@
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc" data-en="Leave Reykjavík by 09:00 with bags loaded. Þingvellir (flat boardwalks) → Geysir (Strokkur erupts every 5–8 min) → Gullfoss (upper platform) → Kerið crater → Secret Lagoon in Flúðir. Drive southwest to Keflavík hotel. Return rental car at KEF airport this evening." data-zh="09:00前装好行李出发。辛格韦德利（平坦木栈道）→ 盖歇尔（斯特罗克间歇泉每5-8分钟喷发一次）→ 黄金瀑布（上层观景台）→ 克里苏维克火山口 → 弗鲁希尔秘密温泉。向西南驱车前往凯夫拉维克酒店，今晚在机场还车。">Leave Reykjavík by 09:00 with bags. Þingvellir → Geysir → Gullfoss → Kerið crater → Secret Lagoon. Drive to KEF hotel. Return rental car at airport this evening.</p>
+      <p class="day-desc" data-en="Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening." data-zh="09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口和弗鲁希尔秘密温泉。今晚在凯夫拉维克机场还车。">Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first Iceland day (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening.</p>
+      <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 1" data-zh="第1站">Stop 1</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Þingvellir National Park" data-zh="辛格韦德利国家公园">Þingvellir National Park</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~45 min from Reykjavík" data-zh="距雷克雅未克约45分钟">~45 min from Reykjavík</span><br><span data-en="Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. This is also where Silfra Fissure is — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see." data-zh="冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。">Iceland's most historically significant site — the world's oldest parliament (Alþingi, 930 AD) held on these flat lava plains. The site sits on the Mid-Atlantic Ridge where the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks throughout. Silfra Fissure — the cast's snorkelling highlight — is here too. You're skipping the snorkel but the rift valley is spectacular to walk and see.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 2" data-zh="第2站">Stop 2</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Geysir — Strokkur geyser" data-zh="盖歇尔 — 史托克间歇泉">Geysir — Strokkur geyser</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~1h from Þingvellir" data-zh="距辛格韦德利约1小时">~1h from Þingvellir</span><br><span data-en="Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast lined up creative group shots timed to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst." data-zh="位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为'地球的眼泪'——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。">Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — Strokkur beside it erupts 20–40m every 5–10 minutes. The cast timed creative group shots to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst of power.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 3" data-zh="第3站">Stop 3</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Gullfoss — the Golden Waterfall" data-zh="黄金瀑布">Gullfoss — the Golden Waterfall</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Geysir" data-zh="距盖歇尔约10分钟">~10 min from Geysir</span><br><span data-en="Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The cast were overwhelmed by the scale of the glacial river cascading down. The upper viewing platform is accessible; the lower path to the water's edge involves some uneven steps — judge on the day. In November, spray can freeze on the railings, so wear grip gloves." data-zh="被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。花少团被浩瀚冰川河流倾泻而下的震撼景象深深折服。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断是否前往。11月水雾可能在护栏上结冰，建议佩戴防滑手套。">Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The cast were overwhelmed by the scale of it. Upper platform is accessible; lower path to the water's edge has some uneven steps — judge on the day. In November, spray can freeze on railings, so wear grip gloves.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 4" data-zh="第4站">Stop 4</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Kerið crater lake" data-zh="克里苏维克火山口湖">Kerið crater lake</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~45 min south of Gullfoss · small admission fee" data-zh="距黄金瀑布以南约45分钟 · 需购买门票">~45 min south of Gullfoss · small admission fee</span><br><span data-en="A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to Secret Lagoon and KEF." data-zh="3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往秘密温泉和凯夫拉维克的必经之路上，值得稍作绕行一探。">A 3,000-year-old volcanic crater — vivid red and ochre walls dropping to a bright turquoise lake. Walk the rim or descend to the shore. Not on the 花少5 route but directly on the way to Secret Lagoon and KEF — well worth the brief detour.</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
+          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 5" data-zh="第5站">Stop 5</div>
+          <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Secret Lagoon, Flúðir" data-zh="弗鲁希尔秘密温泉">Secret Lagoon, Flúðir</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~20 min from Kerið · secretlagoon.is · book in advance" data-zh="距克里苏维克约20分钟 · secretlagoon.is · 需提前预订">~20 min from Kerið · secretlagoon.is · book in advance</span><br><span data-en="Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in a remote countryside setting, with a small geyser bubbling beside it. Much simpler and more rustic than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route, but a natural fit as a warm, unhurried end to the Golden Circle day." data-zh="冰岛最古老的游泳池（1891年）——乡野中一处天然地热温泉湖，旁边有一口小间歇泉徐徐冒泡。比蓝湖简朴许多，但水温（38-40°C）舒适宜人、限流清静、令人真正放松。在驾车前往凯夫拉维克之前，完美的最后一浸。并非《花少5》的停靠点，但作为黄金圈一日游温暖收尾的选择，再合适不过。">Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in remote countryside, with a small geyser bubbling beside it. Much simpler than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route but a natural warm close to a big day out.</span></div>
+        </div>
+      </div>
+      <p class="day-desc" style="margin-top:0.25rem" data-en="After Secret Lagoon, drive southwest to Keflavík (~1h 15min). Return the rental car at KEF airport. Check into Courtyard by Marriott." data-zh="秘密温泉结束后，向西南驱车前往凯夫拉维克（约1小时15分钟）。在机场还车。入住凯夫拉维克万怡酒店。">After Secret Lagoon, drive southwest to Keflavík (~1h 15min). Return the rental car at KEF airport. Check into Courtyard by Marriott.</p>
       <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Car return" data-zh="还车">Car return</span></div>
       <div class="notice" data-en="Fuel up at the N1 station near the Courtyard before returning the car. Arrange your hotel airport shuttle for tomorrow morning tonight at reception." data-zh="还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。">Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight.</div>
+      <div class="ep-ref">
+        <div class="ep-ref-icon">📺</div>
+        <div>
+          <div class="ep-ref-label" data-en="花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle — Gullfoss, Strokkur, Þingvellir, Silfra · Ep 14下 · 胡先煦 · Farewell ceremony" data-zh="花少5 · 第10集 · 导游：迪丽热巴 · 黄金圈 — 黄金瀑布、史托克间歇泉、辛格韦德利、丝浮拉 · 第14集下 · 胡先煦 · 感人颁奖典礼">花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle + Ep 14下 · 胡先煦 · Farewell ceremony</div>
+          <div class="ep-ref-text" data-en="迪丽热巴 guided the cast's first Iceland day along this exact circuit — Gullfoss, Strokkur and Þingvellir — ending at Silfra Fissure where the whole group snorkelled in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates. As they held hands underwater for a star-formation group photo, 辛芷蕾 said: 'When you see such magical natural scenery, you will never be bothered by anything again.' 胡先煦 added: 'Doing something this extraordinary in such an extraordinary place — I'll never forget it.' You're following their route for the first three stops, skipping Silfra and adding Kerið and Secret Lagoon instead. — The season finale (Ep 14下, guided by 胡先煦) then brought the cast full circle in Reykjavík: a heartfelt group awards ceremony where each member gave a personalised, hand-thought award to another, reflecting on 28 days across three countries. Iceland was unanimously called the emotional peak of the trip — the place they felt most free and most themselves. The season scored 9.0/10 on Douban — the highest in 花儿与少年 franchise history across all five seasons." data-zh="迪丽热巴带队沿这条路线完成了冰岛第一天的行程——黄金瀑布、史托克间歇泉和辛格韦德利——压轴来到丝浮拉大裂缝，全体嘉宾穿上干式潜水服，在近乎完全透明的冰川水中潜游，近距离触摸北美板块与欧亚板块的交界地带。大家在水下手拉手完成"五角星"合照时，辛芷蕾感叹道："你看到这样奇幻的自然景观，你就不会再为任何事去纠结了。"胡先煦也说："在冰岛这样一个特别的地方做了这样一件特别的事，我觉得很难忘。"您将跟随他们的前三个停靠点，跳过丝浮拉浮潜，改为新增克里苏维克火山口和秘密温泉。——大结局（第14集下，胡先煦导游）在雷克雅未克为整个旅程画下温情句点：感人肺腑的颁奖典礼上，每位成员为另一人精心准备了专属奖项，共同回顾横跨三国、历时28天的点点滴滴。所有人一致认为冰岛是整个旅程的情感顶峰——在那里，大家最自由，也最像自己。本季在豆瓣获得9.0超高评分，创下花儿与少年系列全五季的历史最高纪录。">迪丽热巴 guided the cast along this same circuit — Gullfoss, Strokkur and Þingvellir — ending at Silfra Fissure where the whole group snorkelled in near-perfectly transparent glacial water between the tectonic plates. Holding hands underwater for a star-formation group photo, 辛芷蕾 said: 'When you see such magical natural scenery, you will never be bothered by anything again.' 胡先煦 added: 'Doing something this extraordinary in such an extraordinary place — I'll never forget it.' You're following their route for the first three stops, skipping Silfra and adding Kerið and Secret Lagoon instead. — The season finale (Ep 14下, 胡先煦 guiding) then brought the cast full circle: a heartfelt awards ceremony in Reykjavík where each member gave a personalised award to another, reflecting on 28 days across three countries. Iceland was unanimously called the emotional peak of the trip — the place they felt most free. Season score: 9.0/10 on Douban — highest in 花儿与少年 history across all five seasons.</div>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -516,7 +707,7 @@
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">22</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span></div>
+      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">22</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span><span class="day-badge" data-en="Day 12" data-zh="第12天">Day 12</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Keflavík → Frankfurt city" data-zh="凯夫拉维克 → 法兰克福市区">Keflavík → Frankfurt city</div>
         <div class="day-title-text" data-en="Early flight → arrive Frankfurt city" data-zh="早班机 → 抵达法兰克福市区">Early flight → arrive Frankfurt city</div>
@@ -538,7 +729,7 @@
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">23</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span></div>
+      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">23</span><span class="weekday" data-en="Mon" data-zh="周一">Mon</span><span class="day-badge" data-en="Day 13" data-zh="第13天">Day 13</span></div>
       <div class="day-header-content">
         <div class="day-location" data-en="Frankfurt · Römerberg Christmas Market" data-zh="法兰克福 · 罗马广场圣诞市集">Frankfurt · Römerberg Christmas Market</div>
         <div class="day-title-text" data-en="Christmas market — then home" data-zh="圣诞市集 — 然后回家">Christmas market — then home</div>
@@ -568,7 +759,7 @@
           <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Courtyard by Marriott Keflavík — Nov 21" data-zh="凯夫拉维克机场万怡酒店 — 11月21日">Courtyard by Marriott Keflavík — Nov 21</div><div class="todo-detail" data-en="Pre-departure night near airport. Confirm shuttle." data-zh="离境前一晚，近机场。确认班车服务。">Pre-departure night near airport. Confirm shuttle.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Reykjavík hotel — Nov 12–17 & Nov 19–20 (7 nights)" data-zh="雷克雅未克酒店 — 11月12-17日及19-20日（共7晚）">Reykjavík hotel — Nov 12–17 & 19–20 (7 nights)</div><div class="todo-detail" data-en="Central location, walkable to city sights." data-zh="市区中心位置，步行可达各大景点。">Central location, walkable to city sights.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Hotel near Vík — Nov 18 (1 night)" data-zh="维克附近酒店 — 11月18日（1晚）">Hotel near Vík — Nov 18 (1 night)</div><div class="todo-detail" data-en="Very limited options. Hótel Katla or Icelandair Hotel Vík." data-zh="选择极少，需尽快预订。推荐Hótel Katla或冰岛航空维克酒店。">Very limited options. Hótel Katla or Icelandair Hotel Vík.</div></div></div>
-          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Blue Lagoon — Nov 16, Comfort or Signature package" data-zh="蓝湖温泉 — 11月16日，舒适套餐或高级套餐">Blue Lagoon — Nov 16, Comfort or Signature</div><div class="todo-detail" data-en="Sells out weeks ahead. Book at bluelagoon.com." data-zh="提前数周即售罄。请在bluelagoon.com预订。">Sells out weeks ahead. Book at bluelagoon.com.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Day 6 spa — Blue Lagoon or Hvammsvík (decide first, then book)" data-zh="第6天温泉 — 蓝湖或赫瓦姆斯维克（先决定，再预订）">Day 6 spa — Blue Lagoon or Hvammsvík (decide first, then book)</div><div class="todo-detail" data-en="Blue Lagoon: book Comfort or Signature at bluelagoon.com — sells out weeks ahead. Hvammsvík: book at hvammsvik.com — also limited capacity. Both ~45–50 min self-drive from Reykjavík." data-zh="蓝湖：在bluelagoon.com预订舒适或高级套餐，数周前即售罄。赫瓦姆斯维克：在hvammsvik.com预订，容量同样有限。两处距雷克雅未克均约45-50分钟自驾。">Blue Lagoon: book Comfort or Signature at bluelagoon.com — sells out weeks ahead. Hvammsvík: book at hvammsvik.com — also limited capacity. Both ~45–50 min self-drive from Reykjavík.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Rental car — 4WD SUV, KEF Nov 12–21 (10 days)" data-zh="租车 — 四驱SUV，凯夫拉维克11月12-21日（10天）">Rental car — 4WD SUV, KEF Nov 12–21</div><div class="todo-detail" data-en="Full CDW + gravel/sand protection + winter tyres. Hertz, Lotus or Geysir." data-zh="全额碰撞险 + 碎石/沙尘保护 + 冬季轮胎。可选Hertz、Lotus或Geysir。">Full CDW + gravel/sand protection + winter tyres.</div></div></div>
         </div>
       </div>
@@ -576,6 +767,8 @@
         <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A5A1A;margin-bottom:1rem" data-en="Do soon — 1–2 months out" data-zh="尽快办理 — 1至2个月内">Do soon — 1–2 months out</p>
         <div class="todo-grid">
           <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Northern Lights tour — Nov 14 evening" data-zh="极光夜游 — 11月14日晚">Northern Lights tour — Nov 14 evening</div><div class="todo-detail" data-en="Choose operator with free re-try policy. Northern Lights Bus or Tröll Expeditions." data-zh="选择提供免费重游保障的运营商。推荐Northern Lights Bus或Tröll Expeditions。">Choose operator with free re-try. Northern Lights Bus or Tröll Expeditions.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Lava Show — Nov 15 afternoon" data-zh="熔岩秀 — 11月15日下午">Lava Show — Nov 15 afternoon</div><div class="todo-detail" data-en="The world's only live lava experience. Book at lavashow.com — sells out. Consider Premium upgrade (balcony seats, drink, backstage tour + lava souvenir). Grandi Harbour District, walkable from city centre." data-zh="全球唯一真实熔岩现场体验。在lavashow.com预订，容易售罄。可考虑高级套餐（阳台座位、饮料、后台参观及熔岩纪念品）。位于格兰迪港湾区，步行可达市中心。">The world's only live lava experience. Book at lavashow.com — sells out. Consider Premium upgrade (balcony seats, drink, backstage tour + lava souvenir). Grandi Harbour District, walkable from city centre.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Perlan museum — Nov 17 afternoon" data-zh="珍珠楼博物馆 — 11月17日下午">Perlan museum — Nov 17 afternoon</div><div class="todo-detail" data-en="Book at perlan.is — includes Áróra planetarium (8K northern lights show), indoor ice cave and volcano exhibit. Allow 2–3 hrs. Especially valuable on a cloudy day — guaranteed indoor aurora. 5–10 min drive from city centre." data-zh="在perlan.is预订——含Áróra天文馆（8K极光秀）、室内冰洞及火山展览。建议预留2-3小时。阴天尤为推荐——室内保证看到极光。距市中心5-10分钟车程。">Book at perlan.is — includes Áróra planetarium (8K northern lights show), indoor ice cave and volcano exhibit. Allow 2–3 hrs. Especially valuable on a cloudy day — guaranteed indoor aurora. 5–10 min drive from city centre.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Secret Lagoon — Nov 21" data-zh="秘密温泉 — 11月21日">Secret Lagoon — Nov 21</div><div class="todo-detail" data-en="Small capacity, book a time slot at secretlagoon.is." data-zh="容量有限，请在secretlagoon.is提前预订时段。">Small capacity, book at secretlagoon.is.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Dinner reservations — Reykjavík Kitchen (Nov 13) & Grillmarkaðurinn (Nov 17)" data-zh="餐厅预订 — 雷克雅未克厨房（11月13日）及Grillmarkaðurinn（11月17日）">Dinner reservations — Reykjavík Kitchen & Grillmarkaðurinn</div><div class="todo-detail" data-en="Both popular, book a few weeks in advance." data-zh="两家餐厅均热门，需提前数周预订。">Both popular, book a few weeks in advance.</div></div></div>
           <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Buy Yaktrax ice cleats — 2 pairs for parents" data-zh="购买Yaktrax防滑冰爪 — 为父母各备一副">Buy Yaktrax ice cleats — 2 pairs for parents</div><div class="todo-detail" data-en="Essential for icy November paths at waterfalls and craters." data-zh="11月冰岛路面湿滑，在瀑布和火山口必不可少。">Essential for icy November paths at waterfalls and craters.</div></div></div>
@@ -590,6 +783,8 @@
     </div>
   </div>
 </section>
+
+</div><!-- /.body -->
 
 <footer class="footer">
   <strong data-en="Iceland Family Trip 2026 · November 11–24" data-zh="2026年冰岛家庭之旅 · 11月11日至24日">Iceland Family Trip 2026 · November 11–24</strong>
