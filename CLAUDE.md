@@ -6,21 +6,21 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A single-file HTML travel itinerary for an Iceland family trip (Nov 11–24, 2026). Route: Singapore → Frankfurt → Reykjavík → South Coast → Golden Circle → Frankfurt → Singapore. Family of 4, self-drive 4WD.
 
-The entire website lives in `itinerary.html` — no build step, no dependencies, no package manager. Open it directly in a browser.
+The entire website lives in `index.html` — no build step, no dependencies, no package manager. Open it directly in a browser.
 
 ## Running / previewing
 
 ```bash
 # Any local HTTP server works, e.g.:
 python3 -m http.server 8080
-# then open http://localhost:8080/itinerary.html
+# then open http://localhost:8080/index.html
 ```
 
-Or just open `itinerary.html` directly as a file in a browser (images load from Google CDN via `<img src="https://...">`, so internet connection needed for photos).
+Or just open `index.html` directly as a file in a browser (images load from Google CDN via `<img src="https://...">`, so internet connection needed for photos).
 
 ## Architecture
 
-`itinerary.html` is structured as:
+`index.html` is structured as:
 
 1. **`<style>` block** — all CSS, using CSS custom properties (`--ice`, `--deep`, `--ocean`, `--aurora`, `--gold`, `--stone`, `--fog`). No external CSS framework.
 2. **HTML body** — sections in this order:
@@ -51,9 +51,9 @@ When adding new content, **always provide both `data-en` and `data-zh` attribute
 
 ## Files
 
-- `itinerary.html` — the entire website
+- `index.html` — the entire website
 - `accommodation/` — PDF booking confirmations (Sheraton Frankfurt, Ruby Louise Frankfurt, Courtyard Marriott Keflavík)
-- `content/` — plain-text markdown reference files extracted from `itinerary.html`:
+- `content/` — plain-text markdown reference files extracted from `index.html`:
   - `highlights.md` — bilingual (EN + ZH)
   - `flights.md`
   - `accommodation.md`
@@ -62,11 +62,11 @@ When adding new content, **always provide both `data-en` and `data-zh` attribute
 
 ## Content safety rules
 
-**CRITICAL: Never strip content from `itinerary.html` when making edits.**
+**CRITICAL: Never strip content from `index.html` when making edits.**
 
-- `itinerary.html` is large (~1300 lines). When making targeted edits, always use precise `old_string` / `new_string` replacements — never rewrite whole sections or large blocks unless explicitly asked.
+- `index.html` is large (~1300 lines). When making targeted edits, always use precise `old_string` / `new_string` replacements — never rewrite whole sections or large blocks unless explicitly asked.
 - Before editing any day section, read the current state of that section in the file first. Do not rely on memory of a previous read.
-- The `/content` markdown files are the source of truth for what content *should* be in `itinerary.html`. If uncertain whether a section is complete, cross-reference against the relevant `content/*.md` file before and after editing.
+- The `/content` markdown files are the source of truth for what content *should* be in `index.html`. If uncertain whether a section is complete, cross-reference against the relevant `content/*.md` file before and after editing.
 - Past edits have accidentally removed: the Lava Show (Day 5), Perlan museum (Day 7), Hvammsvík option B (Day 6), and the 5-stop South Coast structure (Day 8). Be especially careful around these sections.
 - **Never edit files in `content/` unless explicitly asked to.** They are reference documents, not a drafting area.
-- When a `content/` file is edited, immediately apply the corresponding change to `itinerary.html`, citing which `content/` file and section was the source of the update.
+- When a `content/` file is edited, immediately apply the corresponding change to `index.html`, citing which `content/` file and section was the source of the update.
