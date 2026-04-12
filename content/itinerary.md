@@ -54,9 +54,9 @@ Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. Walkable, no driv
 `Culture` `Food`
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival**
-The cast settled into the Edition Hotel — Reykjavík's only international luxury hotel, on the harbour with views of Esja mountain. Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.
+Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.
 
-嘉宾们入住雷克雅未克唯一一家国际奢华连锁酒店——艾迪逊酒店，坐落于港口旁，可远眺埃斯亚山。第一个傍晚，他们步行探索洛加维格大街及哈尔格林姆斯教堂附近的彩色街道——正是您即将漫游的同一片街区。
+第一个傍晚，他们步行探索洛加维格大街及哈尔格林姆斯教堂附近的彩色街道——正是您即将漫游的同一片街区。
 
 ---
 
@@ -71,9 +71,9 @@ Morning: Aurora Reykjavík museum — seated, accessible. Evening: Northern Ligh
 `Culture` `Aurora` `Adventure`
 
 📺 **花少5 · Ep 12–13 · Aurora chase — the most moving moment of the trip / 追极光——旅途中最令人感动的时刻**
-On one of the Reykjavík evenings the cast went spontaneously to a hilltop with unobstructed skies to wait for the northern lights. 王安宇 later called it the most moving moment of the entire trip: "Although we didn't see a very obvious aurora, waiting together in the dark on the hilltop — playing, quietly watching — that time was very moving." Director 李超 said: "After 迪丽热巴 was relieved of her guiding duties, they went aurora chasing and played like children — that relaxed ease was the meaning of travel." The production team's live aurora stream drew over 3.3 million viewers.
+The cast went spontaneously to a hilltop with unobstructed skies to wait for the northern lights. 王安宇 called it the most moving moment of the entire trip: "Waiting together in the dark, playing, quietly watching — that time was very moving." The outcome matters less than the shared waiting.
 
-在雷克雅未克的某个夜晚，嘉宾们自发前往山顶追极光。王安宇事后说这是整个旅途最令他感动的时刻："虽然最后没有看到非常明显的极光，但是在等待极光的时间里，我们在山顶上，一起玩，一起默默地等待极光出现，那段时间是很令人感动的。"导演李超说："迪丽热巴卸下导游重任之后，他们一起去追极光都玩得像个孩子，这种松弛感是肉眼可见的，这就是旅行的意义。"节目组的极光直播也吸引了超过330万人次观看。
+嘉宾们自发前往山顶，在无遮挡的天空下等待极光。王安宇说这是整个旅途最令他感动的时刻："在黑暗中一起等待，一起玩，默默地守候——那段时间是很令人感动的。"结果如何并不重要，重要的是一起等待的那段时光。
 
 ---
 
@@ -91,9 +91,9 @@ Morning: Viking artefacts at the National Museum. Settlement Exhibition with wal
 > 🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间完全自由。若11月14日未能看到极光，今天联系运营商预约免费补看名额。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
-王安宇 planned a full Reykjavík day. They walked Laugavegur and the Rainbow Road footbridge, shared waffles on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. The cast brought Chinese gifts and left a collective note: '40 years of Chinese bond — in 1983 you came to China, in 2023 we came to your home.' Wang also arranged a lava show (real molten rock at 1,100°C) and a planetarium aurora show that moved Hu Xianxu to tears. The day ended at a bookshop bar where the whole group sang with a live band.
+王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
 
-王安宇精心策划了丰富的雷克雅未克城市体验日。他们走过洛加维格大街和彩虹步道，在秋千上分享华夫饼。文化重头戏是乌纳中国博物馆——一位冰岛奶奶在七十年代结缘太极拳，1983年第一次踏上中国土地，收藏了瓷器、唐装、唐卡与木雕床。嘉宾带去中国礼物，留下集体寄语："四十年中国情的牵绊，1983年你来到中国，2023年我们来到了您家。"王安宇还安排了熔岩秀和天文馆极光秀——胡先煦看得热泪盈眶。当天最后在书屋酒吧，全组跟着乐队高唱，欢声笑语中圆满收尾。
+王安宇精心策划了雷克雅未克城市体验日：洛加维格大街、彩虹步道，在秋千上分享华夫饼。文化重头戏是乌纳中国博物馆——一位冰岛奶奶在七十年代结缘太极拳，1983年第一次踏上中国土地，收藏了瓷器、唐装与木雕床。他还安排了熔岩秀——正是您此行将要体验的节目。
 
 ---
 
@@ -124,9 +124,9 @@ Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykj
 > 🌌 极光补看机会：无论选哪个，约17时返回雷克雅未克。若仍未看到极光，今晚是绝佳的第二次补看机会。
 
 📺 **花少5 · Ep 12 · Guide: 秦岚 · Hvammsvík hot springs + aurora chase + 迪丽热巴's lost pink bag / 赫瓦姆斯维克温泉 + 追极光 + 迪丽热巴丢失粉色小包**
-In Ep 12, 秦岚 guided the group to Hvammsvík Hot Springs — the natural fjord-side pools in Whale Fjord — rather than the Blue Lagoon. The cast soaked in the geothermal pools overlooking the North Atlantic, which set the scene for the evening aurora chase. The episode is also remembered for 迪丽热巴's little pink bag going missing during the soak, causing considerable worry — before it was eventually found safe in a bag. Viewers noted how naturally the others rallied around her without making a scene, reflecting how close the group had become.
+秦岚 guided the group to Hvammsvík Hot Springs — the natural fjord-side pools in Whale Fjord. The cast soaked in the geothermal pools overlooking the North Atlantic, then chased the aurora that evening.
 
-第12集中，秦岚带领大家前往赫瓦姆斯维克温泉而非蓝湖。嘉宾们在可俯瞰北大西洋的地热温泉中放松泡浴，为当晚追极光营造了绝佳氛围。这一集还因迪丽热巴的粉色小包在泡温泉时不见踪影而令人难忘——引发大家一阵紧张，所幸最终在行李袋中找到。观众们注意到，其他成员自然而然地关心安慰她，却没有过分渲染，正是这种细节折射出旅途至此这个小团体已经有多默契、多亲近。
+秦岚带领大家前往赫瓦姆斯维克温泉——鲸鱼湾的天然峡湾温泉池。嘉宾们在可俯瞰北大西洋的地热温泉中放松泡浴，当晚随后追极光。
 
 ---
 
@@ -141,9 +141,9 @@ Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — ge
 `Culture` `Perlan` `Aurora` `Food`
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
-王安宇 included Perlan's planetarium aurora show as part of his Reykjavík city day — arranged specifically because the group couldn't get close to a real volcano or guaranteed aurora outdoors. The Áróra show moved Hu Xianxu (a lifelong space enthusiast) to tears. It was one of the quiet emotional highlights of the cast's time in Reykjavík. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
+王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
 
-王安宇在他的雷克雅未克城市日行程中特别安排了珍珠楼天文馆极光秀——正是因为嘉宾们无法近距离接触真实火山，也无法保证在室外看到极光。极光秀《Áróra》令从小痴迷宇宙与科学的胡先煦看得热泪盈眶。这是嘉宾们在雷克雅未克期间不动声色却情感充沛的高光时刻之一。
+王安宇在雷克雅未克城市日行程中安排了珍珠楼《Áróra》天文馆极光秀。令从小痴迷宇宙与科学的胡先煦看得热泪盈眶，是整个冰岛行程中低调却动人的高光时刻之一。珍珠楼还设有100米室内冰洞、火山自然展览，以及可俯瞰全城的360度观景台。
 
 ---
 
@@ -183,7 +183,7 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 > 出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:00——合理安排每个景点的时间。
 
 📺 **花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales / 全部五景——雨伞报废、特种兵冲刺、百年餐厅午餐、黑沙滩、灯塔大风**
-秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse. 辛芷蕾 — next day's guide — stayed up until 3am planning.
+秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad.
 
 秦海璐带领花少团按顺序完成了这五个景点。第1站塞里雅兰瀑布，她提前为大家准备了雨具——结果雨伞一打开就报废了。胡先煦硬是走到瀑布下，全身湿透，成了大家口中行走的景点劝退标识。第2站斯科加瀑布，抵达时开始下雨，秦海璐当机立断："5分钟，冲！"大家齐喊"冲啊"跑回车上，瞬间士气大振。她事后感慨："阴郁了一个早上，一句冲啊大家都还魂了。"第3站是维克百年餐厅午餐，赵昭仪临走前左右手各一杯饮料轮流喝，"主打不浪费"。第5站迪霍拉里灯塔，风力之猛烈几乎令人寸步难行。秦海璐果断决定放弃开阔苔原的景点，直接驱车返回民宿。
 
@@ -200,9 +200,9 @@ Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach acros
 `Adventure` `Nature` `~6h driving`
 
 📺 **花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching + dolphins + sea fishing + hákarl challenge + Jökulsárlón / 观鲸出海 + 邂逅海豚 + 海钓 + 臭食挑战 + 杰古沙龙冰川湖**
-辛芷蕾 took over (after staying up until 3am planning). The day started with whale watching and sea fishing near Höfn. Dilraba, Wang Anyu and Hu Xianxu reeled in fish; the others joined a crew seafood tasting. Whales never appeared — but dolphins did. Zhao Zhaoyi shouted: 'Dolphin big brother, let's be best friends!' Then a Viking restaurant's hákarl (fermented shark) challenge: Dilraba ate it unflinching; Zhao Zhaoyi nearly gagged but insisted she liked it. Hu Xianxu produced a secret hand-printed photo card gift for each member. Then onward to Jökulsárlón — icebergs in total silence, seals on floating ice.
+辛芷蕾's day started with whale watching and sea fishing out of a harbour near Höfn — they caught fish, joined the crew for a seafood tasting, and encountered dolphins rather than whales. Back on land: a Viking restaurant's hákarl (fermented shark) challenge — worth considering if you extend toward Höfn. The day ended at Jökulsárlón — icebergs drifting in total silence, seals resting on floating ice.
 
-辛芷蕾接棒担任导游（前一晚为准备行程熬到凌晨三点）。这天从出海开始——在霍芬附近的港口体验观鲸和海钓。迪丽热巴、王安宇和胡先煦相继钓上鱼，其余成员则与船员展开了一场即兴海鲜品鉴会。期待已久的鲸鱼始终未现身——却意外迎来了一群海豚，赵昭仪大喊："海豚大哥，咱俩交个铁子呗！"回到陆地后，大家前往维京风格餐厅参加臭食挑战——发酵鲨鱼肉（hákarl）。迪丽热巴面不改色吃下，赵昭仪臭到差点吐出来，嘴上却还坚持说喜欢。胡先煦悄悄掏出提前打印好的手写纪念照片，送给每位成员。随后驱车前往杰古沙龙冰川湖和钻石海滩——巨大冰山在寂静湖面上静静漂流，野生海豹懒洋洋地躺在浮冰上休憩。
+辛芷蕾这天从霍芬附近的港口出海开始——观鲸、海钓，钓到鱼后与船员一同品鉴海鲜，最终与鲸鱼擦肩而过，邂逅了一群海豚。返回陆地后：维京风格餐厅的臭食挑战——发酵鲨鱼肉（hákarl），若行程延伸至霍芬可以考虑体验。这天最后在杰古沙龙冰川湖落幕——巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上。
 
 ---
 
@@ -239,9 +239,9 @@ Leave Reykjavík by 09:00 with bags. Þingvellir → Geysir → Gullfoss → Ker
 > 还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle + Ep 14下 · Guide: 胡先煦 · Farewell / 黄金圈第一天 + 告别**
-Your Nov 21 Golden Circle route exactly retraces the cast's very first day in Iceland (Ep 10, guided by 迪丽热巴). They drove the full circuit: Gullfoss — one of the world's top-10 waterfalls; Strokkur Geyser erupting 20–40m into the air every 5–10 minutes; and Þingvellir, where they ended at Silfra Fissure snorkelling in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates. 辛芷蕾 said: when you see such magical natural scenery, you won't be bothered by anything again. — The season finale (Ep 14下) brought the cast full circle: a heartfelt group awards ceremony, each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
+Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Gullfoss, Strokkur Geyser erupting 20–40m every 5–10 minutes, and Þingvellir where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates. — The season finale (Ep 14下) ended with a heartfelt awards ceremony: each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
 
-您11月21日的黄金圈行程，与花少团冰岛第一天（第10集，迪丽热巴导游）的路线完全重合。他们驾车走完整个黄金圈：黄金瀑布——世界十大瀑布之一；史托克间歇泉——每5-10分钟喷发20-40米高水柱；辛格维利尔国家公园——当天压轴在丝浮拉大裂缝，在几乎完全透明的冰川水中，触摸北美板块与欧亚板块的交界地带。辛芷蕾感慨：看到这样奇幻的自然景观，不会再为任何事纠结了。——大结局（第14集下）为整个旅程画下圆满句号：温情颁奖典礼，每位成员为另一人颁发专属奖项，共同回顾横跨三国、历时28天的点点滴滴。嘉宾们一致认为冰岛是整个旅程的情感顶峰。**本季在豆瓣获得9.0超高评分，创下花儿与少年系列历史最高纪录。**
+您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——黄金瀑布、史托克间歇泉（每5-10分钟喷发20-40米高水柱），以及辛格维利尔公园，他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带。——大结局（第14集下）以温情颁奖典礼收尾：每位成员为另一人颁发专属奖项，回顾横跨三国、历时28天的旅途。嘉宾们一致认为冰岛是整个旅程的情感顶峰。**本季在豆瓣获得9.0超高评分，创下花儿与少年系列历史最高纪录。**
 
 ---
 
