@@ -3,280 +3,127 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Iceland Family Trip 2026</title>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<title>Iceland Family Trip 2026 · 冰岛家庭旅行</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Serif+SC:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   :root {
-    --ice: #E8F4F8;
-    --deep: #1A2E3B;
-    --ocean: #2C6E8A;
-    --aurora: #4ABFA0;
-    --gold: #C9973A;
-    --stone: #8A9BA8;
-    --fog: #F2F5F7;
-    --text: #1A2E3B;
-    --muted: #5A7280;
+    --ice: #E8F4F8; --deep: #1A2E3B; --ocean: #2C6E8A;
+    --aurora: #4ABFA0; --gold: #C9973A; --stone: #8A9BA8;
+    --fog: #F2F5F7; --text: #1A2E3B; --muted: #5A7280;
   }
-
   html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', 'Noto Serif SC', sans-serif; background: var(--deep); color: var(--text); overflow-x: hidden; }
 
-  body {
-    font-family: 'DM Sans', sans-serif;
-    background: var(--deep);
-    color: var(--text);
-    overflow-x: hidden;
+  /* ── LANGUAGE TOGGLE ── */
+  .lang-toggle {
+    position: fixed; top: 1.25rem; right: 1.25rem; z-index: 1000;
+    display: flex; align-items: center; gap: 0;
+    background: rgba(26,46,59,0.92); backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.15); border-radius: 100px;
+    overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
   }
+  .lang-btn {
+    padding: 0.45rem 1rem; font-size: 0.72rem; font-weight: 500;
+    letter-spacing: 0.08em; border: none; cursor: pointer;
+    transition: background 0.25s, color 0.25s;
+    background: transparent; color: rgba(255,255,255,0.45);
+  }
+  .lang-btn.active { background: var(--aurora); color: #fff; border-radius: 100px; }
+  .lang-btn:hover:not(.active) { color: rgba(255,255,255,0.8); }
+
+  /* ── TRANSLATABLE TEXT ── */
+  [data-en][data-zh] { transition: opacity 0.2s ease; }
+  .lang-fade { opacity: 0; }
+
+  /* ── ZH FONT OVERRIDE ── */
+  body.zh-mode .card-title,
+  body.zh-mode .day-title-text,
+  body.zh-mode .section-title,
+  body.zh-mode .hero h1 { font-family: 'Noto Serif SC', serif; }
+  body.zh-mode .card-desc,
+  body.zh-mode .day-desc,
+  body.zh-mode .todo-task,
+  body.zh-mode .todo-detail { font-family: 'Noto Serif SC', sans-serif; letter-spacing: 0.02em; }
 
   /* ── HERO ── */
   .hero {
     min-height: 100vh;
     background: linear-gradient(160deg, #0D1B26 0%, #1A3346 50%, #0E2233 100%);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 3rem 2rem;
-    position: relative;
-    overflow: hidden;
+    display: flex; flex-direction: column; align-items: center;
+    justify-content: center; text-align: center; padding: 3rem 2rem;
+    position: relative; overflow: hidden;
   }
-
   .hero::before {
-    content: '';
-    position: absolute;
-    inset: 0;
+    content: ''; position: absolute; inset: 0;
     background:
-      radial-gradient(ellipse 80% 40% at 20% 60%, rgba(74, 191, 160, 0.12) 0%, transparent 60%),
-      radial-gradient(ellipse 60% 30% at 80% 30%, rgba(44, 110, 138, 0.15) 0%, transparent 60%);
+      radial-gradient(ellipse 80% 40% at 20% 60%, rgba(74,191,160,0.12) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 30% at 80% 30%, rgba(44,110,138,0.15) 0%, transparent 60%);
     pointer-events: none;
   }
-
   .aurora-bar {
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
     background: linear-gradient(90deg, transparent, #4ABFA0, #2C6E8A, #4ABFA0, transparent);
     opacity: 0.8;
   }
-
   .hero-eyebrow {
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.7rem;
-    font-weight: 500;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--aurora);
-    margin-bottom: 1.5rem;
-    opacity: 0;
-    animation: fadeUp 0.8s ease forwards 0.2s;
+    font-size: 0.7rem; font-weight: 500; letter-spacing: 0.2em;
+    text-transform: uppercase; color: var(--aurora); margin-bottom: 1.5rem;
+    opacity: 0; animation: fadeUp 0.8s ease forwards 0.2s;
   }
-
   .hero h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(3rem, 8vw, 6.5rem);
-    font-weight: 300;
-    color: #F0F7FA;
-    line-height: 1.05;
-    letter-spacing: -0.01em;
-    margin-bottom: 0.5rem;
-    opacity: 0;
-    animation: fadeUp 0.8s ease forwards 0.4s;
+    font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+    font-size: clamp(3rem, 8vw, 6.5rem); font-weight: 300; color: #F0F7FA;
+    line-height: 1.1; letter-spacing: -0.01em; margin-bottom: 0.5rem;
+    opacity: 0; animation: fadeUp 0.8s ease forwards 0.4s;
   }
-
-  .hero h1 em {
-    font-style: italic;
-    color: var(--aurora);
-  }
-
+  .hero h1 em { font-style: italic; color: var(--aurora); }
   .hero-sub {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-    font-weight: 300;
-    color: var(--stone);
-    margin-bottom: 3rem;
-    letter-spacing: 0.05em;
-    opacity: 0;
-    animation: fadeUp 0.8s ease forwards 0.6s;
+    font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+    font-size: clamp(1rem, 2.5vw, 1.4rem); font-weight: 300;
+    color: var(--stone); margin-bottom: 3rem; letter-spacing: 0.05em;
+    opacity: 0; animation: fadeUp 0.8s ease forwards 0.6s;
   }
-
   .hero-pills {
-    display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 3.5rem;
-    opacity: 0;
-    animation: fadeUp 0.8s ease forwards 0.8s;
+    display: flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center;
+    margin-bottom: 3.5rem; opacity: 0; animation: fadeUp 0.8s ease forwards 0.8s;
   }
-
   .pill {
-    background: rgba(255,255,255,0.06);
-    border: 1px solid rgba(255,255,255,0.12);
-    color: #C8D8E4;
-    font-size: 0.75rem;
-    font-weight: 400;
-    letter-spacing: 0.06em;
-    padding: 0.4rem 1rem;
-    border-radius: 100px;
+    background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12);
+    color: #C8D8E4; font-size: 0.75rem; font-weight: 400;
+    letter-spacing: 0.06em; padding: 0.4rem 1rem; border-radius: 100px;
   }
-
   .flight-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1px;
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.08);
-    border-radius: 12px;
-    overflow: hidden;
-    max-width: 520px;
-    width: 100%;
-    opacity: 0;
-    animation: fadeUp 0.8s ease forwards 1s;
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px;
+    background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px; overflow: hidden; max-width: 520px; width: 100%;
+    opacity: 0; animation: fadeUp 0.8s ease forwards 1s;
   }
+  .flight-cell { background: rgba(255,255,255,0.03); padding: 1rem 1.25rem; text-align: left; }
+  .flight-label { font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--aurora); margin-bottom: 0.25rem; font-weight: 500; }
+  .flight-detail { font-size: 0.82rem; color: #C8D8E4; font-weight: 300; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
 
-  .flight-cell {
-    background: rgba(255,255,255,0.03);
-    padding: 1rem 1.25rem;
-    text-align: left;
-  }
-
-  .flight-label {
-    font-size: 0.65rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--aurora);
-    margin-bottom: 0.25rem;
-    font-weight: 500;
-  }
-
-  .flight-detail {
-    font-size: 0.82rem;
-    color: #C8D8E4;
-    font-weight: 300;
-  }
-
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  /* ── BODY SECTIONS ── */
+  /* ── BODY ── */
   .body { background: var(--fog); }
-
   .section { padding: 5rem 2rem; max-width: 1100px; margin: 0 auto; }
-
-  .section-eyebrow {
-    font-size: 0.68rem;
-    font-weight: 500;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--ocean);
-    margin-bottom: 0.75rem;
-  }
-
-  .section-title {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(2rem, 4vw, 3rem);
-    font-weight: 400;
-    color: var(--deep);
-    line-height: 1.15;
-    margin-bottom: 3rem;
-  }
-
+  .section-eyebrow { font-size: 0.68rem; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ocean); margin-bottom: 0.75rem; }
+  .section-title { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: clamp(2rem, 4vw, 3rem); font-weight: 400; color: var(--deep); line-height: 1.15; margin-bottom: 3rem; }
   .section-title span { color: var(--ocean); font-style: italic; }
 
   /* ── HIGHLIGHT CARDS ── */
-  .highlights-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .highlight-card {
-    border-radius: 16px;
-    overflow: hidden;
-    background: #fff;
-    box-shadow: 0 2px 16px rgba(26,46,59,0.07);
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .highlight-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 32px rgba(26,46,59,0.13);
-  }
-
-  .card-img {
-    width: 100%;
-    height: 220px;
-    object-fit: cover;
-    display: block;
-    background: #C8D8E4;
-  }
-
-  .card-img-placeholder {
-    width: 100%;
-    height: 220px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 2rem;
-    color: rgba(255,255,255,0.5);
-  }
-
-  .card-body {
-    padding: 1.25rem 1.4rem 1.4rem;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .card-date {
-    font-size: 0.65rem;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--ocean);
-    margin-bottom: 0.4rem;
-  }
-
-  .card-title {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.35rem;
-    font-weight: 600;
-    color: var(--deep);
-    line-height: 1.2;
-    margin-bottom: 0.5rem;
-  }
-
-  .card-desc {
-    font-size: 0.82rem;
-    color: var(--muted);
-    line-height: 1.6;
-    flex: 1;
-  }
-
-  .card-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-top: 1rem;
-  }
-
-  .card-tag {
-    font-size: 0.65rem;
-    font-weight: 500;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 0.25rem 0.6rem;
-    border-radius: 100px;
-    background: var(--ice);
-    color: var(--ocean);
-  }
-
+  .highlights-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem; }
+  .highlight-card { border-radius: 16px; overflow: hidden; background: #fff; box-shadow: 0 2px 16px rgba(26,46,59,0.07); display: flex; flex-direction: column; transition: transform 0.3s ease, box-shadow 0.3s ease; }
+  .highlight-card:hover { transform: translateY(-4px); box-shadow: 0 8px 32px rgba(26,46,59,0.13); }
+  .card-img { width: 100%; height: 240px; object-fit: cover; object-position: center 40%; display: block; background: linear-gradient(135deg, #C8D8E4, #8A9BA8); transition: transform 0.4s ease; }
+  .highlight-card { overflow: hidden; }
+  .highlight-card:hover .card-img { transform: scale(1.04); }
+  .card-body { padding: 1.25rem 1.4rem 1.4rem; flex: 1; display: flex; flex-direction: column; }
+  .card-date { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ocean); margin-bottom: 0.4rem; }
+  .card-title { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.35rem; font-weight: 600; color: var(--deep); line-height: 1.2; margin-bottom: 0.5rem; }
+  .card-desc { font-size: 0.82rem; color: var(--muted); line-height: 1.65; flex: 1; }
+  .card-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 1rem; }
+  .card-tag { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.25rem 0.6rem; border-radius: 100px; background: var(--ice); color: var(--ocean); }
   .card-tag.aurora { background: #E6F7F3; color: #2A7A65; }
   .card-tag.nature { background: #EAF3F8; color: #1E6A8A; }
   .card-tag.culture { background: #F4EFF9; color: #6B4C9A; }
@@ -284,208 +131,91 @@
   .card-tag.relax { background: #E8F7F3; color: #2A7A65; }
   .card-tag.xmas { background: #FBEAEA; color: #8A2A2A; }
 
-  /* ── DAY BY DAY ── */
+  /* ── ITINERARY ── */
   .day-section { background: #fff; border-radius: 20px; margin-bottom: 2rem; overflow: hidden; box-shadow: 0 2px 12px rgba(26,46,59,0.06); }
-
-  .day-header {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 0;
-    align-items: stretch;
-  }
-
-  .day-num-block {
-    background: var(--deep);
-    color: #fff;
-    padding: 1.5rem 1.75rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-width: 90px;
-  }
-
+  .day-header { display: grid; grid-template-columns: auto 1fr; align-items: stretch; }
+  .day-num-block { background: var(--deep); color: #fff; padding: 1.5rem 1.75rem; display: flex; flex-direction: column; align-items: center; justify-content: center; min-width: 90px; }
   .day-num-block .month { font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--stone); margin-bottom: 0.1rem; }
   .day-num-block .num { font-family: 'Cormorant Garamond', serif; font-size: 2.2rem; font-weight: 300; line-height: 1; }
   .day-num-block .weekday { font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--stone); margin-top: 0.1rem; }
-
-  .day-header-content {
-    padding: 1.25rem 1.5rem;
-    border-bottom: 1px solid var(--fog);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  .day-location {
-    font-size: 0.65rem;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--ocean);
-    margin-bottom: 0.3rem;
-  }
-
-  .day-title-text {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.4rem;
-    font-weight: 600;
-    color: var(--deep);
-    line-height: 1.2;
-  }
-
-  .day-hotel {
-    font-size: 0.75rem;
-    color: var(--muted);
-    margin-top: 0.3rem;
-  }
-
+  .day-header-content { padding: 1.25rem 1.5rem; border-bottom: 1px solid var(--fog); display: flex; flex-direction: column; justify-content: center; }
+  .day-location { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); margin-bottom: 0.3rem; }
+  .day-title-text { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.4rem; font-weight: 600; color: var(--deep); line-height: 1.2; }
+  .day-hotel { font-size: 0.75rem; color: var(--muted); margin-top: 0.3rem; }
   .day-hotel span { color: var(--ocean); }
-
-  .day-body { padding: 1.25rem 1.5rem 1.5rem 1.5rem; }
-
-  .day-desc {
-    font-size: 0.85rem;
-    color: var(--muted);
-    line-height: 1.7;
-    margin-bottom: 0.75rem;
-  }
-
+  .day-body { padding: 1.25rem 1.5rem 1.5rem; }
+  .day-desc { font-size: 0.85rem; color: var(--muted); line-height: 1.75; margin-bottom: 0.75rem; }
   .day-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
-
-  .day-tag {
-    font-size: 0.63rem;
-    font-weight: 500;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 0.2rem 0.55rem;
-    border-radius: 100px;
-    background: var(--fog);
-    color: var(--ocean);
-  }
-
-  .notice {
-    margin-top: 0.75rem;
-    padding: 0.75rem 1rem;
-    background: #FFFBF0;
-    border-left: 3px solid var(--gold);
-    border-radius: 0 8px 8px 0;
-    font-size: 0.78rem;
-    color: #7A5A1A;
-    line-height: 1.6;
-  }
+  .day-tag { font-size: 0.63rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.2rem 0.55rem; border-radius: 100px; background: var(--fog); color: var(--ocean); }
+  .notice { margin-top: 0.75rem; padding: 0.75rem 1rem; background: #FFFBF0; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; font-size: 0.78rem; color: #7A5A1A; line-height: 1.65; }
 
   /* ── LEG DIVIDER ── */
-  .leg-divider {
-    background: var(--deep);
-    color: #fff;
-    padding: 1.25rem 2rem;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin: 2.5rem -2rem;
-  }
-
+  .leg-divider { background: var(--deep); color: #fff; padding: 1.25rem 2rem; display: flex; align-items: center; gap: 1rem; margin: 2.5rem -2rem; }
   .leg-divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.15); }
-
-  .leg-divider-label {
-    font-size: 0.65rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--aurora);
-    font-weight: 500;
-    white-space: nowrap;
-  }
+  .leg-divider-label { font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--aurora); font-weight: 500; white-space: nowrap; }
 
   /* ── TODO ── */
   .todo-grid { display: grid; gap: 0.75rem; }
-
-  .todo-item {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 0;
-    background: #fff;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 1px 8px rgba(26,46,59,0.05);
-  }
-
-  .todo-urgency {
-    padding: 1rem 1.1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
-    font-size: 0.58rem;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    min-width: 36px;
-  }
-
+  .todo-item { display: grid; grid-template-columns: auto 1fr; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 8px rgba(26,46,59,0.05); }
+  .todo-urgency { padding: 1rem 1.1rem; display: flex; align-items: center; justify-content: center; writing-mode: vertical-rl; text-orientation: mixed; font-size: 0.58rem; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; min-width: 36px; }
   .urgency-now { background: #FDECEA; color: #8A2A2A; }
   .urgency-soon { background: #FEF7EC; color: #8A5A1A; }
   .urgency-later { background: #EAF7EE; color: #1A6A3A; }
-
   .todo-content { padding: 0.9rem 1.1rem; }
   .todo-task { font-size: 0.88rem; font-weight: 500; color: var(--deep); margin-bottom: 0.25rem; }
   .todo-detail { font-size: 0.76rem; color: var(--muted); line-height: 1.55; }
 
   /* ── FOOTER ── */
-  .footer {
-    background: var(--deep);
-    color: rgba(255,255,255,0.4);
-    text-align: center;
-    padding: 2.5rem 2rem;
-    font-size: 0.75rem;
-    letter-spacing: 0.05em;
-    line-height: 1.8;
-  }
-
+  .footer { background: var(--deep); color: rgba(255,255,255,0.4); text-align: center; padding: 2.5rem 2rem; font-size: 0.75rem; letter-spacing: 0.05em; line-height: 1.8; }
   .footer strong { color: rgba(255,255,255,0.7); display: block; font-size: 0.85rem; margin-bottom: 0.5rem; }
 
-  /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
     .flight-grid { grid-template-columns: 1fr; }
     .leg-divider { margin: 2rem -2rem; }
     .day-num-block { min-width: 70px; padding: 1rem 1.25rem; }
     .highlights-grid { grid-template-columns: 1fr; }
+    .lang-toggle { top: 0.75rem; right: 0.75rem; }
   }
 </style>
 </head>
 <body>
 
+<!-- LANGUAGE TOGGLE -->
+<div class="lang-toggle">
+  <button class="lang-btn active" onclick="setLang('en')" id="btn-en">EN</button>
+  <button class="lang-btn" onclick="setLang('zh')" id="btn-zh">中文</button>
+</div>
+
 <!-- HERO -->
 <section class="hero">
   <div class="aurora-bar"></div>
-  <p class="hero-eyebrow">November 11 – 24, 2026 &nbsp;·&nbsp; Family of 4</p>
-  <h1>Family Trip to<br><em>Iceland</em></h1>
-  <p class="hero-sub">Singapore &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Reykjavík &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Singapore</p>
+  <p class="hero-eyebrow" data-en="November 11 – 24, 2026 · Family of 4" data-zh="2026年11月11日 – 24日 · 四人家庭之旅">November 11 – 24, 2026 · Family of 4</p>
+  <h1 data-en="Family Trip to<br><em>Iceland</em>" data-zh="冰岛<br><em>家庭之旅</em>">Family Trip to<br><em>Iceland</em></h1>
+  <p class="hero-sub" data-en="Singapore → Frankfurt → Reykjavík → Frankfurt → Singapore" data-zh="新加坡 → 法兰克福 → 雷克雅未克 → 法兰克福 → 新加坡">Singapore &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Reykjavík &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Singapore</p>
   <div class="hero-pills">
-    <span class="pill">Self-drive 4WD SUV</span>
-    <span class="pill">Northern Lights</span>
-    <span class="pill">South Coast</span>
-    <span class="pill">Golden Circle</span>
-    <span class="pill">Blue Lagoon</span>
-    <span class="pill">Frankfurt Christmas Market</span>
+    <span class="pill" data-en="Self-drive 4WD SUV" data-zh="自驾四驱越野车">Self-drive 4WD SUV</span>
+    <span class="pill" data-en="Northern Lights" data-zh="极光观赏">Northern Lights</span>
+    <span class="pill" data-en="South Coast" data-zh="冰岛南岸">South Coast</span>
+    <span class="pill" data-en="Golden Circle" data-zh="黄金圈">Golden Circle</span>
+    <span class="pill" data-en="Blue Lagoon" data-zh="蓝湖温泉">Blue Lagoon</span>
+    <span class="pill" data-en="Frankfurt Christmas Market" data-zh="法兰克福圣诞市集">Frankfurt Christmas Market</span>
   </div>
   <div class="flight-grid">
     <div class="flight-cell">
-      <div class="flight-label">Outbound</div>
-      <div class="flight-detail">SQ326 &nbsp;·&nbsp; SIN 11:05 → FRA 17:40</div>
+      <div class="flight-label" data-en="Outbound" data-zh="去程">Outbound</div>
+      <div class="flight-detail">SQ326 · SIN 11:05 → FRA 17:40</div>
     </div>
     <div class="flight-cell">
-      <div class="flight-label">To Iceland</div>
-      <div class="flight-detail">FI521 &nbsp;·&nbsp; FRA 13:00 → KEF 15:40</div>
+      <div class="flight-label" data-en="To Iceland" data-zh="飞往冰岛">To Iceland</div>
+      <div class="flight-detail">FI521 · FRA 13:00 → KEF 15:40</div>
     </div>
     <div class="flight-cell">
-      <div class="flight-label">From Iceland</div>
-      <div class="flight-detail">FI520 &nbsp;·&nbsp; KEF 07:25 → FRA 12:05</div>
+      <div class="flight-label" data-en="From Iceland" data-zh="离开冰岛">From Iceland</div>
+      <div class="flight-detail">FI520 · KEF 07:25 → FRA 12:05</div>
     </div>
     <div class="flight-cell">
-      <div class="flight-label">Return</div>
-      <div class="flight-detail">SQ325 &nbsp;·&nbsp; FRA 21:40 → SIN +1 17:00</div>
+      <div class="flight-label" data-en="Return" data-zh="回程">Return</div>
+      <div class="flight-detail">SQ325 · FRA 21:40 → SIN +1 17:00</div>
     </div>
   </div>
 </section>
@@ -493,113 +223,88 @@
 <!-- HIGHLIGHTS -->
 <div class="body">
 <section class="section">
-  <p class="section-eyebrow">What awaits you</p>
-  <h2 class="section-title">Trip <span>highlights</span></h2>
+  <p class="section-eyebrow" data-en="What awaits you" data-zh="精彩等你探索">What awaits you</p>
+  <h2 class="section-title"><span data-en="Trip highlights" data-zh="旅程亮点">Trip <span style="color:var(--ocean);font-style:italic">highlights</span></span></h2>
 
   <div class="highlights-grid">
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hallgrimskirkja_2012.JPG/800px-Hallgrimskirkja_2012.JPG" alt="Hallgrímskirkja church, Reykjavík" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/places/ANXAkqEagTmF6V4C56OjJLz8_qAhIDpQzGrhxxJue9yoN88RUybOH2rxqSd1vm9bZ1OKoV8U1A1aqhUtCpqJZgrQmhqXZDGL-L-6AQM=s4800-w800-h600" alt="Hallgrímskirkja" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 13 · Day 2</div>
-        <div class="card-title">Reykjavík city</div>
-        <div class="card-desc">Discover Iceland's capital — the iconic Hallgrímskirkja church, the glittering Harpa concert hall on the harbour, and the charm of the old town. Flat, walkable, and full of character.</div>
-        <div class="card-tags">
-          <span class="card-tag culture">Culture</span>
-          <span class="card-tag food">Food</span>
-        </div>
+        <div class="card-date" data-en="Nov 13 · Day 2" data-zh="11月13日 · 第2天">Nov 13 · Day 2</div>
+        <div class="card-title" data-en="Reykjavík city" data-zh="雷克雅未克市区">Reykjavík city</div>
+        <div class="card-desc" data-en="Discover Iceland's capital — the iconic Hallgrímskirkja church, the glittering Harpa concert hall on the harbour, and the charm of the old town. Flat, walkable, and full of character." data-zh="探索冰岛首都——标志性的哈尔格林姆斯教堂、海港边闪耀的哈帕音乐厅，以及充满魅力的老城区。地势平坦，步行即可游览，魅力十足。">Discover Iceland's capital — the iconic Hallgrímskirkja church, the glittering Harpa concert hall on the harbour, and the charm of the old town.</div>
+        <div class="card-tags"><span class="card-tag culture" data-en="Culture" data-zh="文化">Culture</span><span class="card-tag food" data-en="Food" data-zh="美食">Food</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aurora_Borealis_and_Australis_Poster.jpg/800px-Aurora_Borealis_and_Australis_Poster.jpg" alt="Northern Lights Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweojLrMjpMLq_u-e2_WyuV-4DMFXibt-Wbt_SnYlIXWLDzVMv1M8NxEd_y-0pS9V7D5ir8guEWXWdUdBcExCsUmikQGXqRMe_w4-B-rfbwCiOwMFfXhpNoJ7cFKVgboxIxXJOtEEew=w203-h135-k-no" alt="Northern Lights" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 14 · Night tour</div>
-        <div class="card-title">Northern Lights</div>
-        <div class="card-desc">November's long dark nights give some of the best aurora odds of the year. An expert-guided evening bus tour takes you to the clearest skies — with hot chocolate and a re-try guarantee if clouds interfere.</div>
-        <div class="card-tags">
-          <span class="card-tag aurora">Aurora</span>
-          <span class="card-tag nature">Adventure</span>
-        </div>
+        <div class="card-date" data-en="Nov 14 · Night tour" data-zh="11月14日 · 夜间观光">Nov 14 · Night tour</div>
+        <div class="card-title" data-en="Northern Lights" data-zh="极光奇观">Northern Lights</div>
+        <div class="card-desc" data-en="November's long dark nights give some of the best aurora odds of the year. An expert-guided evening bus tour takes you to the clearest skies — with hot chocolate and a re-try guarantee if clouds interfere." data-zh="11月漫长的黑夜是全年观赏极光的最佳时机之一。专业导游的夜间大巴游，带您前往最清澈的天空——附赠热巧克力，若遇云层遮挡可免费重游。">November's long dark nights give some of the best aurora odds of the year. Expert-guided evening bus tour with hot chocolate and a re-try guarantee.</div>
+        <div class="card-tags"><span class="card-tag aurora" data-en="Aurora" data-zh="极光">Aurora</span><span class="card-tag nature" data-en="Adventure" data-zh="探险">Adventure</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/BL%C3%81_L%C3%93N_2_(cropped).jpg/800px-BL%C3%81_L%C3%93N_2_(cropped).jpg" alt="Blue Lagoon Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAwerlxrX4-F7zsOguG6hz600cAHSwdygoS3-PCOrhh8tCA0MkE3jsc91nn5W0Ibwx3KC6iYA_8LsIA5yCNNUjvY_Fqjv9rGdnBDHJ9A9rwQJD0sG-_gGnjYIxzgmRB8oAZOKRzeIkeQ=s4800-w800-h600" alt="Blue Lagoon" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 16 · Day trip</div>
-        <div class="card-title">Blue Lagoon</div>
-        <div class="card-desc">The world-famous milky-blue geothermal spa set against dramatic lava fields. At 38°C, it's deeply relaxing — silica mud masks, swim-up bar, and a steam room. Gentle enough for everyone in the group.</div>
-        <div class="card-tags">
-          <span class="card-tag relax">Relaxation</span>
-          <span class="card-tag nature">Nature</span>
-        </div>
+        <div class="card-date" data-en="Nov 16 · Day trip" data-zh="11月16日 · 一日游">Nov 16 · Day trip</div>
+        <div class="card-title" data-en="Blue Lagoon" data-zh="蓝湖温泉">Blue Lagoon</div>
+        <div class="card-desc" data-en="The world-famous milky-blue geothermal spa set against dramatic lava fields. At 38°C, deeply relaxing — silica mud masks, swim-up bar, and steam room. Gentle enough for everyone." data-zh="举世闻名的乳白色蓝湖地热温泉，坐落于壮观的熔岩地带。水温38°C，深度放松——白硅泥面膜、泳池吧台和蒸汽浴室，适合全家老小享用。">The world-famous milky-blue geothermal spa. At 38°C, deeply relaxing — silica mud masks, swim-up bar, steam room. Gentle for everyone.</div>
+        <div class="card-tags"><span class="card-tag relax" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="card-tag nature" data-en="Nature" data-zh="自然">Nature</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seljalandsfoss%2C_Iceland_%281%29.jpg/800px-Seljalandsfoss%2C_Iceland_%281%29.jpg" alt="Seljalandsfoss waterfall Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweo_6kCo9jiXJo9RdFJu7XYKysH0LGXEd19pw0Y07Y8trsuzL-b7GO8IlHT2AJuKiPviSqJoOhaDNfxDPWfFpXLKC68hb_qjnzdwgNGx504xHtu_88L50IJL_z6QyQJ6fIvwqUo=s4800-w800-h600" alt="Seljalandsfoss" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 18 · South Coast</div>
-        <div class="card-title">Seljalandsfoss & Skógafoss</div>
-        <div class="card-desc">Two of Iceland's most dramatic waterfalls, a short drive apart on the South Coast. Walk the wide viewing platform at Skógafoss or admire Seljalandsfoss from every angle on its circuit path.</div>
-        <div class="card-tags">
-          <span class="card-tag nature">Nature</span>
-          <span class="card-tag nature">Adventure</span>
-        </div>
+        <div class="card-date" data-en="Nov 18 · South Coast" data-zh="11月18日 · 南岸之行">Nov 18 · South Coast</div>
+        <div class="card-title" data-en="Seljalandsfoss & Skógafoss" data-zh="塞里雅兰瀑布与斯科加瀑布">Seljalandsfoss & Skógafoss</div>
+        <div class="card-desc" data-en="Two of Iceland's most dramatic waterfalls, a short drive apart on the South Coast. Wide accessible platform at Skógafoss, and Seljalandsfoss viewed from every angle." data-zh="冰岛南岸相距不远的两大壮观瀑布。斯科加瀑布设有宽阔无障碍观景台，塞里雅兰瀑布可从各个角度欣赏。">Two of Iceland's most dramatic waterfalls on the South Coast. Wide accessible viewing platform — spectacular in November light.</div>
+        <div class="card-tags"><span class="card-tag nature" data-en="Nature" data-zh="自然">Nature</span><span class="card-tag nature" data-en="Adventure" data-zh="探险">Adventure</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jokulsarlon_glacier_lagoon%2C_Iceland.jpg/800px-Jokulsarlon_glacier_lagoon%2C_Iceland.jpg" alt="Jökulsárlón glacier lagoon Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAwerQ3EsUnHuSDLvJbl0p2ttasAz0JFiA6MNxxlkYZ9FQe8u-taB-xvIkq7aTbmooPvL4-hqqDHKDbMrtYvM3vyQhVuNUwZprDfQyYs-_4vJeyybFNysZXTXHKEl0U7mTJllbhe4nkJ-xrzBU=s4800-w800-h600" alt="Jökulsárlón" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 19 · South Coast</div>
-        <div class="card-title">Jökulsárlón Glacier Lagoon</div>
-        <div class="card-desc">Enormous icebergs drifting silently across a steel-grey lagoon — one of Iceland's most otherworldly sights. Just across the road, Diamond Beach sparkles with ice washed up on black sand.</div>
-        <div class="card-tags">
-          <span class="card-tag nature">Nature</span>
-          <span class="card-tag nature">Adventure</span>
-        </div>
+        <div class="card-date" data-en="Nov 19 · South Coast" data-zh="11月19日 · 南岸之行">Nov 19 · South Coast</div>
+        <div class="card-title" data-en="Jökulsárlón Glacier Lagoon" data-zh="冰川湖与钻石海滩">Jökulsárlón Glacier Lagoon</div>
+        <div class="card-desc" data-en="Enormous icebergs drifting silently across a steel-grey lagoon — one of Iceland's most otherworldly sights. Just across the road, Diamond Beach sparkles with ice on black sand." data-zh="巨大的冰山在钢灰色湖面上静静漂移——冰岛最超凡脱俗的景象之一。马路对面就是钻石海滩，晶莹冰块散落在黑色沙滩上，闪闪发光。">Enormous icebergs drifting across a steel-grey lagoon. Across the road, Diamond Beach sparkles with ice on black sand.</div>
+        <div class="card-tags"><span class="card-tag nature" data-en="Nature" data-zh="自然">Nature</span><span class="card-tag nature" data-en="Adventure" data-zh="探险">Adventure</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Thingvellir.jpg/800px-Thingvellir.jpg" alt="Þingvellir National Park Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAwep9PXixL93tPwfaX7mbrWiK4wmRpxVwSdb7QEoM8UeRcnYp_ztUHXxrZSZjgXhUI_fnORIXoYrvakcYlCdRga8RHCr8fRcBHIoBU5Sxv-N0I66miDWHohrO7XLw9ssfWzYVtRpy=s4800-w800-h600" alt="Þingvellir" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 21 · Golden Circle</div>
-        <div class="card-title">Þingvellir National Park</div>
-        <div class="card-desc">Walk between two tectonic plates in the rift valley where the North American and Eurasian plates pull apart. Also the site of the world's oldest parliament, founded 930 AD. Flat boardwalks — easy for everyone.</div>
-        <div class="card-tags">
-          <span class="card-tag nature">Nature</span>
-          <span class="card-tag culture">History</span>
-        </div>
+        <div class="card-date" data-en="Nov 21 · Golden Circle" data-zh="11月21日 · 黄金圈">Nov 21 · Golden Circle</div>
+        <div class="card-title" data-en="Þingvellir National Park" data-zh="辛格韦德利国家公园">Þingvellir National Park</div>
+        <div class="card-desc" data-en="Walk between two tectonic plates in the rift valley where the North American and Eurasian plates pull apart. Site of the world's oldest parliament, founded 930 AD. Flat boardwalks — easy for everyone." data-zh="漫步于北美板块与欧亚板块的交界裂谷之间，感受大地的力量。这里也是世界上最古老议会的所在地，建于公元930年。步道平坦，适合全家轻松游览。">Walk between two tectonic plates. Also the site of the world's oldest parliament, founded 930 AD. Flat boardwalks, easy for all.</div>
+        <div class="card-tags"><span class="card-tag nature" data-en="Nature" data-zh="自然">Nature</span><span class="card-tag culture" data-en="History" data-zh="历史">History</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gullfoss.jpg/800px-Gullfoss.jpg" alt="Gullfoss waterfall Iceland" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAwepQyJgU9IglY95CEDgNQhHGxS60G1CAPsbNxON3d7QyxZntCCvMsqsC5tioU9fbPxxkfbSU1D775KWVLZXNsPf9-HZvE2GVGMnahIjMt_iJMv3SDsHjTPthMRmi-99CErGt5RA=s4800-w800-h600" alt="Gullfoss" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 21 · Golden Circle</div>
-        <div class="card-title">Geysir & Gullfoss</div>
-        <div class="card-desc">Watch Strokkur geyser erupt 20–30 metres into the air every 5–8 minutes, then marvel at the thundering two-tiered Gullfoss waterfall plunging into a dramatic gorge — especially beautiful in November light.</div>
-        <div class="card-tags">
-          <span class="card-tag nature">Nature</span>
-          <span class="card-tag nature">Adventure</span>
-        </div>
+        <div class="card-date" data-en="Nov 21 · Golden Circle" data-zh="11月21日 · 黄金圈">Nov 21 · Golden Circle</div>
+        <div class="card-title" data-en="Geysir & Gullfoss" data-zh="间歇泉与黄金瀑布">Geysir & Gullfoss</div>
+        <div class="card-desc" data-en="Watch Strokkur geyser erupt 20–30 metres into the air every 5–8 minutes, then marvel at the thundering two-tiered Gullfoss waterfall plunging into a dramatic gorge." data-zh="每隔5至8分钟，斯特罗克间歇泉便喷涌而出，水柱高达20至30米。随后前往壮观的两级黄金瀑布，感受它奔腾入峡谷的磅礴气势。">Strokkur geyser erupts every 5–8 minutes. Then marvel at the thundering two-tiered Gullfoss waterfall in the gorge.</div>
+        <div class="card-tags"><span class="card-tag nature" data-en="Nature" data-zh="自然">Nature</span><span class="card-tag nature" data-en="Adventure" data-zh="探险">Adventure</span></div>
       </div>
     </div>
 
     <div class="highlight-card">
-      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Frankfurt_R%C3%B6merberg.JPG/800px-Frankfurt_R%C3%B6merberg.JPG" alt="Frankfurt Christmas Market Römerberg" onerror="this.style.display='none'">
+      <img class="card-img" src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweq-T5y8ga-D48u64QRytSxnI60unCeihTM0xZI2PM4A-hyjNbDhM4YN8qwmmA8AS8nqNxCVZKOtieQQIb0JXVHqt18Pn62vcEaAoaS3DpyVqADeI6B5DcsbGgLtEvTZnmY7xnDB=s4800-w800-h600" alt="Frankfurt Christmas Market" loading="lazy" onerror="this.parentElement.style.background='linear-gradient(135deg,#1A3346,#2C6E8A)'">
       <div class="card-body">
-        <div class="card-date">Nov 23 · Frankfurt</div>
-        <div class="card-title">Frankfurt Christmas Market</div>
-        <div class="card-desc">The perfect end to the trip. The market opens on exactly the day you're free — Römerberg square lit up with a 30m Christmas tree, half-timbered houses, Glühwein, marzipan, and the warm scent of roasted chestnuts.</div>
-        <div class="card-tags">
-          <span class="card-tag xmas">Christmas</span>
-          <span class="card-tag food">Food</span>
-          <span class="card-tag culture">Culture</span>
-        </div>
+        <div class="card-date" data-en="Nov 23 · Frankfurt" data-zh="11月23日 · 法兰克福">Nov 23 · Frankfurt</div>
+        <div class="card-title" data-en="Frankfurt Christmas Market" data-zh="法兰克福圣诞市集">Frankfurt Christmas Market</div>
+        <div class="card-desc" data-en="The perfect end to the trip. The market opens exactly the day you're free — Römerberg square lit up with a 30m Christmas tree, half-timbered houses, Glühwein, marzipan, and roasted chestnuts." data-zh="旅程完美的收尾。市集恰好在您的自由日开幕——罗马广场上30米高的圣诞树流光溢彩，木骨架建筑环绕四周，热红酒、杏仁糖和烤栗子的香气弥漫空中。">The market opens exactly your free day. Römerberg lit up with a 30m Christmas tree, Glühwein, marzipan and roasted chestnuts.</div>
+        <div class="card-tags"><span class="card-tag xmas" data-en="Christmas" data-zh="圣诞">Christmas</span><span class="card-tag food" data-en="Food" data-zh="美食">Food</span><span class="card-tag culture" data-en="Culture" data-zh="文化">Culture</span></div>
       </div>
     </div>
 
@@ -607,330 +312,279 @@
 </section>
 
 <!-- ITINERARY -->
-<section class="section" style="padding-top: 0;">
-  <p class="section-eyebrow">The full plan</p>
-  <h2 class="section-title">Day-by-day <span>itinerary</span></h2>
+<section class="section" style="padding-top:0">
+  <p class="section-eyebrow" data-en="The full plan" data-zh="完整行程">The full plan</p>
+  <h2 class="section-title"><span data-en="Day-by-day itinerary" data-zh="逐日行程安排">Day-by-day <span style="color:var(--ocean);font-style:italic">itinerary</span></span></h2>
 
-  <!-- Frankfurt outbound -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">Frankfurt · Outbound · Nov 11–12</div>
+    <div class="leg-divider-label" data-en="Frankfurt · Outbound · Nov 11–12" data-zh="法兰克福 · 去程中转 · 11月11-12日">Frankfurt · Outbound · Nov 11–12</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">11</span><span class="weekday">Tue</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">11</span><span class="weekday" data-en="Tue" data-zh="周二">Tue</span></div>
       <div class="day-header-content">
-        <div class="day-location">Frankfurt, Germany</div>
-        <div class="day-title-text">Arrive Frankfurt — airport hotel evening</div>
-        <div class="day-hotel">🏨 <span>Sheraton Frankfurt Airport, Terminal 1</span></div>
+        <div class="day-location" data-en="Frankfurt, Germany" data-zh="德国法兰克福">Frankfurt, Germany</div>
+        <div class="day-title-text" data-en="Arrive Frankfurt — airport hotel evening" data-zh="抵达法兰克福 — 机场酒店住一晚">Arrive Frankfurt — airport hotel evening</div>
+        <div class="day-hotel">🏨 <span data-en="Sheraton Frankfurt Airport, Terminal 1" data-zh="法兰克福机场喜来登酒店，1号航站楼">Sheraton Frankfurt Airport, Terminal 1</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — it's connected to Terminal 1, no transfer needed. Dinner at the hotel restaurant. Early night — you've been travelling since morning Singapore time.</p>
-      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Rest</span></div>
+      <p class="day-desc" data-en="SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — it's connected to Terminal 1, no transfer needed. Dinner at the hotel restaurant. Early night — you've been travelling since morning Singapore time." data-zh="SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒店——酒店与1号航站楼直接相连，无需转乘。在酒店餐厅用晚餐。早早休息——从新加坡早上出发已飞行一整天。">SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — connected to Terminal 1, no transfer needed. Dinner at hotel. Early night.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Rest" data-zh="休息">Rest</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">12</span><span class="weekday">Wed</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">12</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span></div>
       <div class="day-header-content">
-        <div class="day-location">Frankfurt → Keflavík → Reykjavík</div>
-        <div class="day-title-text">Relaxed morning → fly to Iceland</div>
-        <div class="day-hotel">🏨 <span>Reykjavík city hotel (night 1 of 7)</span> &nbsp;·&nbsp; 🚗 Pick up 4WD SUV at KEF</div>
+        <div class="day-location" data-en="Frankfurt → Keflavík → Reykjavík" data-zh="法兰克福 → 凯夫拉维克 → 雷克雅未克">Frankfurt → Keflavík → Reykjavík</div>
+        <div class="day-title-text" data-en="Relaxed morning → fly to Iceland" data-zh="悠闲早晨 → 飞往冰岛">Relaxed morning → fly to Iceland</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík city hotel (night 1 of 7)" data-zh="雷克雅未克市区酒店（第1晚，共7晚）">Reykjavík city hotel (night 1 of 7)</span> · 🚗 <span data-en="Pick up 4WD SUV at KEF" data-zh="在凯夫拉维克机场取租车">Pick up 4WD SUV at KEF</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Hotel breakfast, browse Terminal 1 shops. SkyLine train to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local time. Pick up rental car at the airport. Drive to Reykjavík (~45 min). Check in, easy dinner.</p>
-      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Car pick-up</span></div>
-      <div class="notice">⚠ Note: FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals and allow time for this.</div>
+      <p class="day-desc" data-en="Hotel breakfast, browse Terminal 1 shops. SkyLine train to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local time. Pick up rental car at the airport. Drive to Reykjavík (~45 min). Check in, easy dinner." data-zh="酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:00出发，当地时间15:40抵达凯夫拉维克。机场取租车，驾车前往雷克雅未克（约45分钟）。入住酒店，享用轻松晚餐。">Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, arrives KEF 15:40 local. Pick up rental car. Drive to Reykjavík (~45 min).</p>
+      <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Car pick-up" data-zh="取租车">Car pick-up</span></div>
+      <div class="notice" data-en="⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals." data-zh="⚠ FI521从2号航站楼出发。喜来登酒店位于1号航站楼。请乘坐约2分钟的SkyLine列车在航站楼间转乘，留出足够时间。">⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals.</div>
     </div>
   </div>
 
-  <!-- Reykjavik -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">Reykjavík Base · Nov 12–17 · Car parked</div>
+    <div class="leg-divider-label" data-en="Reykjavík Base · Nov 12–17 · Car parked" data-zh="雷克雅未克驻点 · 11月12-17日 · 车停酒店">Reykjavík Base · Nov 12–17 · Car parked</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">13</span><span class="weekday">Thu</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">13</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span></div>
       <div class="day-header-content">
-        <div class="day-location">Reykjavík</div>
-        <div class="day-title-text">First full day — orientation</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
+        <div class="day-title-text" data-en="First full day — orientation" data-zh="第一个完整游览日 — 熟悉城市">First full day — orientation</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked" data-zh="车停酒店">Car parked</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. City centre is compact and walkable — no driving needed. Dinner at Reykjavík Kitchen (book in advance) — try the lamb shank and Arctic char.</p>
-      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Food</span></div>
+      <p class="day-desc" data-en="Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. City centre is compact and walkable — no driving needed. Dinner at Reykjavík Kitchen (book in advance) — try the lamb shank and Arctic char." data-zh="参观哈尔格林姆斯教堂、哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。">Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">14</span><span class="weekday">Fri</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">14</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span></div>
       <div class="day-header-content">
-        <div class="day-location">Reykjavík</div>
-        <div class="day-title-text">Aurora museum + Northern Lights tour</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked — join bus tour</div>
+        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
+        <div class="day-title-text" data-en="Aurora museum + Northern Lights tour" data-zh="极光博物馆 + 极光夜游">Aurora museum + Northern Lights tour</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked — join bus tour" data-zh="车停酒店 — 参加大巴游">Car parked — join bus tour</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Morning: Aurora Reykjavík museum — seated, accessible, a fascinating introduction to the science behind the lights. Evening: join an organised Northern Lights bus tour (hot chocolate included, free re-try on cloudy nights). Leave the car at the hotel — guides know where to find clear skies.</p>
-      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Aurora</span><span class="day-tag">Adventure</span></div>
+      <p class="day-desc" data-en="Morning: Aurora Reykjavík museum — seated, accessible, fascinating intro to the science of auroras. Evening: organised Northern Lights bus tour (hot chocolate included, free re-try on cloudy nights). Leave the car at the hotel." data-zh="上午：参观极光博物馆——有座位、无障碍设施，生动介绍极光的科学原理。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。">Morning: Aurora Reykjavík museum — seated, accessible. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Aurora" data-zh="极光">Aurora</span><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">15</span><span class="weekday">Sat</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">15</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span></div>
       <div class="day-header-content">
-        <div class="day-location">Reykjavík</div>
-        <div class="day-title-text">National Museum & Settlement Exhibition</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
+        <div class="day-title-text" data-en="National Museum & Settlement Exhibition" data-zh="国家博物馆与定居展览馆">National Museum & Settlement Exhibition</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked" data-zh="车停酒店">Car parked</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood in a warm, rustic setting.</p>
-      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">History</span><span class="day-tag">Food</span></div>
+      <p class="day-desc" data-en="Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood." data-zh="参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理，环境温馨质朴。">Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">16</span><span class="weekday">Sun</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">16</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span></div>
       <div class="day-header-content">
-        <div class="day-location">Blue Lagoon, Grindavík</div>
-        <div class="day-title-text">Blue Lagoon geothermal spa</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Self-drive ~50 min each way</div>
+        <div class="day-location" data-en="Blue Lagoon, Grindavík" data-zh="蓝湖，格林达维克">Blue Lagoon, Grindavík</div>
+        <div class="day-title-text" data-en="Blue Lagoon geothermal spa" data-zh="蓝湖地热温泉">Blue Lagoon geothermal spa</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Self-drive ~50 min each way" data-zh="自驾约50分钟（单程）">Self-drive ~50 min each way</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Drive ~50 min via Route 43 to the world-famous milky-blue geothermal spa. Pre-book the Comfort or Signature package on bluelagoon.com — includes robe, silica mask, and a drink. Water is 38°C and gentle on the body — perfect for all ages. Drive back to Reykjavík after.</p>
-      <div class="day-tags"><span class="day-tag">Relaxation</span><span class="day-tag">Nature</span><span class="day-tag">Self-drive</span></div>
+      <p class="day-desc" data-en="Drive ~50 min via Route 43. Pre-book Comfort or Signature package on bluelagoon.com — includes robe, silica mask, and a drink. Water is 38°C, gentle on the body — perfect for all ages. Drive back to Reykjavík after." data-zh="沿43号公路自驾约50分钟。在bluelagoon.com提前预订舒适或高级套餐——含浴袍、白硅泥面膜及一杯饮料。水温38°C，温和养身——适合全家各年龄段。游览后驾车返回雷克雅未克。">Drive ~50 min via Route 43. Pre-book Comfort or Signature package. 38°C geothermal water, silica masks. Perfect for all ages. Drive back after.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">17</span><span class="weekday">Mon</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">17</span><span class="weekday" data-en="Mon" data-zh="周一">Mon</span></div>
       <div class="day-header-content">
-        <div class="day-location">Reykjavík</div>
-        <div class="day-title-text">Rest day — city wander & local pools</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
+        <div class="day-title-text" data-en="Rest day — city wander & local pools" data-zh="休闲日 — 逛街漫步与本地温泉">Rest day — city wander & local pools</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel" data-zh="雷克雅未克酒店">Reykjavík hotel</span> · 🚗 <span data-en="Car parked" data-zh="车停酒店">Car parked</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local geothermal pool — fewer tourists, authentic local atmosphere. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance).</p>
-      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Relaxation</span><span class="day-tag">Food</span></div>
+      <p class="day-desc" data-en="Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local geothermal pool — fewer tourists, authentic local atmosphere. Evening: Grillmarkaðurinn for a splurge-worthy dinner." data-zh="漫步劳格韦格尔购物街、参观雷克雅未克艺术博物馆、欣赏特约尔宁湖。可选：游览本地Laugardalslaug温泉——游客少，原汁原味的本地氛围。晚餐前往Grillmarkaðurinn享用值得一试的豪华冰岛料理。">Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local pool. Evening: Grillmarkaðurinn splurge dinner.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
     </div>
   </div>
 
-  <!-- South Coast -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">South Coast Excursion · Nov 18–19 · 2 nights out</div>
+    <div class="leg-divider-label" data-en="South Coast Excursion · Nov 18–19 · 2 nights out" data-zh="南岸之旅 · 11月18-19日 · 外出住两晚">South Coast Excursion · Nov 18–19 · 2 nights out</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">18</span><span class="weekday">Tue</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">18</span><span class="weekday" data-en="Tue" data-zh="周二">Tue</span></div>
       <div class="day-header-content">
-        <div class="day-location">South Coast — Seljalandsfoss · Skógafoss · Vík</div>
-        <div class="day-title-text">Waterfalls & black sand beach</div>
-        <div class="day-hotel">🏨 <span>Hotel near Vík</span> &nbsp;·&nbsp; 🚗 ~190 km · ~2h 30min driving</div>
+        <div class="day-location" data-en="South Coast — Seljalandsfoss · Skógafoss · Vík" data-zh="南岸 — 塞里雅兰 · 斯科加 · 维克">South Coast — Seljalandsfoss · Skógafoss · Vík</div>
+        <div class="day-title-text" data-en="Waterfalls & black sand beach" data-zh="瀑布与黑沙滩">Waterfalls & black sand beach</div>
+        <div class="day-hotel">🏨 <span data-en="Hotel near Vík" data-zh="维克附近酒店">Hotel near Vík</span> · 🚗 <span data-en="~190 km · ~2h 30min driving" data-zh="约190公里 · 约2.5小时车程">~190 km · ~2h 30min driving</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Reykjavík → Seljalandsfoss (1h 45min) — walk around the falls, not behind in November as the path ices over. Skógafoss (30 min further) — wide accessible platform, powerful curtain of water. Reynisfjara black sand beach — dramatic basalt columns, but stay well back from the waves. Overnight near Vík.</p>
-      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">Nature</span><span class="day-tag">Self-drive</span></div>
-      <div class="notice">Check road.is before leaving Reykjavík. Fill up with fuel in the city — stations are sparse on the South Coast. Sunrise ~10:00, sunset ~16:00: plan stops around daylight.</div>
+      <p class="day-desc" data-en="Reykjavík → Seljalandsfoss (1h 45min) — walk around the falls, not behind in November as the path ices over. Skógafoss (30 min further) — wide accessible platform. Reynisfjara black sand beach — stay well back from the waves. Overnight near Vík." data-zh="雷克雅未克 → 塞里雅兰瀑布（1小时45分钟）——11月路面结冰，绕行瀑布而非穿越瀑布后方。斯科加瀑布（再行30分钟）——宽阔无障碍观景台。雷尼斯菲亚拉黑沙滩——切勿靠近海浪。在维克附近住一晚。">Seljalandsfoss (walk around, not behind in Nov). Skógafoss wide accessible platform. Reynisfjara black beach — stay back from waves. Overnight near Vík.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Self-drive" data-zh="自驾">Self-drive</span></div>
+      <div class="notice" data-en="Check road.is before leaving Reykjavík. Fill up with fuel in the city — stations are sparse on the South Coast. Sunrise ~10:00, sunset ~16:00." data-zh="出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:00，合理安排停留时间。">Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:00.</div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">19</span><span class="weekday">Wed</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">19</span><span class="weekday" data-en="Wed" data-zh="周三">Wed</span></div>
       <div class="day-header-content">
-        <div class="day-location">Jökulsárlón · Diamond Beach → Reykjavík</div>
-        <div class="day-title-text">Glacier lagoon & Diamond Beach</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel (nights 6–7)</span> &nbsp;·&nbsp; 🚗 ~375 km · longest day</div>
+        <div class="day-location" data-en="Jökulsárlón · Diamond Beach → Reykjavík" data-zh="冰川湖 · 钻石海滩 → 雷克雅未克">Jökulsárlón · Diamond Beach → Reykjavík</div>
+        <div class="day-title-text" data-en="Glacier lagoon & Diamond Beach" data-zh="冰川湖与钻石海滩">Glacier lagoon & Diamond Beach</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel (nights 6–7)" data-zh="雷克雅未克酒店（第6-7晚）">Reykjavík hotel (nights 6–7)</span> · 🚗 <span data-en="~375 km · longest day" data-zh="约375公里 · 全程最长驾驶日">~375 km · longest day</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Vík → Jökulsárlón (~2h 30min). Enormous icebergs drifting silently across the lagoon — one of Iceland's most magical sights. Diamond Beach is directly across the road — ice chunks glittering on black sand. Return to Reykjavík (~4h drive). Leave Vík by 08:30 to maximise daylight at the lagoon.</p>
-      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">Nature</span><span class="day-tag">~6h driving</span></div>
+      <p class="day-desc" data-en="Vík → Jökulsárlón (~2h 30min). Enormous icebergs drifting silently across the lagoon. Diamond Beach directly across the road — ice glittering on black sand. Return to Reykjavík (~4h). Leave Vík by 08:30 to maximise daylight." data-zh="维克 → 杰古沙龙冰川湖（约2.5小时）。巨大冰山静静漂浮在湖面上。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返回雷克雅未克（约4小时）。08:30前离开维克，充分利用白昼时间。">Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach across the road. Return to Reykjavík (~4h). Leave Vík by 08:30.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="~6h driving" data-zh="约6小时驾驶">~6h driving</span></div>
     </div>
   </div>
 
-  <!-- Recovery + Golden Circle -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">Recovery + Golden Circle · Nov 20–21</div>
+    <div class="leg-divider-label" data-en="Recovery + Golden Circle · Nov 20–21" data-zh="休整 + 黄金圈 · 11月20-21日">Recovery + Golden Circle · Nov 20–21</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">20</span><span class="weekday">Thu</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">20</span><span class="weekday" data-en="Thu" data-zh="周四">Thu</span></div>
       <div class="day-header-content">
-        <div class="day-location">Reykjavík</div>
-        <div class="day-title-text">Recovery — Laugardalslaug local pool</div>
-        <div class="day-hotel">🏨 <span>Reykjavík hotel (last night)</span> &nbsp;·&nbsp; 🚗 Car parked · pack bags tonight</div>
+        <div class="day-location" data-en="Reykjavík" data-zh="雷克雅未克">Reykjavík</div>
+        <div class="day-title-text" data-en="Recovery — Laugardalslaug local pool" data-zh="休整日 — 本地温泉池">Recovery — Laugardalslaug local pool</div>
+        <div class="day-hotel">🏨 <span data-en="Reykjavík hotel (last night)" data-zh="雷克雅未克酒店（最后一晚）">Reykjavík hotel (last night)</span> · 🚗 <span data-en="Car parked · pack bags tonight" data-zh="车停酒店 · 今晚打包行李">Car parked · pack bags tonight</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Reykjavík's beloved local geothermal pool — far fewer tourists than the Blue Lagoon, with hot pots, steam rooms, and locals going about their day. Gentle afternoon rest. Light dinner out. Pack all bags tonight — tomorrow you drive directly to the KEF airport hotel without returning to Reykjavík.</p>
-      <div class="day-tags"><span class="day-tag">Relaxation</span><span class="day-tag">Local life</span></div>
+      <p class="day-desc" data-en="Reykjavík's beloved local geothermal pool — far fewer tourists than the Blue Lagoon, with hot pots, steam rooms, and locals going about their day. Gentle afternoon rest. Light dinner out. Pack all bags tonight." data-zh="雷克雅未克备受当地人喜爱的地热温泉——游客远少于蓝湖，设有热水池和蒸汽浴室，充满本地生活气息。下午轻松休息。出门享用便餐。今晚打包所有行李——明天直接开车前往凯夫拉维克机场酒店，不再返回雷克雅未克。">Beloved local geothermal pool — far fewer tourists than Blue Lagoon. Hot pots, steam rooms, local atmosphere. Pack all bags tonight.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Relaxation" data-zh="放松">Relaxation</span><span class="day-tag" data-en="Local life" data-zh="本地体验">Local life</span></div>
     </div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block"><span class="month">Nov</span><span class="num">21</span><span class="weekday">Fri</span></div>
+      <div class="day-num-block"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">21</span><span class="weekday" data-en="Fri" data-zh="周五">Fri</span></div>
       <div class="day-header-content">
-        <div class="day-location">Golden Circle → Keflavík airport area</div>
-        <div class="day-title-text">Golden Circle → drive to KEF hotel</div>
-        <div class="day-hotel">🏨 <span>Courtyard by Marriott Keflavík Airport</span> &nbsp;·&nbsp; 🚗 ~220 km · Car drop-off this evening</div>
+        <div class="day-location" data-en="Golden Circle → Keflavík airport area" data-zh="黄金圈 → 凯夫拉维克机场周边">Golden Circle → Keflavík airport area</div>
+        <div class="day-title-text" data-en="Golden Circle → drive to KEF hotel" data-zh="黄金圈一日游 → 驾车前往机场酒店">Golden Circle → drive to KEF hotel</div>
+        <div class="day-hotel">🏨 <span data-en="Courtyard by Marriott Keflavík Airport" data-zh="凯夫拉维克机场万怡酒店">Courtyard by Marriott Keflavík Airport</span> · 🚗 <span data-en="~220 km · Car drop-off this evening" data-zh="约220公里 · 今晚还车">~220 km · Car drop-off this evening</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Leave Reykjavík by 09:00 with bags loaded. Þingvellir National Park (flat boardwalks, walk between tectonic plates) → Geysir (Strokkur erupts every 5–8 min) → Gullfoss waterfall (upper platform) → Kerið volcanic crater → Secret Lagoon in Flúðir (book in advance). Drive southwest ~1h to Keflavík hotel — naturally on the route, no backtracking. Return rental car at KEF airport this evening.</p>
-      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">History</span><span class="day-tag">Nature</span><span class="day-tag">Car return</span></div>
-      <div class="notice">Fuel up at the N1 station near the Courtyard before returning the car. Arrange your hotel airport shuttle for tomorrow morning tonight at reception.</div>
+      <p class="day-desc" data-en="Leave Reykjavík by 09:00 with bags loaded. Þingvellir (flat boardwalks) → Geysir (Strokkur erupts every 5–8 min) → Gullfoss (upper platform) → Kerið crater → Secret Lagoon in Flúðir. Drive southwest to Keflavík hotel. Return rental car at KEF airport this evening." data-zh="09:00前装好行李出发。辛格韦德利（平坦木栈道）→ 盖歇尔（斯特罗克间歇泉每5-8分钟喷发一次）→ 黄金瀑布（上层观景台）→ 克里苏维克火山口 → 弗鲁希尔秘密温泉。向西南驱车前往凯夫拉维克酒店，今晚在机场还车。">Leave Reykjavík by 09:00 with bags. Þingvellir → Geysir → Gullfoss → Kerið crater → Secret Lagoon. Drive to KEF hotel. Return rental car at airport this evening.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="Car return" data-zh="还车">Car return</span></div>
+      <div class="notice" data-en="Fuel up at the N1 station near the Courtyard before returning the car. Arrange your hotel airport shuttle for tomorrow morning tonight at reception." data-zh="还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。">Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight.</div>
     </div>
   </div>
 
-  <!-- Departure -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">Departure · Nov 22 · Early morning</div>
+    <div class="leg-divider-label" data-en="Departure · Nov 22 · Early morning" data-zh="离境 · 11月22日 · 清晨出发">Departure · Nov 22 · Early morning</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block" style="background:#8A2A2A;"><span class="month">Nov</span><span class="num">22</span><span class="weekday">Sat</span></div>
+      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">22</span><span class="weekday" data-en="Sat" data-zh="周六">Sat</span></div>
       <div class="day-header-content">
-        <div class="day-location">Keflavík → Frankfurt city</div>
-        <div class="day-title-text">Early flight → arrive Frankfurt city</div>
-        <div class="day-hotel">🏨 <span>Steigenberger Frankfurter Hof, Frankfurt city centre</span></div>
+        <div class="day-location" data-en="Keflavík → Frankfurt city" data-zh="凯夫拉维克 → 法兰克福市区">Keflavík → Frankfurt city</div>
+        <div class="day-title-text" data-en="Early flight → arrive Frankfurt city" data-zh="早班机 → 抵达法兰克福市区">Early flight → arrive Frankfurt city</div>
+        <div class="day-hotel">🏨 <span data-en="Steigenberger Frankfurter Hof, Frankfurt city centre" data-zh="斯泰根博格法兰克福大酒店，市区中心">Steigenberger Frankfurter Hof, Frankfurt city centre</span></div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">Wake-up 04:45. Hotel shuttle to KEF (~5 min) — arrange the night before. At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to city hotel. Check in ~14:00, freshen up, rest. Then head out for a proper dinner in Frankfurt — Sachsenhausen district or the hotel's own restaurant. A genuine city evening before the Christmas market tomorrow.</p>
-      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Food</span><span class="day-tag">Frankfurt</span></div>
-      <div class="notice">⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15</div>
+      <p class="day-desc" data-en="Wake-up 04:45. Hotel shuttle to KEF (~5 min). At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to city hotel. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt — Sachsenhausen district or the hotel's own restaurant." data-zh="04:45起床。乘酒店班车前往凯夫拉维克机场（约5分钟）。05:30抵达机场。FI520航班07:25起飞，12:05抵达法兰克福。打车或乘坐S-Bahn（约30分钟）前往市区酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区或酒店餐厅享用正式晚餐——为明天的圣诞市集养精蓄锐。">Wake-up 04:45. Hotel shuttle to KEF (~5 min). FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn to city hotel. Rest, then dinner in Sachsenhausen or hotel restaurant.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Frankfurt" data-zh="法兰克福">Frankfurt</span></div>
+      <div class="notice" data-en="⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15" data-zh="⚠ 早起提醒：04:45起床 · 前一晚打包行李 · 提前预约班车 · 05:15前离开酒店">⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15</div>
     </div>
   </div>
 
-  <!-- Frankfurt return -->
   <div class="leg-divider">
     <div class="leg-divider-line"></div>
-    <div class="leg-divider-label">Frankfurt · Return · Nov 23 · Christmas Market opens!</div>
+    <div class="leg-divider-label" data-en="Frankfurt · Return · Nov 23 · Christmas Market opens!" data-zh="法兰克福 · 返程 · 11月23日 · 圣诞市集开幕！">Frankfurt · Return · Nov 23 · Christmas Market opens!</div>
     <div class="leg-divider-line"></div>
   </div>
 
   <div class="day-section">
     <div class="day-header">
-      <div class="day-num-block" style="background:#8A2A2A;"><span class="month">Nov</span><span class="num">23</span><span class="weekday">Sun</span></div>
+      <div class="day-num-block" style="background:#8A2A2A"><span class="month" data-en="Nov" data-zh="11月">Nov</span><span class="num">23</span><span class="weekday" data-en="Sun" data-zh="周日">Sun</span></div>
       <div class="day-header-content">
-        <div class="day-location">Frankfurt · Römerberg Christmas Market</div>
-        <div class="day-title-text">Christmas market — then home</div>
-        <div class="day-hotel">🏨 <span>Check out · Luggage storage at hotel</span> &nbsp;·&nbsp; SQ325 FRA 21:40 → SIN +1 17:00</div>
+        <div class="day-location" data-en="Frankfurt · Römerberg Christmas Market" data-zh="法兰克福 · 罗马广场圣诞市集">Frankfurt · Römerberg Christmas Market</div>
+        <div class="day-title-text" data-en="Christmas market — then home" data-zh="圣诞市集 — 然后回家">Christmas market — then home</div>
+        <div class="day-hotel">🏨 <span data-en="Check out · Luggage storage at hotel" data-zh="退房 · 行李寄存酒店">Check out · Luggage storage at hotel</span> · SQ325 FRA 21:40 → SIN +1 17:00</div>
       </div>
     </div>
     <div class="day-body">
-      <p class="day-desc">The Frankfurt Christmas market opens today — and Römerberg square is a 10-minute walk from the hotel. Stroll there after breakfast. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, and the Mainkai riverside stalls. Parents can rest at the hotel mid-afternoon and rejoin. Store bags at hotel. Leave for airport by 18:30 — S-Bahn S8/S9 from Hauptwache (5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Depart 21:40. Arrive Singapore Nov 24 ~17:00.</p>
-      <div class="day-tags"><span class="day-tag">Christmas market</span><span class="day-tag">Food</span><span class="day-tag">Culture</span></div>
-      <div class="notice">✓ Perfect timing: Market opens exactly today. Hotel is 10-min walk to Römerberg. S-Bahn to airport takes ~15 min from Hauptwache (5-min walk). SQ325 departs T1 — no rush.</div>
+      <p class="day-desc" data-en="The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Leave for airport by 18:30 — S-Bahn from Hauptwache (~5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Arrive Singapore Nov 24 ~17:00." data-zh="法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。18:30前出发前往机场——从豪普特瓦赫乘坐S-Bahn（步行约5分钟，约15分钟到机场）。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。">Market opens today — 10-min walk from hotel. 30m Christmas tree, Glühwein, marzipan, chestnuts. Parents can rest mid-afternoon. Leave for airport by 18:30 — S-Bahn from Hauptwache (~15 min). Arrive Singapore Nov 24 ~17:00.</p>
+      <div class="day-tags"><span class="day-tag" data-en="Christmas market" data-zh="圣诞市集">Christmas market</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span></div>
+      <div class="notice" data-en="✓ Perfect timing: Market opens exactly today. Hotel is 10-min walk to Römerberg. S-Bahn to airport ~15 min from Hauptwache (5-min walk)." data-zh="✓ 时机完美：市集恰好今日开幕。酒店步行10分钟即到罗马广场。从豪普特瓦赫步行5分钟乘坐S-Bahn，约15分钟到达机场。">✓ Perfect timing: Market opens exactly today. Hotel is 10-min walk to Römerberg. S-Bahn to airport ~15 min from Hauptwache.</div>
     </div>
   </div>
-
 </section>
 
 <!-- TODO -->
-<section class="section" style="background: #fff; max-width: 100%; padding: 5rem 2rem;">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <p class="section-eyebrow">Action list</p>
-    <h2 class="section-title">What to <span>book</span></h2>
+<section class="section" style="background:#fff;max-width:100%;padding:5rem 2rem">
+  <div style="max-width:1100px;margin:0 auto">
+    <p class="section-eyebrow" data-en="Action list" data-zh="待办事项">Action list</p>
+    <h2 class="section-title"><span data-en="What to book" data-zh="需要预订的项目">What to <span style="color:var(--ocean);font-style:italic">book</span></span></h2>
 
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem">
       <div>
-        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A2A2A;margin-bottom:1rem;">Do now — urgent</p>
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A2A2A;margin-bottom:1rem" data-en="Do now — urgent" data-zh="立即办理 — 紧急">Do now — urgent</p>
         <div class="todo-grid">
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Sheraton Frankfurt Airport — Nov 11 (outbound)</div><div class="todo-detail">T1, walks directly to hotel from arrivals</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Steigenberger Frankfurter Hof — Nov 22–23 (return)</div><div class="todo-detail">City centre, 10-min walk to Christmas market. Fills fast on opening weekend.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Courtyard by Marriott Keflavík — Nov 21</div><div class="todo-detail">Pre-departure night near airport. Confirm shuttle.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Reykjavík hotel — Nov 12–17 & Nov 19–20 (7 nights)</div><div class="todo-detail">Central location, walkable to city sights.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Hotel near Vík — Nov 18 (1 night)</div><div class="todo-detail">Very limited options. Hótel Katla or Icelandair Hotel Vík.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Blue Lagoon — Nov 16, Comfort or Signature package</div><div class="todo-detail">Sells out weeks ahead. Book at bluelagoon.com.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-now">Now</div>
-            <div class="todo-content"><div class="todo-task">Rental car — 4WD SUV, KEF Nov 12–21 (10 days)</div><div class="todo-detail">Full CDW + gravel/sand protection + winter tyres. Hertz, Lotus or Geysir.</div></div>
-          </div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Sheraton Frankfurt Airport — Nov 11 (outbound)" data-zh="法兰克福机场喜来登酒店 — 11月11日（去程）">Sheraton Frankfurt Airport — Nov 11</div><div class="todo-detail" data-en="T1, walks directly to hotel from arrivals" data-zh="1号航站楼，入境后步行直达酒店">T1, walks directly to hotel from arrivals</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Steigenberger Frankfurter Hof — Nov 22–23 (return)" data-zh="斯泰根博格法兰克福大酒店 — 11月22-23日（返程）">Steigenberger Frankfurter Hof — Nov 22–23</div><div class="todo-detail" data-en="City centre, 10-min walk to Christmas market. Fills fast on opening weekend." data-zh="市中心，步行10分钟到圣诞市集。开市周末预订极快，需尽早。">City centre, 10-min walk to Christmas market. Fills fast.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Courtyard by Marriott Keflavík — Nov 21" data-zh="凯夫拉维克机场万怡酒店 — 11月21日">Courtyard by Marriott Keflavík — Nov 21</div><div class="todo-detail" data-en="Pre-departure night near airport. Confirm shuttle." data-zh="离境前一晚，近机场。确认班车服务。">Pre-departure night near airport. Confirm shuttle.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Reykjavík hotel — Nov 12–17 & Nov 19–20 (7 nights)" data-zh="雷克雅未克酒店 — 11月12-17日及19-20日（共7晚）">Reykjavík hotel — Nov 12–17 & 19–20 (7 nights)</div><div class="todo-detail" data-en="Central location, walkable to city sights." data-zh="市区中心位置，步行可达各大景点。">Central location, walkable to city sights.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Hotel near Vík — Nov 18 (1 night)" data-zh="维克附近酒店 — 11月18日（1晚）">Hotel near Vík — Nov 18 (1 night)</div><div class="todo-detail" data-en="Very limited options. Hótel Katla or Icelandair Hotel Vík." data-zh="选择极少，需尽快预订。推荐Hótel Katla或冰岛航空维克酒店。">Very limited options. Hótel Katla or Icelandair Hotel Vík.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Blue Lagoon — Nov 16, Comfort or Signature package" data-zh="蓝湖温泉 — 11月16日，舒适套餐或高级套餐">Blue Lagoon — Nov 16, Comfort or Signature</div><div class="todo-detail" data-en="Sells out weeks ahead. Book at bluelagoon.com." data-zh="提前数周即售罄。请在bluelagoon.com预订。">Sells out weeks ahead. Book at bluelagoon.com.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-now" data-en="Now" data-zh="立即">Now</div><div class="todo-content"><div class="todo-task" data-en="Rental car — 4WD SUV, KEF Nov 12–21 (10 days)" data-zh="租车 — 四驱SUV，凯夫拉维克11月12-21日（10天）">Rental car — 4WD SUV, KEF Nov 12–21</div><div class="todo-detail" data-en="Full CDW + gravel/sand protection + winter tyres. Hertz, Lotus or Geysir." data-zh="全额碰撞险 + 碎石/沙尘保护 + 冬季轮胎。可选Hertz、Lotus或Geysir。">Full CDW + gravel/sand protection + winter tyres.</div></div></div>
         </div>
       </div>
-
       <div>
-        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A5A1A;margin-bottom:1rem;">Do soon — 1–2 months out</p>
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A5A1A;margin-bottom:1rem" data-en="Do soon — 1–2 months out" data-zh="尽快办理 — 1至2个月内">Do soon — 1–2 months out</p>
         <div class="todo-grid">
-          <div class="todo-item">
-            <div class="todo-urgency urgency-soon">Soon</div>
-            <div class="todo-content"><div class="todo-task">Northern Lights tour — Nov 14 evening</div><div class="todo-detail">Choose operator with free re-try policy. Northern Lights Bus or Tröll Expeditions.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-soon">Soon</div>
-            <div class="todo-content"><div class="todo-task">Secret Lagoon — Nov 21</div><div class="todo-detail">Small capacity, book a time slot at secretlagoon.is.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-soon">Soon</div>
-            <div class="todo-content"><div class="todo-task">Dinner reservations — Reykjavík Kitchen (Nov 13) & Grillmarkaðurinn (Nov 17)</div><div class="todo-detail">Both popular, book a few weeks in advance.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-soon">Soon</div>
-            <div class="todo-content"><div class="todo-task">Buy Yaktrax ice cleats — 2 pairs for parents</div><div class="todo-detail">Essential for icy November paths at waterfalls and craters.</div></div>
-          </div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Northern Lights tour — Nov 14 evening" data-zh="极光夜游 — 11月14日晚">Northern Lights tour — Nov 14 evening</div><div class="todo-detail" data-en="Choose operator with free re-try policy. Northern Lights Bus or Tröll Expeditions." data-zh="选择提供免费重游保障的运营商。推荐Northern Lights Bus或Tröll Expeditions。">Choose operator with free re-try. Northern Lights Bus or Tröll Expeditions.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Secret Lagoon — Nov 21" data-zh="秘密温泉 — 11月21日">Secret Lagoon — Nov 21</div><div class="todo-detail" data-en="Small capacity, book a time slot at secretlagoon.is." data-zh="容量有限，请在secretlagoon.is提前预订时段。">Small capacity, book at secretlagoon.is.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Dinner reservations — Reykjavík Kitchen (Nov 13) & Grillmarkaðurinn (Nov 17)" data-zh="餐厅预订 — 雷克雅未克厨房（11月13日）及Grillmarkaðurinn（11月17日）">Dinner reservations — Reykjavík Kitchen & Grillmarkaðurinn</div><div class="todo-detail" data-en="Both popular, book a few weeks in advance." data-zh="两家餐厅均热门，需提前数周预订。">Both popular, book a few weeks in advance.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-soon" data-en="Soon" data-zh="尽快">Soon</div><div class="todo-content"><div class="todo-task" data-en="Buy Yaktrax ice cleats — 2 pairs for parents" data-zh="购买Yaktrax防滑冰爪 — 为父母各备一副">Buy Yaktrax ice cleats — 2 pairs for parents</div><div class="todo-detail" data-en="Essential for icy November paths at waterfalls and craters." data-zh="11月冰岛路面湿滑，在瀑布和火山口必不可少。">Essential for icy November paths at waterfalls and craters.</div></div></div>
         </div>
-
-        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#1A6A3A;margin-bottom:1rem;margin-top:2rem;">Closer to date — October / November</p>
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#1A6A3A;margin-bottom:1rem;margin-top:2rem" data-en="Closer to date — October / November" data-zh="临近出发 — 10月或11月">Closer to date — October / November</p>
         <div class="todo-grid">
-          <div class="todo-item">
-            <div class="todo-urgency urgency-later">Later</div>
-            <div class="todo-content"><div class="todo-task">Pack waterproof layers for everyone</div><div class="todo-detail">Windproof jacket, trousers, gloves, warm hat, merino base layers.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-later">Later</div>
-            <div class="todo-content"><div class="todo-task">Bookmark road.is & download 112 Iceland app</div><div class="todo-detail">Check road conditions every morning before driving.</div></div>
-          </div>
-          <div class="todo-item">
-            <div class="todo-urgency urgency-later">Later</div>
-            <div class="todo-content"><div class="todo-task">Pre-book KEF hotel airport shuttle — Nov 22 at 05:15</div><div class="todo-detail">Arrange on arrival Nov 21, don't leave until the morning.</div></div>
-          </div>
+          <div class="todo-item"><div class="todo-urgency urgency-later" data-en="Later" data-zh="稍后">Later</div><div class="todo-content"><div class="todo-task" data-en="Pack waterproof layers for everyone" data-zh="为全家人准备防水保暖衣物">Pack waterproof layers for everyone</div><div class="todo-detail" data-en="Windproof jacket, trousers, gloves, warm hat, merino base layers." data-zh="防风防水外套、长裤、手套、保暖帽及美利奴羊毛打底层。">Windproof jacket, trousers, gloves, warm hat, merino base layers.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-later" data-en="Later" data-zh="稍后">Later</div><div class="todo-content"><div class="todo-task" data-en="Bookmark road.is & download 112 Iceland app" data-zh="收藏road.is并下载112 Iceland应用">Bookmark road.is & download 112 Iceland app</div><div class="todo-detail" data-en="Check road conditions every morning before driving." data-zh="每天驾车前查看路况信息。">Check road conditions every morning before driving.</div></div></div>
+          <div class="todo-item"><div class="todo-urgency urgency-later" data-en="Later" data-zh="稍后">Later</div><div class="todo-content"><div class="todo-task" data-en="Pre-book KEF hotel airport shuttle — Nov 22 at 05:15" data-zh="预约凯夫拉维克酒店机场班车 — 11月22日05:15">Pre-book KEF hotel shuttle — Nov 22 at 05:15</div><div class="todo-detail" data-en="Arrange on arrival Nov 21, don't leave until the morning." data-zh="11月21日抵达时即安排，切勿拖到当天早上才预约。">Arrange on arrival Nov 21, not the morning of departure.</div></div></div>
         </div>
       </div>
     </div>
@@ -938,10 +592,49 @@
 </section>
 
 <footer class="footer">
-  <strong>Iceland Family Trip 2026 &nbsp;·&nbsp; November 11–24</strong>
-  Singapore &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; Reykjavík &nbsp;·&nbsp; South Coast &nbsp;·&nbsp; Golden Circle &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; Singapore<br>
-  Family of 4 &nbsp;·&nbsp; Self-drive 4WD &nbsp;·&nbsp; Flexible budget &nbsp;·&nbsp; Plan prepared Nov 2025
+  <strong data-en="Iceland Family Trip 2026 · November 11–24" data-zh="2026年冰岛家庭之旅 · 11月11日至24日">Iceland Family Trip 2026 · November 11–24</strong>
+  <span data-en="Singapore · Frankfurt · Reykjavík · South Coast · Golden Circle · Frankfurt · Singapore" data-zh="新加坡 · 法兰克福 · 雷克雅未克 · 冰岛南岸 · 黄金圈 · 法兰克福 · 新加坡">Singapore · Frankfurt · Reykjavík · South Coast · Golden Circle · Frankfurt · Singapore</span><br>
+  <span data-en="Family of 4 · Self-drive 4WD · Flexible budget" data-zh="四人家庭 · 自驾四驱 · 弹性预算">Family of 4 · Self-drive 4WD · Flexible budget</span>
 </footer>
 
+<script>
+  const translations = {};
+  let currentLang = 'en';
+
+  function collectTranslations() {
+    document.querySelectorAll('[data-en][data-zh]').forEach((el, i) => {
+      el.dataset.tid = i;
+      translations[i] = { en: el.dataset.en, zh: el.dataset.zh };
+    });
+  }
+
+  function setLang(lang) {
+    if (lang === currentLang) return;
+    currentLang = lang;
+
+    document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+    document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+    document.body.classList.toggle('zh-mode', lang === 'zh');
+    document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+
+    const els = document.querySelectorAll('[data-tid]');
+    els.forEach(el => el.style.opacity = '0');
+
+    setTimeout(() => {
+      els.forEach(el => {
+        const tid = el.dataset.tid;
+        const text = translations[tid][lang];
+        if (el.tagName === 'H1' || el.closest('h1')) {
+          el.innerHTML = text;
+        } else {
+          el.innerHTML = text;
+        }
+        el.style.opacity = '1';
+      });
+    }, 180);
+  }
+
+  collectTranslations();
+</script>
 </body>
 </html>
