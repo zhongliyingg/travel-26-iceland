@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iceland Family Trip 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --ice: #E8F4F8;
+    --deep: #1A2E3B;
+    --ocean: #2C6E8A;
+    --aurora: #4ABFA0;
+    --gold: #C9973A;
+    --stone: #8A9BA8;
+    --fog: #F2F5F7;
+    --text: #1A2E3B;
+    --muted: #5A7280;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--deep);
+    color: var(--text);
+    overflow-x: hidden;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    min-height: 100vh;
+    background: linear-gradient(160deg, #0D1B26 0%, #1A3346 50%, #0E2233 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 3rem 2rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 40% at 20% 60%, rgba(74, 191, 160, 0.12) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 30% at 80% 30%, rgba(44, 110, 138, 0.15) 0%, transparent 60%);
+    pointer-events: none;
+  }
+
+  .aurora-bar {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, #4ABFA0, #2C6E8A, #4ABFA0, transparent);
+    opacity: 0.8;
+  }
+
+  .hero-eyebrow {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--aurora);
+    margin-bottom: 1.5rem;
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards 0.2s;
+  }
+
+  .hero h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(3rem, 8vw, 6.5rem);
+    font-weight: 300;
+    color: #F0F7FA;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    margin-bottom: 0.5rem;
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards 0.4s;
+  }
+
+  .hero h1 em {
+    font-style: italic;
+    color: var(--aurora);
+  }
+
+  .hero-sub {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+    font-weight: 300;
+    color: var(--stone);
+    margin-bottom: 3rem;
+    letter-spacing: 0.05em;
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards 0.6s;
+  }
+
+  .hero-pills {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards 0.8s;
+  }
+
+  .pill {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    color: #C8D8E4;
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    padding: 0.4rem 1rem;
+    border-radius: 100px;
+  }
+
+  .flight-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+    overflow: hidden;
+    max-width: 520px;
+    width: 100%;
+    opacity: 0;
+    animation: fadeUp 0.8s ease forwards 1s;
+  }
+
+  .flight-cell {
+    background: rgba(255,255,255,0.03);
+    padding: 1rem 1.25rem;
+    text-align: left;
+  }
+
+  .flight-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--aurora);
+    margin-bottom: 0.25rem;
+    font-weight: 500;
+  }
+
+  .flight-detail {
+    font-size: 0.82rem;
+    color: #C8D8E4;
+    font-weight: 300;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── BODY SECTIONS ── */
+  .body { background: var(--fog); }
+
+  .section { padding: 5rem 2rem; max-width: 1100px; margin: 0 auto; }
+
+  .section-eyebrow {
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ocean);
+    margin-bottom: 0.75rem;
+  }
+
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 400;
+    color: var(--deep);
+    line-height: 1.15;
+    margin-bottom: 3rem;
+  }
+
+  .section-title span { color: var(--ocean); font-style: italic; }
+
+  /* ── HIGHLIGHT CARDS ── */
+  .highlights-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .highlight-card {
+    border-radius: 16px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 2px 16px rgba(26,46,59,0.07);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .highlight-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 32px rgba(26,46,59,0.13);
+  }
+
+  .card-img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    background: #C8D8E4;
+  }
+
+  .card-img-placeholder {
+    width: 100%;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: rgba(255,255,255,0.5);
+  }
+
+  .card-body {
+    padding: 1.25rem 1.4rem 1.4rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-date {
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ocean);
+    margin-bottom: 0.4rem;
+  }
+
+  .card-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: var(--deep);
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-desc {
+    font-size: 0.82rem;
+    color: var(--muted);
+    line-height: 1.6;
+    flex: 1;
+  }
+
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 1rem;
+  }
+
+  .card-tag {
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.6rem;
+    border-radius: 100px;
+    background: var(--ice);
+    color: var(--ocean);
+  }
+
+  .card-tag.aurora { background: #E6F7F3; color: #2A7A65; }
+  .card-tag.nature { background: #EAF3F8; color: #1E6A8A; }
+  .card-tag.culture { background: #F4EFF9; color: #6B4C9A; }
+  .card-tag.food { background: #FBF3E8; color: #9A6B20; }
+  .card-tag.relax { background: #E8F7F3; color: #2A7A65; }
+  .card-tag.xmas { background: #FBEAEA; color: #8A2A2A; }
+
+  /* ── DAY BY DAY ── */
+  .day-section { background: #fff; border-radius: 20px; margin-bottom: 2rem; overflow: hidden; box-shadow: 0 2px 12px rgba(26,46,59,0.06); }
+
+  .day-header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0;
+    align-items: stretch;
+  }
+
+  .day-num-block {
+    background: var(--deep);
+    color: #fff;
+    padding: 1.5rem 1.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 90px;
+  }
+
+  .day-num-block .month { font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--stone); margin-bottom: 0.1rem; }
+  .day-num-block .num { font-family: 'Cormorant Garamond', serif; font-size: 2.2rem; font-weight: 300; line-height: 1; }
+  .day-num-block .weekday { font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--stone); margin-top: 0.1rem; }
+
+  .day-header-content {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--fog);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .day-location {
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ocean);
+    margin-bottom: 0.3rem;
+  }
+
+  .day-title-text {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--deep);
+    line-height: 1.2;
+  }
+
+  .day-hotel {
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+  }
+
+  .day-hotel span { color: var(--ocean); }
+
+  .day-body { padding: 1.25rem 1.5rem 1.5rem 1.5rem; }
+
+  .day-desc {
+    font-size: 0.85rem;
+    color: var(--muted);
+    line-height: 1.7;
+    margin-bottom: 0.75rem;
+  }
+
+  .day-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+
+  .day-tag {
+    font-size: 0.63rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.55rem;
+    border-radius: 100px;
+    background: var(--fog);
+    color: var(--ocean);
+  }
+
+  .notice {
+    margin-top: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: #FFFBF0;
+    border-left: 3px solid var(--gold);
+    border-radius: 0 8px 8px 0;
+    font-size: 0.78rem;
+    color: #7A5A1A;
+    line-height: 1.6;
+  }
+
+  /* ── LEG DIVIDER ── */
+  .leg-divider {
+    background: var(--deep);
+    color: #fff;
+    padding: 1.25rem 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2.5rem -2rem;
+  }
+
+  .leg-divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.15); }
+
+  .leg-divider-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--aurora);
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  /* ── TODO ── */
+  .todo-grid { display: grid; gap: 0.75rem; }
+
+  .todo-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0;
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 8px rgba(26,46,59,0.05);
+  }
+
+  .todo-urgency {
+    padding: 1rem 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-size: 0.58rem;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    min-width: 36px;
+  }
+
+  .urgency-now { background: #FDECEA; color: #8A2A2A; }
+  .urgency-soon { background: #FEF7EC; color: #8A5A1A; }
+  .urgency-later { background: #EAF7EE; color: #1A6A3A; }
+
+  .todo-content { padding: 0.9rem 1.1rem; }
+  .todo-task { font-size: 0.88rem; font-weight: 500; color: var(--deep); margin-bottom: 0.25rem; }
+  .todo-detail { font-size: 0.76rem; color: var(--muted); line-height: 1.55; }
+
+  /* ── FOOTER ── */
+  .footer {
+    background: var(--deep);
+    color: rgba(255,255,255,0.4);
+    text-align: center;
+    padding: 2.5rem 2rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    line-height: 1.8;
+  }
+
+  .footer strong { color: rgba(255,255,255,0.7); display: block; font-size: 0.85rem; margin-bottom: 0.5rem; }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 600px) {
+    .flight-grid { grid-template-columns: 1fr; }
+    .leg-divider { margin: 2rem -2rem; }
+    .day-num-block { min-width: 70px; padding: 1rem 1.25rem; }
+    .highlights-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="aurora-bar"></div>
+  <p class="hero-eyebrow">November 11 – 24, 2026 &nbsp;·&nbsp; Family of 4</p>
+  <h1>Family Trip to<br><em>Iceland</em></h1>
+  <p class="hero-sub">Singapore &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Reykjavík &nbsp;→&nbsp; Frankfurt &nbsp;→&nbsp; Singapore</p>
+  <div class="hero-pills">
+    <span class="pill">Self-drive 4WD SUV</span>
+    <span class="pill">Northern Lights</span>
+    <span class="pill">South Coast</span>
+    <span class="pill">Golden Circle</span>
+    <span class="pill">Blue Lagoon</span>
+    <span class="pill">Frankfurt Christmas Market</span>
+  </div>
+  <div class="flight-grid">
+    <div class="flight-cell">
+      <div class="flight-label">Outbound</div>
+      <div class="flight-detail">SQ326 &nbsp;·&nbsp; SIN 11:05 → FRA 17:40</div>
+    </div>
+    <div class="flight-cell">
+      <div class="flight-label">To Iceland</div>
+      <div class="flight-detail">FI521 &nbsp;·&nbsp; FRA 13:00 → KEF 15:40</div>
+    </div>
+    <div class="flight-cell">
+      <div class="flight-label">From Iceland</div>
+      <div class="flight-detail">FI520 &nbsp;·&nbsp; KEF 07:25 → FRA 12:05</div>
+    </div>
+    <div class="flight-cell">
+      <div class="flight-label">Return</div>
+      <div class="flight-detail">SQ325 &nbsp;·&nbsp; FRA 21:40 → SIN +1 17:00</div>
+    </div>
+  </div>
+</section>
+
+<!-- HIGHLIGHTS -->
+<div class="body">
+<section class="section">
+  <p class="section-eyebrow">What awaits you</p>
+  <h2 class="section-title">Trip <span>highlights</span></h2>
+
+  <div class="highlights-grid">
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hallgrimskirkja_2012.JPG/800px-Hallgrimskirkja_2012.JPG" alt="Hallgrímskirkja church, Reykjavík" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 13 · Day 2</div>
+        <div class="card-title">Reykjavík city</div>
+        <div class="card-desc">Discover Iceland's capital — the iconic Hallgrímskirkja church, the glittering Harpa concert hall on the harbour, and the charm of the old town. Flat, walkable, and full of character.</div>
+        <div class="card-tags">
+          <span class="card-tag culture">Culture</span>
+          <span class="card-tag food">Food</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aurora_Borealis_and_Australis_Poster.jpg/800px-Aurora_Borealis_and_Australis_Poster.jpg" alt="Northern Lights Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 14 · Night tour</div>
+        <div class="card-title">Northern Lights</div>
+        <div class="card-desc">November's long dark nights give some of the best aurora odds of the year. An expert-guided evening bus tour takes you to the clearest skies — with hot chocolate and a re-try guarantee if clouds interfere.</div>
+        <div class="card-tags">
+          <span class="card-tag aurora">Aurora</span>
+          <span class="card-tag nature">Adventure</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/BL%C3%81_L%C3%93N_2_(cropped).jpg/800px-BL%C3%81_L%C3%93N_2_(cropped).jpg" alt="Blue Lagoon Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 16 · Day trip</div>
+        <div class="card-title">Blue Lagoon</div>
+        <div class="card-desc">The world-famous milky-blue geothermal spa set against dramatic lava fields. At 38°C, it's deeply relaxing — silica mud masks, swim-up bar, and a steam room. Gentle enough for everyone in the group.</div>
+        <div class="card-tags">
+          <span class="card-tag relax">Relaxation</span>
+          <span class="card-tag nature">Nature</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seljalandsfoss%2C_Iceland_%281%29.jpg/800px-Seljalandsfoss%2C_Iceland_%281%29.jpg" alt="Seljalandsfoss waterfall Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 18 · South Coast</div>
+        <div class="card-title">Seljalandsfoss & Skógafoss</div>
+        <div class="card-desc">Two of Iceland's most dramatic waterfalls, a short drive apart on the South Coast. Walk the wide viewing platform at Skógafoss or admire Seljalandsfoss from every angle on its circuit path.</div>
+        <div class="card-tags">
+          <span class="card-tag nature">Nature</span>
+          <span class="card-tag nature">Adventure</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jokulsarlon_glacier_lagoon%2C_Iceland.jpg/800px-Jokulsarlon_glacier_lagoon%2C_Iceland.jpg" alt="Jökulsárlón glacier lagoon Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 19 · South Coast</div>
+        <div class="card-title">Jökulsárlón Glacier Lagoon</div>
+        <div class="card-desc">Enormous icebergs drifting silently across a steel-grey lagoon — one of Iceland's most otherworldly sights. Just across the road, Diamond Beach sparkles with ice washed up on black sand.</div>
+        <div class="card-tags">
+          <span class="card-tag nature">Nature</span>
+          <span class="card-tag nature">Adventure</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Thingvellir.jpg/800px-Thingvellir.jpg" alt="Þingvellir National Park Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 21 · Golden Circle</div>
+        <div class="card-title">Þingvellir National Park</div>
+        <div class="card-desc">Walk between two tectonic plates in the rift valley where the North American and Eurasian plates pull apart. Also the site of the world's oldest parliament, founded 930 AD. Flat boardwalks — easy for everyone.</div>
+        <div class="card-tags">
+          <span class="card-tag nature">Nature</span>
+          <span class="card-tag culture">History</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gullfoss.jpg/800px-Gullfoss.jpg" alt="Gullfoss waterfall Iceland" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 21 · Golden Circle</div>
+        <div class="card-title">Geysir & Gullfoss</div>
+        <div class="card-desc">Watch Strokkur geyser erupt 20–30 metres into the air every 5–8 minutes, then marvel at the thundering two-tiered Gullfoss waterfall plunging into a dramatic gorge — especially beautiful in November light.</div>
+        <div class="card-tags">
+          <span class="card-tag nature">Nature</span>
+          <span class="card-tag nature">Adventure</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="highlight-card">
+      <img class="card-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Frankfurt_R%C3%B6merberg.JPG/800px-Frankfurt_R%C3%B6merberg.JPG" alt="Frankfurt Christmas Market Römerberg" onerror="this.style.display='none'">
+      <div class="card-body">
+        <div class="card-date">Nov 23 · Frankfurt</div>
+        <div class="card-title">Frankfurt Christmas Market</div>
+        <div class="card-desc">The perfect end to the trip. The market opens on exactly the day you're free — Römerberg square lit up with a 30m Christmas tree, half-timbered houses, Glühwein, marzipan, and the warm scent of roasted chestnuts.</div>
+        <div class="card-tags">
+          <span class="card-tag xmas">Christmas</span>
+          <span class="card-tag food">Food</span>
+          <span class="card-tag culture">Culture</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ITINERARY -->
+<section class="section" style="padding-top: 0;">
+  <p class="section-eyebrow">The full plan</p>
+  <h2 class="section-title">Day-by-day <span>itinerary</span></h2>
+
+  <!-- Frankfurt outbound -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">Frankfurt · Outbound · Nov 11–12</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">11</span><span class="weekday">Tue</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Frankfurt, Germany</div>
+        <div class="day-title-text">Arrive Frankfurt — airport hotel evening</div>
+        <div class="day-hotel">🏨 <span>Sheraton Frankfurt Airport, Terminal 1</span></div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — it's connected to Terminal 1, no transfer needed. Dinner at the hotel restaurant. Early night — you've been travelling since morning Singapore time.</p>
+      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Rest</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">12</span><span class="weekday">Wed</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Frankfurt → Keflavík → Reykjavík</div>
+        <div class="day-title-text">Relaxed morning → fly to Iceland</div>
+        <div class="day-hotel">🏨 <span>Reykjavík city hotel (night 1 of 7)</span> &nbsp;·&nbsp; 🚗 Pick up 4WD SUV at KEF</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Hotel breakfast, browse Terminal 1 shops. SkyLine train to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local time. Pick up rental car at the airport. Drive to Reykjavík (~45 min). Check in, easy dinner.</p>
+      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Car pick-up</span></div>
+      <div class="notice">⚠ Note: FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals and allow time for this.</div>
+    </div>
+  </div>
+
+  <!-- Reykjavik -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">Reykjavík Base · Nov 12–17 · Car parked</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">13</span><span class="weekday">Thu</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Reykjavík</div>
+        <div class="day-title-text">First full day — orientation</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. City centre is compact and walkable — no driving needed. Dinner at Reykjavík Kitchen (book in advance) — try the lamb shank and Arctic char.</p>
+      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Food</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">14</span><span class="weekday">Fri</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Reykjavík</div>
+        <div class="day-title-text">Aurora museum + Northern Lights tour</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked — join bus tour</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Morning: Aurora Reykjavík museum — seated, accessible, a fascinating introduction to the science behind the lights. Evening: join an organised Northern Lights bus tour (hot chocolate included, free re-try on cloudy nights). Leave the car at the hotel — guides know where to find clear skies.</p>
+      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Aurora</span><span class="day-tag">Adventure</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">15</span><span class="weekday">Sat</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Reykjavík</div>
+        <div class="day-title-text">National Museum & Settlement Exhibition</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood in a warm, rustic setting.</p>
+      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">History</span><span class="day-tag">Food</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">16</span><span class="weekday">Sun</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Blue Lagoon, Grindavík</div>
+        <div class="day-title-text">Blue Lagoon geothermal spa</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Self-drive ~50 min each way</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Drive ~50 min via Route 43 to the world-famous milky-blue geothermal spa. Pre-book the Comfort or Signature package on bluelagoon.com — includes robe, silica mask, and a drink. Water is 38°C and gentle on the body — perfect for all ages. Drive back to Reykjavík after.</p>
+      <div class="day-tags"><span class="day-tag">Relaxation</span><span class="day-tag">Nature</span><span class="day-tag">Self-drive</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">17</span><span class="weekday">Mon</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Reykjavík</div>
+        <div class="day-title-text">Rest day — city wander & local pools</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel</span> &nbsp;·&nbsp; 🚗 Car parked</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Laugavegur shopping street, Reykjavík Art Museum, Tjörnin pond. Option: Laugardalslaug local geothermal pool — fewer tourists, authentic local atmosphere. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance).</p>
+      <div class="day-tags"><span class="day-tag">Culture</span><span class="day-tag">Relaxation</span><span class="day-tag">Food</span></div>
+    </div>
+  </div>
+
+  <!-- South Coast -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">South Coast Excursion · Nov 18–19 · 2 nights out</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">18</span><span class="weekday">Tue</span></div>
+      <div class="day-header-content">
+        <div class="day-location">South Coast — Seljalandsfoss · Skógafoss · Vík</div>
+        <div class="day-title-text">Waterfalls & black sand beach</div>
+        <div class="day-hotel">🏨 <span>Hotel near Vík</span> &nbsp;·&nbsp; 🚗 ~190 km · ~2h 30min driving</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Reykjavík → Seljalandsfoss (1h 45min) — walk around the falls, not behind in November as the path ices over. Skógafoss (30 min further) — wide accessible platform, powerful curtain of water. Reynisfjara black sand beach — dramatic basalt columns, but stay well back from the waves. Overnight near Vík.</p>
+      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">Nature</span><span class="day-tag">Self-drive</span></div>
+      <div class="notice">Check road.is before leaving Reykjavík. Fill up with fuel in the city — stations are sparse on the South Coast. Sunrise ~10:00, sunset ~16:00: plan stops around daylight.</div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">19</span><span class="weekday">Wed</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Jökulsárlón · Diamond Beach → Reykjavík</div>
+        <div class="day-title-text">Glacier lagoon & Diamond Beach</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel (nights 6–7)</span> &nbsp;·&nbsp; 🚗 ~375 km · longest day</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Vík → Jökulsárlón (~2h 30min). Enormous icebergs drifting silently across the lagoon — one of Iceland's most magical sights. Diamond Beach is directly across the road — ice chunks glittering on black sand. Return to Reykjavík (~4h drive). Leave Vík by 08:30 to maximise daylight at the lagoon.</p>
+      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">Nature</span><span class="day-tag">~6h driving</span></div>
+    </div>
+  </div>
+
+  <!-- Recovery + Golden Circle -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">Recovery + Golden Circle · Nov 20–21</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">20</span><span class="weekday">Thu</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Reykjavík</div>
+        <div class="day-title-text">Recovery — Laugardalslaug local pool</div>
+        <div class="day-hotel">🏨 <span>Reykjavík hotel (last night)</span> &nbsp;·&nbsp; 🚗 Car parked · pack bags tonight</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Reykjavík's beloved local geothermal pool — far fewer tourists than the Blue Lagoon, with hot pots, steam rooms, and locals going about their day. Gentle afternoon rest. Light dinner out. Pack all bags tonight — tomorrow you drive directly to the KEF airport hotel without returning to Reykjavík.</p>
+      <div class="day-tags"><span class="day-tag">Relaxation</span><span class="day-tag">Local life</span></div>
+    </div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block"><span class="month">Nov</span><span class="num">21</span><span class="weekday">Fri</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Golden Circle → Keflavík airport area</div>
+        <div class="day-title-text">Golden Circle → drive to KEF hotel</div>
+        <div class="day-hotel">🏨 <span>Courtyard by Marriott Keflavík Airport</span> &nbsp;·&nbsp; 🚗 ~220 km · Car drop-off this evening</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Leave Reykjavík by 09:00 with bags loaded. Þingvellir National Park (flat boardwalks, walk between tectonic plates) → Geysir (Strokkur erupts every 5–8 min) → Gullfoss waterfall (upper platform) → Kerið volcanic crater → Secret Lagoon in Flúðir (book in advance). Drive southwest ~1h to Keflavík hotel — naturally on the route, no backtracking. Return rental car at KEF airport this evening.</p>
+      <div class="day-tags"><span class="day-tag">Adventure</span><span class="day-tag">History</span><span class="day-tag">Nature</span><span class="day-tag">Car return</span></div>
+      <div class="notice">Fuel up at the N1 station near the Courtyard before returning the car. Arrange your hotel airport shuttle for tomorrow morning tonight at reception.</div>
+    </div>
+  </div>
+
+  <!-- Departure -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">Departure · Nov 22 · Early morning</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block" style="background:#8A2A2A;"><span class="month">Nov</span><span class="num">22</span><span class="weekday">Sat</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Keflavík → Frankfurt city</div>
+        <div class="day-title-text">Early flight → arrive Frankfurt city</div>
+        <div class="day-hotel">🏨 <span>Steigenberger Frankfurter Hof, Frankfurt city centre</span></div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">Wake-up 04:45. Hotel shuttle to KEF (~5 min) — arrange the night before. At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to city hotel. Check in ~14:00, freshen up, rest. Then head out for a proper dinner in Frankfurt — Sachsenhausen district or the hotel's own restaurant. A genuine city evening before the Christmas market tomorrow.</p>
+      <div class="day-tags"><span class="day-tag">Travel</span><span class="day-tag">Food</span><span class="day-tag">Frankfurt</span></div>
+      <div class="notice">⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15</div>
+    </div>
+  </div>
+
+  <!-- Frankfurt return -->
+  <div class="leg-divider">
+    <div class="leg-divider-line"></div>
+    <div class="leg-divider-label">Frankfurt · Return · Nov 23 · Christmas Market opens!</div>
+    <div class="leg-divider-line"></div>
+  </div>
+
+  <div class="day-section">
+    <div class="day-header">
+      <div class="day-num-block" style="background:#8A2A2A;"><span class="month">Nov</span><span class="num">23</span><span class="weekday">Sun</span></div>
+      <div class="day-header-content">
+        <div class="day-location">Frankfurt · Römerberg Christmas Market</div>
+        <div class="day-title-text">Christmas market — then home</div>
+        <div class="day-hotel">🏨 <span>Check out · Luggage storage at hotel</span> &nbsp;·&nbsp; SQ325 FRA 21:40 → SIN +1 17:00</div>
+      </div>
+    </div>
+    <div class="day-body">
+      <p class="day-desc">The Frankfurt Christmas market opens today — and Römerberg square is a 10-minute walk from the hotel. Stroll there after breakfast. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, and the Mainkai riverside stalls. Parents can rest at the hotel mid-afternoon and rejoin. Store bags at hotel. Leave for airport by 18:30 — S-Bahn S8/S9 from Hauptwache (5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Depart 21:40. Arrive Singapore Nov 24 ~17:00.</p>
+      <div class="day-tags"><span class="day-tag">Christmas market</span><span class="day-tag">Food</span><span class="day-tag">Culture</span></div>
+      <div class="notice">✓ Perfect timing: Market opens exactly today. Hotel is 10-min walk to Römerberg. S-Bahn to airport takes ~15 min from Hauptwache (5-min walk). SQ325 departs T1 — no rush.</div>
+    </div>
+  </div>
+
+</section>
+
+<!-- TODO -->
+<section class="section" style="background: #fff; max-width: 100%; padding: 5rem 2rem;">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <p class="section-eyebrow">Action list</p>
+    <h2 class="section-title">What to <span>book</span></h2>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+      <div>
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A2A2A;margin-bottom:1rem;">Do now — urgent</p>
+        <div class="todo-grid">
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Sheraton Frankfurt Airport — Nov 11 (outbound)</div><div class="todo-detail">T1, walks directly to hotel from arrivals</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Steigenberger Frankfurter Hof — Nov 22–23 (return)</div><div class="todo-detail">City centre, 10-min walk to Christmas market. Fills fast on opening weekend.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Courtyard by Marriott Keflavík — Nov 21</div><div class="todo-detail">Pre-departure night near airport. Confirm shuttle.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Reykjavík hotel — Nov 12–17 & Nov 19–20 (7 nights)</div><div class="todo-detail">Central location, walkable to city sights.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Hotel near Vík — Nov 18 (1 night)</div><div class="todo-detail">Very limited options. Hótel Katla or Icelandair Hotel Vík.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Blue Lagoon — Nov 16, Comfort or Signature package</div><div class="todo-detail">Sells out weeks ahead. Book at bluelagoon.com.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-now">Now</div>
+            <div class="todo-content"><div class="todo-task">Rental car — 4WD SUV, KEF Nov 12–21 (10 days)</div><div class="todo-detail">Full CDW + gravel/sand protection + winter tyres. Hertz, Lotus or Geysir.</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#8A5A1A;margin-bottom:1rem;">Do soon — 1–2 months out</p>
+        <div class="todo-grid">
+          <div class="todo-item">
+            <div class="todo-urgency urgency-soon">Soon</div>
+            <div class="todo-content"><div class="todo-task">Northern Lights tour — Nov 14 evening</div><div class="todo-detail">Choose operator with free re-try policy. Northern Lights Bus or Tröll Expeditions.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-soon">Soon</div>
+            <div class="todo-content"><div class="todo-task">Secret Lagoon — Nov 21</div><div class="todo-detail">Small capacity, book a time slot at secretlagoon.is.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-soon">Soon</div>
+            <div class="todo-content"><div class="todo-task">Dinner reservations — Reykjavík Kitchen (Nov 13) & Grillmarkaðurinn (Nov 17)</div><div class="todo-detail">Both popular, book a few weeks in advance.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-soon">Soon</div>
+            <div class="todo-content"><div class="todo-task">Buy Yaktrax ice cleats — 2 pairs for parents</div><div class="todo-detail">Essential for icy November paths at waterfalls and craters.</div></div>
+          </div>
+        </div>
+
+        <p style="font-size:0.65rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#1A6A3A;margin-bottom:1rem;margin-top:2rem;">Closer to date — October / November</p>
+        <div class="todo-grid">
+          <div class="todo-item">
+            <div class="todo-urgency urgency-later">Later</div>
+            <div class="todo-content"><div class="todo-task">Pack waterproof layers for everyone</div><div class="todo-detail">Windproof jacket, trousers, gloves, warm hat, merino base layers.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-later">Later</div>
+            <div class="todo-content"><div class="todo-task">Bookmark road.is & download 112 Iceland app</div><div class="todo-detail">Check road conditions every morning before driving.</div></div>
+          </div>
+          <div class="todo-item">
+            <div class="todo-urgency urgency-later">Later</div>
+            <div class="todo-content"><div class="todo-task">Pre-book KEF hotel airport shuttle — Nov 22 at 05:15</div><div class="todo-detail">Arrange on arrival Nov 21, don't leave until the morning.</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <strong>Iceland Family Trip 2026 &nbsp;·&nbsp; November 11–24</strong>
+  Singapore &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; Reykjavík &nbsp;·&nbsp; South Coast &nbsp;·&nbsp; Golden Circle &nbsp;·&nbsp; Frankfurt &nbsp;·&nbsp; Singapore<br>
+  Family of 4 &nbsp;·&nbsp; Self-drive 4WD &nbsp;·&nbsp; Flexible budget &nbsp;·&nbsp; Plan prepared Nov 2025
+</footer>
+
+</body>
+</html>
