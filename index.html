@@ -158,6 +158,10 @@
   .day-tag { font-size: 0.63rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.2rem 0.55rem; border-radius: 100px; background: var(--fog); color: var(--ocean); }
   .notice { margin-top: 0.75rem; padding: 0.75rem 1rem; background: #FFFBF0; border-left: 3px solid var(--gold); border-radius: 0 8px 8px 0; font-size: 0.78rem; color: #7A5A1A; line-height: 1.65; }
 
+  /* ── STOP / TIME-OF-DAY ROWS ── */
+  .stop-row { display: grid; grid-template-columns: auto 1fr; gap: 0.75rem; align-items: baseline; }
+  .stop-label { font-size: 0.62rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ocean); white-space: nowrap; padding-top: 0.05rem; }
+
   /* ── LEG DIVIDER ── */
   .leg-divider { background: var(--ocean); color: #fff; padding: 1.25rem 2rem; display: flex; align-items: center; gap: 1rem; margin: 2.5rem -2rem; }
   .leg-divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.25); }
@@ -358,7 +362,12 @@
 
   @media (max-width: 600px) {
     .flight-grid { grid-template-columns: 1fr; }
-    .leg-divider { margin: 2rem -2rem; }
+    .section { padding-inline: 1rem; }
+    .accom-section { padding-inline: 1rem; }
+    .leg-divider { margin: 2rem -1rem; }
+    .leg-divider-label { white-space: normal; text-align: center; }
+    .stop-row { display: flex; flex-direction: column; gap: 0.2rem; }
+    .stop-label { white-space: normal; }
     .day-num-block { min-width: 70px; padding: 1rem 1.25rem; }
     .highlights-grid { grid-template-columns: 1fr; }
   }
@@ -819,12 +828,12 @@
     <div class="day-body">
       <p class="day-desc" data-en="Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group." data-zh="两个绝佳选择，均距雷克雅未克约45-50分钟自驾。与家人商量后再做决定。">Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group.</p>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Option A" data-zh="选项A">Option A</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Option A" data-zh="选项A">Option A</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Blue Lagoon" data-zh="蓝湖温泉">Blue Lagoon</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Grindavík · south · Route 43 · bluelagoon.com" data-zh="格林达维克 · 南部 · 43号公路 · bluelagoon.com">Grindavík · south · Route 43 · bluelagoon.com</span><br><span data-en="The world-famous milky-blue geothermal spa set against lava fields. Consistent 38°C throughout, flat paved paths, railings at pool entry — the most accessible geothermal experience in Iceland. Comfort or Signature package includes robe, silica mud mask and a drink. Sells out weeks ahead. Best for: the whole group together, iconic experience, maximum comfort for parents." data-zh="举世闻名的乳白色蓝湖地热温泉，坐落于熔岩地带。全程水温38°C，平坦铺装路面，泳池入口设有扶手——冰岛无障碍设施最完善的地热体验。舒适或高级套餐含浴袍、白硅泥面膜及一杯饮料。提前数周即售罄。最适合：全组同行、标志性体验、父母最舒适。">The world-famous milky-blue geothermal spa set against lava fields. Consistent 38°C throughout, flat paved paths, railings at pool entry — the most accessible geothermal experience in Iceland. Comfort or Signature package includes robe, silica mud mask and a drink. Sells out weeks ahead. Best for: the whole group together, iconic experience, maximum comfort for parents.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Option B" data-zh="选项B">Option B</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Option B" data-zh="选项B">Option B</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Hvammsvík Hot Springs" data-zh="赫瓦姆斯维克温泉">Hvammsvík Hot Springs</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Whale Fjord · north · Route 47 · hvammsvik.com" data-zh="鲸鱼湾 · 北部 · 47号公路 · hvammsvik.com">Whale Fjord · north · Route 47 · hvammsvik.com</span><br><span data-en="Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykjavík. Pools range from 5°C ocean cold plunge to 42°C soak; at high tide the lowest pools merge with the sea. Upper Lounge Pool (38°C) has a swim-up bar and is more accessible. Raw fjord views, seals in the water, a bistro with seafood soup. The 花少5 cast soaked here in Ep 12. Best for: a wilder, quieter, more natural experience — parents comfortable in the upper pools while others explore the tidal pools." data-zh="八个天然温泉池嵌入北大西洋海岸，距雷克雅未克以北45分钟。水温从5°C冰海冷浸到42°C热泡不等；涨潮时最低处泳池与大海相连。上层休息池（38°C）设有泳池吧台，无障碍条件较好。峡湾壮阔美景，水中时有海豹出没，小酒馆供应海鲜汤。《花少5》第12集嘉宾们正是在此泡温泉。最适合：追求更野性、更宁静、更自然体验的人——父母在上层泳池舒适享受，其余人探索潮汐池。">Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykjavík. Pools range from 5°C ocean cold plunge to 42°C soak; at high tide the lowest pools merge with the sea. Upper Lounge Pool (38°C) has a swim-up bar and is more accessible. Raw fjord views, seals in the water, a bistro with seafood soup. The 花少5 cast soaked here in Ep 12. Best for: a wilder, quieter, more natural experience — parents comfortable in the upper pools while others explore the tidal pools.</span></div>
         </div>
       </div>
@@ -881,24 +890,24 @@
     <div class="day-body">
       <p class="day-desc" data-en="Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30." data-zh="完全复刻《花少5》南海岸路线，按顺序打卡五个景点。08:30前离开雷克雅未克。">Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30.</p>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 1" data-zh="第1站">Stop 1</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 1" data-zh="第1站">Stop 1</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Seljalandsfoss" data-zh="塞里雅兰瀑布">Seljalandsfoss</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~1h 45min from Reykjavík" data-zh="距雷克雅未克约1小时45分钟">~1h 45min from Reykjavík</span><br><span data-en="Walk the full circuit around the falls. Do NOT go behind — the path ices over in November." data-zh="绕瀑布一圈。11月切勿尝试瀑布背后小径——地面结冰。">Walk the full circuit around the falls. Do NOT go behind — the path ices over in November.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 2" data-zh="第2站">Stop 2</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 2" data-zh="第2站">Stop 2</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Skógafoss" data-zh="斯科加瀑布">Skógafoss</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~30 min further" data-zh="再行约30分钟">~30 min further</span><br><span data-en="Wide accessible viewing platform for the full curtain of water. In rain — as the cast found — 5 minutes, sprint, 冲啊, back to the car. It works." data-zh="宽阔无障碍观景台，正面欣赏如幕布般倾泻的瀑布。下雨时正如花少团所做——5分钟，冲过去，冲啊，回车上，行之有效。">Wide accessible viewing platform for the full curtain of water. In rain — as the cast found — 5 minutes, sprint, 冲啊, back to the car. It works.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 3" data-zh="第3站">Stop 3</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 3" data-zh="第3站">Stop 3</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Vík century restaurant" data-zh="维克百年餐厅">Vík century restaurant</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="Lunch" data-zh="午餐">Lunch</span><br><span data-en="Where the cast ate — a beloved local institution in the village and a well-earned warm stop mid-route." data-zh="花少团午餐之处——当地深受喜爱的老字号，路途中段温暖的补给站，吃饱再出发。">Where the cast ate — a beloved local institution in the village and a well-earned warm stop mid-route.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 4" data-zh="第4站">Stop 4</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 4" data-zh="第4站">Stop 4</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Reynisfjara black sand beach" data-zh="雷尼斯菲亚拉黑沙滩">Reynisfjara black sand beach</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Vík" data-zh="距维克约10分钟">~10 min from Vík</span><br><span data-en="Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous." data-zh="壮观玄武岩石柱、黑沙滩、狂野大西洋。任何时候都必须与海浪保持充分距离——此处的恶作剧浪涛确实危及生命。">Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 5" data-zh="第5站">Stop 5</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 5" data-zh="第5站">Stop 5</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Dyrhólaey Lighthouse" data-zh="迪霍拉里灯塔">Dyrhólaey Lighthouse</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Reynisfjara · weather-dependent" data-zh="距雷尼斯约10分钟 · 视天气而定">~10 min from Reynisfjara · weather-dependent</span><br><span data-en="120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call." data-zh="120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观。风力猛烈时——正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。">120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call.</span></div>
         </div>
       </div>
@@ -955,24 +964,24 @@
     <div class="day-body">
       <p class="day-desc" data-en="Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel." data-zh="在城市的最后一整天——无需开车，无需计划，悠然告别雷克雅未克。三条主要购物街彼此相距步行可达，距酒店也很近。">Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel.</p>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Morning" data-zh="上午">Morning</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Morning" data-zh="上午">Morning</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Laugavegur — the main shopping street" data-zh="劳格韦格尔大街 — 主要购物街">Laugavegur — the main shopping street</strong><br><span data-en="Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back." data-zh="冰岛历史最悠久、最热闹的购物街。逛逛冰岛标志性户外品牌66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（汇聚400余位本地设计师与工匠的冰岛设计）和Nomad（北欧风格生活礼品）。别错过15号的蓝湖护肤品店——与温泉同款产品，无需专程前往。">Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Mid-morning" data-zh="中上午">Mid-morning</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Mid-morning" data-zh="中上午">Mid-morning</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Skólavörðustígur — the charming side street" data-zh="斯科拉沃尔杜斯提格尔 — 迷人的艺术街">Skólavörðustígur — the charming side street</strong><br><span data-en="Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break." data-zh="从劳格韦格尔延伸至哈尔格林姆斯教堂的彩虹街，两旁汇聚本地精品店、艺廊、陶瓷与珠宝工作室。Iurie Fine Art出售各种格式的冰岛大地摄影作品。Kirsuberjatréð是由女性创立的设计合作社，售卖手工服饰与家居用品。街上有不少好咖啡馆，适合中途休息。">Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Lunchtime" data-zh="午餐">Lunchtime</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Lunchtime" data-zh="午餐">Lunchtime</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Old Harbour &amp; Grandi district" data-zh="老港口与格兰迪街区">Old Harbour &amp; Grandi district</strong><br><span data-en="A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so it's familiar territory." data-zh="距劳格韦格尔步行约10分钟。港口一带有出色的海鲜餐厅，以及科拉波蒂德跳蚤市场（周五至周六开放，11:00–17:00）——冰岛唯一的跳蚤市场，价格比主街更实惠，有洛帕披亚毛衣、冰岛特产和二手好物。格兰迪街区也是第5天熔岩秀的所在地，已是熟悉的地方。">A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so it's familiar territory.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Afternoon" data-zh="下午">Afternoon</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Afternoon" data-zh="下午">Afternoon</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Tjörnin pond &amp; city stroll" data-zh="特约尔宁湖与城市漫步">Tjörnin pond &amp; city stroll</strong><br><span data-en="A quiet walk around the pond, past the city hall and through the streets near the National Theatre. A gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip." data-zh="漫步湖畔，经过市政厅，穿行国家剧院附近的街道。以悠闲的节奏感受城市氛围，为明天的长途驾驶养精蓄锐。也是重游此前旅途中最钟爱之地的好机会。">A quiet walk around the pond, past the city hall and through the streets near the National Theatre. Gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Evening" data-zh="晚上">Evening</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Evening" data-zh="晚上">Evening</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Light dinner + pack bags" data-zh="便餐 + 打包行李">Light dinner + pack bags</strong><br><span data-en="An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. This is also your last good chance to pick up anything forgotten from the shops." data-zh="在酒店附近享用便餐。今晚打包所有行李——明天直接驾车前往凯夫拉维克，不再返回雷克雅未克。这也是最后一次补购忘买物品的好机会。">An easy dinner near the hotel. Pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. Last chance to pick up anything forgotten from the shops.</span></div>
         </div>
       </div>
@@ -1000,24 +1009,24 @@
     <div class="day-body">
       <p class="day-desc" data-en="Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening." data-zh="09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口和弗鲁希尔秘密温泉。今晚在凯夫拉维克机场还车。">Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first Iceland day (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening.</p>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 1" data-zh="第1站">Stop 1</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 1" data-zh="第1站">Stop 1</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Þingvellir National Park" data-zh="辛格韦德利国家公园">Þingvellir National Park</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~45 min from Reykjavík" data-zh="距雷克雅未克约45分钟">~45 min from Reykjavík</span><br><span data-en="Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see." data-zh="冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。">Iceland's most historically significant site — the world's oldest parliament (Alþingi, 930 AD) held on these flat lava plains. The site sits on the Mid-Atlantic Ridge where the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks throughout. Silfra Fissure — the cast's snorkelling highlight — is here too. You're skipping the snorkel but the rift valley is spectacular to walk and see.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 2" data-zh="第2站">Stop 2</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 2" data-zh="第2站">Stop 2</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Geysir — Strokkur geyser" data-zh="盖歇尔 — 史托克间歇泉">Geysir — Strokkur geyser</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~1h from Þingvellir" data-zh="距辛格韦德利约1小时">~1h from Þingvellir</span><br><span data-en="Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast timed creative group shots to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst of power." data-zh="位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。">Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — Strokkur beside it erupts 20–40m every 5–10 minutes. The cast timed creative group shots to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst of power.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 3" data-zh="第3站">Stop 3</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 3" data-zh="第3站">Stop 3</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Gullfoss — the Golden Waterfall" data-zh="黄金瀑布">Gullfoss — the Golden Waterfall</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~10 min from Geysir" data-zh="距盖歇尔约10分钟">~10 min from Geysir</span><br><span data-en="Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The upper viewing platform is accessible; the lower path to the water's edge involves some uneven steps — judge on the day. In November, spray can freeze on the railings, so wear grip gloves." data-zh="被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断。11月水雾可能在护栏上结冰，建议佩戴防滑手套。">Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. Upper platform is accessible; lower path to the water's edge has some uneven steps — judge on the day. In November, spray can freeze on railings, so wear grip gloves.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 4" data-zh="第4站">Stop 4</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 4" data-zh="第4站">Stop 4</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Kerið crater lake" data-zh="克里苏维克火山口湖">Kerið crater lake</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~45 min south of Gullfoss · small admission fee" data-zh="距黄金瀑布以南约45分钟 · 需购买门票">~45 min south of Gullfoss · small admission fee</span><br><span data-en="A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to Secret Lagoon and KEF." data-zh="3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往秘密温泉和凯夫拉维克的必经之路上，值得稍作绕行一探。">A 3,000-year-old volcanic crater — vivid red and ochre walls dropping to a bright turquoise lake. Walk the rim or descend to the shore. Not on the 花少5 route but directly on the way to Secret Lagoon and KEF — well worth the brief detour.</span></div>
         </div>
-        <div style="display:grid;grid-template-columns:auto 1fr;gap:0.75rem;align-items:baseline">
-          <div style="font-size:0.62rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--ocean);white-space:nowrap;padding-top:0.05rem" data-en="Stop 5" data-zh="第5站">Stop 5</div>
+        <div class="stop-row">
+          <div class="stop-label" data-en="Stop 5" data-zh="第5站">Stop 5</div>
           <div style="font-size:0.83rem;color:var(--muted);line-height:1.65"><strong style="color:var(--deep);font-weight:500" data-en="Secret Lagoon, Flúðir" data-zh="弗鲁希尔秘密温泉">Secret Lagoon, Flúðir</strong> <span style="color:var(--stone);font-size:0.75rem" data-en="~20 min from Kerið · secretlagoon.is · book in advance" data-zh="距克里苏维克约20分钟 · secretlagoon.is · 需提前预订">~20 min from Kerið · secretlagoon.is · book in advance</span><br><span data-en="Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in a remote countryside setting, with a small geyser bubbling beside it. Much simpler and more rustic than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route but a natural warm close to a big day out." data-zh="冰岛最古老的游泳池（1891年）——乡野中一处天然地热温泉湖，旁边有一口小间歇泉徐徐冒泡。比蓝湖简朴许多，但水温（38-40°C）舒适宜人、限流清静、令人真正放松。在驾车前往凯夫拉维克之前，完美的最后一浸。并非《花少5》的停靠点，但作为黄金圈一日游温暖收尾的选择，再合适不过。">Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in remote countryside, with a small geyser bubbling beside it. Much simpler than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route but a natural warm close to a big day out.</span></div>
         </div>
       </div>
