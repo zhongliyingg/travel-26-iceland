@@ -60,6 +60,17 @@ When adding new content, **always provide both `data-en` and `data-zh` attribute
   - `itinerary.md` — bilingual (EN + ZH), all 13 days including 花少5 EP references
   - `todo.md` — booking action list
 
+## Content update workflow
+
+**Always update `content/` first, then `index.html`.**
+
+When any itinerary, todo, highlights, flights, or accommodation content needs to change:
+1. Edit the relevant `content/*.md` file first (this is the human-readable source of truth).
+2. Immediately apply the same change to `index.html`, citing which `content/` file and section was the source.
+3. **Verify after every `index.html` edit** — re-read the edited section and cross-check every field (title, body text, EP ref label, EP ref body, tags, notices) against the `content/` file. Do not rely on memory of what was written; read the file directly.
+
+Never edit `index.html` content without a matching update to the corresponding `content/` file. If a `content/` file already reflects the desired state, note that it is up to date and proceed directly to updating `index.html`.
+
 ## Content safety rules
 
 **CRITICAL: Never strip content from `index.html` when making edits.**

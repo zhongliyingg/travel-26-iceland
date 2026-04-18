@@ -206,17 +206,45 @@ Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach acros
 
 ---
 
-## Leg 4 — Recovery + Golden Circle / 休整 + 黄金圈 · Nov 20–21
+## Leg 4 — Last Day in Reykjavík + Golden Circle / 雷克雅未克最后一天 + 黄金圈 · Nov 20–21
 
-### Day 10 · Thu, 20 Nov — Reykjavík / 雷克雅未克
-**Recovery — Laugardalslaug local pool / 休整日 — 本地温泉池**
+### Day 10 · Fri, 20 Nov — Reykjavík — last day / 雷克雅未克 — 最后一天
+**Farewell to Reykjavík — leisure & shopping / 告别雷克雅未克 — 悠闲漫步与购物**
 🏨 Reykjavík hotel (last night) · 🚗 Car parked · pack bags tonight
 
-Beloved local geothermal pool — far fewer tourists than Blue Lagoon. Hot pots, steam rooms, local atmosphere. Pack all bags tonight.
+Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel.
 
-雷克雅未克备受当地人喜爱的地热温泉——游客远少于蓝湖，设有热水池和蒸汽浴室，充满本地生活气息。下午轻松休息。今晚打包所有行李——明天直接开车前往凯夫拉维克机场酒店，不再返回雷克雅未克。
+在城市的最后一整天——无需开车，无需计划，悠然告别雷克雅未克。三条主要购物街彼此相距步行可达，距酒店也很近。
 
-`Relaxation` `Local life`
+**Morning — Laugavegur (the main shopping street)**
+Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back.
+
+冰岛历史最悠久、最热闹的购物街。逛逛冰岛标志性户外品牌66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（汇聚400余位本地设计师与工匠的冰岛设计）和Nomad（北欧风格生活礼品）。别错过15号的蓝湖护肤品店——与温泉同款产品，无需专程前往。
+
+**Mid-morning — Skólavörðustígur (the charming side street)**
+Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break.
+
+从劳格韦格尔延伸至哈尔格林姆斯教堂的彩虹街，两旁汇聚本地精品店、艺廊、陶瓷与珠宝工作室。Iurie Fine Art出售各种格式的冰岛大地摄影作品。Kirsuberjatréð是由女性创立的设计合作社，售卖手工服饰与家居用品。街上有不少好咖啡馆，适合中途休息。
+
+**Lunchtime — Old Harbour & Grandi district**
+A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so it's familiar territory.
+
+距劳格韦格尔步行约10分钟。港口一带有出色的海鲜餐厅，以及科拉波蒂德跳蚤市场（周五至周六开放，11:00–17:00）——冰岛唯一的跳蚤市场，价格比主街更实惠，有洛帕披亚毛衣、冰岛特产和二手好物。格兰迪街区也是第5天熔岩秀的所在地，已是熟悉的地方。
+
+**Afternoon — Tjörnin pond & city stroll**
+A quiet walk around the pond, past the city hall and through the streets near the National Theatre. A gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip.
+
+漫步湖畔，经过市政厅，穿行国家剧院附近的街道。以悠闲的节奏感受城市氛围，为明天的长途驾驶养精蓄锐。也是重游此前旅途中最钟爱之地的好机会。
+
+**Evening — Light dinner + pack bags**
+An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. This is also your last good chance to pick up anything forgotten from the shops.
+
+在酒店附近享用便餐。今晚打包所有行李——明天直接驾车前往凯夫拉维克，不再返回雷克雅未克。这也是最后一次补购忘买物品的好机会。
+
+`Shopping` `Leisure` `Last day`
+
+> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
+> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
 
 📺 **花少5 · Ep 14上 · Guide: 赵昭仪 · Vatnajökull glacier hike → Category 12 hurricane / 瓦特纳冰川徒步 → 12级飓风来袭**
 赵昭仪 guided the most dramatic day: a glacier hike on Vatnajökull — Europe's largest glacier — with crampons, helmets and ice axes across a vast white expanse. Then the director announced a Category 12 hurricane — the year's first in Iceland — would hit within hours. All remaining sightseeing cancelled. The cast sheltered together through the storm, creating one of the most memorable bonding nights of the entire 28-day trip.
@@ -225,13 +253,38 @@ Beloved local geothermal pool — far fewer tourists than Blue Lagoon. Hot pots,
 
 ---
 
-### Day 11 · Fri, 21 Nov — Golden Circle → Keflavík airport area / 黄金圈 → 凯夫拉维克机场周边
+### Day 11 · Sat, 21 Nov — Golden Circle → Keflavík airport area / 黄金圈 → 凯夫拉维克机场周边
 **Golden Circle → drive to KEF hotel / 黄金圈一日游 → 驾车前往机场酒店**
 🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~220 km · Car drop-off this evening
 
-Leave Reykjavík by 09:00 with bags. Þingvellir → Geysir → Gullfoss → Kerið crater → Secret Lagoon. Drive to KEF hotel. Return rental car at airport this evening.
+Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening.
 
-09:00前装好行李出发。辛格韦德利 → 盖歇尔 → 黄金瀑布 → 克里苏维克火山口 → 弗鲁希尔秘密温泉。向西南驱车前往凯夫拉维克酒店，今晚在机场还车。
+09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口和弗鲁希尔秘密温泉。今晚在凯夫拉维克机场还车。
+
+**Stop 1 — Þingvellir National Park** · ~45 min from Reykjavík
+Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see.
+
+冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。
+
+**Stop 2 — Geysir (Strokkur geyser)** · ~1h from Þingvellir
+Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast lined up creative group shots timed to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst.
+
+位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。
+
+**Stop 3 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
+Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The upper viewing platform is accessible; the lower path to the water's edge involves some uneven steps — judge on the day. In November, spray can freeze on the railings, so wear grip gloves.
+
+被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断。11月水雾可能在护栏上结冰，建议佩戴防滑手套。
+
+**Stop 4 — Kerið crater lake** · ~45 min south of Gullfoss · small admission fee
+A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to Secret Lagoon and KEF.
+
+3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往秘密温泉和凯夫拉维克的必经之路上，值得稍作绕行一探。
+
+**Stop 5 — Secret Lagoon, Flúðir** · ~20 min from Kerið · book at secretlagoon.is
+Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in a remote countryside setting, with a small geyser bubbling beside it. Much simpler and more rustic than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route but a natural warm close to a big day out.
+
+冰岛最古老的游泳池（1891年）——乡野中一处天然地热温泉湖，旁边有一口小间歇泉徐徐冒泡。比蓝湖简朴许多，但水温（38-40°C）舒适宜人、限流清静、令人真正放松。在驾车前往凯夫拉维克之前，完美的最后一浸。并非《花少5》的停靠点，但作为黄金圈一日游温暖收尾的选择，再合适不过。
 
 `Adventure` `History` `Nature` `Car return`
 
