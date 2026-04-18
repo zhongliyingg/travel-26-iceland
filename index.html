@@ -344,7 +344,11 @@
   .accom-status { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.6rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.2rem 0.6rem; border-radius: 100px; margin-bottom: 0.75rem; }
   .accom-status.booked { background: rgba(74,191,160,0.15); color: #4ABFA0; }
   .accom-status.pending { background: rgba(201,151,58,0.15); color: #C9973A; }
-  .accom-name { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.15rem; font-weight: 600; color: #F0F7FA; line-height: 1.25; margin-bottom: 0.3rem; }
+  .accom-name { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.15rem; font-weight: 600; color: #F0F7FA; line-height: 1.25; margin-bottom: 0.1rem; }
+  .flight-hero { display: flex; align-items: center; gap: 0.75rem; margin: 0.4rem 0; }
+  .flight-airline-logo-wrap { display: inline-flex; align-items: center; justify-content: center; background: #fff; border-radius: 6px; padding: 5px 8px; flex-shrink: 0; }
+  .flight-airline-logo { display: block; height: 40px; width: auto; }
+  .flight-airline-name { font-size: 0.68rem; letter-spacing: 0.08em; color: var(--stone); }
   .accom-location { font-size: 0.75rem; color: var(--stone); display: flex; align-items: center; gap: 0.3rem; }
   .accom-card-body { padding: 1rem 1.4rem 1.25rem; display: flex; flex-direction: column; gap: 0.6rem; }
   .accom-row { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; }
@@ -535,56 +539,60 @@
       <div class="accom-card">
         <div class="accom-card-top">
           <div class="accom-status booked" data-en="✈ Outbound Leg 1" data-zh="✈ 去程第一段">✈ Outbound Leg 1</div>
-          <div class="accom-name">SQ326</div>
-          <div class="accom-location"><span data-en="🇸🇬 Singapore → 🇩🇪 Frankfurt" data-zh="🇸🇬 新加坡 → 🇩🇪 法兰克福">🇸🇬 Singapore → 🇩🇪 Frankfurt</span></div>
+          <div class="flight-hero">
+            <span class="flight-airline-logo-wrap"><img class="flight-airline-logo" src="https://www.gstatic.com/flights/airline_logos/70px/SQ.png" alt="Singapore Airlines"></span>
+            <div><div class="accom-name">SQ326</div><div class="flight-airline-name">Singapore Airlines</div><div class="accom-location"><span data-en="🇸🇬 Singapore → 🇩🇪 Frankfurt" data-zh="🇸🇬 新加坡 → 🇩🇪 法兰克福">🇸🇬 Singapore → 🇩🇪 Frankfurt</span></div></div>
+          </div>
         </div>
         <div class="accom-card-body">
           <div class="accom-row"><span class="accom-label" data-en="Date" data-zh="日期">Date</span><span class="accom-value highlight">Nov 11 (Tue)</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Departs" data-zh="出发">Departs</span><span class="accom-value">SIN 11:05</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Arrives" data-zh="抵达">Arrives</span><span class="accom-value">FRA 17:40</span></div>
-          <div class="accom-row"><span class="accom-label" data-en="Airline" data-zh="航空公司">Airline</span><span class="accom-value">Singapore Airlines</span></div>
         </div>
       </div>
 
       <div class="accom-card">
         <div class="accom-card-top">
           <div class="accom-status booked" data-en="✈ Outbound Leg 2" data-zh="✈ 去程第二段">✈ Outbound Leg 2</div>
-          <div class="accom-name">FI521</div>
-          <div class="accom-location"><span data-en="🇩🇪 Frankfurt → 🇮🇸 Keflavík" data-zh="🇩🇪 法兰克福 → 🇮🇸 凯夫拉维克">🇩🇪 Frankfurt → 🇮🇸 Keflavík</span></div>
+          <div class="flight-hero">
+            <span class="flight-airline-logo-wrap"><img class="flight-airline-logo" src="https://www.gstatic.com/flights/airline_logos/70px/FI.png" alt="Icelandair"></span>
+            <div><div class="accom-name">FI521</div><div class="flight-airline-name">Icelandair</div><div class="accom-location"><span data-en="🇩🇪 Frankfurt → 🇮🇸 Keflavík" data-zh="🇩🇪 法兰克福 → 🇮🇸 凯夫拉维克">🇩🇪 Frankfurt → 🇮🇸 Keflavík</span></div></div>
+          </div>
         </div>
         <div class="accom-card-body">
           <div class="accom-row"><span class="accom-label" data-en="Date" data-zh="日期">Date</span><span class="accom-value highlight">Nov 12 (Wed)</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Departs" data-zh="出发">Departs</span><span class="accom-value">FRA 13:00 · T2</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Arrives" data-zh="抵达">Arrives</span><span class="accom-value">KEF 15:40</span></div>
-          <div class="accom-row"><span class="accom-label" data-en="Airline" data-zh="航空公司">Airline</span><span class="accom-value">Icelandair</span></div>
         </div>
       </div>
 
       <div class="accom-card">
         <div class="accom-card-top">
           <div class="accom-status booked" data-en="✈ Return Leg 1" data-zh="✈ 回程第一段">✈ Return Leg 1</div>
-          <div class="accom-name">FI520</div>
-          <div class="accom-location"><span data-en="🇮🇸 Keflavík → 🇩🇪 Frankfurt" data-zh="🇮🇸 凯夫拉维克 → 🇩🇪 法兰克福">🇮🇸 Keflavík → 🇩🇪 Frankfurt</span></div>
+          <div class="flight-hero">
+            <span class="flight-airline-logo-wrap"><img class="flight-airline-logo" src="https://www.gstatic.com/flights/airline_logos/70px/FI.png" alt="Icelandair"></span>
+            <div><div class="accom-name">FI520</div><div class="flight-airline-name">Icelandair</div><div class="accom-location"><span data-en="🇮🇸 Keflavík → 🇩🇪 Frankfurt" data-zh="🇮🇸 凯夫拉维克 → 🇩🇪 法兰克福">🇮🇸 Keflavík → 🇩🇪 Frankfurt</span></div></div>
+          </div>
         </div>
         <div class="accom-card-body">
           <div class="accom-row"><span class="accom-label" data-en="Date" data-zh="日期">Date</span><span class="accom-value highlight">Nov 22 (Sat)</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Departs" data-zh="出发">Departs</span><span class="accom-value">KEF 07:25</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Arrives" data-zh="抵达">Arrives</span><span class="accom-value">FRA 12:05</span></div>
-          <div class="accom-row"><span class="accom-label" data-en="Airline" data-zh="航空公司">Airline</span><span class="accom-value">Icelandair</span></div>
         </div>
       </div>
 
       <div class="accom-card">
         <div class="accom-card-top">
           <div class="accom-status booked" data-en="✈ Return Leg 2" data-zh="✈ 回程第二段">✈ Return Leg 2</div>
-          <div class="accom-name">SQ325</div>
-          <div class="accom-location"><span data-en="🇩🇪 Frankfurt → 🇸🇬 Singapore" data-zh="🇩🇪 法兰克福 → 🇸🇬 新加坡">🇩🇪 Frankfurt → 🇸🇬 Singapore</span></div>
+          <div class="flight-hero">
+            <span class="flight-airline-logo-wrap"><img class="flight-airline-logo" src="https://www.gstatic.com/flights/airline_logos/70px/SQ.png" alt="Singapore Airlines"></span>
+            <div><div class="accom-name">SQ325</div><div class="flight-airline-name">Singapore Airlines</div><div class="accom-location"><span data-en="🇩🇪 Frankfurt → 🇸🇬 Singapore" data-zh="🇩🇪 法兰克福 → 🇸🇬 新加坡">🇩🇪 Frankfurt → 🇸🇬 Singapore</span></div></div>
+          </div>
         </div>
         <div class="accom-card-body">
           <div class="accom-row"><span class="accom-label" data-en="Date" data-zh="日期">Date</span><span class="accom-value highlight">Nov 23 (Sun)</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Departs" data-zh="出发">Departs</span><span class="accom-value">FRA 21:40 · T1</span></div>
           <div class="accom-row"><span class="accom-label" data-en="Arrives" data-zh="抵达">Arrives</span><span class="accom-value">SIN +1 17:00</span></div>
-          <div class="accom-row"><span class="accom-label" data-en="Airline" data-zh="航空公司">Airline</span><span class="accom-value">Singapore Airlines</span></div>
         </div>
       </div>
 
