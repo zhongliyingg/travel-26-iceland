@@ -257,9 +257,9 @@ An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive
 **Golden Circle → drive to KEF hotel / 黄金圈一日游 → 驾车前往机场酒店**
 🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~220 km · Car drop-off this evening
 
-Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater and Secret Lagoon. Return car at KEF airport this evening.
+Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater. Return car at KEF airport this evening.
 
-09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口和弗鲁希尔秘密温泉。今晚在凯夫拉维克机场还车。
+09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口。今晚在凯夫拉维克机场还车。
 
 **Stop 1 — Þingvellir National Park** · ~45 min from Reykjavík
 Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see.
@@ -277,14 +277,9 @@ Listed among the world's top-10 waterfalls — glacial meltwater from Langjökul
 被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断。11月水雾可能在护栏上结冰，建议佩戴防滑手套。
 
 **Stop 4 — Kerið crater lake** · ~45 min south of Gullfoss · small admission fee
-A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to Secret Lagoon and KEF.
+A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to KEF.
 
-3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往秘密温泉和凯夫拉维克的必经之路上，值得稍作绕行一探。
-
-**Stop 5 — Secret Lagoon, Flúðir** · ~20 min from Kerið · book at secretlagoon.is
-Iceland's oldest swimming pool (1891) — a naturally heated geothermal lagoon in a remote countryside setting, with a small geyser bubbling beside it. Much simpler and more rustic than the Blue Lagoon, but warm (38–40°C), crowd-limited and genuinely relaxing. A perfect final soak before the drive to KEF. Not on the 花少5 route but a natural warm close to a big day out.
-
-冰岛最古老的游泳池（1891年）——乡野中一处天然地热温泉湖，旁边有一口小间歇泉徐徐冒泡。比蓝湖简朴许多，但水温（38-40°C）舒适宜人、限流清静、令人真正放松。在驾车前往凯夫拉维克之前，完美的最后一浸。并非《花少5》的停靠点，但作为黄金圈一日游温暖收尾的选择，再合适不过。
+3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往凯夫拉维克的必经之路上，值得稍作绕行一探。
 
 `Adventure` `History` `Nature` `Car return`
 

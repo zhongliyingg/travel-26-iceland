@@ -22,7 +22,6 @@
 
 - **Lava Show** — Nov 15 afternoon · the world's only live lava experience · book at lavashow.com — sells out · consider Premium upgrade (balcony seats, drink, backstage tour + lava souvenir) · Grandi Harbour District, walkable from city centre
 - **Perlan museum** — Nov 17 afternoon · book at perlan.is · includes Áróra planetarium (8K northern lights show), indoor ice cave (400 tons real ice) and volcano exhibit · allow 2–3 hrs · especially valuable on a cloudy day — guaranteed indoor aurora · 5–10 min drive from city centre
-- **Secret Lagoon** — Nov 21 · small capacity · book at secretlagoon.is
 - **Dinner reservations:**
   - Reykjavík Kitchen — Nov 13
   - Grillmarkaðurinn — Nov 17
