@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Iceland Family Trip 2026 · 冰岛家庭旅行</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&family=Noto+Serif+SC:wght@300;400;600&display=swap" rel="stylesheet">
+<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7D8kntYYxjwfjQ85Pa2DjRrq_cpkTgDg&callback=initMaps"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   :root {
@@ -345,6 +346,7 @@
   .accom-status.booked { background: rgba(74,191,160,0.15); color: #4ABFA0; }
   .accom-status.pending { background: rgba(201,151,58,0.15); color: #C9973A; }
   .accom-name { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; font-size: 1.15rem; font-weight: 600; color: #F0F7FA; line-height: 1.25; margin-bottom: 0.1rem; }
+  .day-map { height: 220px; border-radius: 8px; overflow: hidden; margin: 0.75rem 0; border: 1px solid rgba(255,255,255,0.08); }
   .flight-hero { display: flex; align-items: center; gap: 0.75rem; margin: 0.4rem 0; }
   .flight-airline-logo-wrap { display: inline-flex; align-items: center; justify-content: center; background: #fff; border-radius: 6px; padding: 5px 8px; flex-shrink: 0; }
   .flight-airline-logo { display: block; height: 40px; width: auto; }
@@ -721,6 +723,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — it's connected to Terminal 1, no transfer needed. Dinner at the hotel restaurant. Early night — you've been travelling since morning Singapore time." data-zh="SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒店——酒店与1号航站楼直接相连，无需转乘。在酒店餐厅用晚餐。早早休息——从新加坡早上出发已飞行一整天。">SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — connected to Terminal 1, no transfer needed. Dinner at hotel. Early night.</p>
+      <div class="day-map" id="map-1"></div>
       <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Rest" data-zh="休息">Rest</span></div>
     </div>
   </div>
@@ -736,6 +739,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Hotel breakfast, browse Terminal 1 shops. SkyLine train to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local time. Pick up rental car at the airport. Drive to Reykjavík (~45 min). Check in, easy dinner." data-zh="酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:00出发，当地时间15:40抵达凯夫拉维克。机场取租车，驾车前往雷克雅未克（约45分钟）。入住酒店，享用轻松晚餐。">Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, arrives KEF 15:40 local. Pick up rental car. Drive to Reykjavík (~45 min).</p>
+      <div class="day-map" id="map-2"></div>
       <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Car pick-up" data-zh="取租车">Car pick-up</span></div>
       <div class="notice" data-en="⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals." data-zh="⚠ FI521从2号航站楼出发。喜来登酒店位于1号航站楼。请乘坐约2分钟的SkyLine列车在航站楼间转乘，留出足够时间。">⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals.</div>
     </div>
@@ -768,6 +772,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. City centre is compact and walkable — no driving needed. Dinner at Reykjavík Kitchen (book in advance) — try the lamb shank and Arctic char." data-zh="参观哈尔格林姆斯教堂、哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。">Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.</p>
+      <div class="day-map" id="map-3"></div>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
       <div class="ep-ref">
         <div class="ep-ref-icon">📺</div>
@@ -790,6 +795,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Morning: Aurora Reykjavík museum — seated, accessible, fascinating intro to the science of auroras. Evening: organised Northern Lights bus tour (hot chocolate included, free re-try on cloudy nights). Leave the car at the hotel." data-zh="上午：参观极光博物馆——有座位、无障碍设施，生动介绍极光的科学原理。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。">Morning: Aurora Reykjavík museum — seated, accessible. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.</p>
+      <div class="day-map" id="map-4"></div>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Aurora" data-zh="极光">Aurora</span><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span></div>
       <div class="ep-ref">
         <div class="ep-ref-icon">📺</div>
@@ -812,6 +818,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Morning: Viking age artefacts at the National Museum of Iceland. The Settlement Exhibition features walk-over glass floors revealing actual Viking longhouse ruins beneath the city. Lunch at Sjávargrillið — creative Icelandic seafood. Afternoon: Lava Show at Grandi Harbour District — the world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. About 50–75 min. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here." data-zh="上午：参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理，环境温馨质朴。下午：前往格兰迪港湾区体验熔岩秀——全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。约50-75分钟。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。">Morning: Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið. Afternoon: Lava Show at Grandi Harbour — the world's only live lava experience. Real molten rock superheated to 1,100°C poured into the showroom — you see it flow, feel the heat and hear it cool. 50–75 min. Classic ticket or upgrade to Premium for balcony seats, a drink, backstage furnace tour and a lava souvenir. This is exactly what 王安宇 arranged for the 花少5 cast on their Reykjavík city day.</p>
+      <div class="day-map" id="map-5"></div>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="History" data-zh="历史">History</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Lava Show" data-zh="熔岩秀">Lava Show</span></div>
       <div class="notice" data-en="🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening completely free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight." data-zh="🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间完全自由。若11月14日未能看到极光，今天联系运营商预约免费补看名额。">🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening completely free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight.</div>
       <div class="ep-ref">
@@ -835,6 +842,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group." data-zh="两个绝佳选择，均距雷克雅未克约45-50分钟自驾。与家人商量后再做决定。">Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group.</p>
+      <div class="day-map" id="map-6"></div>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
         <div class="stop-row">
           <div class="stop-label" data-en="Option A" data-zh="选项A">Option A</div>
@@ -869,6 +877,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — gentle wander, no agenda. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. Ideal if the weather is grey: a guaranteed, breathtaking indoor aurora experience. The 360° observation deck gives panoramic views over the entire city. Allow 2–3 hours. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance)." data-zh="上午：漫步劳格韦格尔购物街、特约尔宁湖和雷克雅未克艺术博物馆——悠然自在，无需计划。下午：珍珠楼——坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。天气阴霾时尤为推荐：室内即可感受震撼人心的极光体验。360度观景台可俯瞰整座城市全景。建议预留2-3小时。晚餐前往Grillmarkaðurinn享用值得一试的豪华料理（需提前订位）。">Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — gentle wander. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. 100m indoor ice cave, Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show in 8K. Perfect on a grey November day: a guaranteed, breathtaking indoor aurora. 360° observation deck over the whole city. Allow 2–3 hours. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance).</p>
+      <div class="day-map" id="map-7"></div>
       <div class="day-tags"><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span><span class="day-tag" data-en="Perlan" data-zh="珍珠楼">Perlan</span><span class="day-tag" data-en="Aurora" data-zh="极光">Aurora</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span></div>
       <div class="ep-ref">
         <div class="ep-ref-icon">📺</div>
@@ -897,6 +906,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30." data-zh="完全复刻《花少5》南海岸路线，按顺序打卡五个景点。08:30前离开雷克雅未克。">Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30.</p>
+      <div class="day-map" id="map-8"></div>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
         <div class="stop-row">
           <div class="stop-label" data-en="Stop 1" data-zh="第1站">Stop 1</div>
@@ -943,6 +953,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Vík → Jökulsárlón (~2h 30min). Enormous icebergs drifting silently across the lagoon. Diamond Beach directly across the road — ice glittering on black sand. Return to Reykjavík (~4h). Leave Vík by 08:30 to maximise daylight." data-zh="维克 → 杰古沙龙冰川湖（约2.5小时）。巨大冰山静静漂浮在湖面上。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返回雷克雅未克（约4小时）。08:30前离开维克，充分利用白昼时间。">Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach across the road. Return to Reykjavík (~4h). Leave Vík by 08:30.</p>
+      <div class="day-map" id="map-9"></div>
       <div class="day-tags"><span class="day-tag" data-en="Adventure" data-zh="探险">Adventure</span><span class="day-tag" data-en="Nature" data-zh="自然">Nature</span><span class="day-tag" data-en="~6h driving" data-zh="约6小时驾驶">~6h driving</span></div>
       <div class="ep-ref">
         <div class="ep-ref-icon">📺</div>
@@ -971,6 +982,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel." data-zh="在城市的最后一整天——无需开车，无需计划，悠然告别雷克雅未克。三条主要购物街彼此相距步行可达，距酒店也很近。">Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel.</p>
+      <div class="day-map" id="map-10"></div>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
         <div class="stop-row">
           <div class="stop-label" data-en="Morning" data-zh="上午">Morning</div>
@@ -1016,6 +1028,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater. Return car at KEF airport this evening." data-zh="09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口。今晚在凯夫拉维克机场还车。">Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first Iceland day (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater. Return car at KEF airport this evening.</p>
+      <div class="day-map" id="map-11"></div>
       <div style="display:flex;flex-direction:column;gap:0.6rem;margin:0.75rem 0">
         <div class="stop-row">
           <div class="stop-label" data-en="Stop 1" data-zh="第1站">Stop 1</div>
@@ -1063,6 +1076,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="Wake-up 04:45. Hotel shuttle to KEF (~5 min). At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to city hotel. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt — Sachsenhausen district or the hotel's own restaurant." data-zh="04:45起床。乘酒店班车前往凯夫拉维克机场（约5分钟）。05:30抵达机场。FI520航班07:25起飞，12:05抵达法兰克福。打车或乘坐S-Bahn（约30分钟）前往市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。">Wake-up 04:45. Hotel shuttle to KEF (~5 min). FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn to Ruby Louise Hotel Frankfurt. Rest, then dinner in Sachsenhausen district.</p>
+      <div class="day-map" id="map-12"></div>
       <div class="day-tags"><span class="day-tag" data-en="Travel" data-zh="交通">Travel</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Frankfurt" data-zh="法兰克福">Frankfurt</span></div>
       <div class="notice" data-en="⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15" data-zh="⚠ 早起提醒：04:45起床 · 前一晚打包行李 · 提前预约班车 · 05:15前离开酒店">⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15</div>
     </div>
@@ -1085,6 +1099,7 @@
     </div>
     <div class="day-body">
       <p class="day-desc" data-en="The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Leave for airport by 18:30 — S-Bahn from Hauptwache (~5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Arrive Singapore Nov 24 ~17:00." data-zh="法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。18:30前出发前往机场——从豪普特瓦赫乘坐S-Bahn（步行约5分钟，约15分钟到机场）。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。">Market opens today — 10-min walk from hotel. 30m Christmas tree, Glühwein, marzipan, chestnuts. Parents can rest mid-afternoon. Leave for airport by 18:30 — S-Bahn from Hauptwache (~15 min). Arrive Singapore Nov 24 ~17:00.</p>
+      <div class="day-map" id="map-13"></div>
       <div class="day-tags"><span class="day-tag" data-en="Christmas market" data-zh="圣诞市集">Christmas market</span><span class="day-tag" data-en="Food" data-zh="美食">Food</span><span class="day-tag" data-en="Culture" data-zh="文化">Culture</span></div>
       <div class="notice" data-en="✓ Perfect timing: Market opens exactly today. Ruby Louise Hotel is in city centre — walk to Römerberg. S-Bahn to airport ~15 min from Hauptwache (5-min walk)." data-zh="✓ 时机完美：市集恰好今日开幕。鲁比路易斯酒店位于市中心，步行可达罗马广场。从豪普特瓦赫步行5分钟乘坐S-Bahn，约15分钟到达机场。">✓ Perfect timing: Market opens exactly today. Ruby Louise Hotel is in city centre — walk to Römerberg. S-Bahn to airport ~15 min from Hauptwache (5-min walk).</div>
     </div>
@@ -1173,6 +1188,15 @@
         el.style.opacity = '1';
       });
     }, 180);
+
+    // Update map marker popup labels
+    if (typeof mapMarkers !== 'undefined') {
+      Object.values(mapMarkers).flat().forEach(({infoWindow, en, zh}) => {
+        infoWindow.setContent(
+          `<span style="color:#111;font-size:0.8rem;font-family:sans-serif">${lang === 'zh' ? zh : en}</span>`
+        );
+      });
+    }
   }
 
   function toggleMenu() {
@@ -1204,6 +1228,125 @@
   }
   window.addEventListener('scroll', updateNav, { passive: true });
   updateNav();
+</script>
+
+<script>
+  const dayMaps = {
+    'map-1':  { center:{lat:50.050,lng:8.571}, zoom:14, markers:[
+      {lat:50.050,lng:8.571, en:'Sheraton Frankfurt Airport', zh:'法兰克福机场喜来登酒店'}
+    ]},
+    'map-2':  { center:{lat:64.136,lng:-21.895}, zoom:12, markers:[
+      {lat:63.985,lng:-22.606, en:'Keflavík Airport', zh:'凯夫拉维克机场'},
+      {lat:64.136,lng:-21.895, en:'Reykjavík', zh:'雷克雅未克'}
+    ]},
+    'map-3':  { center:{lat:64.148,lng:-21.927}, zoom:14, markers:[
+      {lat:64.142,lng:-21.927, en:'Hallgrímskirkja', zh:'哈尔格林姆斯教堂'},
+      {lat:64.150,lng:-21.932, en:'Harpa Concert Hall', zh:'Harpa音乐厅'},
+      {lat:64.153,lng:-21.942, en:'Old Harbour', zh:'旧港'}
+    ]},
+    'map-4':  { center:{lat:64.148,lng:-21.940}, zoom:14, markers:[
+      {lat:64.148,lng:-21.940, en:'Aurora Reykjavík Museum', zh:'极光博物馆'}
+    ]},
+    'map-5':  { center:{lat:64.138,lng:-21.940}, zoom:14, markers:[
+      {lat:64.133,lng:-21.948, en:'National Museum of Iceland', zh:'冰岛国家博物馆'},
+      {lat:64.148,lng:-21.936, en:'Settlement Exhibition', zh:'定居展览馆'},
+      {lat:64.153,lng:-21.948, en:'Lava Show (Grandi)', zh:'熔岩秀（格兰迪区）'}
+    ]},
+    'map-6':  { center:{lat:63.880,lng:-22.449}, zoom:13, markers:[
+      {lat:63.880,lng:-22.449, en:'Blue Lagoon', zh:'蓝湖温泉'}
+    ]},
+    'map-7':  { center:{lat:64.143,lng:-21.912}, zoom:13, markers:[
+      {lat:64.140,lng:-21.923, en:'Laugavegur', zh:'劳格韦格尔购物街'},
+      {lat:64.128,lng:-21.905, en:'Perlan Museum', zh:'珍珠楼博物馆'},
+      {lat:64.148,lng:-21.943, en:'Reykjavík Art Museum', zh:'雷克雅未克艺术博物馆'},
+      {lat:64.147,lng:-21.943, en:'Tjörnin Pond', zh:'特约尔宁湖'}
+    ]},
+    'map-8':  { center:{lat:63.510,lng:-19.510}, zoom:9, markers:[
+      {lat:63.616,lng:-19.989, en:'Seljalandsfoss', zh:'塞里雅兰瀑布'},
+      {lat:63.532,lng:-19.512, en:'Skógafoss', zh:'斯科加瀑布'},
+      {lat:63.404,lng:-19.057, en:'Reynisfjara Black Sand Beach', zh:'雷尼斯黑沙滩'},
+      {lat:63.402,lng:-19.128, en:'Dyrhólaey', zh:'迪霍拉里海角'},
+      {lat:63.419,lng:-19.006, en:'Vík', zh:'维克小镇'}
+    ]},
+    'map-9':  { center:{lat:64.078,lng:-16.230}, zoom:9, markers:[
+      {lat:64.078,lng:-16.231, en:'Jökulsárlón Glacier Lagoon', zh:'冰川湖'},
+      {lat:64.066,lng:-16.179, en:'Diamond Beach', zh:'钻石海滩'},
+      {lat:64.254,lng:-15.204, en:'Höfn', zh:'霍芬'}
+    ]},
+    'map-10': { center:{lat:64.144,lng:-21.918}, zoom:14, markers:[
+      {lat:64.142,lng:-21.927, en:'Laugavegur Shopping Street', zh:'劳格韦格尔购物街'},
+      {lat:64.146,lng:-21.917, en:'Skólavörðustígur', zh:'斯科拉沃杜斯提古尔街'},
+      {lat:64.153,lng:-21.942, en:'Old Harbour & Grandi', zh:'旧港及格兰迪区'},
+      {lat:64.147,lng:-21.943, en:'Tjörnin Pond', zh:'特约尔宁湖'}
+    ]},
+    'map-11': { center:{lat:64.180,lng:-20.620}, zoom:9, markers:[
+      {lat:64.256,lng:-21.130, en:'Þingvellir National Park', zh:'辛格韦德利国家公园'},
+      {lat:64.313,lng:-20.301, en:'Geysir / Strokkur', zh:'间歇泉'},
+      {lat:64.327,lng:-20.122, en:'Gullfoss', zh:'黄金瀑布'},
+      {lat:64.041,lng:-20.886, en:'Kerið Crater', zh:'凯里斯火山口'}
+    ]},
+    'map-12': { center:{lat:50.107,lng:8.684}, zoom:13, markers:[
+      {lat:50.112,lng:8.684, en:'Ruby Louise Hotel, Frankfurt', zh:'法兰克福鲁比路易斯酒店'},
+      {lat:50.101,lng:8.684, en:'Sachsenhausen', zh:'萨克森豪森'}
+    ]},
+    'map-13': { center:{lat:50.111,lng:8.681}, zoom:15, markers:[
+      {lat:50.111,lng:8.682, en:'Römerberg Christmas Market', zh:'罗马广场圣诞市集'},
+      {lat:50.114,lng:8.679, en:'Hauptwache S-Bahn', zh:'豪普特瓦赫地铁站'}
+    ]}
+  };
+
+  const darkMapStyles = [
+    {elementType:'geometry',stylers:[{color:'#1a2332'}]},
+    {elementType:'labels.text.fill',stylers:[{color:'#8899aa'}]},
+    {elementType:'labels.text.stroke',stylers:[{color:'#1a2332'}]},
+    {featureType:'water',elementType:'geometry',stylers:[{color:'#0d1b2a'}]},
+    {featureType:'road',elementType:'geometry',stylers:[{color:'#2a3a4a'}]},
+    {featureType:'road',elementType:'labels.text.fill',stylers:[{color:'#6a8090'}]},
+    {featureType:'poi',stylers:[{visibility:'off'}]},
+    {featureType:'transit',stylers:[{visibility:'off'}]},
+    {featureType:'administrative',elementType:'geometry.stroke',stylers:[{color:'#2a3a4a'}]}
+  ];
+
+  const mapMarkers = {};
+
+  function initMaps() {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        observer.unobserve(entry.target);
+        const id = entry.target.id;
+        const cfg = dayMaps[id];
+        if (!cfg) return;
+        const map = new google.maps.Map(entry.target, {
+          center: cfg.center, zoom: cfg.zoom,
+          styles: darkMapStyles,
+          disableDefaultUI: true,
+          zoomControl: true,
+          gestureHandling: 'cooperative'
+        });
+        mapMarkers[id] = [];
+        const lang = document.documentElement.lang === 'zh-CN' ? 'zh' : 'en';
+        cfg.markers.forEach(m => {
+          const marker = new google.maps.Marker({
+            position: {lat: m.lat, lng: m.lng}, map,
+            icon: {
+              path: google.maps.SymbolPath.CIRCLE,
+              scale: 6,
+              fillColor: '#4ABFA0', fillOpacity: 1,
+              strokeColor: '#ffffff', strokeWeight: 2
+            }
+          });
+          const infoWindow = new google.maps.InfoWindow({
+            content: `<span style="color:#111;font-size:0.8rem;font-family:sans-serif">${lang === 'zh' ? m.zh : m.en}</span>`
+          });
+          marker.addListener('click', () => infoWindow.open(map, marker));
+          mapMarkers[id].push({marker, infoWindow, en: m.en, zh: m.zh});
+        });
+      });
+    }, {threshold: 0.1});
+
+    document.querySelectorAll('.day-map').forEach(el => observer.observe(el));
+  }
 </script>
 </body>
 </html>
