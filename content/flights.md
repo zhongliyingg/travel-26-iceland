@@ -15,7 +15,7 @@
 - **Arrives:** KEF 15:40
 - **Airline:** Icelandair
 - **Status:** Booked ✓
-- **Note:** Sheraton is in T1 — take the 2-minute SkyLine train to T2 before boarding.
+- **Note:** Sheraton is in T1 — take the 2-minute SkyLine train to T2 before boarding. On arrival, airport transfer to the Reykjavík hotel (no car pick-up — car is collected in Reykjavík on Nov 16).
 
 ---
 

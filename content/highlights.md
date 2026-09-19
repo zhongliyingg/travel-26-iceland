@@ -20,17 +20,17 @@ November's long dark nights give the best aurora odds. Expert-guided bus tour wi
 
 ---
 
-## 3. Blue Lagoon / 蓝湖温泉
-**Nov 16 · Relaxation · Nature / 11月16日 · 放松 · 自然**
+## 3. Perlan / 珍珠楼
+**Nov 14 · Culture · Aurora / 11月14日 · 文化 · 极光**
 
-World-famous milky-blue geothermal spa at 38°C — silica mud masks, swim-up bar, steam room. Gentle for everyone.
+Glass-domed museum on Öskjuhlíð hill — a 100m indoor ice cave, a volcano exhibit, and the Áróra 8K northern lights planetarium show. A guaranteed aurora, whatever the weather.
 
-举世闻名的蓝湖地热温泉，水温38°C——白硅泥面膜、泳池吧台和蒸汽浴室，适合全家。
+奥斯基亚山顶的玻璃穹顶博物馆——100米室内冰洞、火山展览，以及8K极光天文馆秀。无论天气如何，都能看到极光。
 
 ---
 
 ## 4. Seljalandsfoss & Skógafoss / 塞里雅兰瀑布与斯科加瀑布
-**Nov 18 · South Coast · Nature · Adventure / 11月18日 · 南岸 · 自然 · 探险**
+**Nov 16 · South Coast · Nature · Adventure / 11月16日 · 南岸 · 自然 · 探险**
 
 Two of Iceland's most dramatic waterfalls on the South Coast. Accessible platform at Skógafoss, spectacular in November light.
 
@@ -39,7 +39,7 @@ Two of Iceland's most dramatic waterfalls on the South Coast. Accessible platfor
 ---
 
 ## 5. Jökulsárlón Glacier Lagoon / 冰川湖与钻石海滩
-**Nov 19 · South Coast · Nature / 11月19日 · 南岸 · 自然**
+**Nov 17 · South Coast · Nature / 11月17日 · 南岸 · 自然**
 
 Icebergs drifting across a steel-grey lagoon. Diamond Beach across the road sparkles with ice on black sand.
 
@@ -47,21 +47,21 @@ Icebergs drifting across a steel-grey lagoon. Diamond Beach across the road spar
 
 ---
 
-## 6. Þingvellir National Park / 辛格韦德利国家公园
+## 6. Geysir & Gullfoss / 间歇泉与黄金瀑布
+**Nov 20 · Golden Circle · Nature · Adventure / 11月20日 · 黄金圈 · 自然 · 探险**
+
+Strokkur erupts every 5–10 minutes. Then the thundering two-tiered Gullfoss waterfall plunges into a dramatic gorge.
+
+斯特罗克间歇泉每5-10分钟喷发。随后是壮观的两级黄金瀑布奔腾入峡谷。
+
+---
+
+## 7. Þingvellir National Park / 辛格韦德利国家公园
 **Nov 21 · Golden Circle · Nature · History / 11月21日 · 黄金圈 · 自然 · 历史**
 
 Walk between two tectonic plates. Site of the world's oldest parliament, founded 930 AD. Flat boardwalks, easy for all.
 
 漫步北美与欧亚板块交界裂谷，世界最古老议会所在地（公元930年）。步道平坦，适合全家。
-
----
-
-## 7. Geysir & Gullfoss / 间歇泉与黄金瀑布
-**Nov 21 · Golden Circle · Nature · Adventure / 11月21日 · 黄金圈 · 自然 · 探险**
-
-Strokkur erupts every 5–8 minutes. Then the thundering two-tiered Gullfoss waterfall plunges into a dramatic gorge.
-
-斯特罗克间歇泉每5-8分钟喷发。随后是壮观的两级黄金瀑布奔腾入峡谷。
 
 ---
 

@@ -25,22 +25,25 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 ---
 
 ## Day 3 · Nov 13 · Reykjavík
-**Centre:** 64.148, -21.927 · **Zoom:** 14
+**Centre:** 64.146, -21.930 · **Zoom:** 14
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Hallgrímskirkja | 哈尔格林姆斯教堂 | 64.142 | -21.927 |
-| 2 | Harpa Concert Hall | Harpa音乐厅 | 64.150 | -21.932 |
-| 3 | Old Harbour | 旧港 | 64.153 | -21.942 |
+| 2 | Skólavörðustígur | 斯科拉沃杜斯提古尔街 | 64.146 | -21.917 |
+| 3 | Laugavegur | 劳格韦格尔购物街 | 64.140 | -21.923 |
+| 4 | Tjörnin Pond | 特约尔宁湖 | 64.147 | -21.943 |
+| 5 | Harpa Concert Hall | Harpa音乐厅 | 64.150 | -21.932 |
+| 6 | Old Harbour | 旧港 | 64.153 | -21.942 |
 
 ---
 
-## Day 4 · Nov 14 · Reykjavík
-**Centre:** 64.148, -21.940 · **Zoom:** 14
+## Day 4 · Nov 14 · Reykjavík — Perlan + aurora tour
+**Centre:** 64.135, -21.925 · **Zoom:** 13
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
-| 1 | Aurora Reykjavík Museum | 极光博物馆 | 64.148 | -21.940 |
+| 1 | Perlan Museum | 珍珠楼博物馆 | 64.129 | -21.919 |
 
 ---
 
@@ -55,72 +58,76 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 
 ---
 
-## Day 6 · Nov 16 · Blue Lagoon / Geothermal spa
-**Centre:** 63.880, -22.449 · **Zoom:** 13
-
-| Marker | EN | ZH | Lat | Lng |
-|---|---|---|---|---|
-| 1 | Blue Lagoon | 蓝湖温泉 | 63.880 | -22.449 |
-
----
-
-## Day 7 · Nov 17 · Reykjavík
-**Centre:** 64.143, -21.912 · **Zoom:** 13
-
-| Marker | EN | ZH | Lat | Lng |
-|---|---|---|---|---|
-| 1 | Laugavegur | 劳格韦格尔购物街 | 64.140 | -21.923 |
-| 2 | Perlan Museum | 珍珠楼博物馆 | 64.128 | -21.905 |
-| 3 | Reykjavík Art Museum | 雷克雅未克艺术博物馆 | 64.148 | -21.943 |
-| 4 | Tjörnin Pond | 特约尔宁湖 | 64.147 | -21.943 |
-
----
-
-## Day 8 · Nov 18 · South Coast
-**Centre:** 63.510, -19.510 · **Zoom:** 9
+## Day 6 · Nov 16 · South Coast → Kirkjubæjarklaustur
+**Centre:** 63.600, -19.100 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Seljalandsfoss | 塞里雅兰瀑布 | 63.616 | -19.989 |
 | 2 | Skógafoss | 斯科加瀑布 | 63.532 | -19.512 |
-| 3 | Reynisfjara Black Sand Beach | 雷尼斯黑沙滩 | 63.404 | -19.057 |
-| 4 | Dyrhólaey | 迪霍拉里海角 | 63.402 | -19.128 |
-| 5 | Vík | 维克小镇 | 63.419 | -19.006 |
+| 3 | Vík | 维克小镇 | 63.419 | -19.006 |
+| 4 | Reynisfjara Black Sand Beach | 雷尼斯黑沙滩 | 63.404 | -19.057 |
+| 5 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
 
 ---
 
-## Day 9 · Nov 19 · Jökulsárlón & Diamond Beach
-**Centre:** 64.078, -16.230 · **Zoom:** 9
+## Day 7 · Nov 17 · Jökulsárlón, Diamond Beach & Fjallsárlón
+**Centre:** 63.950, -17.000 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
-| 1 | Jökulsárlón Glacier Lagoon | 冰川湖 | 64.078 | -16.231 |
-| 2 | Diamond Beach | 钻石海滩 | 64.066 | -16.179 |
-| 3 | Höfn | 霍芬 | 64.254 | -15.204 |
+| 1 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
+| 2 | Jökulsárlón Glacier Lagoon | 冰川湖 | 64.078 | -16.231 |
+| 3 | Diamond Beach | 钻石海滩 | 64.066 | -16.179 |
+| 4 | Fjallsárlón Glacier Lagoon | 菲亚德沙龙冰川湖 | 64.019 | -16.385 |
 
 ---
 
-## Day 10 · Nov 20 · Reykjavík — last day (shopping)
-**Centre:** 64.144, -21.918 · **Zoom:** 14
+## Day 8 · Nov 18 · Fjaðrárgljúfur, Dyrhólaey & Vík
+**Centre:** 63.600, -18.600 · **Zoom:** 9
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
-| 1 | Laugavegur Shopping Street | 劳格韦格尔购物街 | 64.142 | -21.927 |
-| 2 | Skólavörðustígur | 斯科拉沃杜斯提古尔街 | 64.146 | -21.917 |
-| 3 | Old Harbour & Grandi | 旧港及格兰迪区 | 64.153 | -21.942 |
-| 4 | Tjörnin Pond | 特约尔宁湖 | 64.147 | -21.943 |
+| 1 | Fjaðrárgljúfur Canyon | 羽毛河峡谷 | 63.771 | -18.172 |
+| 2 | Dyrhólaey | 迪霍拉里海角 | 63.402 | -19.128 |
+| 3 | Vík | 维克小镇 | 63.419 | -19.006 |
+| 4 | Reynisfjara Black Sand Beach | 雷尼斯黑沙滩 | 63.404 | -19.057 |
 
 ---
 
-## Day 11 · Nov 21 · Golden Circle
-**Centre:** 64.180, -20.620 · **Zoom:** 9
+## Day 9 · Nov 19 · Klaustur → Sólheimajökull → LAVA Centre → Hella / Selfoss
+**Centre:** 63.700, -19.500 · **Zoom:** 8
+
+| Marker | EN | ZH | Lat | Lng |
+|---|---|---|---|---|
+| 1 | Sólheimajökull Glacier | 索尔黑马冰川 | 63.530 | -19.371 |
+| 2 | LAVA Centre, Hvolsvöllur | 熔岩中心（赫沃斯沃德吕尔） | 63.753 | -20.236 |
+| 3 | Hella | 赫拉 | 63.835 | -20.400 |
+| 4 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
+
+---
+
+## Day 10 · Nov 20 · Golden Circle
+**Centre:** 64.150, -20.550 · **Zoom:** 9
+
+| Marker | EN | ZH | Lat | Lng |
+|---|---|---|---|---|
+| 1 | Kerið Crater | 凯里斯火山口 | 64.041 | -20.886 |
+| 2 | Friðheimar | 弗里德海马番茄温室 | 64.177 | -20.446 |
+| 3 | Geysir / Strokkur | 间歇泉 | 64.313 | -20.301 |
+| 4 | Gullfoss | 黄金瀑布 | 64.327 | -20.122 |
+
+---
+
+## Day 11 · Nov 21 · Þingvellir → Reykjavík → Keflavík
+**Centre:** 64.100, -21.800 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Þingvellir National Park | 辛格韦德利国家公园 | 64.256 | -21.130 |
-| 2 | Geysir / Strokkur | 间歇泉 | 64.313 | -20.301 |
-| 3 | Gullfoss | 黄金瀑布 | 64.327 | -20.122 |
-| 4 | Kerið Crater | 凯里斯火山口 | 64.041 | -20.886 |
+| 2 | Laugavegur, Reykjavík | 劳格韦格尔购物街 | 64.142 | -21.927 |
+| 3 | Kolaportið Flea Market | 科拉波蒂德跳蚤市场 | 64.149 | -21.939 |
+| 4 | Courtyard by Marriott Keflavík | 凯夫拉维克万怡酒店 | 63.998 | -22.559 |
 
 ---
 

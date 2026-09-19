@@ -21,20 +21,23 @@ SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒�
 
 ### Day 2 · Thu, 12 Nov — Frankfurt → Keflavík → Reykjavík / 法兰克福 → 凯夫拉维克 → 雷克雅未克
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
-🏨 Reykjavík city hotel (night 1 of 8) · 🚗 Pick up 4WD SUV at KEF
+🏨 Reykjavík city hotel (night 1 of 4) · 🚐 Airport transfer — no car yet
 
-Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, arrives KEF 15:40 local. Pick up rental car. Drive to Reykjavík (~45 min).
+Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local. Private transfer or Flybus to the hotel (~45 min). Check in, light dinner nearby.
 
-酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:00出发，当地时间15:40抵达凯夫拉维克。机场取租车，驾车前往雷克雅未克（约45分钟）。
+酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:00出发，当地时间15:40抵达凯夫拉维克。乘坐私人接送或Flybus机场大巴前往酒店（约45分钟）。入住后在附近简单用晚餐。
 
-`Travel` `Car pick-up`
+`Travel` `Airport transfer`
 
 > ⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals.
 > ⚠ FI521从2号航站楼出发。喜来登酒店位于1号航站楼。请乘坐约2分钟的SkyLine列车在航站楼间转乘。
 
+> 🚐 No car needed in Reykjavík — the city centre is walkable and parking is paid. Pick up the car on Day 6 (Nov 16) when you leave the city.
+> 🚐 在雷克雅未克无需租车——市中心步行即可，停车需付费。第6天（11月16日）离开市区时再取车。
+
 ---
 
-## Leg 2 — Reykjavík Base / 雷克雅未克驻点 · Nov 12–17 · Car parked
+## Leg 2 — Reykjavík Base / 雷克雅未克驻点 · Nov 12–15 · 4 nights · No car
 
 > 🎬 **花儿与少年5 · Episodes 10–14 · Reykjavík & Höfn · 7-Day Graduation Trip**
 > The cast (秦海璐, 秦岚, 辛芷蕾, 迪丽热巴, 赵昭仪, 王安宇, 胡先煦) spent 7 days in Iceland as their graduation trip finale. Each member took turns as daily guide. Their route closely matches your family plan.
@@ -44,14 +47,17 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, a
 ---
 
 ### Day 3 · Fri, 13 Nov — Reykjavík / 雷克雅未克
-**First full day — orientation / 第一个完整游览日 — 熟悉城市**
-🏨 Reykjavík hotel · 🚗 Car parked
+**First full day — the city on foot / 第一个完整游览日 — 步行游城**
+🏨 Reykjavík hotel (night 2 of 4) · 🚶 On foot
 
-Hallgrímskirkja church, Harpa concert hall, Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.
+Hallgrímskirkja church — take the lift up the tower for the city view. Walk down Skólavörðustígur, the rainbow street of boutiques and galleries, to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break. A flat loop around Tjörnin pond past City Hall, then Harpa concert hall and an Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.
 
-参观哈尔格林姆斯教堂、哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。
+参观哈尔格林姆斯教堂——可乘电梯登塔俯瞰全城。沿彩虹街斯科拉沃杜斯提古尔街（精品店与艺廊林立）步行而下，来到主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。绕特约尔宁湖平路一圈，途经市政厅，再前往哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。
 
-`Culture` `Food`
+`Culture` `Food` `Shopping`
+
+> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
+> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival**
 Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.
@@ -61,14 +67,19 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 ---
 
 ### Day 4 · Sat, 14 Nov — Reykjavík / 雷克雅未克
-**Aurora museum + Northern Lights tour / 极光博物馆 + 极光夜游**
-🏨 Reykjavík hotel · 🚗 Car parked — join bus tour
+**Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
+🏨 Reykjavík hotel (night 3 of 4) · 🚕 Taxi to Perlan (~5–10 min) · join bus tour
 
-Morning: Aurora Reykjavík museum — seated, accessible. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.
+Morning: slow start — rest up before a late night. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. 100m indoor ice cave, Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show in 8K. A guaranteed, breathtaking indoor aurora — and a perfect primer for tonight. 360° observation deck over the whole city. Allow 2–3 hours. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.
 
-上午：参观极光博物馆——有座位、无障碍设施，生动介绍极光的科学原理。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。
+上午：睡个懒觉，为晚上的极光之旅养精蓄锐。下午：珍珠楼——坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。建议预留2-3小时。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。
 
-`Culture` `Aurora` `Adventure`
+`Culture` `Perlan` `Aurora` `Adventure`
+
+📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
+王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
+
+王安宇在雷克雅未克城市日行程中安排了珍珠楼《Áróra》天文馆极光秀。令从小痴迷宇宙与科学的胡先煦看得热泪盈眶，是整个冰岛行程中低调却动人的高光时刻之一。珍珠楼还设有100米室内冰洞、火山自然展览，以及可俯瞰全城的360度观景台。
 
 📺 **花少5 · Ep 12–13 · Aurora chase — the most moving moment of the trip / 追极光——旅途中最令人感动的时刻**
 The cast went spontaneously to a hilltop with unobstructed skies to wait for the northern lights. 王安宇 called it the most moving moment of the entire trip: "Waiting together in the dark, playing, quietly watching — that time was very moving." The outcome matters less than the shared waiting.
@@ -79,16 +90,16 @@ The cast went spontaneously to a hilltop with unobstructed skies to wait for the
 
 ### Day 5 · Sun, 15 Nov — Reykjavík / 雷克雅未克
 **National Museum, Settlement Exhibition & Lava Show / 国家博物馆、定居展览馆与熔岩秀**
-🏨 Reykjavík hotel · 🚗 Car parked
+🏨 Reykjavík hotel (night 4 of 4) · 🚶 On foot
 
-Morning: Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið. Afternoon: Lava Show at Grandi Harbour — the world's only live lava experience. Real molten rock superheated to 1,100°C poured into the showroom — you see it flow, feel the heat and hear it cool. 50–75 min. Classic ticket or upgrade to Premium for balcony seats, a drink, backstage furnace tour and a lava souvenir.
+Morning: Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið. Afternoon: Lava Show at Grandi Harbour — the world's only live lava experience. Real molten rock superheated to 1,100°C poured into the showroom — you see it flow, feel the heat and hear it cool. 50–75 min. Classic ticket or upgrade to Premium for balcony seats, a drink, backstage furnace tour and a lava souvenir. Evening: Grillmarkaðurinn for a splurge-worthy farewell-to-Reykjavík dinner (book in advance).
 
-上午：参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理。下午：前往格兰迪港湾区体验熔岩秀——全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。约50-75分钟。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。
+上午：参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理。下午：前往格兰迪港湾区体验熔岩秀——全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。约50-75分钟。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。晚上：前往Grillmarkaðurinn享用告别雷克雅未克的丰盛晚餐（需提前订位）。
 
 `Culture` `History` `Food` `Lava Show`
 
-> 🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening completely free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight.
-> 🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间完全自由。若11月14日未能看到极光，今天联系运营商预约免费补看名额。
+> 🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight — it's your last night in the city. From Day 6 you're in the dark countryside, where you can watch for the lights from your hotel.
+> 🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间自由。若11月14日未能看到极光，今天联系运营商预约今晚的免费补看名额——这是在市区的最后一晚。从第6天起入住远离城市灯光的乡间，在酒店即可自行观赏极光。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
 王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
@@ -97,65 +108,20 @@ Morning: Viking artefacts at the National Museum. Settlement Exhibition with wal
 
 ---
 
-### Day 6 · Mon, 16 Nov — Geothermal spa — TBD / 地热温泉日 — 待定
-**Blue Lagoon or Hvammsvík — deciding later / 蓝湖温泉或赫瓦姆斯维克 — 稍后决定**
-🏨 Reykjavík hotel · 🚗 Self-drive ~45–50 min each way
+## Leg 3 — South Coast Base / 南岸驻点 · Kirkjubæjarklaustur · Nov 16–18 · 3 nights
 
-Two excellent options, both ~45–50 min self-drive from Reykjavík. Decide after consulting the group.
-
-**Option A — Blue Lagoon** · Grindavík · south · Route 43 · bluelagoon.com
-The world-famous milky-blue geothermal spa set against lava fields. Consistent 38°C throughout, flat paved paths, railings at pool entry — the most accessible geothermal experience in Iceland. Comfort or Signature package includes robe, silica mud mask and a drink. Sells out weeks ahead. Best for: the whole group together, iconic experience, maximum comfort for parents.
-
-**选项A — 蓝湖温泉** · 格林达维克 · 南部 · 43号公路 · bluelagoon.com
-举世闻名的乳白色蓝湖地热温泉，坐落于熔岩地带。全程水温38°C，平坦铺装路面，泳池入口设有扶手——冰岛无障碍设施最完善的地热体验。舒适或高级套餐含浴袍、白硅泥面膜及一杯饮料。提前数周即售罄。最适合：全组同行、标志性体验、父母最舒适。
-
-**Option B — Hvammsvík Hot Springs** · Whale Fjord · north · Route 47 · hvammsvik.com
-Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykjavík. Pools range from 5°C ocean cold plunge to 42°C soak; at high tide the lowest pools merge with the sea. Upper Lounge Pool (38°C) has a swim-up bar and is more accessible. Raw fjord views, seals in the water, a bistro with seafood soup. The 花少5 cast soaked here in Ep 12. Best for: a wilder, quieter, more natural experience — parents comfortable in the upper pools while others explore the tidal pools.
-
-**选项B — 赫瓦姆斯维克温泉** · 鲸鱼湾 · 北部 · 47号公路 · hvammsvik.com
-八个天然温泉池嵌入北大西洋海岸，距雷克雅未克以北45分钟。水温从5°C冰海冷浸到42°C热泡不等；涨潮时最低处泳池与大海相连。上层休息池（38°C）设有泳池吧台，无障碍条件较好。峡湾壮阔美景，水中时有海豹出没，小酒馆供应海鲜汤。《花少5》第12集嘉宾们正是在此泡温泉。最适合：追求更野性、更宁静、更自然体验的人——父母在上层泳池舒适享受，其余人探索潮汐池。
-
-`Relaxation` `Nature` `Self-drive` `TBD`
-
-> ⚑ Decision needed: Blue Lagoon must be pre-booked at bluelagoon.com and sells out weeks ahead — book as soon as you decide. Hvammsvík also requires advance booking at hvammsvik.com. Both are ~45–50 min self-drive from Reykjavík.
-> ⚑ 需要决定：蓝湖须在bluelagoon.com提前预订，数周前即售罄——确定后请尽快预订。赫瓦姆斯维克也需在hvammsvik.com提前预约。
-
-> 🌌 Aurora retry window: Back in Reykjavík by ~5pm either way. If the lights haven't appeared yet, this is a natural second retry evening — contact your operator to secure a free spot on tonight's tour.
-> 🌌 极光补看机会：无论选哪个，约17时返回雷克雅未克。若仍未看到极光，今晚是绝佳的第二次补看机会。
-
-📺 **花少5 · Ep 12 · Guide: 秦岚 · Hvammsvík hot springs + aurora chase + 迪丽热巴's lost pink bag / 赫瓦姆斯维克温泉 + 追极光 + 迪丽热巴丢失粉色小包**
-秦岚 guided the group to Hvammsvík Hot Springs — the natural fjord-side pools in Whale Fjord. The cast soaked in the geothermal pools overlooking the North Atlantic, then chased the aurora that evening.
-
-秦岚带领大家前往赫瓦姆斯维克温泉——鲸鱼湾的天然峡湾温泉池。嘉宾们在可俯瞰北大西洋的地热温泉中放松泡浴，当晚随后追极光。
+> One hotel for three nights near Kirkjubæjarklaustur ("Klaustur") — halfway between Vík and Jökulsárlón, so both are easy day trips with no packing up in between.
+> 在教堂镇（Kirkjubæjarklaustur）附近同一家酒店连住三晚——位于维克与杰古沙龙冰川湖之间，两地都是轻松的一日往返，无需来回收拾行李。
 
 ---
 
-### Day 7 · Tue, 17 Nov — Reykjavík / 雷克雅未克
-**City wander, Perlan museum & local pools / 城市漫步、珍珠楼博物馆与本地温泉**
-🏨 Reykjavík hotel · 🚗 Car parked
+### Day 6 · Mon, 16 Nov — South Coast → Kirkjubæjarklaustur / 南岸 → 教堂镇
+**The 花少5 South Coast — stops 1 to 4 / 复刻花少5南岸路线——第1至4站**
+🏨 Kirkjubæjarklaustur hotel (night 1 of 3) · 🚗 Pick up 4WD in Reykjavík · ~255 km · ~3h 20min driving
 
-Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — gentle wander. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. 100m indoor ice cave, Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show in 8K. Perfect on a grey November day: a guaranteed, breathtaking indoor aurora. 360° observation deck over the whole city. Allow 2–3 hours. Evening: Grillmarkaðurinn for a splurge-worthy dinner (book in advance).
+Pick up the car at the Reykjavík rental office and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 8, a relaxed day with a better chance of calm weather. Then continue ~1h east to your base for the next three nights.
 
-上午：漫步劳格韦格尔购物街、特约尔宁湖和雷克雅未克艺术博物馆——悠然自在，无需计划。下午：珍珠楼——坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。天气阴霾时尤为推荐：室内即可感受震撼人心的极光体验。360度观景台可俯瞰整座城市全景。建议预留2-3小时。晚餐前往Grillmarkaðurinn（需提前订位）。
-
-`Culture` `Perlan` `Aurora` `Food`
-
-📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
-王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
-
-王安宇在雷克雅未克城市日行程中安排了珍珠楼《Áróra》天文馆极光秀。令从小痴迷宇宙与科学的胡先煦看得热泪盈眶，是整个冰岛行程中低调却动人的高光时刻之一。珍珠楼还设有100米室内冰洞、火山自然展览，以及可俯瞰全城的360度观景台。
-
----
-
-## Leg 3 — South Coast Excursion / 南岸之旅 · Nov 18–19 · 1 night out
-
-### Day 8 · Wed, 18 Nov — South Coast / 南岸
-**Five stops on the South Coast / 南岸五景一日游**
-🏨 Hotel near Vík · 🚗 ~190 km · ~2h 30min driving
-
-Follow the exact 花少5 South Coast route — five stops in order. Leave Reykjavík by 08:30.
-
-完全复刻《花少5》南海岸路线，按顺序打卡五个景点。08:30前离开雷克雅未克。
+在雷克雅未克租车点取车，08:30前出发。按《花少5》南海岸路线顺序打卡——今天完成第1至4站。第5站迪霍拉里灯塔安排在第8天，行程更从容，也更有机会碰上好天气。随后向东驾车约1小时，抵达接下来三晚的住处。
 
 **Stop 1 — Seljalandsfoss** · ~1h 45min from Reykjavík
 Walk the full circuit around the falls. Do NOT go behind — the path ices over in November.
@@ -173,14 +139,14 @@ Where the cast ate — a beloved local institution in the village and a well-ear
 Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous.
 壮观玄武岩石柱、黑沙滩、狂野大西洋。任何时候都必须与海浪保持充分距离——此处的恶作剧浪涛确实危及生命。
 
-**Stop 5 — Dyrhólaey Lighthouse** · ~10 min from Reynisfjara · weather-dependent
-120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call.
-120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。
+**Then — Kirkjubæjarklaustur** · ~1h east of Vík
+Check in for three nights. Far from city lights — step outside after dark and look north for the aurora.
+入住，连住三晚。远离城市灯光——天黑后到户外朝北方仰望，留意极光。
 
-`Adventure` `Nature` `5 stops` `Self-drive`
+`Adventure` `Nature` `Self-drive` `Car pick-up`
 
-> Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:00 — plan each stop around limited daylight.
-> 出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:00——合理安排每个景点的时间。
+> Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:15 — leave Reynisfjara by ~15:00 to reach Klaustur around dusk.
+> 出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:15——约15:00前离开雷尼斯黑沙滩，傍晚时分抵达教堂镇。
 
 📺 **花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales / 全部五景——雨伞报废、特种兵冲刺、百年餐厅午餐、黑沙滩、灯塔大风**
 秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad.
@@ -189,107 +155,149 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 
 ---
 
-### Day 9 · Thu, 19 Nov — Jökulsárlón · Diamond Beach → Reykjavík
-**Glacier lagoon & Diamond Beach / 冰川湖与钻石海滩**
-🏨 Reykjavík hotel (nights 7–8) · 🚗 ~375 km · longest day
+### Day 7 · Tue, 17 Nov — Jökulsárlón · Diamond Beach · Fjallsárlón / 杰古沙龙冰川湖 · 钻石海滩 · 菲亚德沙龙冰川湖
+**Glacier lagoons & Diamond Beach / 冰川湖与钻石海滩**
+🏨 Kirkjubæjarklaustur hotel (night 2 of 3) · 🚗 ~250 km round trip · ~1h 45min each way
 
-Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach across the road. Return to Reykjavík (~4h). Leave Vík by 08:30.
+Leave by 08:30 to arrive around sunrise. Jökulsárlón: icebergs drifting in total silence, seals resting on the floating ice — a flat walk along the shore from the car park. Diamond Beach across the road: ice chunks glittering on black sand. On the way back, Fjallsárlón (~10 min west) — a smaller, quieter lagoon where the glacier comes right down to the water, a short walk from the car park. Back at the hotel before dark.
 
-维克 → 杰古沙龙冰川湖（约2.5小时）。巨大冰山静静漂浮在湖面上。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返回雷克雅未克（约4小时）。08:30前离开维克，充分利用白昼时间。
+08:30前出发，约日出时分抵达。杰古沙龙冰川湖：巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上——从停车场沿湖岸平路漫步即可。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返程途经菲亚德沙龙冰川湖（向西约10分钟）——更小、更安静的冰川湖，冰川直抵湖面，从停车场步行片刻即达。天黑前返回酒店。
 
-`Adventure` `Nature` `~6h driving`
+`Nature` `Glacier` `Self-drive`
+
+> Fill up before leaving Klaustur — stations are few and far between on this stretch. Check road.is and the weather at vedur.is before setting off.
+> 离开教堂镇前加满油——这段路加油站稀少。出发前在road.is查看路况，在vedur.is查看天气。
 
 📺 **花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching + dolphins + sea fishing + hákarl challenge + Jökulsárlón / 观鲸出海 + 邂逅海豚 + 海钓 + 臭食挑战 + 杰古沙龙冰川湖**
-辛芷蕾's day started with whale watching and sea fishing out of a harbour near Höfn — they caught fish, joined the crew for a seafood tasting, and encountered dolphins rather than whales. Back on land: a Viking restaurant's hákarl (fermented shark) challenge — worth considering if you extend toward Höfn. The day ended at Jökulsárlón — icebergs drifting in total silence, seals resting on floating ice.
+辛芷蕾's day started with whale watching and sea fishing out of a harbour near Höfn — they caught fish, joined the crew for a seafood tasting, and encountered dolphins rather than whales. Back on land: a Viking restaurant's hákarl (fermented shark) challenge. The day ended at Jökulsárlón — icebergs drifting in total silence, seals resting on floating ice.
 
-辛芷蕾这天从霍芬附近的港口出海开始——观鲸、海钓，钓到鱼后与船员一同品鉴海鲜，最终与鲸鱼擦肩而过，邂逅了一群海豚。返回陆地后：维京风格餐厅的臭食挑战——发酵鲨鱼肉（hákarl），若行程延伸至霍芬可以考虑体验。这天最后在杰古沙龙冰川湖落幕——巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上。
-
----
-
-## Leg 4 — Last Day in Reykjavík + Golden Circle / 雷克雅未克最后一天 + 黄金圈 · Nov 20–21
-
-### Day 10 · Fri, 20 Nov — Reykjavík — last day / 雷克雅未克 — 最后一天
-**Farewell to Reykjavík — leisure & shopping / 告别雷克雅未克 — 悠闲漫步与购物**
-🏨 Reykjavík hotel (last night) · 🚗 Car parked · pack bags tonight
-
-Your last full day in the city — no driving, no agenda, just a leisurely farewell to Reykjavík. The three main shopping streets are all within easy walking distance of each other and the hotel.
-
-在城市的最后一整天——无需开车，无需计划，悠然告别雷克雅未克。三条主要购物街彼此相距步行可达，距酒店也很近。
-
-**Morning — Laugavegur (the main shopping street)**
-Iceland's oldest and liveliest shopping street. Browse 66°North (Iceland's iconic outerwear brand, flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design across 400+ local artisans, and Nomad for Nordic lifestyle gifts. Also stop into the Blue Lagoon skincare shop at No. 15 — the same range as at the spa itself, without needing to go back.
-
-冰岛历史最悠久、最热闹的购物街。逛逛冰岛标志性户外品牌66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（汇聚400余位本地设计师与工匠的冰岛设计）和Nomad（北欧风格生活礼品）。别错过15号的蓝湖护肤品店——与温泉同款产品，无需专程前往。
-
-**Mid-morning — Skólavörðustígur (the charming side street)**
-Runs up from Laugavegur to Hallgrímskirkja — the rainbow street lined with local boutiques, art galleries, ceramics and jewellery studios. Iurie Fine Art has stunning Iceland landscape photography in multiple formats. Kirsuberjatréð is a women's design co-operative with handmade clothes and homeware. Good cafés for a mid-morning break.
-
-从劳格韦格尔延伸至哈尔格林姆斯教堂的彩虹街，两旁汇聚本地精品店、艺廊、陶瓷与珠宝工作室。Iurie Fine Art出售各种格式的冰岛大地摄影作品。Kirsuberjatréð是由女性创立的设计合作社，售卖手工服饰与家居用品。街上有不少好咖啡馆，适合中途休息。
-
-**Lunchtime — Old Harbour & Grandi district**
-A 10-minute walk from Laugavegur. The harbour area has excellent fish restaurants and the Kolaportið flea market (open Fri–Sat, 11:00–17:00) — Iceland's only flea market, with lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street. Grandi is also where the Lava Show is (Day 5), so it's familiar territory.
-
-距劳格韦格尔步行约10分钟。港口一带有出色的海鲜餐厅，以及科拉波蒂德跳蚤市场（周五至周六开放，11:00–17:00）——冰岛唯一的跳蚤市场，价格比主街更实惠，有洛帕披亚毛衣、冰岛特产和二手好物。格兰迪街区也是第5天熔岩秀的所在地，已是熟悉的地方。
-
-**Afternoon — Tjörnin pond & city stroll**
-A quiet walk around the pond, past the city hall and through the streets near the National Theatre. A gentle pace to soak in the atmosphere before a long drive tomorrow. Good opportunity to revisit anywhere from earlier in the trip.
-
-漫步湖畔，经过市政厅，穿行国家剧院附近的街道。以悠闲的节奏感受城市氛围，为明天的长途驾驶养精蓄锐。也是重游此前旅途中最钟爱之地的好机会。
-
-**Evening — Light dinner + pack bags**
-An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive directly to Keflavík without returning to Reykjavík. This is also your last good chance to pick up anything forgotten from the shops.
-
-在酒店附近享用便餐。今晚打包所有行李——明天直接驾车前往凯夫拉维克，不再返回雷克雅未克。这也是最后一次补购忘买物品的好机会。
-
-`Shopping` `Leisure` `Last day`
-
-> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
-> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
+辛芷蕾这天从霍芬附近的港口出海开始——观鲸、海钓，钓到鱼后与船员一同品鉴海鲜，最终与鲸鱼擦肩而过，邂逅了一群海豚。返回陆地后：维京风格餐厅的臭食挑战——发酵鲨鱼肉（hákarl）。这天最后在杰古沙龙冰川湖落幕——巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上。
 
 📺 **花少5 · Ep 14上 · Guide: 赵昭仪 · Vatnajökull glacier hike → Category 12 hurricane / 瓦特纳冰川徒步 → 12级飓风来袭**
-赵昭仪 guided the most dramatic day: a glacier hike on Vatnajökull — Europe's largest glacier — with crampons, helmets and ice axes across a vast white expanse. Then the director announced a Category 12 hurricane — the year's first in Iceland — would hit within hours. All remaining sightseeing cancelled. The cast sheltered together through the storm, creating one of the most memorable bonding nights of the entire 28-day trip.
+Jökulsárlón and Fjallsárlón are both fed by Vatnajökull — Europe's largest glacier, the same ice cap the cast hiked with crampons, helmets and ice axes. You'll see its glacier tongues from the lagoon shore, no crampons needed. Right after their hike, the director announced a Category 12 hurricane — the year's first in Iceland. All remaining sightseeing was cancelled, and the cast sheltered together through the storm, creating one of the most memorable bonding nights of the entire 28-day trip.
 
-赵昭仪带来了整个旅程最惊心动魄的一天。全体嘉宾在欧洲最大冰川瓦特纳冰川完成徒步挑战——脚蹬冰爪、头戴头盔、手持冰镐，踏上那片仿佛冰河世纪的纯白世界。随后，导演组传来消息：今年冰岛第一场12级飓风即将来袭，几小时内就会登陆。剩余所有景点被迫取消，嘉宾们紧急撤回农场民宿共同避风。这场飓风夜成为了整个28天旅途中最令人难忘的团体凝聚时刻。
+杰古沙龙与菲亚德沙龙两座冰川湖都源自瓦特纳冰川——欧洲最大的冰川，也正是花少团脚蹬冰爪、头戴头盔、手持冰镐徒步的那片冰原。您在湖岸即可远眺冰川舌，无需冰爪。嘉宾们徒步结束后，导演组传来消息：今年冰岛第一场12级飓风即将来袭。剩余所有景点被迫取消，嘉宾们紧急撤回农场民宿共同避风。这场飓风夜成为了整个28天旅途中最令人难忘的团体凝聚时刻。
 
 ---
 
-### Day 11 · Sat, 21 Nov — Golden Circle → Keflavík airport area / 黄金圈 → 凯夫拉维克机场周边
-**Golden Circle → drive to KEF hotel / 黄金圈一日游 → 驾车前往机场酒店**
-🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~220 km · Car drop-off this evening
+### Day 8 · Wed, 18 Nov — Fjaðrárgljúfur · Dyrhólaey · Vík / 羽毛河峡谷 · 迪霍拉里 · 维克
+**Easy day — canyon, lighthouse & Vík / 轻松日——峡谷、灯塔与维克**
+🏨 Kirkjubæjarklaustur hotel (night 3 of 3) · 🚗 ~170 km round trip · easy pace
 
-Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater. Return car at KEF airport this evening.
+A gentle day with short drives and plenty of rest. Head west, pick the stops that suit the weather, and be back at the hotel early.
 
-09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增凯里斯火山口。今晚在凯夫拉维克机场还车。
+轻松的一天，车程短、休息充足。向西出发，根据天气选择停靠点，早早返回酒店。
 
-**Stop 1 — Þingvellir National Park** · ~45 min from Reykjavík
-Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see.
+**Fjaðrárgljúfur canyon** · ~10 min from Klaustur
+A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park — walk up the rim path only as far as feels comfortable. The path is sometimes closed to protect the moss, so check on the day.
+深约100米、布满青苔的峡谷。第一个观景点距停车场很近——沿峡谷边缘小径量力而行即可。为保护青苔，步道有时会关闭，请当天确认。
 
-冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。
+**Stop 5 — Dyrhólaey Lighthouse** · ~1h west · weather-dependent
+120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call.
+120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。
 
-**Stop 2 — Geysir (Strokkur geyser)** · ~1h from Þingvellir
+**Vík** · ~20 min from Dyrhólaey
+Lunch or a café stop, wool shops, and the view of the red-roofed church on the hill above the village.
+午餐或咖啡小憩，逛逛羊毛制品店，眺望村庄上方山坡上的红顶教堂。
+
+**Reynisfjara (optional revisit)** · ~10 min from Vík
+Worth a second look if Day 6 was stormy or dark. Same rule: stay well back from the waves.
+若第6天遇上风暴或天色已暗，值得再来一次。同样注意：务必远离海浪。
+
+`Nature` `Relaxed` `Self-drive`
+
+---
+
+## Leg 4 — Hella / Selfoss Base + Golden Circle / 赫拉/塞尔福斯驻点 + 黄金圈 · Nov 19–21
+
+---
+
+### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Hvolsvöllur → Hella / Selfoss / 教堂镇 → 索尔黑马冰川 → 赫沃斯沃德吕尔 → 赫拉/塞尔福斯
+**A glacier up close & the volcano centre / 近观冰川与火山中心**
+🏨 Hella / Selfoss area hotel (night 1 of 2) · 🚗 ~180 km · ~2h 15min driving
+
+Check out and drive west along the South Coast, with two easy stops on the way to your base for the last two nights.
+
+退房后沿南岸向西行驶，途中两个轻松停靠点，前往最后两晚的住处。
+
+**Sólheimajökull glacier** · ~1h 20min from Klaustur
+A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it.
+米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。
+
+**LAVA Centre, Hvolsvöllur** · ~45 min further
+An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a short film. Allow 1–1.5 hours; the café is a good lunch stop.
+关于冰岛火山与地震的互动式室内展览，并有短片放映。建议预留1-1.5小时；馆内咖啡厅适合午餐。
+
+**Hella / Selfoss** · ~15 min (Hella) or ~45 min (Selfoss)
+Check in for two nights. Hotel Rangá near Hella offers aurora wake-up calls.
+入住，连住两晚。赫拉附近的Hotel Rangá提供极光叫醒服务。
+
+`Nature` `Glacier` `Culture` `Self-drive`
+
+---
+
+### Day 10 · Fri, 20 Nov — Golden Circle / 黄金圈
+**Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
+🏨 Hella / Selfoss area hotel (night 2 of 2) · 🚗 ~200 km round trip
+
+The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). From your base it's an easy loop, back before dark. Þingvellir is saved for tomorrow, on the way to Keflavík.
+
+这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。从住处出发即是一条轻松环线，天黑前即可返回。辛格维利尔国家公园留到明天前往凯夫拉维克途中游览。
+
+**Stop 1 — Kerið crater lake** · ~15 min from Selfoss, ~45 min from Hella · small admission fee
+A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the stop.
+3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但非常值得一游。
+
+**Stop 2 — Friðheimar** · ~30 min from Kerið · Lunch
+Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Book ahead.
+在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。需提前预订。
+
+**Stop 3 — Geysir (Strokkur geyser)** · ~20 min from Friðheimar
 Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast lined up creative group shots timed to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst.
-
 位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。
 
-**Stop 3 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
+**Stop 4 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
 Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The upper viewing platform is accessible; the lower path to the water's edge involves some uneven steps — judge on the day. In November, spray can freeze on the railings, so wear grip gloves.
-
 被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断。11月水雾可能在护栏上结冰，建议佩戴防滑手套。
 
-**Stop 4 — Kerið crater lake** · ~45 min south of Gullfoss · small admission fee
-A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the brief detour as it's directly on the way to KEF.
+`Nature` `History` `Food` `Self-drive`
 
-3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但因为就在前往凯夫拉维克的必经之路上，值得稍作绕行一探。
+📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle / 黄金圈第一天**
+Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Gullfoss, Strokkur Geyser erupting 20–40m every 5–10 minutes, and Þingvellir (tomorrow) where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates.
 
-`Adventure` `History` `Nature` `Car return`
+您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——黄金瀑布、史托克间歇泉（每5-10分钟喷发20-40米高水柱），以及辛格维利尔公园（明天前往），他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带。
 
-> Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight.
-> 还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。
+---
 
-📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle + Ep 14下 · Guide: 胡先煦 · Farewell / 黄金圈第一天 + 告别**
-Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Gullfoss, Strokkur Geyser erupting 20–40m every 5–10 minutes, and Þingvellir where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates. — The season finale (Ep 14下) ended with a heartfelt awards ceremony: each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
+### Day 11 · Sat, 21 Nov — Þingvellir → Reykjavík → Keflavík airport area / 辛格维利尔 → 雷克雅未克 → 凯夫拉维克机场周边
+**Þingvellir, last shopping & car return / 辛格维利尔、最后购物与还车**
+🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~150–200 km · Car drop-off this afternoon
 
-您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——黄金瀑布、史托克间歇泉（每5-10分钟喷发20-40米高水柱），以及辛格维利尔公园，他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带。——大结局（第14集下）以温情颁奖典礼收尾：每位成员为另一人颁发专属奖项，回顾横跨三国、历时28天的旅途。嘉宾们一致认为冰岛是整个旅程的情感顶峰。**本季在豆瓣获得9.0超高评分，创下花儿与少年系列历史最高纪录。**
+Check out with all bags loaded. Þingvellir in the morning, lunch and last shopping in Reykjavík, then on to Keflavík to return the car before dark.
+
+装好所有行李退房出发。上午游览辛格维利尔，中午回到雷克雅未克午餐并做最后的购物，随后前往凯夫拉维克，天黑前还车。
+
+**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss, ~1h 15min from Hella
+Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see. Allow ~1.5 hours.
+冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。建议预留约1.5小时。
+
+**Stop 2 — Reykjavík** · ~45 min from Þingvellir · Lunch + last shopping
+A final stroll on Laugavegur: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. On Saturdays the Kolaportið flea market at the Old Harbour is open (11:00–17:00) — lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street.
+在劳格韦格尔做最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六老港口的科拉波蒂德跳蚤市场开放（11:00–17:00）——洛帕披亚毛衣、冰岛特产和二手好物，价格比主街更实惠。
+
+**Stop 3 — Keflavík** · ~45 min from Reykjavík
+Fuel up, return the car at KEF before dark, then check in at the Courtyard.
+加满油，天黑前在凯夫拉维克机场还车，随后入住万怡酒店。
+
+`History` `Shopping` `Car return`
+
+> Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight. Keep your Tax-Free Cheques handy for the refund at KEF tomorrow.
+> 还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。备好免税单据，明天在凯夫拉维克机场办理退税。
+
+📺 **花少5 · Ep 14下 · Guide: 胡先煦 · Farewell / 告别**
+The season finale ended with a heartfelt awards ceremony: each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
+
+大结局（第14集下）以温情颁奖典礼收尾：每位成员为另一人颁发专属奖项，回顾横跨三国、历时28天的旅途。嘉宾们一致认为冰岛是整个旅程的情感顶峰。**本季在豆瓣获得9.0超高评分，创下花儿与少年系列历史最高纪录。**
 
 ---
 

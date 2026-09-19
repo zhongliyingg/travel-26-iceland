@@ -16,22 +16,33 @@
 ## 2. Reykjavík City Hotel
 - **Location:** City Centre, Reykjavík, Iceland
 - **Check-in:** Thu, 12 Nov
-- **Check-out:** Wed, 18 Nov · then again Thu, 19 Nov – Sat, 21 Nov (8 nights total: 6 + 2)
-- **Rooms:** 2 rooms · Central location, walkable to all city sights
+- **Check-out:** Mon, 16 Nov (4 nights)
+- **Rooms:** 2 rooms · Central location, walkable to all city sights (no car during this stay)
 - **Status:** To book — URGENT
 
 ---
 
-## 3. Hotel near Vík
-- **Location:** Vík í Mýrdal, South Iceland
-- **Check-in:** Wed, 18 Nov
-- **Check-out:** Thu, 19 Nov (1 night)
-- **Options:** Hótel Katla · Icelandair Hotel Vík
-- **Status:** To book — URGENT (very limited options)
+## 3. South Coast base — Kirkjubæjarklaustur area
+- **Location:** Kirkjubæjarklaustur ("Klaustur"), South Iceland — ~1h east of Vík, ~1h 45min west of Jökulsárlón
+- **Check-in:** Mon, 16 Nov
+- **Check-out:** Thu, 19 Nov (3 nights)
+- **Rooms:** 2 rooms
+- **Options:** Hótel Klaustur · Fosshótel Núpar · Hótel Laki
+- **Status:** To book — URGENT (limited options in the area)
 
 ---
 
-## 4. Courtyard by Marriott Keflavík Airport
+## 4. Hella / Selfoss area
+- **Location:** Hella or Selfoss, South Iceland — base for the Golden Circle
+- **Check-in:** Thu, 19 Nov
+- **Check-out:** Sat, 21 Nov (2 nights)
+- **Rooms:** 2 rooms
+- **Options:** Hotel Rangá (near Hella · aurora wake-up service) · Hótel Selfoss
+- **Status:** To book
+
+---
+
+## 5. Courtyard by Marriott Keflavík Airport
 - **Location:** Ađalgata 60, Keflavík, Iceland
 - **Check-in:** Sat, 21 Nov
 - **Check-out:** Sun, 22 Nov (1 night)
@@ -43,7 +54,7 @@
 
 ---
 
-## 5. Ruby Louise Hotel Frankfurt
+## 6. Ruby Louise Hotel Frankfurt
 - **Location:** Neue Rothofstraße 5, City Centre, Frankfurt, Germany
 - **Check-in:** Sun, 22 Nov · 14:00–15:00
 - **Check-out:** Mon, 23 Nov (1 night)
