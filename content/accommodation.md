@@ -55,7 +55,7 @@
 ---
 
 ## 6. Ruby Louise Hotel Frankfurt
-- **Location:** Neue Rothofstraße 5, City Centre, Frankfurt, Germany
+- **Location:** Neue Rothofstraße 3, City Centre, Frankfurt, Germany
 - **Check-in:** Sun, 22 Nov · 14:00–15:00
 - **Check-out:** Mon, 23 Nov (1 night)
 - **Rooms:** 2 × Loft

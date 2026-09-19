@@ -11,9 +11,9 @@ Singapore → Frankfurt → Reykjavík → South Coast → Golden Circle → Fra
 **Arrive Frankfurt — airport hotel evening / 抵达法兰克福 — 机场酒店住一晚**
 🏨 Sheraton Frankfurt Airport, Terminal 1
 
-SQ326 lands at 17:40. Clear customs (~90 min), then walk directly into the Sheraton — connected to Terminal 1, no transfer needed. Dinner at hotel. Early night.
+SQ326 lands at 19:30. Clear customs (~90 min), then walk directly into the Sheraton — it's connected to Terminal 1, no transfer needed. Late dinner at the hotel restaurant (~21:00). Early night — you've been travelling since midday Singapore time.
 
-SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒店——酒店与1号航站楼直接相连，无需转乘。在酒店餐厅用晚餐。早早休息。
+SQ326航班19:30落地。通关约需90分钟，随后步行直入喜来登酒店——酒店与1号航站楼直接相连，无需转乘。约21:00在酒店餐厅用晚餐。早早休息——从新加坡中午出发已飞行一整天。
 
 `Travel` `Rest`
 
@@ -23,9 +23,9 @@ SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒�
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
 🏨 Reykjavík city hotel (night 1 of 4) · 🚐 Airport transfer — no car yet
 
-Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:00, arrives KEF 15:40 local. Private transfer or Flybus to the hotel (~45 min). Check in, light dinner nearby.
+Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:05, arrives KEF 15:55 local. Private transfer or Flybus to the hotel (~45 min). Check in, light dinner nearby.
 
-酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:00出发，当地时间15:40抵达凯夫拉维克。乘坐私人接送或Flybus机场大巴前往酒店（约45分钟）。入住后在附近简单用晚餐。
+酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:05出发，当地时间15:55抵达凯夫拉维克。乘坐私人接送或Flybus机场大巴前往酒店（约45分钟）。入住后在附近简单用晚餐。
 
 `Travel` `Airport transfer`
 
@@ -201,9 +201,9 @@ Check in for three nights. Far from city lights — step outside after dark and 
 > 出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:15——约15:00前离开雷尼斯黑沙滩，傍晚时分抵达教堂镇。
 
 📺 **花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales / 全部五景——雨伞报废、特种兵冲刺、百年餐厅午餐、黑沙滩、灯塔大风**
-秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad.
+秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Reynisfjara (Stop 4), the cast felt the raw drama of the basalt columns and Atlantic surf. At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad.
 
-秦海璐带领花少团按顺序完成了这五个景点。第1站塞里雅兰瀑布，她提前为大家准备了雨具——结果雨伞一打开就报废了。胡先煦硬是走到瀑布下，全身湿透，成了大家口中行走的景点劝退标识。第2站斯科加瀑布，抵达时开始下雨，秦海璐当机立断："5分钟，冲！"大家齐喊"冲啊"跑回车上，瞬间士气大振。她事后感慨："阴郁了一个早上，一句冲啊大家都还魂了。"第3站是维克百年餐厅午餐，赵昭仪临走前左右手各一杯饮料轮流喝，"主打不浪费"。第5站迪霍拉里灯塔，风力之猛烈几乎令人寸步难行。秦海璐果断决定放弃开阔苔原的景点，直接驱车返回民宿。
+秦海璐带领花少团按顺序完成了这五个景点，沿途前往民宿。第1站塞里雅兰瀑布，她提前为大家准备了雨具——结果雨伞一打开就报废了。胡先煦硬是走到瀑布下，全身湿透，成了大家口中行走的景点劝退标识。第2站斯科加瀑布，抵达时开始下雨，秦海璐当机立断：“5分钟，冲！”大家齐喊“冲啊”跑回车上，瞬间士气大振。她事后感慨：“阴郁了一个早上，一句冲啊大家都还魂了。”第3站是维克百年餐厅午餐，赵昭仪临走前左右手各一杯饮料轮流喝，“主打不浪费”。第4站雷尼斯菲亚拉黑沙滩，花少团亲身感受了玄武岩石柱和大西洋浪涛的壮观。第5站迪霍拉里灯塔，风力之猛烈几乎令人寸步难行。秦海璐果断决定放弃开阔苔原的景点，直接驱车返回民宿——这是明智之举，您的团队若遇恶劣天气也完全可以如此处理。
 
 ---
 
@@ -371,9 +371,9 @@ The season finale ended with a heartfelt awards ceremony: each member giving a p
 **Early flight → arrive Frankfurt city / 早班机 → 抵达法兰克福市区**
 🏨 Ruby Louise Hotel Frankfurt, City Centre
 
-Wake-up 04:45. Hotel shuttle to KEF (~5 min). FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn to Ruby Louise Hotel Frankfurt. Rest, then dinner in Sachsenhausen district.
+Wake-up 04:45. Hotel shuttle to KEF (~5 min). At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to Ruby Louise Hotel Frankfurt. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt's Sachsenhausen district.
 
-04:45起床。乘酒店班车前往凯夫拉维克机场（约5分钟）。05:30抵达机场。FI520航班07:25起飞，12:05抵达法兰克福。打车或乘坐S-Bahn前往鲁比路易斯酒店。入住，休息，傍晚前往萨克森豪森区享用正式晚餐。
+04:45起床。乘酒店班车前往凯夫拉维克机场（约5分钟）。05:30抵达机场。FI520航班07:25起飞，12:05抵达法兰克福。打车或乘坐S-Bahn（约30分钟）前往市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。
 
 `Travel` `Food` `Frankfurt`
 
@@ -388,9 +388,9 @@ Wake-up 04:45. Hotel shuttle to KEF (~5 min). FI520 departs 07:25, arrives Frank
 **Christmas market — then home / 圣诞市集 — 然后回家**
 🏨 Check out · Luggage storage at hotel · SQ325 FRA 21:40 → SIN +1 17:00
 
-The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Leave for airport by 18:30 — S-Bahn from Hauptwache (~5-min walk, ~15 min to airport). Arrive Singapore Nov 24 ~17:00.
+The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Leave for airport by 18:30 — S-Bahn from Hauptwache (~5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Arrive Singapore Nov 24 ~17:00.
 
-法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。18:30前出发前往机场——从豪普特瓦赫乘坐S-Bahn（步行约5分钟，约15分钟到机场）。11月24日约17:00抵达新加坡。
+法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。18:30前出发前往机场——从豪普特瓦赫乘坐S-Bahn（步行约5分钟，约15分钟到机场）。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。
 
 `Christmas market` `Food` `Culture`
 

@@ -4,15 +4,15 @@
 
 ### SQ326 — Singapore → Frankfurt
 - **Date:** Wed, 11 Nov 2026
-- **Departs:** SIN 11:05
-- **Arrives:** FRA 17:40
+- **Departs:** SIN 12:55
+- **Arrives:** FRA 19:30
 - **Airline:** Singapore Airlines
 - **Status:** Booked ✓
 
 ### FI521 — Frankfurt → Keflavík
 - **Date:** Thu, 12 Nov 2026
-- **Departs:** FRA 13:00 · Terminal 2
-- **Arrives:** KEF 15:40
+- **Departs:** FRA 13:05 · Terminal 2
+- **Arrives:** KEF 15:55
 - **Airline:** Icelandair
 - **Status:** Booked ✓
 - **Note:** Sheraton is in T1 — take the 2-minute SkyLine train to T2 before boarding. On arrival, airport transfer to the Reykjavík hotel (no car pick-up — car is collected in Reykjavík on Nov 16).

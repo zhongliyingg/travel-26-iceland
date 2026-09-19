@@ -5,7 +5,7 @@
 ### Already Confirmed ✓
 | Item | Detail | Reference |
 |---|---|---|
-| Sheraton Frankfurt (Nov 11) | 2 × Deluxe rooms | Trip.com · 91296436 / 91296460 |
+| Sheraton Frankfurt (Nov 11) | 2 × Deluxe rooms | Trip.com · 77209174 / 77209205 |
 | Ruby Louise Frankfurt (Nov 22–23) | 2 × Loft rooms | Agoda · 2000559312 |
 | Courtyard Marriott Keflavík (Nov 21) | 2 × Deluxe Twin · airport transfer requested | Agoda · 2000676958 |
 
@@ -13,7 +13,7 @@
 - **Reykjavík city hotel** — Nov 12–15 (4 nights · check out Nov 16 · 2 rooms · central location)
 - **South Coast base, Kirkjubæjarklaustur area** — Nov 16–18 (3 nights · 2 rooms · limited options: Hótel Klaustur, Fosshótel Núpar or Hótel Laki)
 - **Hella / Selfoss area hotel** — Nov 19–20 (2 nights · 2 rooms · Hotel Rangá or Hótel Selfoss)
-- **KEF → Reykjavík airport transfer** — Nov 12, FI521 lands 15:40 · family of 4 + luggage · private transfer or Flybus
+- **KEF → Reykjavík airport transfer** — Nov 12, FI521 lands 15:55 · family of 4 + luggage · private transfer or Flybus
 - **Rental car** — 4WD SUV · Reykjavík city pick-up Nov 16 (morning, leave by 08:30), KEF drop-off Nov 21 (5 days) · confirm city office opening hours and one-way fee · full CDW + gravel/sand protection + winter tyres · Hertz, Lotus or Geysir
 - **Northern Lights tour** — Nov 14 evening · choose operator with free re-try guarantee · Northern Lights Bus or Tröll Expeditions
 
