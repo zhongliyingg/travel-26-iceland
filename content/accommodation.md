@@ -16,7 +16,7 @@
 ## 2. Reykjavík City Hotel
 - **Location:** City Centre, Reykjavík, Iceland
 - **Check-in:** Thu, 12 Nov
-- **Check-out:** Tue, 17 Nov + Thu, 19 Nov – Sat, 21 Nov (7 nights total)
+- **Check-out:** Wed, 18 Nov · then again Thu, 19 Nov – Sat, 21 Nov (8 nights total: 6 + 2)
 - **Rooms:** 2 rooms · Central location, walkable to all city sights
 - **Status:** To book — URGENT
 

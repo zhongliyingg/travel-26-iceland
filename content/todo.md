@@ -10,7 +10,7 @@
 | Courtyard Marriott Keflavík (Nov 21) | 2 × Deluxe Twin · airport transfer requested | Agoda · 2000676958 |
 
 ### Still To Book
-- **Reykjavík city hotel** — Nov 12–17 & 19–20 (7 nights · 2 rooms · central location)
+- **Reykjavík city hotel** — Nov 12–17 & 19–20 (8 nights · 2 rooms · central location)
 - **Hotel near Vík** — Nov 18 (1 night · very limited options: Hótel Katla or Icelandair Hotel Vík)
 - **Blue Lagoon** — Nov 16 · Comfort or Signature package · book at bluelagoon.com · sells out weeks ahead
 - **Rental car** — 4WD SUV · KEF pick-up Nov 12, drop-off Nov 21 (10 days) · full CDW + gravel/sand protection + winter tyres · Hertz, Lotus or Geysir

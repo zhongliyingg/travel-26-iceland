@@ -21,7 +21,7 @@ SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒�
 
 ### Day 2 · Thu, 12 Nov — Frankfurt → Keflavík → Reykjavík / 法兰克福 → 凯夫拉维克 → 雷克雅未克
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
-🏨 Reykjavík city hotel (night 1 of 7) · 🚗 Pick up 4WD SUV at KEF
+🏨 Reykjavík city hotel (night 1 of 8) · 🚗 Pick up 4WD SUV at KEF
 
 Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, arrives KEF 15:40 local. Pick up rental car. Drive to Reykjavík (~45 min).
 
@@ -147,7 +147,7 @@ Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — ge
 
 ---
 
-## Leg 3 — South Coast Excursion / 南岸之旅 · Nov 18–19 · 2 nights out
+## Leg 3 — South Coast Excursion / 南岸之旅 · Nov 18–19 · 1 night out
 
 ### Day 8 · Wed, 18 Nov — South Coast / 南岸
 **Five stops on the South Coast / 南岸五景一日游**
@@ -191,7 +191,7 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 
 ### Day 9 · Thu, 19 Nov — Jökulsárlón · Diamond Beach → Reykjavík
 **Glacier lagoon & Diamond Beach / 冰川湖与钻石海滩**
-🏨 Reykjavík hotel (nights 6–7) · 🚗 ~375 km · longest day
+🏨 Reykjavík hotel (nights 7–8) · 🚗 ~375 km · longest day
 
 Vík → Jökulsárlón (~2h 30min). Floating icebergs, then Diamond Beach across the road. Return to Reykjavík (~4h). Leave Vík by 08:30.
 
@@ -259,7 +259,7 @@ An easy dinner near the hotel. Then pack all bags tonight — tomorrow you drive
 
 Leave Reykjavík by 09:00 with all bags loaded — you won't be returning. The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). You're doing all their stops except Silfra snorkelling, and adding Kerið crater. Return car at KEF airport this evening.
 
-09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增克里苏维克火山口。今晚在凯夫拉维克机场还车。
+09:00前装好所有行李出发——不再返回雷克雅未克。这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。您将完成花少团除丝浮拉浮潜外的所有停靠点，并额外新增凯里斯火山口。今晚在凯夫拉维克机场还车。
 
 **Stop 1 — Þingvellir National Park** · ~45 min from Reykjavík
 Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see.
