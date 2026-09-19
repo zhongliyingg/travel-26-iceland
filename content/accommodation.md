@@ -15,8 +15,8 @@
 
 ## 2. Reykjavík City Hotel
 - **Location:** City Centre, Reykjavík, Iceland
-- **Check-in:** Wed, 12 Nov
-- **Check-out:** Mon, 17 Nov + Thu, 19 Nov – Sat, 21 Nov (7 nights total)
+- **Check-in:** Thu, 12 Nov
+- **Check-out:** Tue, 17 Nov + Thu, 19 Nov – Sat, 21 Nov (7 nights total)
 - **Rooms:** 2 rooms · Central location, walkable to all city sights
 - **Status:** To book — URGENT
 
@@ -45,8 +45,8 @@
 
 ## 5. Ruby Louise Hotel Frankfurt
 - **Location:** Neue Rothofstraße 5, City Centre, Frankfurt, Germany
-- **Check-in:** Sat, 22 Nov · 14:00–15:00
-- **Check-out:** Sun, 23 Nov (1 night)
+- **Check-in:** Sun, 22 Nov · 14:00–15:00
+- **Check-out:** Mon, 23 Nov (1 night)
 - **Rooms:** 2 × Loft
 - **Booked via:** Agoda
 - **Booking ID:** [redacted]

@@ -7,7 +7,7 @@ Singapore → Frankfurt → Reykjavík → South Coast → Golden Circle → Fra
 
 ## Leg 1 — Frankfurt Outbound / 法兰克福去程
 
-### Day 1 · Tue, 11 Nov — Frankfurt, Germany / 德国法兰克福
+### Day 1 · Wed, 11 Nov — Frankfurt, Germany / 德国法兰克福
 **Arrive Frankfurt — airport hotel evening / 抵达法兰克福 — 机场酒店住一晚**
 🏨 Sheraton Frankfurt Airport, Terminal 1
 
@@ -19,7 +19,7 @@ SQ326航班17:40落地。通关约需90分钟，随后步行直入喜来登酒�
 
 ---
 
-### Day 2 · Wed, 12 Nov — Frankfurt → Keflavík → Reykjavík / 法兰克福 → 凯夫拉维克 → 雷克雅未克
+### Day 2 · Thu, 12 Nov — Frankfurt → Keflavík → Reykjavík / 法兰克福 → 凯夫拉维克 → 雷克雅未克
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
 🏨 Reykjavík city hotel (night 1 of 7) · 🚗 Pick up 4WD SUV at KEF
 
@@ -43,7 +43,7 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min). FI521 departs 13:00, a
 
 ---
 
-### Day 3 · Thu, 13 Nov — Reykjavík / 雷克雅未克
+### Day 3 · Fri, 13 Nov — Reykjavík / 雷克雅未克
 **First full day — orientation / 第一个完整游览日 — 熟悉城市**
 🏨 Reykjavík hotel · 🚗 Car parked
 
@@ -60,7 +60,7 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 
 ---
 
-### Day 4 · Fri, 14 Nov — Reykjavík / 雷克雅未克
+### Day 4 · Sat, 14 Nov — Reykjavík / 雷克雅未克
 **Aurora museum + Northern Lights tour / 极光博物馆 + 极光夜游**
 🏨 Reykjavík hotel · 🚗 Car parked — join bus tour
 
@@ -77,7 +77,7 @@ The cast went spontaneously to a hilltop with unobstructed skies to wait for the
 
 ---
 
-### Day 5 · Sat, 15 Nov — Reykjavík / 雷克雅未克
+### Day 5 · Sun, 15 Nov — Reykjavík / 雷克雅未克
 **National Museum, Settlement Exhibition & Lava Show / 国家博物馆、定居展览馆与熔岩秀**
 🏨 Reykjavík hotel · 🚗 Car parked
 
@@ -97,7 +97,7 @@ Morning: Viking artefacts at the National Museum. Settlement Exhibition with wal
 
 ---
 
-### Day 6 · Sun, 16 Nov — Geothermal spa — TBD / 地热温泉日 — 待定
+### Day 6 · Mon, 16 Nov — Geothermal spa — TBD / 地热温泉日 — 待定
 **Blue Lagoon or Hvammsvík — deciding later / 蓝湖温泉或赫瓦姆斯维克 — 稍后决定**
 🏨 Reykjavík hotel · 🚗 Self-drive ~45–50 min each way
 
@@ -130,7 +130,7 @@ Eight natural pools cut into the North Atlantic shoreline, 45 min north of Reykj
 
 ---
 
-### Day 7 · Mon, 17 Nov — Reykjavík / 雷克雅未克
+### Day 7 · Tue, 17 Nov — Reykjavík / 雷克雅未克
 **City wander, Perlan museum & local pools / 城市漫步、珍珠楼博物馆与本地温泉**
 🏨 Reykjavík hotel · 🚗 Car parked
 
@@ -149,7 +149,7 @@ Morning: Laugavegur shopping street, Tjörnin pond, Reykjavík Art Museum — ge
 
 ## Leg 3 — South Coast Excursion / 南岸之旅 · Nov 18–19 · 2 nights out
 
-### Day 8 · Tue, 18 Nov — South Coast / 南岸
+### Day 8 · Wed, 18 Nov — South Coast / 南岸
 **Five stops on the South Coast / 南岸五景一日游**
 🏨 Hotel near Vík · 🚗 ~190 km · ~2h 30min driving
 
@@ -189,7 +189,7 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 
 ---
 
-### Day 9 · Wed, 19 Nov — Jökulsárlón · Diamond Beach → Reykjavík
+### Day 9 · Thu, 19 Nov — Jökulsárlón · Diamond Beach → Reykjavík
 **Glacier lagoon & Diamond Beach / 冰川湖与钻石海滩**
 🏨 Reykjavík hotel (nights 6–7) · 🚗 ~375 km · longest day
 
@@ -295,7 +295,7 @@ Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided
 
 ## Leg 5 — Departure / 离境 · Nov 22 · Early morning
 
-### Day 12 · Sat, 22 Nov — Keflavík → Frankfurt city / 凯夫拉维克 → 法兰克福市区
+### Day 12 · Sun, 22 Nov — Keflavík → Frankfurt city / 凯夫拉维克 → 法兰克福市区
 **Early flight → arrive Frankfurt city / 早班机 → 抵达法兰克福市区**
 🏨 Ruby Louise Hotel Frankfurt, City Centre
 
@@ -312,7 +312,7 @@ Wake-up 04:45. Hotel shuttle to KEF (~5 min). FI520 departs 07:25, arrives Frank
 
 ## Leg 6 — Frankfurt Return / 法兰克福返程 · Nov 23 · Christmas Market opens!
 
-### Day 13 · Sun, 23 Nov — Frankfurt · Römerberg Christmas Market / 法兰克福 · 罗马广场圣诞市集
+### Day 13 · Mon, 23 Nov — Frankfurt · Römerberg Christmas Market / 法兰克福 · 罗马广场圣诞市集
 **Christmas market — then home / 圣诞市集 — 然后回家**
 🏨 Check out · Luggage storage at hotel · SQ325 FRA 21:40 → SIN +1 17:00
 
