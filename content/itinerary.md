@@ -50,9 +50,29 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. 
 **First full day — the city on foot / 第一个完整游览日 — 步行游城**
 🏨 Reykjavík hotel (night 2 of 4) · 🚶 On foot
 
-Hallgrímskirkja church — take the lift up the tower for the city view. Walk down Skólavörðustígur, the rainbow street of boutiques and galleries, to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break. A flat loop around Tjörnin pond past City Hall, then Harpa concert hall and an Old Harbour walk. Walkable, no driving needed. Dinner at Reykjavík Kitchen — try the lamb shank and Arctic char.
+A walking day through the compact city centre — no driving needed.
 
-参观哈尔格林姆斯教堂——可乘电梯登塔俯瞰全城。沿彩虹街斯科拉沃杜斯提古尔街（精品店与艺廊林立）步行而下，来到主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。绕特约尔宁湖平路一圈，途经市政厅，再前往哈帕音乐厅，漫步老港口。市中心紧凑，步行即可游遍——无需开车。晚餐预订雷克雅未克厨房（需提前订位）——推荐羊腿和北极红点鲑。
+步行游览紧凑的市中心——无需开车。
+
+**Morning — Hallgrímskirkja** · Start here
+Reykjavík's landmark church — take the lift up the tower for the city view.
+雷克雅未克的地标教堂——可乘电梯登塔俯瞰全城。
+
+**Late morning — Skólavörðustígur & Laugavegur** · Walk downhill
+Skólavörðustígur, the rainbow street of boutiques and galleries, leads down to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break.
+彩虹街斯科拉沃杜斯提古尔街精品店与艺廊林立，一路通往主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。
+
+**Afternoon — Tjörnin pond** · ~10 min walk
+A flat loop around the pond, past City Hall.
+绕湖平路一圈，途经市政厅。
+
+**Late afternoon — Harpa & Old Harbour** · ~10 min walk
+Walk through the glass concert hall, then along the Old Harbour waterfront.
+穿过玻璃幕墙的哈帕音乐厅，再沿老港口海滨漫步。
+
+**Evening — Reykjavík Kitchen** · Dinner · book in advance
+Try the lamb shank and Arctic char.
+推荐羊腿和北极红点鲑。
 
 `Culture` `Food` `Shopping`
 
@@ -70,9 +90,21 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 **Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
 🏨 Reykjavík hotel (night 3 of 4) · 🚕 Taxi to Perlan (~5–10 min) · join bus tour
 
-Morning: slow start — rest up before a late night. Afternoon: Perlan — the iconic glass-domed museum on Öskjuhlíð hill. 100m indoor ice cave, Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show in 8K. A guaranteed, breathtaking indoor aurora — and a perfect primer for tonight. 360° observation deck over the whole city. Allow 2–3 hours. Evening: Northern Lights bus tour with hot chocolate and re-try guarantee on cloudy nights.
+A slow morning, Perlan in the afternoon and the Northern Lights tour at night.
 
-上午：睡个懒觉，为晚上的极光之旅养精蓄锐。下午：珍珠楼——坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。建议预留2-3小时。晚上：参加专业极光大巴游（含热巧克力，遇阴云可免费重游）。车停酒店，随团出行。
+上午放松，下午游珍珠楼，晚上追极光。
+
+**Morning — Slow start** · At the hotel
+Rest up before a late night out.
+为晚上的极光之旅养精蓄锐。
+
+**Afternoon — Perlan** · ~5–10 min by taxi · allow 2–3 hours
+The iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. A guaranteed, breathtaking indoor aurora — and the perfect primer for tonight. The 360° observation deck gives panoramic views over the entire city.
+坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。
+
+**Evening — Northern Lights bus tour** · Hotel pickup
+Hot chocolate included, and a free re-try on cloudy nights.
+含热巧克力，遇阴云可免费重游。
 
 `Culture` `Perlan` `Aurora` `Adventure`
 
@@ -92,9 +124,29 @@ The cast went spontaneously to a hilltop with unobstructed skies to wait for the
 **National Museum, Settlement Exhibition & Lava Show / 国家博物馆、定居展览馆与熔岩秀**
 🏨 Reykjavík hotel (night 4 of 4) · 🚶 On foot
 
-Morning: Viking artefacts at the National Museum. Settlement Exhibition with walk-over glass floors above actual Viking longhouse ruins. Lunch at Sjávargrillið. Afternoon: Lava Show at Grandi Harbour — the world's only live lava experience. Real molten rock superheated to 1,100°C poured into the showroom — you see it flow, feel the heat and hear it cool. 50–75 min. Classic ticket or upgrade to Premium for balcony seats, a drink, backstage furnace tour and a lava souvenir. Evening: Grillmarkaðurinn for a splurge-worthy farewell-to-Reykjavík dinner (book in advance).
+Viking history in the morning, the Lava Show in the afternoon and a farewell dinner in the evening.
 
-上午：参观冰岛国家博物馆的维京时代文物。定居展览馆设有透明玻璃地板，脚下就是真实的维京长屋遗址。午餐前往Sjávargrillið——创意冰岛海鲜料理。下午：前往格兰迪港湾区体验熔岩秀——全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。约50-75分钟。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。晚上：前往Grillmarkaðurinn享用告别雷克雅未克的丰盛晚餐（需提前订位）。
+上午探索维京历史，下午观看熔岩秀，晚上享用告别晚餐。
+
+**Morning — National Museum of Iceland**
+Viking age artefacts at Iceland's national museum.
+参观冰岛国家博物馆的维京时代文物。
+
+**Late morning — Settlement Exhibition**
+Walk-over glass floors reveal actual Viking longhouse ruins beneath the city.
+透明玻璃地板下，就是真实的维京长屋遗址。
+
+**Lunch — Sjávargrillið**
+Creative Icelandic seafood in a cosy setting.
+创意冰岛海鲜料理，环境温馨质朴。
+
+**Afternoon — Lava Show, Grandi Harbour** · 50–75 min
+The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
+全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
+
+**Evening — Grillmarkaðurinn** · Dinner · book in advance
+A splurge-worthy farewell-to-Reykjavík dinner.
+享用告别雷克雅未克的丰盛晚餐。
 
 `Culture` `History` `Food` `Lava Show`
 
@@ -159,9 +211,21 @@ Check in for three nights. Far from city lights — step outside after dark and 
 **Glacier lagoons & Diamond Beach / 冰川湖与钻石海滩**
 🏨 Kirkjubæjarklaustur hotel (night 2 of 3) · 🚗 ~250 km round trip · ~1h 45min each way
 
-Leave by 08:30 to arrive around sunrise. Jökulsárlón: icebergs drifting in total silence, seals resting on the floating ice — a flat walk along the shore from the car park. Diamond Beach across the road: ice chunks glittering on black sand. On the way back, Fjallsárlón (~10 min west) — a smaller, quieter lagoon where the glacier comes right down to the water, a short walk from the car park. Back at the hotel before dark.
+Leave by 08:30 to arrive around sunrise, and be back at the hotel before dark.
 
-08:30前出发，约日出时分抵达。杰古沙龙冰川湖：巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上——从停车场沿湖岸平路漫步即可。马路对面即是钻石海滩——冰块在黑沙滩上熠熠生辉。返程途经菲亚德沙龙冰川湖（向西约10分钟）——更小、更安静的冰川湖，冰川直抵湖面，从停车场步行片刻即达。天黑前返回酒店。
+08:30前出发，约日出时分抵达，天黑前返回酒店。
+
+**Morning — Jökulsárlón** · ~1h 45min from Klaustur
+Icebergs drifting in total silence, seals resting on the floating ice — a flat walk along the shore from the car park.
+巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上——从停车场沿湖岸平路漫步即可。
+
+**Late morning — Diamond Beach** · Across the road
+Ice chunks glittering on black sand.
+冰块在黑沙滩上熠熠生辉。
+
+**Afternoon — Fjallsárlón** · ~10 min west, on the way back
+A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park.
+更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。
 
 `Nature` `Glacier` `Self-drive`
 
