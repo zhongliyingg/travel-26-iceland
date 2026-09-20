@@ -276,19 +276,23 @@ Worth a second look if Day 6 was stormy or dark. Same rule: stay well back from 
 
 ---
 
-### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Hvolsvöllur → Hella / Selfoss / 教堂镇 → 索尔黑马冰川 → 赫沃斯沃德吕尔 → 赫拉/塞尔福斯
-**A glacier up close & the volcano centre / 近观冰川与火山中心**
+### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Skógar → Hvolsvöllur → Hella / Selfoss / 教堂镇 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 赫拉/塞尔福斯
+**A glacier, a turf-house museum & the volcano centre / 近观冰川、草皮屋博物馆与火山中心**
 🏨 Hella / Selfoss area hotel (night 1 of 2) · 🚗 ~180 km · ~2h 15min driving
 
-Check out and drive west along the South Coast, with two easy stops on the way to your base for the last two nights.
+Check out and drive west along the South Coast, with three easy stops on the way to your base for the last two nights.
 
-退房后沿南岸向西行驶，途中两个轻松停靠点，前往最后两晚的住处。
+退房后沿南岸向西行驶，途中三个轻松停靠点，前往最后两晚的住处。
 
 **Sólheimajökull glacier** · ~1h 20min from Klaustur
-A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it.
-米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。
+A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it. Note: that is ~15–20 min *each way* on uneven gravel (~1.5 km round trip) — the longest walk of the trip. Take it slowly, wear ice cleats, and turn back at any point if the going is hard; the glacier is visible from partway along.
+米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。注意：单程即需15-20分钟，碎石路面不平（往返约1.5公里），是全程最长的一段步行。请放慢脚步、穿戴防滑鞋钉；若体力不支可随时折返，途中已可望见冰川。
 
-**LAVA Centre, Hvolsvöllur** · ~45 min further
+**Skógar Folk Museum (Skógasafn)** · ~15 min west of Sólheimajökull
+Turf-roofed houses, a restored church and some 18,000 regional artefacts covering a thousand years of Icelandic rural life. Indoor, flat and warm — the ideal weather-proof stop if the morning turns wet or windy. Open daily 10:00–16:00 in November.
+草皮屋、重建教堂与约18,000件地方文物，呈现冰岛千年乡村生活。室内、平坦、温暖——若上午遇上风雨，这里是最理想的避风停靠点。11月每日10:00–16:00开放。
+
+**LAVA Centre, Hvolsvöllur** · ~30 min further
 An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a short film. Allow 1–1.5 hours; the café is a good lunch stop.
 关于冰岛火山与地震的互动式室内展览，并有短片放映。建议预留1-1.5小时；馆内咖啡厅适合午餐。
 
@@ -304,48 +308,52 @@ Check in for two nights. Hotel Rangá near Hella offers aurora wake-up calls.
 **Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
 🏨 Hella / Selfoss area hotel (night 2 of 2) · 🚗 ~200 km round trip
 
-The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). From your base it's an easy loop, back before dark. Þingvellir is saved for tomorrow, on the way to Keflavík.
+The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in the classic direction — Þingvellir first, then north to Geysir and Gullfoss, then back down to Friðheimar for a late lunch. Leave by 09:15 to reach Þingvellir as the light comes up. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
-这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。从住处出发即是一条轻松环线，天黑前即可返回。辛格维利尔国家公园留到明天前往凯夫拉维克途中游览。
+这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按经典顺序环行——先游辛格维利尔，再北上盖歇尔与黄金瀑布，最后折返至Friðheimar享用迟来的午餐。09:15前出发，天光初现时抵达辛格维利尔。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
 
-**Stop 1 — Kerið crater lake** · ~15 min from Selfoss, ~45 min from Hella · small admission fee
-A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. You can walk the rim and descend to the lake shore on a trail. Not on the 花少5 route — but well worth the stop.
-3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。可沿火山口边缘漫步，也可沿小径下行至湖岸。并非《花少5》的行程停靠点——但非常值得一游。
+**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss, ~1h 15min from Hella
+Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min.
+冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟。
+> Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
+> 请停在**上方的Hakið游客中心停车场**，而非下方停车场。由此有一条铺装、坡度平缓的步道通往裂谷，沿途设有护栏与观景平台——这是最便于通行的路线。请避开通往Öxarárfoss瀑布的台阶。
 
-**Stop 2 — Friðheimar** · ~30 min from Kerið · Lunch
-Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Book ahead.
-在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。需提前预订。
-
-**Stop 3 — Geysir (Strokkur geyser)** · ~20 min from Friðheimar
+**Stop 2 — Geysir (Strokkur geyser)** · ~50 min from Þingvellir
 Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast lined up creative group shots timed to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst.
 位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。
 
-**Stop 4 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
-Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. The upper viewing platform is accessible; the lower path to the water's edge involves some uneven steps — judge on the day. In November, spray can freeze on the railings, so wear grip gloves.
-被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。上层观景台无障碍可达；通往水边的下层小径有些许不平整台阶，可当天视情况判断。11月水雾可能在护栏上结冰，建议佩戴防滑手套。
+**Stop 3 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
+Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. Stay on the upper viewing platform, which is level and step-free; the lower path to the water's edge involves uneven steps and is best skipped in November. Spray can freeze on the railings, so wear grip gloves.
+被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。建议只在上层观景台游览——地面平整、无台阶；通往水边的下层小径台阶不平，11月最好避开。水雾可能在护栏上结冰，建议佩戴防滑手套。
+
+**Stop 4 — Friðheimar** · ~30 min from Gullfoss · Lunch
+Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Warm, indoor and level underfoot: a good place to end the day. Book ahead for ~14:00; if you would rather eat earlier, book ~12:45 and visit Gullfoss after lunch instead.
+在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是结束一天的理想去处。建议预订约14:00；若想早些用餐，可预订约12:45，并将黄金瀑布改至午餐后游览。
 
 `Nature` `History` `Food` `Self-drive`
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle / 黄金圈第一天**
-Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Gullfoss, Strokkur Geyser erupting 20–40m every 5–10 minutes, and Þingvellir (tomorrow) where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates.
+Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Þingvellir, where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates; Strokkur Geyser erupting 20–40m every 5–10 minutes; and Gullfoss. Today you follow all three in the same order they did.
 
-您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——黄金瀑布、史托克间歇泉（每5-10分钟喷发20-40米高水柱），以及辛格维利尔公园（明天前往），他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带。
+您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——辛格维利尔公园，他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带；史托克间歇泉，每5-10分钟喷发20-40米高水柱；以及黄金瀑布。今天您将按照他们当日的顺序依次走过这三处。
 
 ---
 
-### Day 11 · Sat, 21 Nov — Þingvellir → Reykjavík → Keflavík airport area / 辛格维利尔 → 雷克雅未克 → 凯夫拉维克机场周边
-**Þingvellir, last shopping & car return / 辛格维利尔、最后购物与还车**
-🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~150–200 km · Car drop-off this afternoon
+### Day 11 · Sat, 21 Nov — Kerið → Reykjavík → Keflavík airport area / 克里德火山口 → 雷克雅未克 → 凯夫拉维克机场周边
+**Kerið, last shopping & car return / 克里德火山口、最后购物与还车**
+🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Car drop-off mid-afternoon
 
-Check out with all bags loaded. Þingvellir in the morning, lunch and last shopping in Reykjavík, then on to Keflavík to return the car before dark.
+Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík to return the car in daylight. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
 
-装好所有行李退房出发。上午游览辛格维利尔，中午回到雷克雅未克午餐并做最后的购物，随后前往凯夫拉维克，天黑前还车。
+09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，再前往凯夫拉维克，趁天光还车。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
 
-**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss, ~1h 15min from Hella
-Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Flat boardwalks make it accessible for all. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel but the rift valley itself is spectacular to walk along and see. Allow ~1.5 hours.
-冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。全程木栈道，适合所有人步行游览。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身也非常壮观，沿岸漫步同样令人叹为观止。建议预留约1.5小时。
+**Stop 1 — Kerið crater lake** · ~15 min from Selfoss, ~45 min from Hella · small admission fee
+A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. Not on the 花少5 route — but well worth the stop, and it sits right beside the road to Reykjavík. Allow ~40 min.
+3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。并非《花少5》的行程停靠点——但非常值得一游，且就在前往雷克雅未克的路旁。建议预留约40分钟。
+> Walk the rim path only — it is level and takes about 20 minutes to circle. The trail down to the lake shore is a steep flight of steps and is best skipped in November, when it is often iced over.
+> 建议只走火山口边缘步道——地面平坦，环行一周约20分钟。通往湖岸的小径是一段陡峭台阶，11月常结冰，最好避开。
 
-**Stop 2 — Reykjavík** · ~45 min from Þingvellir · Lunch + last shopping
+**Stop 2 — Reykjavík** · ~50 min from Kerið · Lunch + last shopping
 A final stroll on Laugavegur: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. On Saturdays the Kolaportið flea market at the Old Harbour is open (11:00–17:00) — lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street.
 在劳格韦格尔做最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六老港口的科拉波蒂德跳蚤市场开放（11:00–17:00）——洛帕披亚毛衣、冰岛特产和二手好物，价格比主街更实惠。
 
@@ -353,7 +361,7 @@ A final stroll on Laugavegur: 66°North (flagship at No. 17), the Handknitting A
 Fuel up, return the car at KEF before dark, then check in at the Courtyard.
 加满油，天黑前在凯夫拉维克机场还车，随后入住万怡酒店。
 
-`History` `Shopping` `Car return`
+`Nature` `Shopping` `Car return`
 
 > Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight. Keep your Tax-Free Cheques handy for the refund at KEF tomorrow.
 > 还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。备好免税单据，明天在凯夫拉维克机场办理退税。

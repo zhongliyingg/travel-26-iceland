@@ -26,8 +26,8 @@
 - **Dinner reservations:**
   - Reykjavík Kitchen — Nov 13
   - Grillmarkaðurinn — Nov 15
-- **Friðheimar lunch** — Nov 20 · tomato greenhouse restaurant on the Golden Circle · book ahead at fridheimar.is
-- **Buy Yaktrax ice cleats** — 2 pairs for parents · essential for icy November paths at waterfalls and craters
+- **Friðheimar lunch** — Nov 20 · tomato greenhouse restaurant on the Golden Circle · book ahead at fridheimar.is · **book ~14:00** (last stop of the revised loop, after Gullfoss) · if that is too late to eat, book ~12:45 instead and move Gullfoss to after lunch
+- **Buy Yaktrax ice cleats** — **4 pairs, one per person** · the single highest-value item for a November trip with 70+ travellers: a slip is the realistic trip-ending risk · choose the easy on/off strap type (they cannot be worn indoors or on coaches) · needed at Gullfoss, Geysir, Kerið, Diamond Beach and especially the Sólheimajökull gravel path
 
 ---
 
@@ -36,3 +36,5 @@
 - **Pack waterproof layers** for everyone: windproof jacket, trousers, gloves, warm hat, merino base layers
 - **Bookmark road.is** and download **112 Iceland app** — check road conditions every morning before driving
 - **Pre-book KEF hotel airport shuttle** — Nov 22 at 05:15 · arrange on arrival Nov 21, not the morning of departure
+- **Confirm Skógar Museum hours** — Nov 19 · listed as open daily 10:00–16:00 Nov–Apr at skogasafn.is · no booking needed, but re-check before the drive
+- **Confirm Þingvellir Hakið car park access** — Nov 20 · upper visitor centre lot gives the paved, step-free route into the rift · parking fee payable online at parka.is
