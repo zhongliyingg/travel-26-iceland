@@ -37,4 +37,5 @@
 - **Bookmark road.is** and download **112 Iceland app** — check road conditions every morning before driving
 - **Pre-book KEF hotel airport shuttle** — Nov 22 at 05:15 · arrange on arrival Nov 21, not the morning of departure
 - **Confirm Skógar Museum hours** — Nov 19 · listed as open daily 10:00–16:00 Nov–Apr at skogasafn.is · no booking needed, but re-check before the drive
+- **Whales of Iceland** — Nov 14 late morning · open daily 10:00–17:00 year-round · adult 4,000 ISK (family ticket covers 2 adults + 2 children only) · **buy at the door, not online**: senior discounts are only given when booked onsite · live guided tour daily at 11:00 — arrive ~10:30 to buy tickets and join it · Fiskislóð 23–25, Grandi · re-check hours at whalesoficeland.is before going
 - **Confirm Þingvellir Hakið car park access** — Nov 20 · upper visitor centre lot gives the paved, step-free route into the rift · parking fee payable online at parka.is

@@ -88,15 +88,15 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 
 ### Day 4 · Sat, 14 Nov — Reykjavík / 雷克雅未克
 **Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
-🏨 Reykjavík hotel (night 3 of 4) · 🚕 Taxi to Perlan (~5–10 min) · join bus tour
+🏨 Reykjavík hotel (night 3 of 4) · 🚕 Taxi to Grandi and Perlan (~5–10 min each) · join bus tour
 
-A slow morning, Perlan in the afternoon and the Northern Lights tour at night.
+A slow breakfast, Whales of Iceland in the late morning, Perlan in the afternoon and the Northern Lights tour at night.
 
-上午放松，下午游珍珠楼，晚上追极光。
+悠闲早餐，上午晚些时候参观冰岛鲸鱼馆，下午游珍珠楼，晚上追极光。
 
-**Morning — Slow start** · At the hotel
-Rest up before a late night out.
-为晚上的极光之旅养精蓄锐。
+**Late morning — Whales of Iceland** · Grandi harbour · ~10 min by taxi · allow ~1 hour
+Life-size models of over 20 whale species in one flat, indoor hall — easy going for all ages. Have a slow breakfast first and aim to arrive around 10:30, in time to join the live guided tour at 11:00. That leaves time for lunch and a rest before Perlan. Keep the day light — tonight is a late one.
+在一座平坦的室内展厅中展出20多种鲸鱼的等比例模型——老少皆宜，轻松参观。先悠闲享用早餐，约10:30抵达，赶上11:00的真人导览。之后仍有充裕时间午餐和休息，再前往珍珠楼。今天行程宜轻松——晚上要熬夜追极光。
 
 **Afternoon — Perlan** · ~5–10 min by taxi · allow 2–3 hours
 The iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. A guaranteed, breathtaking indoor aurora — and the perfect primer for tonight. The 360° observation deck gives panoramic views over the entire city.
@@ -107,6 +107,9 @@ Hot chocolate included, and a free re-try on cloudy nights.
 含热巧克力，遇阴云可免费重游。
 
 `Culture` `Perlan` `Aurora` `Adventure`
+
+> 🛍 Alternative for the late morning: Swap Whales of Iceland for the Kolaportið flea market at the Old Harbour (open Saturdays 11:00–17:00), which sells lopapeysa sweaters, Icelandic foodstuffs and secondhand finds. It is also listed on Day 11 (another Saturday), so pick whichever day suits.
+> 🛍 上午备选：可将冰岛鲸鱼馆换成老港口的Kolaportið跳蚤市场（周六11:00–17:00开放），出售冰岛羊毛衫、冰岛特产食品与二手好物。第11天（同为周六）也列有此行程，择一日前往即可。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
 王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
