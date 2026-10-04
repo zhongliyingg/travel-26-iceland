@@ -21,7 +21,7 @@ SQ326航班19:30落地。通关约需90分钟，随后步行直入喜来登酒�
 
 ### Day 2 · Thu, 12 Nov — Frankfurt → Keflavík → Reykjavík / 法兰克福 → 凯夫拉维克 → 雷克雅未克
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
-🏨 Reykjavík city hotel (night 1 of 4) · 🚐 Airport transfer — no car yet
+🏨 Reykjavík apartment · Tryggvagata (night 1 of 4) · 🚐 Airport transfer — no car yet
 
 Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:05, arrives KEF 15:55 local. Private transfer or Flybus to the hotel (~45 min). Check in, light dinner nearby.
 
@@ -48,7 +48,7 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. 
 
 ### Day 3 · Fri, 13 Nov — Reykjavík / 雷克雅未克
 **First full day — the city on foot / 第一个完整游览日 — 步行游城**
-🏨 Reykjavík hotel (night 2 of 4) · 🚶 On foot
+🏨 Reykjavík apartment (night 2 of 4) · 🚶 On foot
 
 A walking day through the compact city centre — no driving needed.
 
@@ -88,7 +88,7 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 
 ### Day 4 · Sat, 14 Nov — Reykjavík / 雷克雅未克
 **Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
-🏨 Reykjavík hotel (night 3 of 4) · 🚕 Taxi to Grandi and Perlan (~5–10 min each) · join bus tour
+🏨 Reykjavík apartment (night 3 of 4) · 🚕 Taxi to Grandi and Perlan (~5–10 min each) · join bus tour
 
 A slow breakfast, Whales of Iceland in the late morning, Perlan in the afternoon and the Northern Lights tour at night.
 
@@ -125,7 +125,7 @@ The cast went spontaneously to a hilltop with unobstructed skies to wait for the
 
 ### Day 5 · Sun, 15 Nov — Reykjavík / 雷克雅未克
 **National Museum, Settlement Exhibition & Lava Show / 国家博物馆、定居展览馆与熔岩秀**
-🏨 Reykjavík hotel (night 4 of 4) · 🚶 On foot
+🏨 Reykjavík apartment (night 4 of 4) · 🚶 On foot
 
 Viking history in the morning, the Lava Show in the afternoon and a farewell dinner in the evening.
 
@@ -165,14 +165,14 @@ A splurge-worthy farewell-to-Reykjavík dinner.
 
 ## Leg 3 — South Coast Base / 南岸驻点 · Kirkjubæjarklaustur · Nov 16–18 · 3 nights
 
-> One hotel for three nights near Kirkjubæjarklaustur ("Klaustur") — halfway between Vík and Jökulsárlón, so both are easy day trips with no packing up in between.
-> 在教堂镇（Kirkjubæjarklaustur）附近同一家酒店连住三晚——位于维克与杰古沙龙冰川湖之间，两地都是轻松的一日往返，无需来回收拾行李。
+> One cabin for three nights near Kirkjubæjarklaustur ("Klaustur") — halfway between Vík and Jökulsárlón, so both are easy day trips with no packing up in between.
+> 在教堂镇（Kirkjubæjarklaustur）附近同一间小木屋连住三晚——位于维克与杰古沙龙冰川湖之间，两地都是轻松的一日往返，无需来回收拾行李。
 
 ---
 
 ### Day 6 · Mon, 16 Nov — South Coast → Kirkjubæjarklaustur / 南岸 → 教堂镇
 **The 花少5 South Coast — stops 1 to 4 / 复刻花少5南岸路线——第1至4站**
-🏨 Kirkjubæjarklaustur hotel (night 1 of 3) · 🚗 Pick up 4WD in Reykjavík · ~255 km · ~3h 20min driving
+🏨 Kirkjubæjarklaustur cabin (night 1 of 3) · 🚗 Pick up 4WD in Reykjavík · ~255 km · ~3h 20min driving
 
 Pick up the car at the Reykjavík rental office and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 8, a relaxed day with a better chance of calm weather. Then continue ~1h east to your base for the next three nights.
 
@@ -195,8 +195,8 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 壮观玄武岩石柱、黑沙滩、狂野大西洋。任何时候都必须与海浪保持充分距离——此处的恶作剧浪涛确实危及生命。
 
 **Then — Kirkjubæjarklaustur** · ~1h east of Vík
-Check in for three nights. Far from city lights — step outside after dark and look north for the aurora.
-入住，连住三晚。远离城市灯光——天黑后到户外朝北方仰望，留意极光。
+Check in to the cabin for three nights. Far from city lights — step outside after dark and look north for the aurora.
+入住小木屋，连住三晚。远离城市灯光——天黑后到户外朝北方仰望，留意极光。
 
 `Adventure` `Nature` `Self-drive` `Car pick-up`
 
@@ -212,7 +212,7 @@ Check in for three nights. Far from city lights — step outside after dark and 
 
 ### Day 7 · Tue, 17 Nov — Jökulsárlón · Diamond Beach · Fjallsárlón / 杰古沙龙冰川湖 · 钻石海滩 · 菲亚德沙龙冰川湖
 **Glacier lagoons & Diamond Beach / 冰川湖与钻石海滩**
-🏨 Kirkjubæjarklaustur hotel (night 2 of 3) · 🚗 ~250 km round trip · ~1h 45min each way
+🏨 Kirkjubæjarklaustur cabin (night 2 of 3) · 🚗 ~250 km round trip · ~1h 45min each way
 
 Leave by 08:30 to arrive around sunrise, and be back at the hotel before dark.
 
@@ -249,7 +249,7 @@ Jökulsárlón and Fjallsárlón are both fed by Vatnajökull — Europe's large
 
 ### Day 8 · Wed, 18 Nov — Fjaðrárgljúfur · Dyrhólaey · Vík / 羽毛河峡谷 · 迪霍拉里 · 维克
 **Easy day — canyon, lighthouse & Vík / 轻松日——峡谷、灯塔与维克**
-🏨 Kirkjubæjarklaustur hotel (night 3 of 3) · 🚗 ~170 km round trip · easy pace
+🏨 Kirkjubæjarklaustur cabin (night 3 of 3) · 🚗 ~170 km round trip · easy pace
 
 A gentle day with short drives and plenty of rest. Head west, pick the stops that suit the weather, and be back at the hotel early.
 
@@ -275,13 +275,13 @@ Worth a second look if Day 6 was stormy or dark. Same rule: stay well back from 
 
 ---
 
-## Leg 4 — Hella / Selfoss Base + Golden Circle / 赫拉/塞尔福斯驻点 + 黄金圈 · Nov 19–21
+## Leg 4 — Selfoss Base + Golden Circle / 塞尔福斯驻点 + 黄金圈 · Nov 19–21
 
 ---
 
-### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Skógar → Hvolsvöllur → Hella / Selfoss / 教堂镇 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 赫拉/塞尔福斯
+### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Skógar → Hvolsvöllur → Selfoss / 教堂镇 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 塞尔福斯
 **A glacier, a turf-house museum & the volcano centre / 近观冰川、草皮屋博物馆与火山中心**
-🏨 Hella / Selfoss area hotel (night 1 of 2) · 🚗 ~180 km · ~2h 15min driving
+🏨 Amtmann Residence, Selfoss (night 1 of 2) · 🚗 ~180 km · ~2h 15min driving
 
 Check out and drive west along the South Coast, with three easy stops on the way to your base for the last two nights.
 
@@ -299,9 +299,9 @@ Turf-roofed houses, a restored church and some 18,000 regional artefacts coverin
 An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a short film. Allow 1–1.5 hours; the café is a good lunch stop.
 关于冰岛火山与地震的互动式室内展览，并有短片放映。建议预留1-1.5小时；馆内咖啡厅适合午餐。
 
-**Hella / Selfoss** · ~15 min (Hella) or ~45 min (Selfoss)
-Check in for two nights. Hotel Rangá near Hella offers aurora wake-up calls.
-入住，连住两晚。赫拉附近的Hotel Rangá提供极光叫醒服务。
+**Selfoss** · ~45 min from Hvolsvöllur
+Check in to Amtmann Residence in Selfoss for two nights.
+入住塞尔福斯的Amtmann Residence，连住两晚。
 
 `Nature` `Glacier` `Culture` `Self-drive`
 
@@ -309,13 +309,13 @@ Check in for two nights. Hotel Rangá near Hella offers aurora wake-up calls.
 
 ### Day 10 · Fri, 20 Nov — Golden Circle / 黄金圈
 **Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
-🏨 Hella / Selfoss area hotel (night 2 of 2) · 🚗 ~200 km round trip
+🏨 Amtmann Residence, Selfoss (night 2 of 2) · 🚗 ~200 km round trip
 
 The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in the classic direction — Þingvellir first, then north to Geysir and Gullfoss, then back down to Friðheimar for a late lunch. Leave by 09:15 to reach Þingvellir as the light comes up. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
 这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按经典顺序环行——先游辛格维利尔，再北上盖歇尔与黄金瀑布，最后折返至Friðheimar享用迟来的午餐。09:15前出发，天光初现时抵达辛格维利尔。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
 
-**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss, ~1h 15min from Hella
+**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss
 Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min.
 冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟。
 > Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
@@ -350,7 +350,7 @@ Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight
 
 09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，再前往凯夫拉维克，趁天光还车。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
 
-**Stop 1 — Kerið crater lake** · ~15 min from Selfoss, ~45 min from Hella · small admission fee
+**Stop 1 — Kerið crater lake** · ~15 min from Selfoss · small admission fee
 A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. Not on the 花少5 route — but well worth the stop, and it sits right beside the road to Reykjavík. Allow ~40 min.
 3000年前的火山口，赤红与赭黄色火山壁深沉下陷，湖底一汪碧绿泛着蓝光。并非《花少5》的行程停靠点——但非常值得一游，且就在前往雷克雅未克的路旁。建议预留约40分钟。
 > Walk the rim path only — it is level and takes about 20 minutes to circle. The trail down to the lake shore is a steep flight of steps and is best skipped in November, when it is often iced over.

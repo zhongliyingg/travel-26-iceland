@@ -13,32 +13,36 @@
 
 ---
 
-## 2. Reykjavík City Hotel
-- **Location:** City Centre, Reykjavík, Iceland
+## 2. Modern Apt in Central Reykjavik
+- **Location:** Tryggvagata 23, 101 Reykjavík, Iceland — Old Harbour, city centre, walkable to all city sights (no car during this stay)
 - **Check-in:** Thu, 12 Nov
 - **Check-out:** Mon, 16 Nov (4 nights)
-- **Rooms:** 2 rooms · Central location, walkable to all city sights (no car during this stay)
-- **Status:** To book — URGENT
+- **Type:** Apartment
+- **Booked via:** Agoda
+- **Confirmation:** [redacted]
+- **Status:** Confirmed ✓
 
 ---
 
-## 3. South Coast base — Kirkjubæjarklaustur area
-- **Location:** Kirkjubæjarklaustur ("Klaustur"), South Iceland — ~1h east of Vík, ~1h 45min west of Jökulsárlón
+## 3. Our cozy cabin — Kirkjubæjarklaustur area
+- **Location:** Selhólavegur 9, 881 Kirkjubæjarklaustur area, South Iceland — ~1h east of Vík, ~1h 45min west of Jökulsárlón
 - **Check-in:** Mon, 16 Nov
 - **Check-out:** Thu, 19 Nov (3 nights)
-- **Rooms:** 2 rooms
-- **Options:** Hótel Klaustur · Fosshótel Núpar · Hótel Laki
-- **Status:** To book — URGENT (limited options in the area)
+- **Type:** Cabin
+- **Booked via:** Airbnb
+- **Confirmation:** [redacted]
+- **Status:** Confirmed ✓
 
 ---
 
-## 4. Hella / Selfoss area
-- **Location:** Hella or Selfoss, South Iceland — base for the Golden Circle
+## 4. Amtmann Residence by Heimaleiga
+- **Location:** Eyravegur 3, 800 Selfoss, South Iceland — base for the Golden Circle
 - **Check-in:** Thu, 19 Nov
 - **Check-out:** Sat, 21 Nov (2 nights)
-- **Rooms:** 2 rooms
-- **Options:** Hotel Rangá (near Hella · aurora wake-up service) · Hótel Selfoss
-- **Status:** To book
+- **Type:** Apartment
+- **Booked via:** Booking.com
+- **Confirmation:** [redacted]
+- **Status:** Confirmed ✓
 
 ---
 
