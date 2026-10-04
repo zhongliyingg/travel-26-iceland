@@ -88,28 +88,37 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 
 ### Day 4 · Sat, 14 Nov — Reykjavík / 雷克雅未克
 **Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
-🏨 Reykjavík apartment (night 3 of 4) · 🚕 Taxi to Grandi and Perlan (~5–10 min each) · join bus tour
+🏨 Reykjavík apartment (night 3 of 4) · 🚕 Taxi to Perlan (~5–10 min) · 🚶 Walk to Tour Bus Stop 5 (Harpa) for the bus tour
 
-A slow breakfast, Whales of Iceland in the late morning, Perlan in the afternoon and the Northern Lights tour at night.
+Perlan first thing (booked for 10:00), a flexible afternoon — Whales of Iceland or the Kolaportið flea market — then a rest, an early dinner and the 8:30pm Northern Lights tour.
 
-悠闲早餐，上午晚些时候参观冰岛鲸鱼馆，下午游珍珠楼，晚上追极光。
+上午先游珍珠楼（已订10:00入场），下午行程灵活——冰岛鲸鱼馆或Kolaportið跳蚤市场二选一——之后回公寓休息、提早晚餐，晚上8:30参加极光大巴游。
 
-**Late morning — Whales of Iceland** · Grandi harbour · ~10 min by taxi · allow ~1 hour
-Life-size models of over 20 whale species in one flat, indoor hall — easy going for all ages. Have a slow breakfast first and aim to arrive around 10:30, in time to join the live guided tour at 11:00. That leaves time for lunch and a rest before Perlan. Keep the day light — tonight is a late one.
-在一座平坦的室内展厅中展出20多种鲸鱼的等比例模型——老少皆宜，轻松参观。先悠闲享用早餐，约10:30抵达，赶上11:00的真人导览。之后仍有充裕时间午餐和休息，再前往珍珠楼。今天行程宜轻松——晚上要熬夜追极光。
+**Morning — Perlan** · ✅ Booked · 10:00 entry · ~5–10 min by taxi (leave ~09:45) · allow 2–3 hours
+The iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. A guaranteed, breathtaking indoor aurora — and the perfect primer for tonight. The 360° observation deck gives panoramic views over the entire city. Sunrise is around 10:00, so start indoors with the ice cave, exhibits and Áróra show, and save the observation deck for around 11:30 in daylight. Have lunch at Perlan's café before leaving (~12:30).
+坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。当天日出约10:00，建议先参观室内的冰洞、展览和极光秀，约11:30天亮后再上观景台。离开前（约12:30）在珍珠楼咖啡厅吃午餐。
 
-**Afternoon — Perlan** · ~5–10 min by taxi · allow 2–3 hours
-The iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. A guaranteed, breathtaking indoor aurora — and the perfect primer for tonight. The 360° observation deck gives panoramic views over the entire city.
-坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。
+**Afternoon — Flexible: Whales of Iceland or Kolaportið** · Decide on the day · back at the apartment by ~15:00–16:00 to rest
+Pick one, depending on energy — or skip both and rest. Keep the day light — tonight is a late one.
+- **Whales of Iceland** · Grandi harbour · ~10 min by taxi from Perlan (leave ~13:15) · allow ~1 hour · Life-size models of over 20 whale species in one flat, indoor hall — easy going for all ages. Join the free live guided tour at 13:30. Open 10:00–17:00.
+- **Kolaportið flea market** · Tryggvagata 19, next door to the apartment · open Saturdays 11:00–17:00 · lopapeysa sweaters, Icelandic foodstuffs and secondhand finds. Easy to drop into for 30 minutes after a rest. It is also listed on Day 11 (another Saturday), so pick whichever day suits.
 
-**Evening — Northern Lights bus tour** · Hotel pickup
-Hot chocolate included, and a free re-try on cloudy nights.
-含热巧克力，遇阴云可免费重游。
+二选一，视体力而定——也可都不去，直接回公寓休息。今天行程宜轻松——晚上要熬夜追极光。
+- **冰岛鲸鱼馆** · 格兰迪港区 · 从珍珠楼打车约10分钟（约13:15出发）· 建议预留约1小时 · 在一座平坦的室内展厅中展出20多种鲸鱼的等比例模型——老少皆宜，轻松参观。参加13:30的免费真人导览。开放时间10:00–17:00。
+- **Kolaportið跳蚤市场** · Tryggvagata 19号，就在公寓隔壁 · 周六11:00–17:00开放 · 出售冰岛羊毛衫、冰岛特产食品与二手好物。休息后顺路逛30分钟即可。第11天（同为周六）也列有此行程，择一日前往即可。
+
+**Early evening — Dinner** · ~17:45 · at the apartment or nearby in the Old Harbour
+Cook something simple and warm at the apartment, or book a table near the Old Harbour for 17:45–18:00. Be back home by 19:00 to layer up.
+在公寓简单做顿热饭，或在老港口附近预订17:45–18:00的餐位。19:00前回到公寓换上保暖衣物。
+
+**Evening — Northern Lights bus tour** · ✅ Booked · 8:30pm departure · pickup at Tour Bus Stop 5, Harpa Concert Hall (Faxagata) · ~6–8 min walk
+Be at the stop by 20:00 (pickup starts up to 30 minutes before departure) — leave the apartment ~19:50. The bus returns to the same stop around 00:30. Hot chocolate included, and a free re-try on cloudy nights (valid for 3 years) — if no lights tonight, rebook for Nov 15. Dress for standing still in sub-zero wind: thermals, hat, gloves, warm boots; bring snacks.
+20:00前到达巴士站（出发前最多30分钟开始接人）——约19:50从公寓出发。大巴约00:30返回同一站点。含热巧克力，遇阴云可免费重游（3年内有效）——若今晚未见极光，可改约11月15日。按在寒风中久站的标准穿着：保暖内衣、帽子、手套、保暖靴；记得带零食。
 
 `Culture` `Perlan` `Aurora` `Adventure`
 
-> 🛍 Alternative for the late morning: Swap Whales of Iceland for the Kolaportið flea market at the Old Harbour (open Saturdays 11:00–17:00), which sells lopapeysa sweaters, Icelandic foodstuffs and secondhand finds. It is also listed on Day 11 (another Saturday), so pick whichever day suits.
-> 🛍 上午备选：可将冰岛鲸鱼馆换成老港口的Kolaportið跳蚤市场（周六11:00–17:00开放），出售冰岛羊毛衫、冰岛特产食品与二手好物。第11天（同为周六）也列有此行程，择一日前往即可。
+> ⏱ Day timeline: 09:45 taxi to Perlan · 10:00–12:30 Perlan + lunch · 13:15 Whales of Iceland (13:30 tour) or home for Kolaportið · rest · 17:45 early dinner · 19:50 walk to Harpa · 20:30 tour departs · back ~00:30.
+> ⏱ 当日时间表：09:45打车前往珍珠楼 · 10:00–12:30珍珠楼 + 午餐 · 13:15冰岛鲸鱼馆（13:30导览）或回公寓逛Kolaportið · 休息 · 17:45提早晚餐 · 19:50步行至哈帕音乐厅 · 20:30大巴出发 · 约00:30返回。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
 王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
