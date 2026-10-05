@@ -3,7 +3,7 @@
 ---
 
 ## 1. Reykjavík city / 雷克雅未克市区
-**Nov 13 · Culture · Food / 11月13日 · 文化 · 美食**
+**Nov 15 · Culture · Food / 11月15日 · 文化 · 美食**
 
 Hallgrímskirkja church, Harpa concert hall, and the charm of the old town. Flat, walkable, full of character.
 

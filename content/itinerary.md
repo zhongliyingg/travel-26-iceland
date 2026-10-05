@@ -23,11 +23,15 @@ SQ326航班19:30落地。通关约需90分钟，随后步行直入喜来登酒�
 **Relaxed morning → fly to Iceland / 悠闲早晨 → 飞往冰岛**
 🏨 Reykjavík apartment · Tryggvagata (night 1 of 4) · 🚐 Airport transfer — no car yet
 
-Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:05, arrives KEF 15:55 local. Private transfer or Flybus to the hotel (~45 min). Check in, light dinner nearby.
+Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. FI521 departs 13:05, arrives KEF 15:55 local. Booked private transfer picks you up at 16:35 (Trip.com) — ~45 min to the apartment. Check in, freshen up, then a good Icelandic seafood dinner nearby.
 
-酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:05出发，当地时间15:55抵达凯夫拉维克。乘坐私人接送或Flybus机场大巴前往酒店（约45分钟）。入住后在附近简单用晚餐。
+酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:05出发，当地时间15:55抵达凯夫拉维克。已预订私人接送（Trip.com），16:35接机——约45分钟抵达公寓。入住稍作休整后，在附近享用一顿地道的冰岛海鲜晚餐。
 
-`Travel` `Airport transfer`
+**Evening — Sjávargrillið** · Dinner · 19:30 · Skólavörðustígur 14 · ~8 min walk, gently uphill · book in advance
+Creative Icelandic seafood in a cosy setting — try the langoustine (Icelandic lobster) soup. A good meal after two days of transit, without being a splurge. Book 19:30: allows for a ~1 hour flight delay. Card held only for a no-show without cancelling (ISK 20,000 fee); the table may be released 25 min after the booked time, so call +354 571 1100 if running late.
+创意冰岛海鲜料理，环境温馨质朴——推荐冰岛龙虾汤。两天舟车劳顿后好好吃一顿，又不至于太过奢华。建议预订19:30：可应对约1小时的航班延误。信用卡仅作担保，未取消且未到场才收取20,000冰岛克朗费用；超过预订时间25分钟可能会被取消座位，如会迟到请致电+354 571 1100。
+
+`Travel` `Airport transfer` `Food`
 
 > ⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals.
 > ⚠ FI521从2号航站楼出发。喜来登酒店位于1号航站楼。请乘坐约2分钟的SkyLine列车在航站楼间转乘。
@@ -47,42 +51,50 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. 
 ---
 
 ### Day 3 · Fri, 13 Nov — Reykjavík / 雷克雅未克
-**First full day — the city on foot / 第一个完整游览日 — 步行游城**
-🏨 Reykjavík apartment (night 2 of 4) · 🚶 On foot
+**Viking history, Whales of Iceland & Lava Show / 维京历史、冰岛鲸鱼馆与熔岩秀**
+🏨 Reykjavík apartment (night 2 of 4) · 🚶 On foot + 🚕 short taxis
 
-A walking day through the compact city centre — no driving needed.
+Viking history in the morning, then Grandi harbour in the afternoon — Whales of Iceland and the Lava Show are on the same street, ~10 min walk apart — and Reykjavík Kitchen for dinner. Mostly indoors: an easy first full day.
 
-步行游览紧凑的市中心——无需开车。
+上午探索维京历史，下午前往格兰迪港区——冰岛鲸鱼馆与熔岩秀位于同一条街，步行约10分钟——晚上在Reykjavík Kitchen用餐。行程以室内为主，适合抵达后的第一个完整游览日。
 
-**Morning — Hallgrímskirkja** · Start here
-Reykjavík's landmark church — take the lift up the tower for the city view.
-雷克雅未克的地标教堂——可乘电梯登塔俯瞰全城。
+**Morning — National Museum of Iceland** · Optional · 10:00 · ~5 min by taxi
+Viking age artefacts at Iceland's national museum. Skip it if energy is low — the Settlement Exhibition tells the Viking story in a more compact way.
+参观冰岛国家博物馆的维京时代文物。若体力不足可跳过——定居展览馆以更精简的方式讲述维京故事。
 
-**Late morning — Skólavörðustígur & Laugavegur** · Walk downhill
-Skólavörðustígur, the rainbow street of boutiques and galleries, leads down to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break.
-彩虹街斯科拉沃杜斯提古尔街精品店与艺廊林立，一路通往主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。
+**Late morning — Settlement Exhibition** · Aðalstræti 16 · ~3 min walk from the apartment
+Walk-over glass floors reveal actual Viking longhouse ruins beneath the city.
+透明玻璃地板下，就是真实的维京长屋遗址。
 
-**Afternoon — Tjörnin pond** · ~10 min walk
-A flat loop around the pond, past City Hall.
-绕湖平路一圈，途经市政厅。
+**Lunch — Grandi Mathöll** · Grandi harbour · ~5 min by taxi
+A casual food hall on the Grandi harbourfront — several stalls, so everyone can pick. A few minutes from Whales of Iceland.
+格兰迪港区海滨的休闲美食广场——多家摊位，各取所好。距冰岛鲸鱼馆仅几分钟路程。
 
-**Late afternoon — Harpa & Old Harbour** · ~10 min walk
-Walk through the glass concert hall, then along the Old Harbour waterfront.
-穿过玻璃幕墙的哈帕音乐厅，再沿老港口海滨漫步。
+**Early afternoon — Whales of Iceland** · Fiskislóð 23–25, Grandi · arrive ~13:15 · allow ~1 hour
+Life-size models of over 20 whale species in one flat, indoor hall — easy going for all ages. Buy tickets at the door (senior discounts are only given onsite) and join the free live guided tour at 13:30. Open 10:00–17:00.
+在一座平坦的室内展厅中展出20多种鲸鱼的等比例模型——老少皆宜，轻松参观。请现场购票（长者优惠仅限现场购票），参加13:30的免费真人导览。开放时间10:00–17:00。
 
-**Evening — Reykjavík Kitchen** · Dinner · book in advance
-Try the lamb shank and Arctic char.
-推荐羊腿和北极红点鲑。
+**Mid-afternoon — Free time in Grandi** · ~14:30–15:45
+The Lava Show only runs every 2 hours (10:00, 12:00, 14:00, 16:00…), so there's a gap after the Whales tour. Find a warm café on the harbour, take a short walk along the boats, or sit down somewhere if anyone's tired.
+熔岩秀每2小时一场（10:00、12:00、14:00、16:00……），因此鲸鱼馆导览结束后有一段空档。可在港口找家温暖的咖啡馆、沿渔船散散步，或找地方坐下歇歇脚。
 
-`Culture` `Food` `Shopping`
+**Late afternoon — Lava Show, Grandi Harbour** · Fiskislóð 73 · ~10 min walk from Whales of Iceland · book the 16:00 show · 50–75 min
+The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
+全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
 
-> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
-> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
+**Evening — Reykjavík Kitchen** · Dinner · ~19:00 · ~5 min by taxi · book in advance
+Classic Icelandic cooking — try the lamb shank and Arctic char. Taxi back to the apartment after the Lava Show (~17:30) to rest first.
+经典冰岛菜——推荐羊腿和北极红点鲑。看完熔岩秀后（约17:30）打车回公寓先休息。
 
-📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival**
-Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.
+`Culture` `History` `Food` `Lava Show`
 
-第一个傍晚，他们步行探索洛加维格大街及哈尔格林姆斯教堂附近的彩色街道——正是您即将漫游的同一片街区。
+> ⏱ Day timeline: 10:00 National Museum (optional) · ~11:30 Settlement Exhibition · ~12:30 lunch at Grandi Mathöll · 13:15 Whales of Iceland (13:30 tour) · 14:30–15:45 free time in Grandi · 16:00 Lava Show · ~17:30 back to the apartment to rest · 19:00 Reykjavík Kitchen.
+> ⏱ 当日时间表：10:00国家博物馆（可选）· 约11:30定居展览馆 · 约12:30格兰迪美食广场午餐 · 13:15冰岛鲸鱼馆（13:30导览）· 14:30–15:45格兰迪自由活动 · 16:00熔岩秀 · 约17:30回公寓休息 · 19:00 Reykjavík Kitchen晚餐。
+
+📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
+王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
+
+王安宇精心策划了雷克雅未克城市体验日：洛加维格大街、彩虹步道，在秋千上分享华夫饼。文化重头戏是乌纳中国博物馆——一位冰岛奶奶在七十年代结缘太极拳，1983年第一次踏上中国土地，收藏了瓷器、唐装与木雕床。他还安排了熔岩秀——正是您此行将要体验的节目。
 
 ---
 
@@ -90,21 +102,19 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 **Perlan + Northern Lights tour / 珍珠楼 + 极光夜游**
 🏨 Reykjavík apartment (night 3 of 4) · 🚕 Taxi to Perlan (~5–10 min) · 🚶 Walk to Tour Bus Stop 5 (Harpa) for the bus tour
 
-Perlan first thing (booked for 10:00), a flexible afternoon — Whales of Iceland or the Kolaportið flea market — then a rest, an early dinner and the 8:30pm Northern Lights tour.
+Perlan first thing (booked for 10:00), a light afternoon — the Kolaportið flea market or simply a rest — then an early dinner and the 8:30pm Northern Lights tour.
 
-上午先游珍珠楼（已订10:00入场），下午行程灵活——冰岛鲸鱼馆或Kolaportið跳蚤市场二选一——之后回公寓休息、提早晚餐，晚上8:30参加极光大巴游。
+上午先游珍珠楼（已订10:00入场），下午行程轻松——逛逛Kolaportið跳蚤市场或直接休息——之后提早晚餐，晚上8:30参加极光大巴游。
 
 **Morning — Perlan** · ✅ Booked · 10:00 entry · ~5–10 min by taxi (leave ~09:45) · allow 2–3 hours
 The iconic glass-domed museum on Öskjuhlíð hill. Explore the 100m indoor ice cave (built from 400 tons of real ice and snow), a Forces of Nature volcano exhibit, and the Áróra planetarium — Iceland's only northern lights show using 8K projection and 7.1 surround sound. A guaranteed, breathtaking indoor aurora — and the perfect primer for tonight. The 360° observation deck gives panoramic views over the entire city. Sunrise is around 10:00, so start indoors with the ice cave, exhibits and Áróra show, and save the observation deck for around 11:30 in daylight. Have lunch at Perlan's café before leaving (~12:30).
 坐落于奥斯基亚山顶的标志性玻璃穹顶博物馆。探索100米室内冰洞（由400吨真实冰雪建造）、自然力量火山展览，以及极光天文馆——冰岛唯一的极光秀，采用8K投影与7.1环绕声呈现。室内即可感受震撼人心的极光体验，也是今晚追极光的最佳预热。360度观景台可俯瞰整座城市全景。当天日出约10:00，建议先参观室内的冰洞、展览和极光秀，约11:30天亮后再上观景台。离开前（约12:30）在珍珠楼咖啡厅吃午餐。
 
-**Afternoon — Flexible: Whales of Iceland or Kolaportið** · Decide on the day · back at the apartment by ~15:00–16:00 to rest
-Pick one, depending on energy — or skip both and rest. Keep the day light — tonight is a late one.
-- **Whales of Iceland** · Grandi harbour · ~10 min by taxi from Perlan (leave ~13:15) · allow ~1 hour · Life-size models of over 20 whale species in one flat, indoor hall — easy going for all ages. Join the free live guided tour at 13:30. Open 10:00–17:00.
+**Afternoon — Rest, or Kolaportið flea market** · Optional · back at the apartment after lunch
+Keep the day light — tonight is a late one. Whales of Iceland has moved to Day 3, alongside the Lava Show.
 - **Kolaportið flea market** · Tryggvagata 19, next door to the apartment · open Saturdays 11:00–17:00 · lopapeysa sweaters, Icelandic foodstuffs and secondhand finds. Easy to drop into for 30 minutes after a rest. It is also listed on Day 11 (another Saturday), so pick whichever day suits.
 
-二选一，视体力而定——也可都不去，直接回公寓休息。今天行程宜轻松——晚上要熬夜追极光。
-- **冰岛鲸鱼馆** · 格兰迪港区 · 从珍珠楼打车约10分钟（约13:15出发）· 建议预留约1小时 · 在一座平坦的室内展厅中展出20多种鲸鱼的等比例模型——老少皆宜，轻松参观。参加13:30的免费真人导览。开放时间10:00–17:00。
+今天行程宜轻松——晚上要熬夜追极光。冰岛鲸鱼馆已移至第3天，与熔岩秀同日。
 - **Kolaportið跳蚤市场** · Tryggvagata 19号，就在公寓隔壁 · 周六11:00–17:00开放 · 出售冰岛羊毛衫、冰岛特产食品与二手好物。休息后顺路逛30分钟即可。第11天（同为周六）也列有此行程，择一日前往即可。
 
 **Early evening — Dinner** · ~17:45 · at the apartment or nearby in the Old Harbour
@@ -117,8 +127,8 @@ Be at the stop by 20:00 (pickup starts up to 30 minutes before departure) — le
 
 `Culture` `Perlan` `Aurora` `Adventure`
 
-> ⏱ Day timeline: 09:45 taxi to Perlan · 10:00–12:30 Perlan + lunch · 13:15 Whales of Iceland (13:30 tour) or home for Kolaportið · rest · 17:45 early dinner · 19:50 walk to Harpa · 20:30 tour departs · back ~00:30.
-> ⏱ 当日时间表：09:45打车前往珍珠楼 · 10:00–12:30珍珠楼 + 午餐 · 13:15冰岛鲸鱼馆（13:30导览）或回公寓逛Kolaportið · 休息 · 17:45提早晚餐 · 19:50步行至哈帕音乐厅 · 20:30大巴出发 · 约00:30返回。
+> ⏱ Day timeline: 09:45 taxi to Perlan · 10:00–12:30 Perlan + lunch · ~13:00 taxi home · rest, or Kolaportið next door · 17:45 early dinner · 19:50 walk to Harpa · 20:30 tour departs · back ~00:30.
+> ⏱ 当日时间表：09:45打车前往珍珠楼 · 10:00–12:30珍珠楼 + 午餐 · 约13:00打车回公寓 · 休息，或逛隔壁的Kolaportið · 17:45提早晚餐 · 19:50步行至哈帕音乐厅 · 20:30大巴出发 · 约00:30返回。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · Perlan planetarium aurora show — Hu Xianxu moved to tears / 珍珠楼天文馆极光秀——胡先煦看哭了**
 王安宇 included Perlan's Áróra planetarium show on his Reykjavík city day. It moved Hu Xianxu — a lifelong space enthusiast — to tears. One of the quiet emotional highlights of their time in Iceland. Perlan also has a 100m indoor ice cave, a volcano exhibit, and panoramic city views from its observation deck.
@@ -133,42 +143,53 @@ The cast went spontaneously to a hilltop with unobstructed skies to wait for the
 ---
 
 ### Day 5 · Sun, 15 Nov — Reykjavík / 雷克雅未克
-**National Museum, Settlement Exhibition & Lava Show / 国家博物馆、定居展览馆与熔岩秀**
+**Last day in the city — on foot / 市区最后一天 — 步行游城**
 🏨 Reykjavík apartment (night 4 of 4) · 🚶 On foot
 
-Viking history in the morning, the Lava Show in the afternoon and a farewell dinner in the evening.
+A slow start after last night's aurora tour, a gentle morning loop round Tjörnin, then an afternoon walk downhill from Hallgrímskirkja to the harbour — no driving needed. Keep the evening open: an aurora retry if Nov 14 drew a blank, otherwise a farewell dinner at Grillmarkaðurinn.
 
-上午探索维京历史，下午观看熔岩秀，晚上享用告别晚餐。
+昨晚追极光归来较晚，上午放慢节奏，先绕托宁湖轻松散步，下午再从哈尔格林姆斯教堂一路下坡步行至港口——无需开车。晚上留出空档：若11月14日未见极光则补看极光，否则在Grillmarkaðurinn享用告别晚餐。
 
-**Morning — National Museum of Iceland**
-Viking age artefacts at Iceland's national museum.
-参观冰岛国家博物馆的维京时代文物。
+**Morning — Slow start at the apartment**
+Sleep in after getting back ~00:30 from the aurora tour, then a relaxed breakfast. Sunday shops on Laugavegur mostly open late anyway.
+极光团约00:30才回来，早上睡个懒觉，悠闲吃早餐。周日劳格韦格尔大街的商店大多开门较晚。
 
-**Late morning — Settlement Exhibition**
-Walk-over glass floors reveal actual Viking longhouse ruins beneath the city.
-透明玻璃地板下，就是真实的维京长屋遗址。
+**Late morning — Tjörnin pond** · ~10:30 · ~5–8 min flat walk from the apartment
+A flat loop around the pond, past City Hall — soft light just after sunrise (~10:10), often partly frozen, with swans and ducks. Paths can be icy in the morning — Yaktrax on.
+绕湖平路一圈，途经市政厅——日出（约10:10）后光线柔和，湖面常部分结冰，天鹅与野鸭成群。早上路面可能结冰——请穿上冰爪。
 
-**Lunch — Sjávargrillið**
-Creative Icelandic seafood in a cosy setting.
-创意冰岛海鲜料理，环境温馨质朴。
+**Lunch — Café Loki** · ~12:00 · Lokastígur 28, opposite Hallgrímskirkja · ~5 min taxi up the hill from Tjörnin (~1.2 km uphill on foot)
+Traditional Icelandic food: lamb meat soup, plokkfiskur (fish stew), rye bread ice cream.
+传统冰岛菜：羊肉汤、鱼肉炖菜（plokkfiskur）、黑麦面包冰淇淋。
 
-**Afternoon — Lava Show, Grandi Harbour** · 50–75 min
-The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
-全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
+**Early afternoon — Hallgrímskirkja** · ~13:00 · right across the road
+Reykjavík's landmark church — take the lift up the tower for the city view. Midday is the best daylight of a November day. Sunday 15 Nov hours: open 10:00–17:00, church and tower closed ~11:30–12:30 for the 11:00 Mass, last tower admission 16:45.
+雷克雅未克的地标教堂——可乘电梯登塔俯瞰全城。11月中午前后光线最好。11月15日（周日）开放时间：10:00–17:00，11:00弥撒期间教堂与塔楼约11:30–12:30关闭，塔楼最后入场16:45。
 
-**Evening — Grillmarkaðurinn** · Dinner · book in advance
-A splurge-worthy farewell-to-Reykjavík dinner.
-享用告别雷克雅未克的丰盛晚餐。
+**Afternoon — Skólavörðustígur & Laugavegur** · ~13:45 · Walk downhill
+Skólavörðustígur, the rainbow street of boutiques and galleries, leads down to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break. Shops are open by now, though Sunday hours are shorter than weekdays. Optional soup stop: **Svarta Kaffið** (Laugavegur 54) — soup served in a bread bowl · walk-in only, no reservations · check access for the 70+ travellers.
+彩虹街斯科拉沃杜斯提古尔街精品店与艺廊林立，一路通往主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。此时商店已开门，但周日营业时间较平日短。可选喝汤小憩：**Svarta Kaffið**（Laugavegur 54号）——面包碗盛汤 · 不接受预订，直接前往 · 请确认是否方便70岁以上长辈进出。
 
-`Culture` `History` `Food` `Lava Show`
+**Dusk — Harpa & Old Harbour** · ~16:00 · ~10 min walk from the bottom of Laugavegur · sunset ~16:15 · short walk home
+Walk through the glass concert hall, then along the Old Harbour waterfront.
+穿过玻璃幕墙的哈帕音乐厅，再沿老港口海滨漫步。
 
-> 🌌 Aurora retry window: Lava Show finishes ~5–6pm, leaving the evening free. If the Nov 14 tour drew a blank, contact your operator today to book your free retry for tonight — it's your last night in the city. From Day 6 you're in the dark countryside, where you can watch for the lights from your hotel.
-> 🌌 极光补看机会：熔岩秀约17-18时结束，晚上时间自由。若11月14日未能看到极光，今天联系运营商预约今晚的免费补看名额——这是在市区的最后一晚。从第6天起入住远离城市灯光的乡间，在酒店即可自行观赏极光。
+**Evening — Grillmarkaðurinn (KIV)** · Dinner · 20:00 · Lækjargata 2a · ~5 min walk · only if there is no aurora retry tonight
+A splurge-worthy farewell-to-Reykjavík dinner. Tables are only available from 20:00. Book ahead, but check you can cancel on the morning of Nov 15 if the retry is needed.
+享用告别雷克雅未克的丰盛晚餐。仅20:00起可订位。建议提前预订，但请确认可在11月15日上午取消（以防需要补看极光）。
 
-📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
-王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
+`Culture` `Food` `Shopping`
 
-王安宇精心策划了雷克雅未克城市体验日：洛加维格大街、彩虹步道，在秋千上分享华夫饼。文化重头戏是乌纳中国博物馆——一位冰岛奶奶在七十年代结缘太极拳，1983年第一次踏上中国土地，收藏了瓷器、唐装与木雕床。他还安排了熔岩秀——正是您此行将要体验的节目。
+> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
+> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
+
+> 🌌 Aurora retry window: If the Nov 14 tour drew a blank, contact your operator this morning to book your free retry for tonight — it's your last night in the city. Pickup is ~20:00 at Harpa, so skip Grillmarkaðurinn and eat early near the Old Harbour instead. From Day 6 you're in the dark countryside, where you can watch for the lights from your hotel.
+> 🌌 极光补看机会：若11月14日未能看到极光，今天上午联系运营商预约今晚的免费补看名额——这是在市区的最后一晚。约20:00在哈帕音乐厅上车，因此取消Grillmarkaðurinn，改在老港口附近提早用餐。从第6天起入住远离城市灯光的乡间，在酒店即可自行观赏极光。
+
+📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Reykjavík arrival**
+Their first evening was spent exploring Laugavegur street and the colourful streets near Hallgrímskirkja on foot — exactly the same neighbourhood you'll be discovering.
+
+第一个傍晚，他们步行探索洛加维格大街及哈尔格林姆斯教堂附近的彩色街道——正是您即将漫游的同一片街区。
 
 ---
 
