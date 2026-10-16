@@ -95,15 +95,14 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 
 ---
 
-## Day 9 · Nov 19 · Klaustur → Sólheimajökull → LAVA Centre → Hella / Selfoss
+## Day 9 · Nov 19 · Klaustur → Sólheimajökull → LAVA Centre → Selfoss
 **Centre:** 63.700, -19.500 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Sólheimajökull Glacier | 索尔黑马冰川 | 63.530 | -19.371 |
 | 2 | LAVA Centre, Hvolsvöllur | 熔岩中心（赫沃斯沃德吕尔） | 63.753 | -20.236 |
-| 3 | Hella | 赫拉 | 63.835 | -20.400 |
-| 4 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
+| 3 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
 
 ---
 
