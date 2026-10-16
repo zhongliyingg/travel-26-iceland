@@ -39,6 +39,9 @@ Creative Icelandic seafood in a cosy setting — try the langoustine (Icelandic 
 > 🚐 No car needed in Reykjavík — the city centre is walkable and parking is paid. Pick up the car on Day 6 (Nov 16) when you leave the city.
 > 🚐 在雷克雅未克无需租车——市中心步行即可，停车需付费。第6天（11月16日）离开市区时再取车。
 
+> 💳 ISK cash: withdraw ~ISK 10,000 (≈ SGD 105) at a bank ATM in the KEF arrivals hall before the 16:35 transfer pickup — enough for Kolaportið. Look for Landsbankinn, Arion banki or Íslandsbanki (avoid Euronet), use the Trust debit card, and decline conversion to SGD.
+> 💳 冰岛克朗现金：在凯夫拉维克机场到达大厅的银行ATM取约10,000冰岛克朗（≈ 新币105元），再搭乘16:35的接机车——足够Kolaportið跳蚤市场使用。认准Landsbankinn、Arion banki或Íslandsbanki（避开Euronet），使用Trust借记卡，并拒绝转换为新币。
+
 ---
 
 ## Leg 2 — Reykjavík Base / 雷克雅未克驻点 · Nov 12–15 · 4 nights · No car
