@@ -54,7 +54,7 @@
 - **Booked via:** Agoda
 - **Booking ID:** [redacted]
 - **Status:** Confirmed ✓
-- **Note:** Airport transfer requested for Nov 22 at 05:15. Confirm at reception on arrival Nov 21.
+- **Note:** No hotel shuttle needed — you keep the car overnight and drive to the Blue Car Rental drop-off (Blikavöllur 3) at 05:00 on Nov 22.
 
 ---
 
@@ -67,4 +67,4 @@
 - **Booking ID:** [redacted]
 - **Payment due:** Nov 17 · EUR 255.82 (charged in SGD)
 - **Status:** Confirmed ✓
-- **Note:** 10-min walk to Römerberg Christmas Market. S-Bahn to airport from Hauptwache (~5-min walk, ~15 min to T1).
+- **Note:** 10-min walk to Römerberg Christmas Market. Airport transfers booked via Trip.com: FRA → hotel Nov 22 (pickup 12:40), hotel → FRA Nov 23 (pickup 18:00).

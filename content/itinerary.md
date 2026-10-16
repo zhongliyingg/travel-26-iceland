@@ -27,9 +27,9 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. 
 
 酒店早餐，逛逛1号航站楼商店。乘坐SkyLine列车前往T2（约2分钟）——11:00前办理登机手续。FI521航班13:05出发，当地时间15:55抵达凯夫拉维克。已预订私人接送（Trip.com），16:35接机——约45分钟抵达公寓。入住稍作休整后，在附近享用一顿地道的冰岛海鲜晚餐。
 
-**Evening — Sjávargrillið** · Dinner · 19:30 · Skólavörðustígur 14 · ~8 min walk, gently uphill · book in advance
-Creative Icelandic seafood in a cosy setting — try the langoustine (Icelandic lobster) soup. A good meal after two days of transit, without being a splurge. Book 19:30: allows for a ~1 hour flight delay. Card held only for a no-show without cancelling (ISK 20,000 fee); the table may be released 25 min after the booked time, so call +354 571 1100 if running late.
-创意冰岛海鲜料理，环境温馨质朴——推荐冰岛龙虾汤。两天舟车劳顿后好好吃一顿，又不至于太过奢华。建议预订19:30：可应对约1小时的航班延误。信用卡仅作担保，未取消且未到场才收取20,000冰岛克朗费用；超过预订时间25分钟可能会被取消座位，如会迟到请致电+354 571 1100。
+**Evening — Sjávargrillið** · Dinner · ✅ Booked · 19:30 · Skólavörðustígur 14 · ~8 min walk, gently uphill
+Creative Icelandic seafood in a cosy setting — try the langoustine (Icelandic lobster) soup. A good meal after two days of transit, without being a splurge. Booked for 19:30, which allows for a ~1 hour flight delay. Card held only for a no-show without cancelling (ISK 20,000 fee); the table may be released 25 min after the booked time, so call +354 571 1100 if running late.
+创意冰岛海鲜料理，环境温馨质朴——推荐冰岛龙虾汤。两天舟车劳顿后好好吃一顿，又不至于太过奢华。已预订19:30：可应对约1小时的航班延误。信用卡仅作担保，未取消且未到场才收取20,000冰岛克朗费用；超过预订时间25分钟可能会被取消座位，如会迟到请致电+354 571 1100。
 
 `Travel` `Airport transfer` `Food`
 
@@ -78,18 +78,18 @@ Life-size models of over 20 whale species in one flat, indoor hall — easy goin
 The Lava Show only runs every 2 hours (10:00, 12:00, 14:00, 16:00…), so there's a gap after the Whales tour. Find a warm café on the harbour, take a short walk along the boats, or sit down somewhere if anyone's tired.
 熔岩秀每2小时一场（10:00、12:00、14:00、16:00……），因此鲸鱼馆导览结束后有一段空档。可在港口找家温暖的咖啡馆、沿渔船散散步，或找地方坐下歇歇脚。
 
-**Late afternoon — Lava Show, Grandi Harbour** · Fiskislóð 73 · ~10 min walk from Whales of Iceland · book the 16:00 show · 50–75 min
-The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. Book the Classic ticket or upgrade to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
-全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。可选基础票或升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
+**Late afternoon — Lava Show, Grandi Harbour** · Fiskislóð 73 · ~10 min walk from Whales of Iceland · ✅ Booked · 16:00 show (arrive by 15:40) · 50–75 min
+The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. If your ticket is Classic, ask on arrival about upgrading to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
+全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。如购买的是基础票，可在现场询问能否升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
 
-**Evening — Reykjavík Kitchen** · Dinner · ~19:00 · ~5 min by taxi · book in advance
+**Evening — Reykjavík Kitchen** · Dinner · ✅ Booked · 20:00 · ~5 min by taxi
 Classic Icelandic cooking — try the lamb shank and Arctic char. Taxi back to the apartment after the Lava Show (~17:30) to rest first.
 经典冰岛菜——推荐羊腿和北极红点鲑。看完熔岩秀后（约17:30）打车回公寓先休息。
 
 `Culture` `History` `Food` `Lava Show`
 
-> ⏱ Day timeline: 10:00 National Museum (optional) · ~11:30 Settlement Exhibition · ~12:30 lunch at Grandi Mathöll · 13:15 Whales of Iceland (13:30 tour) · 14:30–15:45 free time in Grandi · 16:00 Lava Show · ~17:30 back to the apartment to rest · 19:00 Reykjavík Kitchen.
-> ⏱ 当日时间表：10:00国家博物馆（可选）· 约11:30定居展览馆 · 约12:30格兰迪美食广场午餐 · 13:15冰岛鲸鱼馆（13:30导览）· 14:30–15:45格兰迪自由活动 · 16:00熔岩秀 · 约17:30回公寓休息 · 19:00 Reykjavík Kitchen晚餐。
+> ⏱ Day timeline: 10:00 National Museum (optional) · ~11:30 Settlement Exhibition · ~12:30 lunch at Grandi Mathöll · 13:15 Whales of Iceland (13:30 tour) · 14:30–15:45 free time in Grandi · 16:00 Lava Show · ~17:30 back to the apartment to rest · 20:00 Reykjavík Kitchen.
+> ⏱ 当日时间表：10:00国家博物馆（可选）· 约11:30定居展览馆 · 约12:30格兰迪美食广场午餐 · 13:15冰岛鲸鱼馆（13:30导览）· 14:30–15:45格兰迪自由活动 · 16:00熔岩秀 · 约17:30回公寓休息 · 20:00 Reykjavík Kitchen晚餐。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
 王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
@@ -202,11 +202,11 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 
 ### Day 6 · Mon, 16 Nov — South Coast → Kirkjubæjarklaustur / 南岸 → 教堂镇
 **The 花少5 South Coast — stops 1 to 4 / 复刻花少5南岸路线——第1至4站**
-🏨 Kirkjubæjarklaustur cabin (night 1 of 3) · 🚗 Pick up 4WD in Reykjavík · ~255 km · ~3h 20min driving
+🏨 Kirkjubæjarklaustur cabin (night 1 of 3) · 🚗 Pick up car at Blue Car Rental, Grandi (07:00) · ~255 km · ~3h 20min driving
 
-Pick up the car at the Reykjavík rental office and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 8, a relaxed day with a better chance of calm weather. Then continue ~1h east to your base for the next three nights.
+Pick up the car at Blue Car Rental (Fiskislóð 22, Grandi) at 07:00, load the bags at the apartment and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 8, a relaxed day with a better chance of calm weather. Then continue ~1h east to your base for the next three nights.
 
-在雷克雅未克租车点取车，08:30前出发。按《花少5》南海岸路线顺序打卡——今天完成第1至4站。第5站迪霍拉里灯塔安排在第8天，行程更从容，也更有机会碰上好天气。随后向东驾车约1小时，抵达接下来三晚的住处。
+07:00在格兰迪区Blue Car Rental（Fiskislóð 22）取车，回公寓装好行李，08:30前出发。按《花少5》南海岸路线顺序打卡——今天完成第1至4站。第5站迪霍拉里灯塔安排在第8天，行程更从容，也更有机会碰上好天气。随后向东驾车约1小时，抵达接下来三晚的住处。
 
 **Stop 1 — Seljalandsfoss** · ~1h 45min from Reykjavík
 Walk the full circuit around the falls. Do NOT go behind — the path ices over in November.
@@ -373,12 +373,12 @@ Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided
 ---
 
 ### Day 11 · Sat, 21 Nov — Kerið → Reykjavík → Keflavík airport area / 克里德火山口 → 雷克雅未克 → 凯夫拉维克机场周边
-**Kerið, last shopping & car return / 克里德火山口、最后购物与还车**
-🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Car drop-off mid-afternoon
+**Kerið, last shopping & Keflavík / 克里德火山口、最后购物与凯夫拉维克**
+🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Keep the car overnight — drop-off Nov 22 at 05:00
 
-Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík to return the car in daylight. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
+Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík to arrive in daylight. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
 
-09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，再前往凯夫拉维克，趁天光还车。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
+09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，再前往凯夫拉维克，趁天亮抵达。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
 
 **Stop 1 — Kerið crater lake** · ~15 min from Selfoss · small admission fee
 A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. Not on the 花少5 route — but well worth the stop, and it sits right beside the road to Reykjavík. Allow ~40 min.
@@ -391,13 +391,13 @@ A final stroll on Laugavegur: 66°North (flagship at No. 17), the Handknitting A
 在劳格韦格尔做最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六老港口的科拉波蒂德跳蚤市场开放（11:00–17:00）——洛帕披亚毛衣、冰岛特产和二手好物，价格比主街更实惠。
 
 **Stop 3 — Keflavík** · ~45 min from Reykjavík
-Fuel up, return the car at KEF before dark, then check in at the Courtyard.
-加满油，天黑前在凯夫拉维克机场还车，随后入住万怡酒店。
+Fill the tank at N1 ready for tomorrow's drop-off, then check in at the Courtyard before dark. The car stays with you overnight.
+在N1加油站加满油，为明早还车做好准备，天黑前入住万怡酒店。车辆留用至明早。
 
-`Nature` `Shopping` `Car return`
+`Nature` `Shopping` `Self-drive`
 
-> Fuel up at N1 near the Courtyard before returning the car. Arrange hotel airport shuttle for tomorrow morning at reception tonight. Keep your Tax-Free Cheques handy for the refund at KEF tomorrow.
-> 还车前在万怡酒店附近的N1加油站加满油。今晚在前台预约明天早上的机场接送服务。备好免税单据，明天在凯夫拉维克机场办理退税。
+> Fill the tank tonight at N1 near the Courtyard — returning on empty incurs steep charges, and there's no time tomorrow. Load the bags into the car tonight: you leave at 05:00 for the Blue Car drop-off. Keep your Tax-Free Cheques handy for the refund at KEF tomorrow.
+> 今晚在万怡酒店附近的N1加油站加满油——空油箱还车会被收取高额费用，明早也没有时间加油。今晚就把行李装上车：明早05:00出发前往Blue Car还车。备好免税单据，明天在凯夫拉维克机场办理退税。
 
 📺 **花少5 · Ep 14下 · Guide: 胡先煦 · Farewell / 告别**
 The season finale ended with a heartfelt awards ceremony: each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
@@ -412,14 +412,14 @@ The season finale ended with a heartfelt awards ceremony: each member giving a p
 **Early flight → arrive Frankfurt city / 早班机 → 抵达法兰克福市区**
 🏨 Ruby Louise Hotel Frankfurt, City Centre
 
-Wake-up 04:45. Hotel shuttle to KEF (~5 min). At airport by 05:30. FI520 departs 07:25, arrives Frankfurt 12:05. Taxi or S-Bahn (~30 min) to Ruby Louise Hotel Frankfurt. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt's Sachsenhausen district.
+Wake-up 04:45. Leave the hotel at 05:00 and drive ~5 min to KEF departures — unload everyone and the bags there. The driver then returns the car to Blue Car Rental (Blikavöllur 3, opens 05:00) by 05:30 and walks back to the terminal (~3–6 min across the car park, Yaktrax on — the airport shuttle may not be running this early). FI520 departs 07:25, arrives Frankfurt 12:05. Booked private transfer (Trip.com) picks you up at 12:40 — ~30 min to Ruby Louise Hotel Frankfurt. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt's Sachsenhausen district.
 
-04:45起床。乘酒店班车前往凯夫拉维克机场（约5分钟）。05:30抵达机场。FI520航班07:25起飞，12:05抵达法兰克福。打车或乘坐S-Bahn（约30分钟）前往市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。
+04:45起床。05:00离开酒店，驾车约5分钟到凯夫拉维克机场出发层——全家和行李在此下车。随后由司机独自前往Blue Car Rental（Blikavöllur 3，05:00开门）于05:30前还车，再步行约3–6分钟穿过停车场返回航站楼（请穿好冰爪——此时机场班车可能尚未运行）。FI520航班07:25起飞，12:05抵达法兰克福。已预订私人接送（Trip.com），12:40接机——约30分钟抵达市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。
 
 `Travel` `Food` `Frankfurt`
 
-> ⚠ Early start: Wake-up 04:45 · Bags packed the night before · Hotel shuttle pre-arranged · Leave hotel by 05:15
-> ⚠ 早起提醒：04:45起床 · 前一晚打包行李 · 提前预约班车 · 05:15前离开酒店
+> ⚠ Early start: Wake-up 04:45 · Bags loaded in the car the night before · Leave hotel 05:00 · Drop everyone at departures first · Driver returns the car by 05:30 and walks back (~5 min)
+> ⚠ 早起提醒：04:45起床 · 前一晚把行李装上车 · 05:00离开酒店 · 先在出发层放下家人和行李 · 司机05:30前还车后步行返回（约5分钟）
 
 ---
 
@@ -429,11 +429,11 @@ Wake-up 04:45. Hotel shuttle to KEF (~5 min). At airport by 05:30. FI520 departs
 **Christmas market — then home / 圣诞市集 — 然后回家**
 🏨 Check out · Luggage storage at hotel · SQ325 FRA 21:40 → SIN +1 17:00
 
-The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Leave for airport by 18:30 — S-Bahn from Hauptwache (~5-min walk, ~15 min to airport). Check in SQ325 by 19:30. Arrive Singapore Nov 24 ~17:00.
+The Frankfurt Christmas market opens today — Römerberg square is a 10-minute walk from the hotel. 30m Christmas tree, half-timbered houses, Glühwein, Bethmännchen marzipan, roasted chestnuts, Mainkai riverside stalls. Parents can rest mid-afternoon and rejoin. Booked private transfer (Trip.com) picks you up at the hotel at 18:00 (15 min free waiting) — ~30 min to the airport. Check in SQ325 by 19:30. Arrive Singapore Nov 24 ~17:00.
 
-法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。18:30前出发前往机场——从豪普特瓦赫乘坐S-Bahn（步行约5分钟，约15分钟到机场）。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。
+法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。已预订私人接送（Trip.com），18:00在酒店接送（免费等待15分钟）——约30分钟到机场。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。
 
 `Christmas market` `Food` `Culture`
 
-> ✓ Perfect timing: Market opens exactly today. Ruby Louise Hotel is in city centre — walk to Römerberg. S-Bahn to airport ~15 min from Hauptwache (5-min walk).
-> ✓ 时机完美：市集恰好今日开幕。鲁比路易斯酒店位于市中心，步行可达罗马广场。从豪普特瓦赫步行5分钟乘坐S-Bahn，约15分钟到达机场。
+> ✓ Perfect timing: Market opens exactly today. Ruby Louise Hotel is in city centre — walk to Römerberg. Airport transfer booked from the hotel at 18:00.
+> ✓ 时机完美：市集恰好今日开幕。鲁比路易斯酒店位于市中心，步行可达罗马广场。已预订18:00从酒店出发的机场接送。

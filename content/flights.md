@@ -26,7 +26,7 @@
 - **Departs:** KEF 07:25
 - **Arrives:** FRA 12:05
 - **Status:** Booked ✓
-- **Note:** Wake-up 04:45. Hotel shuttle to KEF at 05:15 (pre-arrange at reception on Nov 21).
+- **Note:** Wake-up 04:45. Leave the Courtyard at 05:00 and drop everyone at KEF departures; the driver returns the rental car to Blue Car Rental (Blikavöllur 3) by 05:30 and walks back (~3–6 min). Trip.com transfer from FRA to Ruby Louise at 12:40.
 
 ### SQ325 — Frankfurt → Singapore
 - **Date:** Mon, 23 Nov 2026
@@ -34,4 +34,4 @@
 - **Arrives:** SIN +1 17:00 (Tue, 24 Nov)
 - **Airline:** Singapore Airlines
 - **Status:** Booked ✓
-- **Note:** Leave Ruby Louise Hotel for airport by 18:30. S-Bahn from Hauptwache (~15 min to T1).
+- **Note:** Trip.com transfer from Ruby Louise Hotel at 18:00 (~30 min to T1). Check in by 19:30.
