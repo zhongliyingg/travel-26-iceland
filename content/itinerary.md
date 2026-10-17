@@ -375,7 +375,15 @@ An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a 
 Check in to Amtmann Residence in Selfoss for two nights.
 入住塞尔福斯的Amtmann Residence，连住两晚。
 
-`Nature` `Glacier` `Culture` `Self-drive`
+**On arrival — Selfoss supermarket — Krónan or Bónus** · ~16:15 · on the way into town
+Both chains have stores in Selfoss. Krónan usually opens until ~20:00–21:00 and Bónus until ~19:00, but check kronan.is or bonus.is for the Selfoss hours. Buy breakfast for Days 10 and 11, car snacks for the Golden Circle, and something easy for one dinner at the apartment. Check the Amtmann listing for what the kitchen has.
+两家连锁超市在塞尔福斯均有门店。Krónan通常营业至约20:00–21:00，Bónus至约19:00，但请在kronan.is或bonus.is确认塞尔福斯门店的营业时间。备好第10、11天的早餐、黄金圈途中的车上零食，以及一顿可在公寓简单做的晚餐食材。请查看Amtmann房源页面，了解厨房配置。
+
+**Dinner — Tryggvaskáli** · ~19:00 · book ahead · in the town centre, near the apartment
+In the building that was Selfoss's first hotel — one of the best restaurants in South Iceland, cooking local ingredients in an inventive way. The nicer meal of the Selfoss stay.
+位于塞尔福斯第一家旅馆的旧址建筑内——南冰岛最好的餐厅之一，以创意手法烹调当地食材。是塞尔福斯两晚中较为讲究的一餐。
+
+`Nature` `Glacier` `Culture` `Food` `Self-drive`
 
 ---
 
@@ -386,6 +394,10 @@ Check in to Amtmann Residence in Selfoss for two nights.
 The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in the classic direction — Þingvellir first, then north to Geysir and Gullfoss, then back down to Friðheimar for a late lunch. Leave by 09:15 to reach Þingvellir as the light comes up. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
 这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按经典顺序环行——先游辛格维利尔，再北上盖歇尔与黄金瀑布，最后折返至Friðheimar享用迟来的午餐。09:15前出发，天光初现时抵达辛格维利尔。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
+
+**Breakfast — At the apartment** · before the 09:15 start
+Pack snacks for the car — lunch at Friðheimar is late (~14:15), so plan a mid-morning snack or coffee at Geysir.
+带上车上零食——Friðheimar午餐较晚（约14:15），可在盖歇尔吃些点心或喝杯咖啡垫垫肚子。
 
 **Stop 1 — Þingvellir National Park** · ~45 min from Selfoss
 Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min.
@@ -405,6 +417,10 @@ Listed among the world's top-10 waterfalls — glacial meltwater from Langjökul
 Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Warm, indoor and level underfoot: a good place to end the day. Book ahead for ~14:00; if you would rather eat earlier, book ~12:45 and visit Gullfoss after lunch instead.
 在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是结束一天的理想去处。建议预订约14:00；若想早些用餐，可预订约12:45，并将黄金瀑布改至午餐后游览。
 
+**Dinner — Light dinner in Selfoss** · after the late lunch
+Keep it light after Friðheimar: Kaffi Krús (Austurvegur 7 — burgers, pizza, café food; same owners as Tryggvaskáli), Tommi's Burger Joint (Eyravegur 32, listed 11:00–21:00), or something simple at the apartment.
+Friðheimar午餐后晚餐宜清淡：Kaffi Krús（Austurvegur 7号——汉堡、披萨、咖啡馆餐点；与Tryggvaskáli同一老板）、Tommi's Burger Joint（Eyravegur 32号，标注11:00–21:00营业），或在公寓简单做一顿。
+
 `Nature` `History` `Food` `Self-drive`
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle / 黄金圈第一天**
@@ -418,9 +434,13 @@ Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided
 **Kerið, last shopping & Keflavík / 克里德火山口、最后购物与凯夫拉维克**
 🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Keep the car overnight — drop-off Nov 22 at 05:00
 
-Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík to arrive in daylight. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
+Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík around dusk. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
 
-09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，再前往凯夫拉维克，趁天亮抵达。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
+09:30前装好所有行李退房出发。仅在克里德火山口短暂停留，随后直接前往雷克雅未克，从容享用午餐并完成最后的购物，黄昏时分前往凯夫拉维克。辛格维利尔已于昨日游览，今天节奏轻松——预计11:20左右即可抵达雷克雅未克，比原先安排辛格维利尔的上午提早约一小时。
+
+**Breakfast — At the apartment** · before the 09:30 check-out
+Use up the groceries before checking out with all the bags loaded.
+退房装好所有行李前，把剩余食材用完。
 
 **Stop 1 — Kerið crater lake** · ~15 min from Selfoss · small admission fee
 A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a bright turquoise lake. Not on the 花少5 route — but well worth the stop, and it sits right beside the road to Reykjavík. Allow ~40 min.
@@ -428,13 +448,25 @@ A 3,000-year-old volcanic crater with vivid red and ochre walls dropping to a br
 > Walk the rim path only — it is level and takes about 20 minutes to circle. The trail down to the lake shore is a steep flight of steps and is best skipped in November, when it is often iced over.
 > 建议只走火山口边缘步道——地面平坦，环行一周约20分钟。通往湖岸的小径是一段陡峭台阶，11月常结冰，最好避开。
 
-**Stop 2 — Reykjavík** · ~50 min from Kerið · Lunch + last shopping
-A final stroll on Laugavegur: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. On Saturdays the Kolaportið flea market at the Old Harbour is open (11:00–17:00) — lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street.
-在劳格韦格尔做最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六老港口的科拉波蒂德跳蚤市场开放（11:00–17:00）——洛帕披亚毛衣、冰岛特产和二手好物，价格比主街更实惠。
+**Stop 2 — Kolaportið flea market** · ~50 min from Kerið · ~11:30–12:30
+At the Old Harbour, open Saturdays 11:00–17:00 — shop here first, before the crowds. Lopapeysa sweaters, Icelandic foodstuffs and secondhand finds at better prices than the main street.
+位于老港口，周六11:00–17:00开放——趁人少先来这里。洛帕披亚毛衣、冰岛特产和二手好物，价格比主街更实惠。
 
-**Stop 3 — Keflavík** · ~45 min from Reykjavík
-Fill the tank at N1 ready for tomorrow's drop-off, then check in at the Courtyard before dark. The car stays with you overnight.
-在N1加油站加满油，为明早还车做好准备，天黑前入住万怡酒店。车辆留用至明早。
+**Lunch — Dirty Burger & Ribs** · Austurstræti 18 · ~3–5 min walk · ~12:30–13:30
+A casual burger spot — check the seating suits Mum and Dad, and confirm Saturday hours.
+休闲汉堡店——请确认座位是否方便长辈，并确认周六营业时间。
+
+**Stop 3 — Laugavegur** · ~13:30–16:00
+A final stroll: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. Most shops close ~17:00–18:00 on Saturdays. Keep receipts over 6,000 ISK for the VAT refund at KEF.
+最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六大多数商店约17:00–18:00关门。单笔消费超过6,000冰岛克朗请保留收据，在凯夫拉维克机场办理增值税退税。
+
+**Stop 4 — Keflavík** · leave Reykjavík ~16:15 · ~45 min · arrive ~17:00
+Route 41 is the main airport road and the easiest night drive of the trip — sunset is ~16:05, so expect twilight or dark. Check in at the Courtyard; the car stays with you overnight.
+41号公路是通往机场的主干道，也是全程最好开的夜路——日落约16:05，后半程将在黄昏或天黑后行驶。入住万怡酒店；车辆留用至明早。
+
+**Dinner — Early dinner near the Courtyard** · early night · wake-up 04:45
+Keep it early and close by. Sources disagree on what is in or beside the hotel (ROKU, Langbest or The Bridge), so ask at check-in. The Hafnargata waterfront, under 2 km away, has more choice.
+早些用餐，就近解决。关于酒店内或旁边有哪些餐厅，各方信息不一（ROKU、Langbest或The Bridge），入住时请向前台确认。不到2公里外的Hafnargata海滨一带选择更多。
 
 `Nature` `Shopping` `Self-drive`
 
