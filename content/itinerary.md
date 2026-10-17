@@ -207,9 +207,9 @@ Their first evening was spent exploring Laugavegur street and the colourful stre
 **The 花少5 South Coast — stops 1 to 4 / 复刻花少5南岸路线——第1至4站**
 🏨 Kirkjubæjarklaustur cabin (night 1 of 3) · 🚗 Pick up car at Blue Car Rental, Grandi (07:00) · ~255 km · ~3h 20min driving
 
-Pick up the car at Blue Car Rental (Fiskislóð 22, Grandi) at 07:00, load the bags at the apartment and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 8, a relaxed day with a better chance of calm weather. Then continue ~1h east to your base for the next three nights.
+Pick up the car at Blue Car Rental (Fiskislóð 22, Grandi) at 07:00, load the bags at the apartment and leave by 08:30. Follow the 花少5 South Coast route in order — stops 1 to 4 today. Stop 5 (Dyrhólaey Lighthouse) is on Day 9, the first stop on the drive west to Selfoss — a second chance at calm weather. Then continue ~1h east to your base for the next three nights.
 
-07:00在格兰迪区Blue Car Rental（Fiskislóð 22）取车，回公寓装好行李，08:30前出发。按《花少5》南海岸路线顺序打卡——今天完成第1至4站。第5站迪霍拉里灯塔安排在第8天，行程更从容，也更有机会碰上好天气。随后向东驾车约1小时，抵达接下来三晚的住处。
+07:00在格兰迪区Blue Car Rental（Fiskislóð 22）取车，回公寓装好行李，08:30前出发。按《花少5》南海岸路线顺序打卡——今天完成第1至4站。第5站迪霍拉里灯塔安排在第9天，作为西行前往塞尔福斯途中的第一站——多一次碰上好天气的机会。随后向东驾车约1小时，抵达接下来三晚的住处。
 
 **Stop 1 — Seljalandsfoss** · ~1h 45min from Reykjavík
 Walk the full circuit around the falls. Do NOT go behind — the path ices over in November.
@@ -223,6 +223,10 @@ Wide accessible viewing platform for the full curtain of water. In rain — as t
 Where the cast ate — a beloved local institution in the village and a well-earned warm stop mid-route.
 花少团午餐之处——当地深受喜爱的老字号，路途中段温暖的补给站，吃饱再出发。
 
+**After lunch — Vík church (Víkurkirkja)** · ~2 min drive up the hill · ~15 min
+The red-roofed church on the hill above the village, with a view over Vík's rooftops and out to the Reynisdrangar sea stacks. Drive up and park beside it — only a few steps from the car. A quick wool-shop browse in the village fits here too.
+村庄上方山坡上的红顶教堂，可俯瞰维克小镇屋顶，远眺雷尼斯德朗格海蚀柱。可直接开车上坡，停在教堂旁——下车走几步即到。也可顺便在村里逛逛羊毛制品店。
+
 **Stop 4 — Reynisfjara black sand beach** · ~10 min from Vík
 Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves at ALL times — sneaker waves here are genuinely dangerous.
 壮观玄武岩石柱、黑沙滩、狂野大西洋。任何时候都必须与海浪保持充分距离——此处的恶作剧浪涛确实危及生命。
@@ -231,10 +235,14 @@ Dramatic basalt columns, black sand, raw Atlantic. Stay well back from the waves
 Check in to the cabin for three nights. Far from city lights — step outside after dark and look north for the aurora.
 入住小木屋，连住三晚。远离城市灯光——天黑后到户外朝北方仰望，留意极光。
 
-`Adventure` `Nature` `Self-drive` `Car pick-up`
+**On arrival — Kjarval supermarket, Klaustur** · ~16:05 · on the way to the cabin
+The main supermarket in town — listed as open Mon–Fri 11:30–18:00 (re-check before the trip); the smaller Gvendarkjör on Klausturvegur (listed daily 10:00–18:00) is a backup. It is closed when you leave at 08:00 on Day 7, so this is the one chance to stock up: breakfast for Days 7–9, car snacks, tea or coffee for a thermos, and easy backup dinners (pasta, skyr, bread, smoked salmon). Check the Airbnb listing for what the cabin kitchen has.
+镇上主要的超市——标注营业时间为周一至周五11:30–18:00（出发前请再确认）；Klausturvegur街上规模较小的Gvendarkjör（标注每日10:00–18:00）可作备选。第7天08:00出发时超市尚未开门，因此这是唯一的采购机会：备好第7至9天的早餐、车上零食、装保温瓶的茶或咖啡，以及简单的备用晚餐食材（意面、冰岛酸奶skyr、面包、烟熏三文鱼）。请查看Airbnb房源页面，了解小木屋厨房的配置。
 
-> Check road.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:15 — leave Reynisfjara by ~15:00 to reach Klaustur around dusk.
-> 出发前在road.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:15——约15:00前离开雷尼斯黑沙滩，傍晚时分抵达教堂镇。
+`Adventure` `Nature` `Self-drive` `Car pick-up` `Food`
+
+> Check umferdin.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:15 — leave Reynisfjara by ~15:00 to reach Klaustur around dusk.
+> 出发前在umferdin.is查看路况。在城市加满油——南岸加油站稀少。日出约10:00，日落约16:15——约15:00前离开雷尼斯黑沙滩，傍晚时分抵达教堂镇。
 
 📺 **花少5 · Ep 13上 · Guide: 秦海璐 · All 5 stops — broken umbrellas, speed-run sprint, century lunch, black sand, lighthouse gales / 全部五景——雨伞报废、特种兵冲刺、百年餐厅午餐、黑沙滩、灯塔大风**
 秦海璐 guided the cast through exactly these five stops. At Seljalandsfoss (Stop 1), pre-bought umbrellas snapped open immediately. Hu Xianxu walked under the falls anyway and emerged soaked — the cast called him a 'walking deterrent sign.' At Skógafoss (Stop 2), rain arrived and 秦海璐 called it: '5 minutes, speed-run, 冲啊!' Everyone sprinted back shouting 'Charge!' — spirit lifted instantly. She reflected: 'A gloomy morning, and one shout of Charge and everyone came back to life.' Stop 3 was lunch at Vík's century-old restaurant — 赵昭仪 finished with a drink in each hand, alternating sips, 'not wasting a drop.' At Reynisfjara (Stop 4), the cast felt the raw drama of the basalt columns and Atlantic surf. At Dyrhólaey Lighthouse (Stop 5), winds were so ferocious that walking forward was nearly impossible. 秦海璐 wisely skipped the exposed tundra viewpoint and drove straight to the guesthouse — feel free to make the same call if conditions are bad.
@@ -243,30 +251,49 @@ Check in to the cabin for three nights. Far from city lights — step outside af
 
 ---
 
-### Day 7 · Tue, 17 Nov — Jökulsárlón · Diamond Beach · Fjallsárlón / 杰古沙龙冰川湖 · 钻石海滩 · 菲亚德沙龙冰川湖
-**Glacier lagoons & Diamond Beach / 冰川湖与钻石海滩**
-🏨 Kirkjubæjarklaustur cabin (night 2 of 3) · 🚗 ~250 km round trip · ~1h 45min each way
+### Day 7 · Tue, 17 Nov — Jökulsárlón · Diamond Beach · Höfn & Stokksnes (optional) / 杰古沙龙冰川湖 · 钻石海滩 · 霍芬与斯托克角（可选）
+**Glacier lagoon & Diamond Beach — then decide: east to Höfn, or back west / 冰川湖与钻石海滩——之后再决定：东进霍芬，或西返**
+🏨 Kirkjubæjarklaustur cabin (night 2 of 3) · 🚗 ~250 km round trip (west option) · ~420 km · ~5h 30min driving (east option)
 
-Leave by 08:30 to arrive around sunrise, and be back at the hotel before dark.
+Leave by 08:00 to reach Jökulsárlón around sunrise. After Diamond Beach, decide on the spot: if it is clear and everyone has energy, continue east to Höfn and Stokksnes; if it is windy, wet or people are tired, head back west via Fjallsárlón.
 
-08:30前出发，约日出时分抵达，天黑前返回酒店。
+08:00前出发，约日出时分抵达杰古沙龙冰川湖。游览钻石海滩后现场决定：若天气晴好、大家精神充足，继续东行至霍芬与斯托克角；若风大、下雨或大家疲惫，则经菲亚德沙龙冰川湖西返。
 
-**Morning — Jökulsárlón** · ~1h 45min from Klaustur
+**Breakfast — At the cabin** · ~07:00
+An early breakfast before the 08:00 start. Fill a thermos and pack snacks for the car.
+08:00出发前早点吃早餐。灌好保温瓶，备些车上零食。
+
+**Morning — Jökulsárlón** · ~1h 45min from Klaustur · ~10:00–11:00
 Icebergs drifting in total silence, seals resting on the floating ice — a flat walk along the shore from the car park.
 巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上——从停车场沿湖岸平路漫步即可。
 
-**Late morning — Diamond Beach** · Across the road
+**Late morning — Diamond Beach** · Across the road · ~11:00–11:45
 Ice chunks glittering on black sand.
 冰块在黑沙滩上熠熠生辉。
 
-**Afternoon — Fjallsárlón** · ~10 min west, on the way back
-A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park.
-更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。
+**East option — Höfn · Pakkhús** · ~1h east of Jökulsárlón · lunch ~12:45–13:45
+Iceland's "langoustine capital" — lunch at Pakkhús by the harbour. Park, walk in, sit down: no real walking. In November the langoustine is usually frozen tails rather than fresh, so confirm it is on the menu when booking.
+冰岛的"龙虾之都"——在港口边的Pakkhús餐厅享用午餐。停车即入座，几乎无需步行。11月供应的多为冷冻龙虾尾而非新鲜捕捞，预订时请确认菜单上有龙虾。
 
-`Nature` `Glacier` `Self-drive`
+**East option — Stokksnes / Vestrahorn** · ~15–20 min east of Höfn · ~14:05–15:30
+The jagged Vestrahorn mountain over black-sand dunes, with a lighthouse and a replica Viking village film set. Entry ~1,100 ISK per person at the Viking Café (card-only machine in the car park out of hours). The main viewpoints are a few minutes from the car; the café is a warm place to wait. Very exposed to wind — ice cleats on. Sunset ~16:10, then ~2h 45min back to the cabin in the dark (arrive ~18:15).
+锯齿状的维斯特拉霍恩山耸立于黑沙丘之上，另有灯塔与维京村落电影布景。在维京咖啡馆购票，每人约1,100冰岛克朗（营业时间外可在停车场刷卡购票）。主要观景点距停车处仅几分钟路程；咖啡馆可供取暖等候。此处风力强劲——请穿戴防滑鞋钉。日落约16:10，之后摸黑驾车约2小时45分钟返回小木屋（约18:15抵达）。
 
-> Fill up before leaving Klaustur — stations are few and far between on this stretch. Check road.is and the weather at vedur.is before setting off.
-> 离开教堂镇前加满油——这段路加油站稀少。出发前在road.is查看路况，在vedur.is查看天气。
+**West option — Fjallsárlón** · ~10 min west of Jökulsárlón, on the way back · lunch ~12:00–12:45, lagoon ~12:45–13:30
+A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park. Have lunch here at Frost, the self-service restaurant (hot and cold dishes, soup, cake; listed as open daily 10:00–16:00 all year — confirm hours). Backup: the Jökulsárlón café before you leave (open year-round, ~9:00–17:00; lobster soup, sandwiches, cake). Back at the cabin by ~16:00. (If you go east today, Fjallsárlón moves to Day 8.)
+更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。可在此处的自助式餐厅Frost午餐（冷热菜品、汤与蛋糕；标注全年每日10:00–16:00营业——请确认营业时间）。备选：离开杰古沙龙冰川湖前在其咖啡馆用餐（全年营业，约9:00–17:00；供应龙虾汤、三明治与蛋糕）。约16:00返回小木屋。（若今天选择东行，菲亚德沙龙冰川湖改至第8天。）
+
+**Dinner — Hotel Klaustur restaurant** · ~19:00 · book ahead (cancellable)
+Hearty Icelandic mains, listed as open year-round — so nobody has to cook after the long east option (back ~18:15). If you take the west option and are back by ~16:00, cook at the cabin or try Systrakaffi instead, and cancel the booking.
+供应丰盛的冰岛传统主菜，标注全年营业——东行方案长途返程（约18:15到）后无需再下厨。若选择西返方案、约16:00即回到小木屋，可改在小木屋做饭或去Systrakaffi用餐，并取消预订。
+
+`Nature` `Glacier` `Food` `Self-drive`
+
+> Fill up before leaving Klaustur — stations are few and far between on this stretch (refuel in Höfn if going east). Check umferdin.is and the weather at vedur.is before setting off. The east option means a long return drive in darkness — only go if the driver is comfortable with night driving on the Ring Road.
+> 离开教堂镇前加满油——这段路加油站稀少（若东行，可在霍芬加油）。出发前在umferdin.is查看路况，在vedur.is查看天气。东行方案需在天黑后长途返程——驾驶者须能胜任环岛公路夜间驾驶方可前往。
+
+> East-or-west check — the weather decides, not opening hours (Stokksnes is open year-round). Check three times: the night before at the cabin, at 07:00 before leaving, and finally at ~11:45 at Diamond Beach (there is mobile signal at the lagoon). Go east only if ALL of these pass: (1) no yellow/orange/red weather warning for Southeast Iceland this afternoon or evening — en.vedur.is; (2) wind gusts below ~20 m/s from 14:00 to 19:00 on the vedur.is forecasts for Höfn and Kirkjubæjarklaustur — the Öræfi stretch near Skaftafell is known for strong crosswinds; (3) Route 1 from Höfn to Klaustur shown as easily passable, with no ice, snow or closures — umferdin.is/en (also has road webcams); (4) no South or Southeast coast alerts on safetravel.is; (5) Vestrahorn not buried in low cloud (vedur.is cloud-cover map); (6) Pakkhús confirmed open with your table (+354 478 2280). The 16:00–19:00 forecast matters most — that is the ~2h45 drive back in the dark. If any one check fails, take the west option.
+> 东行还是西返——取决于天气，而非营业时间（斯托克角全年开放）。共检查三次：前一晚在小木屋、早上07:00出发前，以及约11:45在钻石海滩做最终决定（冰川湖一带有手机信号）。以下各项全部通过才东行：（1）en.vedur.is上东南部地区今天下午及傍晚没有黄色、橙色或红色天气预警；（2）vedur.is上霍芬与教堂镇的预报显示14:00–19:00阵风低于约20米/秒——斯卡夫塔山附近的Öræfi路段以强侧风闻名；（3）umferdin.is/en显示霍芬至教堂镇的1号公路通行顺畅，无结冰、积雪或封路（该网站也有道路实时摄像头）；（4）safetravel.is上南部及东南沿海没有警报；（5）维斯特拉霍恩山未被低云完全遮挡（vedur.is云量图）；（6）已致电Pakkhús确认当天营业且有座位（+354 478 2280）。最关键的是16:00–19:00的预报——即摸黑驾车约2小时45分钟返程的时段。任何一项不通过，就选择西返方案。
 
 📺 **花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching + dolphins + sea fishing + hákarl challenge + Jökulsárlón / 观鲸出海 + 邂逅海豚 + 海钓 + 臭食挑战 + 杰古沙龙冰川湖**
 辛芷蕾's day started with whale watching and sea fishing out of a harbour near Höfn — they caught fish, joined the crew for a seafood tasting, and encountered dolphins rather than whales. Back on land: a Viking restaurant's hákarl (fermented shark) challenge. The day ended at Jökulsárlón — icebergs drifting in total silence, seals resting on floating ice.
@@ -280,31 +307,39 @@ Jökulsárlón and Fjallsárlón are both fed by Vatnajökull — Europe's large
 
 ---
 
-### Day 8 · Wed, 18 Nov — Fjaðrárgljúfur · Dyrhólaey · Vík / 羽毛河峡谷 · 迪霍拉里 · 维克
-**Easy day — canyon, lighthouse & Vík / 轻松日——峡谷、灯塔与维克**
-🏨 Kirkjubæjarklaustur cabin (night 3 of 3) · 🚗 ~170 km round trip · easy pace
+### Day 8 · Wed, 18 Nov — Skaftafell · Fjallsárlón · Fjaðrárgljúfur / 斯卡夫塔山 · 菲亚德沙龙冰川湖 · 羽毛河峡谷
+**Easy day — glacier views, short drives & an early finish / 轻松日——冰川远眺、短途车程、早早收工**
+🏨 Kirkjubæjarklaustur cabin (night 3 of 3) · 🚗 ~150 km round trip (~230 km with Fjallsárlón) · easy pace
 
-A gentle day with short drives and plenty of rest. Head west, pick the stops that suit the weather, and be back at the hotel early.
+A gentle day after the long Day 7 — short drives, plenty of rest, and back at the cabin early.
 
-轻松的一天，车程短、休息充足。向西出发，根据天气选择停靠点，早早返回酒店。
+经历了第7天的长途行程，今天轻松一些——车程短、休息充足，早早返回小木屋。
 
-**Fjaðrárgljúfur canyon** · ~10 min from Klaustur
-A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park — walk up the rim path only as far as feels comfortable. The path is sometimes closed to protect the moss, so check on the day.
-深约100米、布满青苔的峡谷。第一个观景点距停车场很近——沿峡谷边缘小径量力而行即可。为保护青苔，步道有时会关闭，请当天确认。
+**Breakfast — Slow breakfast at the cabin** · No rush today
+A relaxed start after the long Day 7.
+经历第7天的长途行程后，今早可以悠闲开始。
 
-**Stop 5 — Dyrhólaey Lighthouse** · ~1h west · weather-dependent
-120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call.
-120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。
+**Skaftafell visitor centre** · ~50 min east of Klaustur
+Vatnajökull National Park's visitor centre, with an exhibition, a café and glacier views from the car park area. Skip the steep Svartifoss walk. A mostly flat gravel path leads toward the Skaftafellsjökull glacier tongue, but it is longer than the Sólheimajökull walk — go only part of the way, if at all. Check the visitor centre's winter hours on the day.
+瓦特纳冰川国家公园游客中心，设有展览与咖啡馆，在停车场一带即可远眺冰川。请跳过坡度较陡的斯瓦蒂瀑布（Svartifoss）步道。另有一条大致平坦的碎石小径通往斯卡夫塔山冰川舌，但比索尔黑马冰川的步行更长——量力而行，走一小段即可，亦可不走。请当天确认游客中心冬季开放时间。
 
-**Vík** · ~20 min from Dyrhólaey
-Lunch or a café stop, wool shops, and the view of the red-roofed church on the hill above the village.
-午餐或咖啡小憩，逛逛羊毛制品店，眺望村庄上方山坡上的红顶教堂。
+**Fjallsárlón** · ~25 min further east · only if you went east on Day 7
+A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park.
+更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。
 
-**Reynisfjara (optional revisit)** · ~10 min from Vík
-Worth a second look if Day 6 was stormy or dark. Same rule: stay well back from the waves.
-若第6天遇上风暴或天色已暗，值得再来一次。同样注意：务必远离海浪。
+**Lunch — Frost at Fjallsárlón, or a packed lunch** · Skaftafell has few winter food options
+The Skaftafell visitor centre café may be summer-only, and the Glacier Goodies food truck is closed mid-Oct to mid-Apr. If you go on to Fjallsárlón, eat at Frost (~12:30). If not, pack sandwiches from the cabin, or have a late lunch back in Klaustur at Systrakaffi.
+斯卡夫塔山游客中心咖啡馆可能仅夏季营业，Glacier Goodies餐车10月中至次年4月中停业。若继续前往菲亚德沙龙冰川湖，可在Frost餐厅午餐（约12:30）。若不前往，可从小木屋自带三明治，或回到教堂镇在Systrakaffi吃一顿较晚的午餐。
 
-`Nature` `Relaxed` `Self-drive`
+**Fjaðrárgljúfur canyon** · ~10 min west of Klaustur, on the way home
+A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park — stop there, or walk up the rim path only as far as feels comfortable. The path is sometimes closed to protect the moss, so check on the day.
+深约100米、布满青苔的峡谷。第一个观景点距停车场很近——在此观赏即可，或沿峡谷边缘小径量力而行。为保护青苔，步道有时会关闭，请当天确认。
+
+**Dinner — Systrakaffi, or the cabin** · Last night in Klaustur · early night before the 09:00 Day 9 start
+Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Or Hotel Klaustur if you did not go there on Day 7, or use up the groceries at the cabin.
+Systrakaffi位于Klausturvegur街，适合轻松用餐——披萨、汉堡和自制蛋糕（请确认11月营业时间）。或者若第7天未去Klaustur酒店餐厅，今晚可去；也可在小木屋把剩余食材用完。
+
+`Nature` `Glacier` `Relaxed` `Food` `Self-drive`
 
 ---
 
@@ -312,27 +347,31 @@ Worth a second look if Day 6 was stormy or dark. Same rule: stay well back from 
 
 ---
 
-### Day 9 · Thu, 19 Nov — Klaustur → Sólheimajökull → Skógar → Hvolsvöllur → Selfoss / 教堂镇 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 塞尔福斯
-**A glacier, a turf-house museum & the volcano centre / 近观冰川、草皮屋博物馆与火山中心**
-🏨 Amtmann Residence, Selfoss (night 1 of 2) · 🚗 ~180 km · ~2h 15min driving
+### Day 9 · Thu, 19 Nov — Klaustur → Dyrhólaey → Sólheimajökull → Skógar → Hvolsvöllur → Selfoss / 教堂镇 → 迪霍拉里 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 塞尔福斯
+**The 花少5 lighthouse, a glacier, a turf-house museum & the volcano centre / 花少5灯塔、近观冰川、草皮屋博物馆与火山中心**
+🏨 Amtmann Residence, Selfoss (night 1 of 2) · 🚗 ~200 km · ~2h 40min driving
 
-Check out and drive west along the South Coast, with three easy stops on the way to your base for the last two nights.
+Check out by 09:00 and drive west along the South Coast, with four easy stops on the way to your base for the last two nights. The first stretch is in darkness — sunrise is ~10:20.
 
-退房后沿南岸向西行驶，途中三个轻松停靠点，前往最后两晚的住处。
+09:00前退房，沿南岸向西行驶，途中四个轻松停靠点，前往最后两晚的住处。第一段路程天色未亮——日出约10:20。
 
-**Sólheimajökull glacier** · ~1h 20min from Klaustur
+**Stop 5 — Dyrhólaey Lighthouse** · ~1h west of Klaustur · ~10:00–10:45 · weather-dependent
+The last stop of the 花少5 South Coast route. 120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days, and you arrive around sunrise. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call. If Day 6 was stormy, Reynisfjara is ~15 min away for a second look — stay well back from the waves.
+花少5南海岸路线的最后一站。120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观，抵达时恰逢日出前后。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。若第6天遇上风暴，雷尼斯黑沙滩距此约15分钟，可再访一次——务必远离海浪。
+
+**Sólheimajökull glacier** · ~30 min from Dyrhólaey · ~11:15–12:15
 A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it. Note: that is ~15–20 min *each way* on uneven gravel (~1.5 km round trip) — the longest walk of the trip. Take it slowly, wear ice cleats, and turn back at any point if the going is hard; the glacier is visible from partway along.
 米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。注意：单程即需15-20分钟，碎石路面不平（往返约1.5公里），是全程最长的一段步行。请放慢脚步、穿戴防滑鞋钉；若体力不支可随时折返，途中已可望见冰川。
 
-**Skógar Folk Museum (Skógasafn)** · ~15 min west of Sólheimajökull
+**Skógar Folk Museum (Skógasafn)** · ~15 min west of Sólheimajökull · ~12:30–13:45
 Turf-roofed houses, a restored church and some 18,000 regional artefacts covering a thousand years of Icelandic rural life. Indoor, flat and warm — the ideal weather-proof stop if the morning turns wet or windy. Open daily 10:00–16:00 in November.
 草皮屋、重建教堂与约18,000件地方文物，呈现冰岛千年乡村生活。室内、平坦、温暖——若上午遇上风雨，这里是最理想的避风停靠点。11月每日10:00–16:00开放。
 
-**LAVA Centre, Hvolsvöllur** · ~30 min further
+**LAVA Centre, Hvolsvöllur** · ~30 min further · ~14:15–15:30
 An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a short film. Allow 1–1.5 hours; the café is a good lunch stop.
 关于冰岛火山与地震的互动式室内展览，并有短片放映。建议预留1-1.5小时；馆内咖啡厅适合午餐。
 
-**Selfoss** · ~45 min from Hvolsvöllur
+**Selfoss** · ~45 min from Hvolsvöllur · arrive ~16:15
 Check in to Amtmann Residence in Selfoss for two nights.
 入住塞尔福斯的Amtmann Residence，连住两晚。
 

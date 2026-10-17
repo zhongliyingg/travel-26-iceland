@@ -71,38 +71,41 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 
 ---
 
-## Day 7 · Nov 17 · Jökulsárlón, Diamond Beach & Fjallsárlón
-**Centre:** 63.950, -17.000 · **Zoom:** 8
+## Day 7 · Nov 17 · Jökulsárlón, Diamond Beach · Höfn & Stokksnes (optional) / Fjallsárlón
+**Centre:** 64.050, -16.600 · **Zoom:** 7
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
-| 2 | Jökulsárlón Glacier Lagoon | 冰川湖 | 64.078 | -16.231 |
-| 3 | Diamond Beach | 钻石海滩 | 64.066 | -16.179 |
-| 4 | Fjallsárlón Glacier Lagoon | 菲亚德沙龙冰川湖 | 64.019 | -16.385 |
+| 2 | Jökulsárlón Glacier Lagoon (main car park & café) | 冰川湖（主停车场与咖啡馆） | 64.048 | -16.180 |
+| 3 | Diamond Beach | 钻石海滩 | 64.043 | -16.178 |
+| 4 | Höfn · Pakkhús (east option) | 霍芬 · Pakkhús餐厅（东行方案） | 64.251 | -15.205 |
+| 5 | Stokksnes / Vestrahorn (east option) | 斯托克角 / 维斯特拉霍恩山（东行方案） | 64.248 | -14.971 |
+| 6 | Fjallsárlón Glacier Lagoon (west option) | 菲亚德沙龙冰川湖（西返方案） | 64.019 | -16.385 |
 
 ---
 
-## Day 8 · Nov 18 · Fjaðrárgljúfur, Dyrhólaey & Vík
-**Centre:** 63.600, -18.600 · **Zoom:** 9
+## Day 8 · Nov 18 · Skaftafell, Fjallsárlón & Fjaðrárgljúfur
+**Centre:** 63.900, -17.200 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
-| 1 | Fjaðrárgljúfur Canyon | 羽毛河峡谷 | 63.771 | -18.172 |
-| 2 | Dyrhólaey | 迪霍拉里海角 | 63.402 | -19.128 |
-| 3 | Vík | 维克小镇 | 63.419 | -19.006 |
-| 4 | Reynisfjara Black Sand Beach | 雷尼斯黑沙滩 | 63.404 | -19.057 |
+| 1 | Skaftafell Visitor Centre | 斯卡夫塔山游客中心 | 64.016 | -16.966 |
+| 2 | Fjallsárlón Glacier Lagoon (optional) | 菲亚德沙龙冰川湖（可选） | 64.019 | -16.385 |
+| 3 | Fjaðrárgljúfur Canyon | 羽毛河峡谷 | 63.771 | -18.172 |
+| 4 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
 
 ---
 
-## Day 9 · Nov 19 · Klaustur → Sólheimajökull → LAVA Centre → Selfoss
-**Centre:** 63.700, -19.500 · **Zoom:** 8
+## Day 9 · Nov 19 · Klaustur → Dyrhólaey → Sólheimajökull → LAVA Centre → Selfoss
+**Centre:** 63.650, -19.700 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
-| 1 | Sólheimajökull Glacier | 索尔黑马冰川 | 63.530 | -19.371 |
-| 2 | LAVA Centre, Hvolsvöllur | 熔岩中心（赫沃斯沃德吕尔） | 63.753 | -20.236 |
-| 3 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
+| 1 | Dyrhólaey | 迪霍拉里海角 | 63.402 | -19.128 |
+| 2 | Sólheimajökull Glacier | 索尔黑马冰川 | 63.530 | -19.371 |
+| 3 | LAVA Centre, Hvolsvöllur | 熔岩中心（赫沃斯沃德吕尔） | 63.753 | -20.236 |
+| 4 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
 
 ---
 
