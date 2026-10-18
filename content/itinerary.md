@@ -515,6 +515,9 @@ Wake-up 03:30. Leave the hotel at 04:10 and drive ~5 min to KEF departures — u
 > ⚠ Early start: Wake-up 03:30 · Bags loaded in the car the night before · Leave hotel 04:10 · Drop everyone at departures first · Driver leaves the car in the Blue Car key box (video + fuel photo first) and walks back (~4 min) · VAT refund desk at 04:30, before check-in
 > ⚠ 早起提醒：03:30起床 · 前一晚把行李装上车 · 04:10离开酒店 · 先在出发层放下家人和行李 · 司机将车钥匙投入Blue Car钥匙箱（先拍车辆视频和油表照片）后步行返回（约4分钟）· 04:30先办退税，再值机
 
+> ℹ Sunday 22 Nov is Totensonntag, a quiet day of remembrance — shops in Frankfurt are closed, so save all shopping for tomorrow. Optional late-afternoon stroll to Römerberg and the Main riverside (the market stalls are still being set up). Some Sachsenhausen apple-wine taverns close on Sundays — check that yours is open on the 22nd.
+> ℹ 11月22日（周日）是德国的亡人纪念日（Totensonntag），法兰克福商店全部关门，购物请留到明天。傍晚可选择漫步至罗马广场和美因河畔（圣诞市集摊位仍在搭建中）。萨克森豪森部分苹果酒馆周日休息——请确认所选餐厅22日营业。
+
 ---
 
 ## Leg 6 — Frankfurt Return / 法兰克福返程 · Nov 23 · Christmas Market opens!
@@ -527,7 +530,13 @@ The Frankfurt Christmas market opens today — Römerberg square is a 10-minute 
 
 法兰克福圣诞市集今日开幕——罗马广场步行10分钟即达。30米高圣诞树、木骨架建筑、热红酒、杏仁糖、烤栗子，以及美因河畔市集摊位。父母可在下午小憩后再出来游览。已预订私人接送（Trip.com），18:00在酒店接送（免费等待15分钟）——约30分钟到机场。19:30前办理SQ325登机手续。11月24日约17:00抵达新加坡。
 
-`Christmas market` `Food` `Culture`
+`Christmas market` `Food` `Culture` `Shopping`
 
 > ✓ Perfect timing: Market opens exactly today. Ruby Louise Hotel is in city centre — walk to Römerberg. Airport transfer booked from the hotel at 18:00.
 > ✓ 时机完美：市集恰好今日开幕。鲁比路易斯酒店位于市中心，步行可达罗马广场。已预订18:00从酒店出发的机场接送。
+
+> 🗓 Suggested day: 08:00–09:30 morning walk by the river · ~09:45 check out and leave the bags at the hotel · 10:00–12:45 shopping — Goethestraße, then the Zeil (Galeria, P&C, dm / Rossmann, MyZeil) · 13:00–14:00 sit-down lunch near Römerberg · 14:00–15:00 parents rest in a warm café while you two make a last shopping run · 15:00–17:40 Christmas market, with the tree-lighting opening ceremony on Römerberg at 17:00 · 17:45 walk back to the hotel for the 18:00 transfer · get tax-free forms stamped by Customs at FRA before check-in.
+> 🗓 建议行程：08:00–09:30沿美因河晨间散步 · 约09:45退房并将行李寄存酒店 · 10:00–12:45购物——先逛歌德大街，再去采尔大街（Galeria、P&C、dm / Rossmann、MyZeil）· 13:00–14:00在罗马广场附近餐厅坐下吃午餐 · 14:00–15:00父母在温暖的咖啡馆休息，你们两人可再去补购 · 15:00–17:40逛圣诞市集，17:00罗马广场举行圣诞树点灯开幕仪式 · 17:45步行回酒店，搭乘18:00接送车 · 在法兰克福机场值机前请海关为免税单盖章。
+
+> 💡 Frankfurt shopping: The Zeil is ~10 min north of Römerberg — Galeria (Hauptwache), Peek & Cloppenburg, the MyZeil mall, and dm / Rossmann drugstores (Balea, Weleda, Kneipp, Doppelherz). Luxury brands are on Goethestraße, a few minutes from the hotel. Best value is German brands: WMF, Zwilling and Fissler cookware, Rimowa, Birkenstock, Montblanc, Lamy. Market stalls don’t do tax-free; in shops, ask ‘Tax free, bitte?’ on receipts over €50, and get the forms stamped by Customs at FRA before check-in (keep the goods in your carry-on). Jo Malone isn’t cheaper here — compare Douglas on the Zeil with Heinemann duty free at FRA and iShopChangi.
+> 💡 法兰克福购物：采尔大街（Zeil）在罗马广场以北步行约10分钟——Galeria百货（Hauptwache）、Peek & Cloppenburg、MyZeil购物中心，以及dm / Rossmann药妆店（Balea、Weleda、Kneipp、Doppelherz）。奢侈品牌集中在歌德大街（Goethestraße），距酒店仅几分钟步行。最值得买的是德国品牌：WMF、双立人（Zwilling）和菲仕乐（Fissler）厨具、Rimowa、Birkenstock、万宝龙（Montblanc）、凌美（Lamy）。圣诞市集摊位不办退税；在商店单张收据满50欧元可询问‘Tax free, bitte?’，并在法兰克福机场值机前请海关盖章（商品请放在随身行李中）。Jo Malone在这里并不更便宜——可比较采尔大街的Douglas、法兰克福机场Heinemann免税店与iShopChangi的价格。
