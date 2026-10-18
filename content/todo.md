@@ -7,14 +7,14 @@
 |---|---|---|
 | Sheraton Frankfurt (Nov 11) | 2 × Deluxe rooms | Trip.com · 77209174 / 77209205 |
 | Ruby Louise Frankfurt (Nov 22–23) | 2 × Loft rooms | Agoda · 2000559312 |
-| Courtyard Marriott Keflavík (Nov 21) | 2 × Deluxe Twin · no shuttle needed — key-box car drop-off ~04:20 Nov 22 | Agoda · 2000676958 |
+| Courtyard Marriott Keflavík (Nov 21) | 2 × Deluxe Twin · no shuttle needed — key-box car drop-off ~04:45 Nov 22 | Agoda · 2000676958 |
 | Modern Apt in Central Reykjavik (Nov 12–16) | Apartment · Tryggvagata 23 · 4 nights | Agoda · 2053851625 |
 | Our cozy cabin, Kirkjubæjarklaustur area (Nov 16–19) | Cabin · Selhólavegur 9 · 3 nights | Airbnb · HM5S5YJJEE |
 | Amtmann Residence by Heimaleiga, Selfoss (Nov 19–21) | Apartment · Eyravegur 3 · 2 nights | Booking.com · 5203978523 |
 | Perlan museum (Nov 14) | 10:00 entry · ice cave, volcano exhibit, Áróra planetarium · allow 2–3 hrs | — |
 | Northern Lights Bus tour (Nov 14) | 8:30pm departure · pickup Tour Bus Stop 5, Harpa (be there by 20:00) · free re-try valid 3 years | GetYourGuide · — |
 | KEF → Reykjavík airport transfer (Nov 12) | Private transfer · pickup 16:35 at KEF (FI521 lands 15:55) · ~45 min to Tryggvagata 23 | Trip.com · 1578951125723596 |
-| Rental car (Nov 16–22) | Pick-up 07:00 Nov 16 at Blue Car Rental Reykjavík, Fiskislóð 22 · drop-off ~04:20 Nov 22 (after-hours key box) at Blue Car Rental Iceland, Blikavöllur 3, Keflavík · ISK 149,066 | Blue Car Rental · 6BXX5D |
+| Rental car (Nov 16–22) | Pick-up 07:00 Nov 16 at Blue Car Rental Reykjavík, Fiskislóð 22 · drop-off ~04:45 Nov 22 (after-hours key box) at Blue Car Rental Iceland, Blikavöllur 3, Keflavík · ISK 149,066 | Blue Car Rental · 6BXX5D |
 | Lava Show (Nov 13) | 16:00 show · arrive by 15:40 · Fiskislóð 73, Grandi | Pelago · PG2610VW0YUQ |
 | Sjávargrillið (Nov 12) | Dinner 19:30 · card held for a no-show only (ISK 20,000) · table may be released 25 min after booking time — call +354 571 1100 if late | #9574426 |
 | Reykjavík Kitchen (Nov 13) | Dinner 20:00 | #9574467 |
@@ -43,7 +43,7 @@
 
 - **Pack waterproof layers** for everyone: windproof jacket, trousers, gloves, warm hat, merino base layers
 - **Bookmark umferdin.is** and download **112 Iceland app** — check road conditions every morning before driving
-- **Blue Car drop-off** — Nov 22 at ~04:20 (key box) · Blue Car Rental Iceland, Blikavöllur 3, Keflavík (~5 min from the Courtyard) · office opens 05:00 in winter, but the Blue Car FAQ confirms after-hours returns in the key box outside the office · fill the tank and load the bags the night before · drop everyone and the bags at KEF departures first, then the driver leaves the key in the key box and walks back to the terminal (~3–4 min across P1, Yaktrax on) · no staff will check the car with you, so film a walk-around video, photograph the fuel gauge and odometer, and keep the N1 receipt · at pick-up, ask Blue Car when your liability ends and where to park for a key-box return
+- **Blue Car drop-off** — Nov 22 at ~04:45 (key box) · Blue Car Rental Iceland, Blikavöllur 3, Keflavík (~5 min from the Courtyard) · office opens 05:00 in winter, but the Blue Car FAQ confirms after-hours returns in the key box outside the office · fill the tank and load the bags the night before · drop everyone and the bags at KEF departures first and park briefly in P1; after the 04:30 VAT refund, the driver leaves the key in the key box and walks back to the terminal (~3–4 min across P1, Yaktrax on) · no staff will check the car with you, so film a walk-around video, photograph the fuel gauge and odometer, and keep the N1 receipt · at pick-up, ask Blue Car when your liability ends and where to park for a key-box return
 - **VAT refund at KEF** — Nov 22 at 04:30 · Tax Refund desk in the arrivals hall, opposite the car rental desks · opens 04:30 in winter · do it before checking bags · minimum ISK 12,000 per receipt · each buyer brings their passport · show the goods, Tax-Free forms and receipts to get the forms stamped, then hand them in · refunds over ISK 100,000 also need a stamp at the Customs desk
 - **Confirm Ruby Louise luggage storage** — Nov 23 · email the hotel to confirm you can leave the bags from check-out (~09:45) until the 18:00 airport transfer
 - **Confirm Klaustur-area food hours** — Nov 16–18 · most places run reduced or summer-only hours in November · **Kjarval supermarket** (listed Mon–Fri 11:30–18:00; Day 6 grocery stop ~16:05; backup: Gvendarkjör, listed daily 10:00–18:00) · **Systrakaffi** (Day 8 dinner / backup) · **Frost at Fjallsárlón** (listed daily 10:00–16:00 year-round; Day 7 west-option or Day 8 lunch) · **Kjarr** (Day 6 dinner — Google Maps shows it open in October, but November hours are unpublished; call +354 546 1400 to confirm Mon 16 Nov and book for 4)

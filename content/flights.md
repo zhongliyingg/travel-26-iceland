@@ -26,7 +26,7 @@
 - **Departs:** KEF 07:25
 - **Arrives:** FRA 12:05
 - **Status:** Booked ✓
-- **Note:** Wake-up 03:30. Leave the Courtyard at 04:10 and drop everyone at KEF departures; the driver leaves the rental car in the after-hours key box at Blue Car Rental (Blikavöllur 3) and walks back (~3–4 min). VAT refund desk (arrivals hall) opens 04:30 — do it before check-in. Trip.com transfer from FRA to Ruby Louise at 12:40.
+- **Note:** Wake-up 03:30. Leave the Courtyard at 04:10 and drop everyone at KEF departures (the driver parks briefly in P1). Everyone does the VAT refund (arrivals hall) when the desk opens at 04:30; at ~04:45 the driver leaves the rental car in the after-hours key box at Blue Car Rental (Blikavöllur 3) and walks back (~3–4 min). Check in by ~05:00. Trip.com transfer from FRA to Ruby Louise at 12:40.
 
 ### SQ325 — Frankfurt → Singapore
 - **Date:** Mon, 23 Nov 2026
