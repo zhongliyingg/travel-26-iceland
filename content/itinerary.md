@@ -31,6 +31,10 @@ Hotel breakfast, browse T1 shops. SkyLine to T2 (~2 min) — check in by 11:00. 
 Creative Icelandic seafood in a cosy setting — try the langoustine (Icelandic lobster) soup. A good meal after two days of transit, without being a splurge. Booked for 19:30, which allows for a ~1 hour flight delay. Card held only for a no-show without cancelling (ISK 20,000 fee); the table may be released 25 min after the booked time, so call +354 571 1100 if running late.
 创意冰岛海鲜料理，环境温馨质朴——推荐冰岛龙虾汤。两天舟车劳顿后好好吃一顿，又不至于太过奢华。已预订19:30：可应对约1小时的航班延误。信用卡仅作担保，未取消且未到场才收取20,000冰岛克朗费用；超过预订时间25分钟可能会被取消座位，如会迟到请致电+354 571 1100。
 
+**Late evening — Small top-up on the walk home** · Optional · ~21:00 · small convenience store near the apartment
+Breakfast tomorrow is out at Kaffivagninn, so just pick up tea or coffee, milk, water and a few snacks for the apartment. Downtown 10-11 stores open late (some 24/7) but cost ~50% more than the supermarkets, so keep it small — the main shop is at Krónan Grandi tomorrow after the Lava Show. Check the Agoda listing for what the apartment kitchen has.
+明天早餐去Kaffivagninn吃，所以只需买些茶或咖啡、牛奶、饮用水和少量零食放在公寓。市中心的10-11便利店营业到很晚（部分24小时营业），但价格比超市贵约50%，少买一点就好——明天看完熔岩秀后再去格兰迪的Krónan超市大采购。请查看Agoda房源页面，了解公寓厨房的配置。
+
 `Travel` `Airport transfer` `Food`
 
 > ⚠ FI521 departs from Terminal 2. The Sheraton is in Terminal 1. Take the 2-minute SkyLine train between terminals.
@@ -61,6 +65,10 @@ Viking history in the morning, then Grandi harbour in the afternoon — Whales o
 
 上午探索维京历史，下午前往格兰迪港区——冰岛鲸鱼馆与熔岩秀位于同一条街，步行约10分钟——晚上在Reykjavík Kitchen用餐。行程以室内为主，适合抵达后的第一个完整游览日。
 
+**Breakfast — Kaffivagninn** · ~08:45–09:30 · Grandagarður 10, Old Harbour · ~10 min flat walk from the apartment
+Iceland's oldest restaurant (since 1935), right on the harbour — a warm, unhurried first breakfast with a view of the boats. Listed as open daily from 08:00 (older listings say weekdays from 07:30), so confirm hours. It is still dark until ~10:00 and the harbour paths can be icy — Yaktrax on. Backup: Grái Kötturinn (Hverfisgata 16, ~5–8 min walk, listed 08:00–14:00).
+冰岛最古老的餐厅（1935年开业），就在港口边——一边欣赏渔船，一边从容享用抵达后的第一顿早餐。标注每日08:00起营业（较早的资料显示工作日07:30起），请确认营业时间。早上约10:00前天色仍暗，港口步道可能结冰——请穿上冰爪。备选：Grái Kötturinn（Hverfisgata 16号，步行约5–8分钟，标注08:00–14:00营业）。
+
 **Morning — National Museum of Iceland** · Optional · 10:00 · ~5 min by taxi
 Viking age artefacts at Iceland's national museum. Skip it if energy is low — the Settlement Exhibition tells the Viking story in a more compact way.
 参观冰岛国家博物馆的维京时代文物。若体力不足可跳过——定居展览馆以更精简的方式讲述维京故事。
@@ -85,14 +93,18 @@ The Lava Show only runs every 2 hours (10:00, 12:00, 14:00, 16:00…), so there'
 The world's only live lava experience, where real molten rock is superheated to 1,100°C and poured into the showroom. You see it flow, feel the heat on your face and hear it hiss and cool. If your ticket is Classic, ask on arrival about upgrading to Premium for balcony seats, a drink on arrival, a backstage furnace tour and a giftwrapped piece of lava to take home. Exactly what 王安宇 arranged for the 花少5 cast on their city day here.
 全球唯一的真实熔岩现场体验，真实熔浆加热至1100度后倒入展示厅。亲眼目睹熔岩流淌、感受扑面而来的热浪、聆听岩浆冷却时的嘶嘶声。如购买的是基础票，可在现场询问能否升级高级套餐，含阳台座位、到场饮料、后台熔炉参观及礼盒包装熔岩纪念品。这正是《花少5》中王安宇为嘉宾们安排的城市日体验之一。
 
+**After the show — Krónan Grandi** · Grocery shop · ~17:15–17:45 · Fiskislóð, Grandi · a few minutes from the Lava Show
+The big Reykjavík shop — Krónan's Grandi store is larger and cheaper than anything downtown, and you are already here. Buy breakfast for Days 4–6 (Day 6 starts with a 07:00 car pickup, before anything opens), food for the Day 4 early dinner at the apartment, a backup dinner in case the Day 5 aurora retry happens, snacks for the aurora tour, and car snacks for the Day 6 drive. Then take a taxi home with the bags. Confirm the address and hours on kronan.is.
+这是在雷克雅未克的主要采购——Krónan格兰迪店比市中心任何一家都大、都便宜，而且就在附近。备好第4至6天的早餐（第6天07:00取车，届时商店都还没开门）、第4天在公寓提早晚餐的食材、第5天若需补看极光时的备用晚餐、极光团零食，以及第6天自驾途中的车上零食。之后带着购物袋打车回公寓。请在kronan.is确认地址与营业时间。
+
 **Evening — Reykjavík Kitchen** · Dinner · ✅ Booked · 20:00 · ~5 min by taxi
-Classic Icelandic cooking — try the lamb shank and Arctic char. Taxi back to the apartment after the Lava Show (~17:30) to rest first.
-经典冰岛菜——推荐羊腿和北极红点鲑。看完熔岩秀后（约17:30）打车回公寓先休息。
+Classic Icelandic cooking — try the lamb shank and Arctic char. Taxi back to the apartment after the Krónan shop (~17:45) to rest first.
+经典冰岛菜——推荐羊腿和北极红点鲑。在Krónan采购完后（约17:45）打车回公寓先休息。
 
 `Culture` `History` `Food` `Lava Show`
 
-> ⏱ Day timeline: 10:00 National Museum (optional) · ~11:30 Settlement Exhibition · ~12:30 lunch at Grandi Mathöll · 13:15 Whales of Iceland (13:30 tour) · 14:30–15:45 free time in Grandi · 16:00 Lava Show · ~17:30 back to the apartment to rest · 20:00 Reykjavík Kitchen.
-> ⏱ 当日时间表：10:00国家博物馆（可选）· 约11:30定居展览馆 · 约12:30格兰迪美食广场午餐 · 13:15冰岛鲸鱼馆（13:30导览）· 14:30–15:45格兰迪自由活动 · 16:00熔岩秀 · 约17:30回公寓休息 · 20:00 Reykjavík Kitchen晚餐。
+> ⏱ Day timeline: ~08:45 breakfast at Kaffivagninn · 10:00 National Museum (optional) · ~11:30 Settlement Exhibition · ~12:30 lunch at Grandi Mathöll · 13:15 Whales of Iceland (13:30 tour) · 14:30–15:45 free time in Grandi · 16:00 Lava Show · ~17:15 Krónan Grandi grocery shop · ~17:45 taxi back to the apartment to rest · 20:00 Reykjavík Kitchen.
+> ⏱ 当日时间表：约08:45在Kaffivagninn吃早餐 · 10:00国家博物馆（可选）· 约11:30定居展览馆 · 约12:30格兰迪美食广场午餐 · 13:15冰岛鲸鱼馆（13:30导览）· 14:30–15:45格兰迪自由活动 · 16:00熔岩秀 · 约17:15格兰迪Krónan超市采购 · 约17:45打车回公寓休息 · 20:00 Reykjavík Kitchen晚餐。
 
 📺 **花少5 · Ep 11 · Guide: 王安宇 · City walk, Una's Chinese Museum, lava show & planetarium**
 王安宇 planned a full Reykjavík city day: Laugavegur, the Rainbow Road footbridge, waffles shared on a swing. The cultural highlight was Una's Chinese Museum — an Icelandic grandmother who discovered Tai Chi in the 1970s, first visited China in 1983, and built a private collection of porcelain, Tang clothing and carved wooden beds. He also arranged the lava show — the same experience you'll be doing.
@@ -239,6 +251,10 @@ Check in to the cabin for three nights. Far from city lights — step outside af
 The main supermarket in town — listed as open Mon–Fri 11:30–18:00 (re-check before the trip); the smaller Gvendarkjör on Klausturvegur (listed daily 10:00–18:00) is a backup. It is closed when you leave at 08:00 on Day 7, so this is the one chance to stock up: breakfast for Days 7–9, car snacks, tea or coffee for a thermos, and easy backup dinners (pasta, skyr, bread, smoked salmon). Check the Airbnb listing for what the cabin kitchen has.
 镇上主要的超市——标注营业时间为周一至周五11:30–18:00（出发前请再确认）；Klausturvegur街上规模较小的Gvendarkjör（标注每日10:00–18:00）可作备选。第7天08:00出发时超市尚未开门，因此这是唯一的采购机会：备好第7至9天的早餐、车上零食、装保温瓶的茶或咖啡，以及简单的备用晚餐食材（意面、冰岛酸奶skyr、面包、烟熏三文鱼）。请查看Airbnb房源页面，了解小木屋厨房的配置。
 
+**Dinner — Kjarr** · ~18:30 · by Systrafoss, Klaustur · short drive from the cabin · confirm it is open
+A sit-down dinner after the long South Coast drive. Google Maps shows it open in October, but November hours are not published — call +354 546 1400 or check its website to confirm it is open on Mon 16 Nov, and book a table for four. Backups: Hotel Klaustur restaurant (also in town, but booked for Day 7, so you may not want it two nights running), or cook at the cabin with the Kjarval groceries.
+长途南岸自驾后，好好坐下来吃顿晚餐。Google地图显示10月仍在营业，但11月营业时间尚未公布——请致电+354 546 1400或查看其官网，确认11月16日（周一）是否营业，并预订4人座位。备选：Klaustur酒店餐厅（同在镇上，但已订第7天晚餐，可能不想连续两晚都去），或用Kjarval超市买的食材在小木屋做饭。
+
 `Adventure` `Nature` `Self-drive` `Car pick-up` `Food`
 
 > Check umferdin.is before leaving. Fill up with fuel — stations sparse on South Coast. Sunrise ~10:00, sunset ~16:15 — leave Reynisfjara by ~15:00 to reach Klaustur around dusk.
@@ -336,8 +352,8 @@ A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park �
 深约100米、布满青苔的峡谷。第一个观景点距停车场很近——在此观赏即可，或沿峡谷边缘小径量力而行。为保护青苔，步道有时会关闭，请当天确认。
 
 **Dinner — Systrakaffi, or the cabin** · Last night in Klaustur · early night before the 09:00 Day 9 start
-Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Or Hotel Klaustur if you did not go there on Day 7, or use up the groceries at the cabin.
-Systrakaffi位于Klausturvegur街，适合轻松用餐——披萨、汉堡和自制蛋糕（请确认11月营业时间）。或者若第7天未去Klaustur酒店餐厅，今晚可去；也可在小木屋把剩余食材用完。
+Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Or Hotel Klaustur if you did not go there on Day 7, Kjarr by Systrafoss if you liked it on Day 6 (confirm November hours), or use up the groceries at the cabin.
+Systrakaffi位于Klausturvegur街，适合轻松用餐——披萨、汉堡和自制蛋糕（请确认11月营业时间）。或者若第7天未去Klaustur酒店餐厅，今晚可去；若第6天觉得Systrafoss瀑布旁的Kjarr不错，也可再去（请确认11月营业时间）；也可在小木屋把剩余食材用完。
 
 `Nature` `Glacier` `Relaxed` `Food` `Self-drive`
 
@@ -463,6 +479,10 @@ A final stroll: 66°North (flagship at No. 17), the Handknitting Association of 
 **Stop 4 — Keflavík** · leave Reykjavík ~16:15 · ~45 min · arrive ~17:00
 Route 41 is the main airport road and the easiest night drive of the trip — sunset is ~16:05, so expect twilight or dark. Check in at the Courtyard; the car stays with you overnight.
 41号公路是通往机场的主干道，也是全程最好开的夜路——日落约16:05，后半程将在黄昏或天黑后行驶。入住万怡酒店；车辆留用至明早。
+
+**On arrival — Keflavík supermarket — Bónus or Krónan** · ~17:00 · in Keflavík town, ~10 min from the airport
+The last grocery stop, because the Courtyard has no kitchen and nothing is open when you leave at 05:00 tomorrow. Buy no-cook food: breakfast to eat in the room at 04:45 (bread, pastries, fruit, skyr), sandwiches for FI520 (Icelandair economy food is buy-on-board) and the gap until the 14:00 Frankfurt check-in, and a cold backup dinner in case the hotel options don't work out. Eat the skyr at the hotel — liquids and yoghurt over 100 ml can't go through security. Saturday hours are shorter, so check bonus.is or kronan.is.
+最后一次采购——万怡酒店没有厨房，明早05:00出发时也没有任何店开门。请买无需烹饪的食物：04:45在房间吃的早餐（面包、糕点、水果、冰岛酸奶skyr）、FI520航班上吃的三明治（冰岛航空经济舱餐食需另购），以及到法兰克福14:00入住前的垫肚子食物；另备一份冷食作为备用晚餐，以防酒店附近的餐厅不合适。冰岛酸奶请在酒店吃完——超过100毫升的液体和酸奶无法通过安检。周六营业时间较短，请在bonus.is或kronan.is确认。
 
 **Dinner — Early dinner near the Courtyard** · early night · wake-up 04:45
 Keep it early and close by. Sources disagree on what is in or beside the hotel (ROKU, Langbest or The Bridge), so ask at check-in. The Hafnargata waterfront, under 2 km away, has more choice.
