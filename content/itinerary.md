@@ -195,8 +195,8 @@ A splurge-worthy farewell-to-Reykjavík dinner. Tables are only available from 2
 
 `Culture` `Food` `Shopping`
 
-> 💡 Tax refund tip: Most stores on Laugavegur offer VAT refund for non-EU visitors. Minimum spend ~6,000 ISK (~$44) per transaction — ask for a Tax-Free Cheque at point of purchase and redeem at Keflavík Airport on departure.
-> 💡 退税提示：洛加维格大街大多数商店为非欧盟游客提供退税服务。每笔消费满约6,000冰岛克朗（约44美元）即可享受——购物时索取免税单据，离境时在凯夫拉维克机场办理退税。
+> 💡 Tax refund tip: Most stores on Laugavegur offer a VAT refund for visitors who live outside Iceland. Minimum spend ISK 12,000 (~SGD 125) per receipt — items on the same receipt count together. Ask for a Tax-Free form at the till, then claim at Keflavík Airport before checking in your bags — you must show the goods, so keep them in your carry-on.
+> 💡 退税提示：洛加维格大街大多数商店为非冰岛居民提供增值税退税服务。每张收据消费满12,000冰岛克朗（约125新元）即可办理——同一张收据上的商品可合并计算。结账时索取免税单，离境时在凯夫拉维克机场托运行李前办理退税——须出示所购商品，请将其放在随身行李中。
 
 > 🌌 Aurora retry window: If the Nov 14 tour drew a blank, contact your operator this morning to book your free retry for tonight — it's your last night in the city. Pickup is ~20:00 at Harpa, so skip Grillmarkaðurinn and eat early near the Old Harbour instead. From Day 6 you're in the dark countryside, where you can watch for the lights from your hotel.
 > 🌌 极光补看机会：若11月14日未能看到极光，今天上午联系运营商预约今晚的免费补看名额——这是在市区的最后一晚。约20:00在哈帕音乐厅上车，因此取消Grillmarkaðurinn，改在老港口附近提早用餐。从第6天起入住远离城市灯光的乡间，在酒店即可自行观赏极光。
@@ -448,7 +448,7 @@ Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided
 
 ### Day 11 · Sat, 21 Nov — Kerið → Reykjavík → Keflavík airport area / 克里德火山口 → 雷克雅未克 → 凯夫拉维克机场周边
 **Kerið, last shopping & Keflavík / 克里德火山口、最后购物与凯夫拉维克**
-🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Keep the car overnight — drop-off Nov 22 at 05:00
+🏨 Courtyard by Marriott Keflavík Airport · 🚗 ~130 km · Keep the car overnight — key-box drop-off Nov 22 ~04:20
 
 Check out by 09:30 with all bags loaded. One short stop at Kerið, then straight to Reykjavík for an unhurried lunch and the last of the shopping, and on to Keflavík around dusk. With Þingvellir done yesterday, this is a relaxed day — you should reach Reykjavík around 11:20, roughly an hour earlier than a Þingvellir morning would have allowed.
 
@@ -473,25 +473,25 @@ A casual burger spot — check the seating suits Mum and Dad, and confirm Saturd
 休闲汉堡店——请确认座位是否方便长辈，并确认周六营业时间。
 
 **Stop 3 — Laugavegur** · ~13:30–16:00
-A final stroll: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. Most shops close ~17:00–18:00 on Saturdays. Keep receipts over 6,000 ISK for the VAT refund at KEF.
-最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六大多数商店约17:00–18:00关门。单笔消费超过6,000冰岛克朗请保留收据，在凯夫拉维克机场办理增值税退税。
+A final stroll: 66°North (flagship at No. 17), the Handknitting Association of Iceland for authentic lopapeysa wool sweaters, Rammagerdin for Icelandic design, and the Blue Lagoon skincare shop at No. 15. Most shops close ~17:00–18:00 on Saturdays. Ask for a Tax-Free form on any receipt of ISK 12,000 or more for the VAT refund at KEF, and keep those purchases in your carry-on.
+最后的漫步：66°North（旗舰店在17号）、冰岛手工编织协会（购买正宗洛帕披亚绒线毛衣）、Rammagerdin（冰岛设计）以及15号的蓝湖护肤品店。周六大多数商店约17:00–18:00关门。单张收据满12,000冰岛克朗请索取免税单，以便在凯夫拉维克机场办理增值税退税；这些商品请放在随身行李中。
 
 **Stop 4 — Keflavík** · leave Reykjavík ~16:15 · ~45 min · arrive ~17:00
 Route 41 is the main airport road and the easiest night drive of the trip — sunset is ~16:05, so expect twilight or dark. Check in at the Courtyard; the car stays with you overnight.
 41号公路是通往机场的主干道，也是全程最好开的夜路——日落约16:05，后半程将在黄昏或天黑后行驶。入住万怡酒店；车辆留用至明早。
 
 **On arrival — Keflavík supermarket — Bónus or Krónan** · ~17:00 · in Keflavík town, ~10 min from the airport
-The last grocery stop, because the Courtyard has no kitchen and nothing is open when you leave at 05:00 tomorrow. Buy no-cook food: breakfast to eat in the room at 04:45 (bread, pastries, fruit, skyr), sandwiches for FI520 (Icelandair economy food is buy-on-board) and the gap until the 14:00 Frankfurt check-in, and a cold backup dinner in case the hotel options don't work out. Eat the skyr at the hotel — liquids and yoghurt over 100 ml can't go through security. Saturday hours are shorter, so check bonus.is or kronan.is.
-最后一次采购——万怡酒店没有厨房，明早05:00出发时也没有任何店开门。请买无需烹饪的食物：04:45在房间吃的早餐（面包、糕点、水果、冰岛酸奶skyr）、FI520航班上吃的三明治（冰岛航空经济舱餐食需另购），以及到法兰克福14:00入住前的垫肚子食物；另备一份冷食作为备用晚餐，以防酒店附近的餐厅不合适。冰岛酸奶请在酒店吃完——超过100毫升的液体和酸奶无法通过安检。周六营业时间较短，请在bonus.is或kronan.is确认。
+The last grocery stop, because the Courtyard has no kitchen and nothing is open when you leave at 04:10 tomorrow. Buy no-cook food: breakfast to eat in the room after the 03:30 wake-up (bread, pastries, fruit, skyr), sandwiches for FI520 (Icelandair economy food is buy-on-board) and the gap until the 14:00 Frankfurt check-in, and a cold backup dinner in case the hotel options don't work out. Eat the skyr at the hotel — liquids and yoghurt over 100 ml can't go through security. Saturday hours are shorter, so check bonus.is or kronan.is.
+最后一次采购——万怡酒店没有厨房，明早04:10出发时也没有任何店开门。请买无需烹饪的食物：03:30起床后在房间吃的早餐（面包、糕点、水果、冰岛酸奶skyr）、FI520航班上吃的三明治（冰岛航空经济舱餐食需另购），以及到法兰克福14:00入住前的垫肚子食物；另备一份冷食作为备用晚餐，以防酒店附近的餐厅不合适。冰岛酸奶请在酒店吃完——超过100毫升的液体和酸奶无法通过安检。周六营业时间较短，请在bonus.is或kronan.is确认。
 
-**Dinner — Early dinner near the Courtyard** · early night · wake-up 04:45
+**Dinner — Early dinner near the Courtyard** · early night · wake-up 03:30
 Keep it early and close by. Sources disagree on what is in or beside the hotel (ROKU, Langbest or The Bridge), so ask at check-in. The Hafnargata waterfront, under 2 km away, has more choice.
 早些用餐，就近解决。关于酒店内或旁边有哪些餐厅，各方信息不一（ROKU、Langbest或The Bridge），入住时请向前台确认。不到2公里外的Hafnargata海滨一带选择更多。
 
 `Nature` `Shopping` `Self-drive`
 
-> Fill the tank tonight at N1 near the Courtyard — returning on empty incurs steep charges, and there's no time tomorrow. Load the bags into the car tonight: you leave at 05:00 for the Blue Car drop-off. Keep your Tax-Free Cheques handy for the refund at KEF tomorrow.
-> 今晚在万怡酒店附近的N1加油站加满油——空油箱还车会被收取高额费用，明早也没有时间加油。今晚就把行李装上车：明早05:00出发前往Blue Car还车。备好免税单据，明天在凯夫拉维克机场办理退税。
+> Fill the tank tonight at N1 near the Courtyard — returning on empty incurs steep charges, and there's no time tomorrow. Load the bags into the car tonight: you leave at 04:10 to reach the VAT refund desk when it opens at 04:30. Pack the Tax-Free forms, receipts and the goods together in one carry-on — you must show all three at the refund desk before checking in.
+> 今晚在万怡酒店附近的N1加油站加满油——空油箱还车会被收取高额费用，明早也没有时间加油。今晚就把行李装上车：明早04:10出发，赶在04:30退税柜台开门时到达。请把免税单、收据和所购商品一起放在同一件随身行李中——托运前须在退税柜台一并出示。
 
 📺 **花少5 · Ep 14下 · Guide: 胡先煦 · Farewell / 告别**
 The season finale ended with a heartfelt awards ceremony: each member giving a personalised award to another, reflecting on 28 days across three countries. Iceland was called the emotional peak of the trip. **Season rating: 9.0/10 on Douban — highest in 花儿与少年 franchise history.**
@@ -506,14 +506,14 @@ The season finale ended with a heartfelt awards ceremony: each member giving a p
 **Early flight → arrive Frankfurt city / 早班机 → 抵达法兰克福市区**
 🏨 Ruby Louise Hotel Frankfurt, City Centre
 
-Wake-up 04:45. Leave the hotel at 05:00 and drive ~5 min to KEF departures — unload everyone and the bags there. The driver then returns the car to Blue Car Rental (Blikavöllur 3, opens 05:00) by 05:30 and walks back to the terminal (~3–6 min across the car park, Yaktrax on — the airport shuttle may not be running this early). FI520 departs 07:25, arrives Frankfurt 12:05. Booked private transfer (Trip.com) picks you up at 12:40 — ~30 min to Ruby Louise Hotel Frankfurt. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt's Sachsenhausen district.
+Wake-up 03:30. Leave the hotel at 04:10 and drive ~5 min to KEF departures — unload everyone and the bags there (~04:15). The driver then leaves the car in the after-hours key box outside Blue Car Rental (Blikavöllur 3; the office opens 05:00) — film a walk-around video and photograph the fuel gauge and odometer before dropping the key — and walks back to the terminal (~3–4 min across the P1 car park, Yaktrax on). Everyone meets at the VAT refund desk (arrivals hall, opposite the car rental desks) when it opens at 04:30: show the goods, Tax-Free forms and receipts, get the forms stamped and hand them in. Refunds over ISK 100,000 also need a stamp at the Customs desk. Check in and drop the bags by ~05:00, then security. FI520 departs 07:25, arrives Frankfurt 12:05. Booked private transfer (Trip.com) picks you up at 12:40 — ~30 min to Ruby Louise Hotel Frankfurt. Check in ~14:00, rest. Head out for a proper dinner in Frankfurt's Sachsenhausen district.
 
-04:45起床。05:00离开酒店，驾车约5分钟到凯夫拉维克机场出发层——全家和行李在此下车。随后由司机独自前往Blue Car Rental（Blikavöllur 3，05:00开门）于05:30前还车，再步行约3–6分钟穿过停车场返回航站楼（请穿好冰爪——此时机场班车可能尚未运行）。FI520航班07:25起飞，12:05抵达法兰克福。已预订私人接送（Trip.com），12:40接机——约30分钟抵达市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。
+03:30起床。04:10离开酒店，驾车约5分钟到凯夫拉维克机场出发层——全家和行李在此下车（约04:15）。随后由司机独自前往Blue Car Rental（Blikavöllur 3，办公室05:00开门），将车钥匙投入门外的非营业时间还车钥匙箱——投钥匙前请绕车拍一段视频，并拍下油表和里程表——再步行约3–4分钟穿过P1停车场返回航站楼（请穿好冰爪）。04:30退税柜台（到达大厅，租车柜台对面）开门时全家在此会合：出示所购商品、免税单和收据，盖章后交回。退税金额超过100,000冰岛克朗还需到海关柜台盖章。约05:00前办理值机和行李托运，再过安检。FI520航班07:25起飞，12:05抵达法兰克福。已预订私人接送（Trip.com），12:40接机——约30分钟抵达市区鲁比路易斯酒店。约14:00入住，休息片刻。傍晚前往萨克森豪森区享用正式晚餐——为明天的圣诞市集养精蓄锐。
 
 `Travel` `Food` `Frankfurt`
 
-> ⚠ Early start: Wake-up 04:45 · Bags loaded in the car the night before · Leave hotel 05:00 · Drop everyone at departures first · Driver returns the car by 05:30 and walks back (~5 min)
-> ⚠ 早起提醒：04:45起床 · 前一晚把行李装上车 · 05:00离开酒店 · 先在出发层放下家人和行李 · 司机05:30前还车后步行返回（约5分钟）
+> ⚠ Early start: Wake-up 03:30 · Bags loaded in the car the night before · Leave hotel 04:10 · Drop everyone at departures first · Driver leaves the car in the Blue Car key box (video + fuel photo first) and walks back (~4 min) · VAT refund desk at 04:30, before check-in
+> ⚠ 早起提醒：03:30起床 · 前一晚把行李装上车 · 04:10离开酒店 · 先在出发层放下家人和行李 · 司机将车钥匙投入Blue Car钥匙箱（先拍车辆视频和油表照片）后步行返回（约4分钟）· 04:30先办退税，再值机
 
 ---
 

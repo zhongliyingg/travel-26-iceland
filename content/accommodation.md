@@ -54,7 +54,7 @@
 - **Booked via:** Agoda
 - **Booking ID:** [redacted]
 - **Status:** Confirmed ✓
-- **Note:** No hotel shuttle needed — you keep the car overnight and drive to the Blue Car Rental drop-off (Blikavöllur 3) at 05:00 on Nov 22.
+- **Note:** No hotel shuttle needed — you keep the car overnight, leave at 04:10 on Nov 22 and return it to the Blue Car Rental key box (Blikavöllur 3) at ~04:20.
 
 ---
 
