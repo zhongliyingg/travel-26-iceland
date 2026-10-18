@@ -34,7 +34,7 @@
 - **Hotel Klaustur dinner** — Nov 17 · ~19:00 · hotel restaurant in Kirkjubæjarklaustur, listed as open year-round · so nobody has to cook after the long Day 7 east option (back ~18:15) · ask for a cancellable table — cancel if you take the west option and cook or eat at Systrakaffi instead
 - **Tryggvaskáli dinner** — Nov 19 · ~19:00 · Selfoss's best-known restaurant, in the town's first hotel building — the nicer meal of the Selfoss stay · book ahead
 - **Dauth-Schneider dinner** — Nov 22 · 19:00 · classic apple-wine tavern in Sachsenhausen (Neuer Wall 5–7), listed open daily 11:30–24:00 · Nov 22 is a Sunday and Totensonntag, so confirm it is open that day when you book · table for 4; ask for proper chairs rather than benches for Mum and Dad · backup: Fichtekränzi (Wallstraße 5, Sun from 16:00)
-- **Römerberg lunch** — Nov 23 · 13:00 · seated, indoor main meal near Römerberg on the Christmas market's opening day · restaurants around the square will be busy, so book a table for 4
+- **Zum Standesämtchen lunch** — Nov 23 · 13:00 · traditional Frankfurt and German food on Römerberg, listed open daily 10:00–24:00 with hot food from 11:00 · it's the Christmas market's opening day, so book a table for 4 and ask for an indoor table with chairs · backup: Alten Limpurg (Römerberg, listed open daily 09:00–01:00)
 - **Buy Yaktrax ice cleats** — **4 pairs, one per person** · the single highest-value item for a November trip with 70+ travellers: a slip is the realistic trip-ending risk · choose the easy on/off strap type (they cannot be worn indoors or on coaches) · needed at Gullfoss, Geysir, Kerið, Diamond Beach and especially the Sólheimajökull gravel path
 
 ---
