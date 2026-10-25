@@ -380,6 +380,11 @@ Check out by 09:00 and drive west along the South Coast, with four easy stops on
 The last stop of the 花少5 South Coast route. 120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days, and you arrive around sunrise. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call. If Day 6 was stormy, Reynisfjara is ~15 min away for a second look — stay well back from the waves.
 花少5南海岸路线的最后一站。120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观，抵达时恰逢日出前后。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。若第6天遇上风暴，雷尼斯黑沙滩距此约15分钟，可再访一次——务必远离海浪。
 
+**Optional — Loftsalahellir cave** · on the Dyrhólaey road (road 218), ~2.5 km past the Ring Road junction · ~10:45–11:05 · only if the path is clear
+A shallow cave in the hillside, reached by a small path across a meadow from a little parking area — under 5 min each way, and open all year. In winter the path can be muddy, uneven or icy, so look at it from the car park and skip the cave if it looks slippery. Allow ~20 min. If you stop here, Sólheimajökull shifts to ~11:35–12:35 and the Skógar museum to ~12:50–13:45 (trim the visit to ~55 min), so the LAVA Centre still starts ~14:15 and you reach Selfoss ~16:15. If you skip it, keep the times below.
+**可选 — 洛夫特萨拉洞穴（Loftsalahellir）** · 位于迪霍拉里公路（218号公路）上，距环岛公路路口约2.5公里 · 约10:45–11:05 · 仅在路面状况良好时前往
+山坡上一处较浅的洞穴，从小停车场沿穿过草地的小路步行，单程不到5分钟，全年开放。冬季小路可能泥泞、不平或结冰，请先在停车场观察路况，若看起来湿滑就直接跳过。预留约20分钟。若在此停留，索尔黑马冰川顺延至约11:35–12:35，斯科加博物馆顺延至约12:50–13:45（参观压缩至约55分钟），这样熔岩中心仍可在约14:15开始，约16:15抵达塞尔福斯。若跳过，则沿用下方时间。
+
 **Sólheimajökull glacier** · ~30 min from Dyrhólaey · ~11:15–12:15
 A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it. Note: that is ~15–20 min *each way* on uneven gravel (~1.5 km round trip) — the longest walk of the trip. Take it slowly, wear ice cleats, and turn back at any point if the going is hard; the glacier is visible from partway along.
 米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。注意：单程即需15-20分钟，碎石路面不平（往返约1.5公里），是全程最长的一段步行。请放慢脚步、穿戴防滑鞋钉；若体力不支可随时折返，途中已可望见冰川。
