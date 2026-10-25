@@ -182,12 +182,12 @@ Reykjavík's landmark church — take the lift up the tower for the city view. M
 雷克雅未克的地标教堂——可乘电梯登塔俯瞰全城。11月中午前后光线最好。11月15日（周日）开放时间：10:00–17:00，11:00弥撒期间教堂与塔楼约11:30–12:30关闭，塔楼最后入场16:45。
 
 **Afternoon — Skólavörðustígur & Laugavegur** · ~13:45 · Walk downhill
-Skólavörðustígur, the rainbow street of boutiques and galleries, leads down to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break. Shops are open by now, though Sunday hours are shorter than weekdays. Optional soup stop: **Svarta Kaffið** (Laugavegur 54) — soup served in a bread bowl · walk-in only, no reservations · check access for the 70+ travellers.
-彩虹街斯科拉沃杜斯提古尔街精品店与艺廊林立，一路通往主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。此时商店已开门，但周日营业时间较平日短。可选喝汤小憩：**Svarta Kaffið**（Laugavegur 54号）——面包碗盛汤 · 不接受预订，直接前往 · 请确认是否方便70岁以上长辈进出。
+Skólavörðustígur, the rainbow street of boutiques and galleries, leads down to Laugavegur, the main shopping street — 66°North, wool sweaters, a café break. Shops are open by now, though Sunday hours are shorter than weekdays. Optional soup stop: **Svarta Kaffið** (Laugavegur 54) — soup served in a bread bowl · walk-in only, no reservations · check access for the 70+ travellers. Optional café break: **Brauð & Co** (Frakkastígur 16, on the street running down from Hallgrímskirkja) — famous for its cinnamon buns; confirm Sunday hours and that the seating suits the 70+ travellers.
+彩虹街斯科拉沃杜斯提古尔街精品店与艺廊林立，一路通往主购物街劳格韦格尔——66°North、羊毛衫、咖啡小憩。此时商店已开门，但周日营业时间较平日短。可选喝汤小憩：**Svarta Kaffið**（Laugavegur 54号）——面包碗盛汤 · 不接受预订，直接前往 · 请确认是否方便70岁以上长辈进出。可选咖啡小憩：**Brauð & Co**（Frakkastígur 16号，哈尔格林姆斯教堂下坡的那条街上）——以肉桂卷闻名；请确认周日营业时间，并确认座位是否方便70岁以上长辈。
 
 **Dusk — Harpa & Old Harbour** · ~16:00 · ~10 min walk from the bottom of Laugavegur · sunset ~16:15 · short walk home
-Walk through the glass concert hall, then along the Old Harbour waterfront.
-穿过玻璃幕墙的哈帕音乐厅，再沿老港口海滨漫步。
+Walk through the glass concert hall, then along the Old Harbour waterfront. On the way home, grab a hot dog at **Bæjarins Beztu Pylsur** (corner of Tryggvagata and Pósthússtræti, by the harbour) — order ‘eina með öllu’ (one with everything: crispy and raw onion, ketchup, sweet mustard, remoulade). It is an outdoor stand with no seating, so eat it there or take it home; confirm hours at bbp.is. A snack, not dinner — the evening plan below is unchanged.
+穿过玻璃幕墙的哈帕音乐厅，再沿老港口海滨漫步。回家路上可在**Bæjarins Beztu Pylsur**热狗摊（Tryggvagata与Pósthússtræti街角，港口旁）买一个热狗——点“eina með öllu”（全配：酥炸洋葱、生洋葱、番茄酱、甜芥末和雷莫拉酱）。这是露天摊位，没有座位，可在原地吃或带回公寓；请在bbp.is确认营业时间。这只是小吃，不是晚餐——下面的晚间安排不变。
 
 **Evening — Grillmarkaðurinn (KIV)** · Dinner · 20:00 · Lækjargata 2a · ~5 min walk · only if there is no aurora retry tonight
 A splurge-worthy farewell-to-Reykjavík dinner. Tables are only available from 20:00. Book ahead, but check you can cancel on the morning of Nov 15 if the retry is needed.
@@ -292,8 +292,8 @@ Iceland's "langoustine capital" — lunch at Pakkhús by the harbour. Park, walk
 冰岛的"龙虾之都"——在港口边的Pakkhús餐厅享用午餐。停车即入座，几乎无需步行。11月供应的多为冷冻龙虾尾而非新鲜捕捞，预订时请确认菜单上有龙虾。
 
 **East option — Stokksnes / Vestrahorn** · ~15–20 min east of Höfn · ~14:05–15:30
-The jagged Vestrahorn mountain over black-sand dunes, with a lighthouse and a replica Viking village film set. Entry ~1,100 ISK per person at the Viking Café (card-only machine in the car park out of hours). The main viewpoints are a few minutes from the car; the café is a warm place to wait. Very exposed to wind — ice cleats on. Sunset ~16:10, then ~2h 45min back to the cabin in the dark (arrive ~18:15).
-锯齿状的维斯特拉霍恩山耸立于黑沙丘之上，另有灯塔与维京村落电影布景。在维京咖啡馆购票，每人约1,100冰岛克朗（营业时间外可在停车场刷卡购票）。主要观景点距停车处仅几分钟路程；咖啡馆可供取暖等候。此处风力强劲——请穿戴防滑鞋钉。日落约16:10，之后摸黑驾车约2小时45分钟返回小木屋（约18:15抵达）。
+The jagged Vestrahorn mountain over black-sand dunes, with a lighthouse and a replica Viking village film set. Entry ~1,100 ISK per person at the Viking Café (card-only machine in the car park out of hours). The main viewpoints are a few minutes from the car; the café is a warm place to wait, and serves heart-shaped Icelandic waffles (vöfflur) worth trying. Very exposed to wind — ice cleats on. Sunset ~16:10, then ~2h 45min back to the cabin in the dark (arrive ~18:15).
+锯齿状的维斯特拉霍恩山耸立于黑沙丘之上，另有灯塔与维京村落电影布景。在维京咖啡馆购票，每人约1,100冰岛克朗（营业时间外可在停车场刷卡购票）。主要观景点距停车处仅几分钟路程；咖啡馆可供取暖等候，还供应心形冰岛华夫饼（vöfflur），值得一试。此处风力强劲——请穿戴防滑鞋钉。日落约16:10，之后摸黑驾车约2小时45分钟返回小木屋（约18:15抵达）。
 
 **West option — Fjallsárlón** · ~10 min west of Jökulsárlón, on the way back · lunch ~12:00–12:45, lagoon ~12:45–13:30
 A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park. Have lunch here at Frost, the self-service restaurant (hot and cold dishes, soup, cake; listed as open daily 10:00–16:00 all year — confirm hours). Backup: the Jökulsárlón café before you leave (open year-round, ~9:00–17:00; lobster soup, sandwiches, cake). Back at the cabin by ~16:00. (If you go east today, Fjallsárlón moves to Day 8.)
@@ -350,6 +350,11 @@ The Skaftafell visitor centre café may be summer-only, and the Glacier Goodies 
 **Fjaðrárgljúfur canyon** · ~10 min west of Klaustur, on the way home
 A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park — stop there, or walk up the rim path only as far as feels comfortable. The path is sometimes closed to protect the moss, so check on the day.
 深约100米、布满青苔的峡谷。第一个观景点距停车场很近——在此观赏即可，或沿峡谷边缘小径量力而行。为保护青苔，步道有时会关闭，请当天确认。
+
+**Optional — Eldhraun moss lava field** · a few minutes further west on Route 1, on the way back to Klaustur · ~15 min · go before ~15:30 while there is still light
+A vast lava field from the 18th-century eruption, blanketed in thick moss. Pull over at a roadside lay-by and look from the car, or step out for a few minutes; do not walk on the moss, it takes years to regrow. In November it will likely be brown or under snow, so expect it to look less green than summer photos. Skip it if light or weather is poor.
+**可选 — 埃尔德赫劳恩苔藓熔岩原（Eldhraun）** · 1号公路上再往西几分钟，回教堂镇途中 · 约15分钟 · 趁天光未暗，约15:30前前往
+18世纪火山喷发形成的广阔熔岩原，覆盖着厚厚的苔藓。可在路边停车带靠边停车，坐在车里欣赏，或下车站几分钟；切勿踩踏苔藓，它需要多年才能重新长出。11月苔藓多半呈褐色或被积雪覆盖，不会像夏季照片那样翠绿。光线或天气不佳时可直接跳过。
 
 **Dinner — Systrakaffi, or the cabin** · Last night in Klaustur · early night before the 09:00 Day 9 start
 Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Or Hotel Klaustur if you did not go there on Day 7, Kjarr by Systrafoss if you liked it on Day 6 (confirm November hours), or use up the groceries at the cabin.
