@@ -417,42 +417,42 @@ In the building that was Selfoss's first hotel — one of the best restaurants i
 **Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
 🏨 Amtmann Residence, Selfoss (night 2 of 2) · 🚗 ~200 km round trip
 
-The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in the classic direction — Þingvellir first, then north to Geysir and Gullfoss, then back down to Friðheimar for a late lunch. Leave by 09:15 to reach Þingvellir as the light comes up. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
+The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in reverse so lunch is not pushed late — leave by 09:15 and drive straight up to Gullfoss, the furthest point, then Geysir, then Friðheimar for lunch at ~12:30, and finish at Þingvellir in the afternoon. Sunset is around 16:15, so leave Friðheimar by ~13:45. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
-这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按经典顺序环行——先游辛格维利尔，再北上盖歇尔与黄金瀑布，最后折返至Friðheimar享用迟来的午餐。09:15前出发，天光初现时抵达辛格维利尔。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
+这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按逆向顺序环行，避免午餐过晚——09:15前出发，直奔最远的黄金瀑布，再到盖歇尔，然后在Friðheimar享用约12:30的午餐，下午最后游览辛格维利尔。日落约在16:15，请在13:45前后离开Friðheimar。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
 
 **Breakfast — At the apartment** · before the 09:15 start
-Pack snacks for the car — lunch at Friðheimar is late (~14:15), so plan a mid-morning snack or coffee at Geysir.
-带上车上零食——Friðheimar午餐较晚（约14:15），可在盖歇尔吃些点心或喝杯咖啡垫垫肚子。
+Pack snacks for the car — lunch at Friðheimar is ~12:30, so a coffee or small snack at Geysir is plenty.
+带上车上零食——Friðheimar午餐约12:30，在盖歇尔喝杯咖啡或吃点小点心即可。
 
-**Stop 1 — Þingvellir National Park** · ~45 min from Selfoss
-Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min.
-冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟。
-> Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
-> 请停在**上方的Hakið游客中心停车场**，而非下方停车场。由此有一条铺装、坡度平缓的步道通往裂谷，沿途设有护栏与观景平台——这是最便于通行的路线。请避开通往Öxarárfoss瀑布的台阶。
-
-**Stop 2 — Geysir (Strokkur geyser)** · ~50 min from Þingvellir
-Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast lined up creative group shots timed to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst.
-位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。
-
-**Stop 3 — Gullfoss (the Golden Waterfall)** · ~10 min from Geysir
+**Stop 1 — Gullfoss (the Golden Waterfall)** · ~1h from Selfoss
 Listed among the world's top-10 waterfalls — glacial meltwater from Langjökull plunging into a dramatic two-tier gorge. Stay on the upper viewing platform, which is level and step-free; the lower path to the water's edge involves uneven steps and is best skipped in November. Spray can freeze on the railings, so wear grip gloves.
 被列为世界十大瀑布之一——兰格冰川融水轰然倾入壮阔的双层峡谷。建议只在上层观景台游览——地面平整、无台阶；通往水边的下层小径台阶不平，11月最好避开。水雾可能在护栏上结冰，建议佩戴防滑手套。
 
-**Stop 4 — Friðheimar** · ~30 min from Gullfoss · Lunch
-Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Warm, indoor and level underfoot: a good place to end the day. Book ahead for ~14:00; if you would rather eat earlier, book ~12:45 and visit Gullfoss after lunch instead.
-在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是结束一天的理想去处。建议预订约14:00；若想早些用餐，可预订约12:45，并将黄金瀑布改至午餐后游览。
+**Stop 2 — Geysir (Strokkur geyser)** · ~10 min from Gullfoss
+Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erupts anymore — but Strokkur beside it is one of the most reliably active geysers in the world, erupting 20–40m every 5–10 minutes. The cast timed creative group shots to each eruption. The 澎湃 guide called the Great Geysir 'the earth's tears' — usually mirror-still, then a few seconds of trembling, then a sudden burst of power. Allow ~35 min — Strokkur erupts every 5–10 minutes, so a few eruptions is plenty.
+位于豪卡达鲁尔地热山谷。著名的盖歇尔大间歇泉已鲜少喷发，但旁边的史托克间歇泉是世界上喷发最为稳定的间歇泉之一，每5-10分钟喷发20-40米高水柱。花少团抓准每次喷发的时机拍下了富有创意的团队合照。澎湃攻略称大间歇泉为"地球的眼泪"——平时水面如镜，数秒间骚动欲发，随即一声巨响喷薄而出。建议预留约35分钟——史托克间歇泉每5-10分钟喷发一次，看几次喷发即可。
 
-**Dinner — Light dinner in Selfoss** · after the late lunch
-Keep it light after Friðheimar: Kaffi Krús (Austurvegur 7 — burgers, pizza, café food; same owners as Tryggvaskáli), Tommi's Burger Joint (Eyravegur 32, listed 11:00–21:00), or something simple at the apartment.
-Friðheimar午餐后晚餐宜清淡：Kaffi Krús（Austurvegur 7号——汉堡、披萨、咖啡馆餐点；与Tryggvaskáli同一老板）、Tommi's Burger Joint（Eyravegur 32号，标注11:00–21:00营业），或在公寓简单做一顿。
+**Stop 3 — Friðheimar** · ~25 min from Geysir · Lunch
+Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Warm, indoor and level underfoot: a good midday break before the afternoon at Þingvellir. Book ahead for ~12:30.
+在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是下午前往辛格维利尔之前的理想休息处。建议预订约12:30。
+
+**Stop 4 — Þingvellir National Park** · ~45 min from Friðheimar
+Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min — arrive ~14:30 and leave by ~15:45, before the light fades (sunset ~16:15). Cut the walk short if lunch ran long.
+冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟——约14:30抵达，15:45前离开，趁天色未暗（日落约16:15）；若午餐耽搁，可缩短步行时间。
+> Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
+> 请停在**上方的Hakið游客中心停车场**，而非下方停车场。由此有一条铺装、坡度平缓的步道通往裂谷，沿途设有护栏与观景平台——这是最便于通行的路线。请避开通往Öxarárfoss瀑布的台阶。
+
+**Dinner — Dinner in Selfoss** · back by ~16:45
+After the long day: Kaffi Krús (Austurvegur 7 — burgers, pizza, café food; same owners as Tryggvaskáli), Tommi's Burger Joint (Eyravegur 32, listed 11:00–21:00), or something simple at the apartment.
+忙碌一天之后：Kaffi Krús（Austurvegur 7号——汉堡、披萨、咖啡馆餐点；与Tryggvaskáli同一老板）、Tommi's Burger Joint（Eyravegur 32号，标注11:00–21:00营业），或在公寓简单做一顿。
 
 `Nature` `History` `Food` `Self-drive`
 
 📺 **花少5 · Ep 10 · Guide: 迪丽热巴 · Golden Circle / 黄金圈第一天**
-Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Þingvellir, where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates; Strokkur Geyser erupting 20–40m every 5–10 minutes; and Gullfoss. Today you follow all three in the same order they did.
+Your Golden Circle route retraces the cast's first day in Iceland (Ep 10, guided by 迪丽热巴) — Þingvellir, where they snorkelled Silfra Fissure in near-perfectly transparent glacial water between the North American and Eurasian tectonic plates; Strokkur Geyser erupting 20–40m every 5–10 minutes; and Gullfoss. Today you visit the same three, in reverse, so lunch lands at midday and Þingvellir comes last.
 
-您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——辛格维利尔公园，他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带；史托克间歇泉，每5-10分钟喷发20-40米高水柱；以及黄金瀑布。今天您将按照他们当日的顺序依次走过这三处。
+您的黄金圈行程与花少团冰岛第一天（第10集，迪丽热巴导游）的路线重合——辛格维利尔公园，他们在丝浮拉大裂缝潜游，在几乎完全透明的冰川水中触摸北美板块与欧亚板块的交界地带；史托克间歇泉，每5-10分钟喷发20-40米高水柱；以及黄金瀑布。今天您将以相反的顺序走过这三处，让午餐落在正午，辛格维利尔放在最后。
 
 ---
 

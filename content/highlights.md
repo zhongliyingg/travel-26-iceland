@@ -47,17 +47,17 @@ Icebergs drifting across a steel-grey lagoon. Diamond Beach across the road spar
 
 ---
 
-## 6. Geysir & Gullfoss / 间歇泉与黄金瀑布
+## 6. Gullfoss & Geysir / 黄金瀑布与间歇泉
 **Nov 20 · Golden Circle · Nature · Adventure / 11月20日 · 黄金圈 · 自然 · 探险**
 
-Strokkur erupts every 5–10 minutes. Then the thundering two-tiered Gullfoss waterfall plunges into a dramatic gorge.
+The thundering two-tiered Gullfoss waterfall plunges into a dramatic gorge. Then Strokkur geyser erupts every 5–10 minutes.
 
-斯特罗克间歇泉每5-10分钟喷发。随后是壮观的两级黄金瀑布奔腾入峡谷。
+壮观的两级黄金瀑布奔腾入峡谷。随后是斯特罗克间歇泉，每5-10分钟喷发一次。
 
 ---
 
 ## 7. Þingvellir National Park / 辛格韦德利国家公园
-**Nov 21 · Golden Circle · Nature · History / 11月21日 · 黄金圈 · 自然 · 历史**
+**Nov 20 · Golden Circle · Nature · History / 11月20日 · 黄金圈 · 自然 · 历史**
 
 Walk between two tectonic plates. Site of the world's oldest parliament, founded 930 AD. Flat boardwalks, easy for all.
 

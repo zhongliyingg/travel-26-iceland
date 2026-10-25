@@ -29,7 +29,7 @@
 
 ## DO SOON — 1–2 Months Out
 
-- **Friðheimar lunch** — Nov 20 · tomato greenhouse restaurant on the Golden Circle · book ahead at fridheimar.is · **book ~14:00** (last stop of the revised loop, after Gullfoss) · if that is too late to eat, book ~12:45 instead and move Gullfoss to after lunch
+- **Friðheimar lunch** — Nov 20 · tomato greenhouse restaurant on the Golden Circle · book ahead at fridheimar.is · **book ~12:30** (after Gullfoss and Geysir; Þingvellir follows in the afternoon)
 - **Pakkhús lunch (Höfn)** — Nov 17 · ~12:45 · only needed if you take the Day 7 east option · book ahead at pakkhus.is and check the November hours · ask for a flexible/cancellable booking (you decide on the day at Jökulsárlón) and confirm langoustine is on the menu — in winter it is usually frozen tails · call to cancel if you head back west instead
 - **Hotel Klaustur dinner** — Nov 17 · ~19:00 · hotel restaurant in Kirkjubæjarklaustur, listed as open year-round · so nobody has to cook after the long Day 7 east option (back ~18:15) · ask for a cancellable table — cancel if you take the west option and cook or eat at Systrakaffi instead
 - **Tryggvaskáli dinner** — Nov 19 · ~19:00 · Selfoss's best-known restaurant, in the town's first hotel building — the nicer meal of the Selfoss stay · book ahead
