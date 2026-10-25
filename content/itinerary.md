@@ -417,9 +417,9 @@ In the building that was Selfoss's first hotel — one of the best restaurants i
 **Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
 🏨 Amtmann Residence, Selfoss (night 2 of 2) · 🚗 ~200 km round trip
 
-The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in reverse so lunch is not pushed late — leave by 09:15 and drive straight up to Gullfoss, the furthest point, then Geysir, then Friðheimar for lunch at ~12:30, and finish at Þingvellir in the afternoon. Sunset is around 16:15, so leave Friðheimar by ~13:45. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
+The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in reverse so lunch is not pushed late — leave by 09:15 and drive straight up to Gullfoss, the furthest point, then Geysir, then Friðheimar for lunch at ~12:30, and finish at Þingvellir in the afternoon. Sunset is around 16:10, so leave Friðheimar by ~13:45. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
-这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按逆向顺序环行，避免午餐过晚——09:15前出发，直奔最远的黄金瀑布，再到盖歇尔，然后在Friðheimar享用约12:30的午餐，下午最后游览辛格维利尔。日落约在16:15，请在13:45前后离开Friðheimar。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
+这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按逆向顺序环行，避免午餐过晚——09:15前出发，直奔最远的黄金瀑布，再到盖歇尔，然后在Friðheimar享用约12:30的午餐，下午最后游览辛格维利尔。日落约在16:10，请在13:45前后离开Friðheimar。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
 
 **Breakfast — At the apartment** · before the 09:15 start
 Pack snacks for the car — lunch at Friðheimar is ~12:30, so a coffee or small snack at Geysir is plenty.
@@ -438,8 +438,8 @@ Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-b
 在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是下午前往辛格维利尔之前的理想休息处。建议预订约12:30。
 
 **Stop 4 — Þingvellir National Park** · ~45 min from Friðheimar
-Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min — arrive ~14:30 and leave by ~15:45, before the light fades (sunset ~16:15). Cut the walk short if lunch ran long.
-冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟——约14:30抵达，15:45前离开，趁天色未暗（日落约16:15）；若午餐耽搁，可缩短步行时间。
+Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min — arrive ~14:30 and leave by ~15:45, before the light fades (sunset ~16:10). Cut the walk short if lunch ran long.
+冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟——约14:30抵达，15:45前离开，趁天色未暗（日落约16:10）；若午餐耽搁，可缩短步行时间。
 > Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
 > 请停在**上方的Hakið游客中心停车场**，而非下方停车场。由此有一条铺装、坡度平缓的步道通往裂谷，沿途设有护栏与观景平台——这是最便于通行的路线。请避开通往Öxarárfoss瀑布的台阶。
 
