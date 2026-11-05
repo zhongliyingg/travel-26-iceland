@@ -417,9 +417,9 @@ In the building that was Selfoss's first hotel — one of the best restaurants i
 **Golden Circle loop — at an easy pace / 黄金圈环线——从容游览**
 🏨 Amtmann Residence, Selfoss (night 2 of 2) · 🚗 ~200 km round trip
 
-The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in reverse so lunch is not pushed late — leave by 09:15 and drive straight up to Gullfoss, the furthest point, then Geysir, then Friðheimar for lunch at ~12:30, and finish at Þingvellir in the afternoon. Sunset is around 16:10, so leave Friðheimar by ~13:45. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
+The Golden Circle is the same route 迪丽热巴 guided on the cast's first day in Iceland (Ep 10). Run the loop in reverse so lunch is not pushed late — leave by 09:15 and drive straight up to Gullfoss, the furthest point, then Geysir, then Friðheimar for lunch at ~12:30, and finish at Þingvellir in the afternoon. Sunset is around 16:10, so leave Friðheimar by ~13:45. An optional short stop at Brúarfoss fits between Friðheimar and Þingvellir if lunch finishes on time. Kerið is saved for tomorrow morning, on the way to Reykjavík, where it will catch far better light than it would at dusk today.
 
-这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按逆向顺序环行，避免午餐过晚——09:15前出发，直奔最远的黄金瀑布，再到盖歇尔，然后在Friðheimar享用约12:30的午餐，下午最后游览辛格维利尔。日落约在16:10，请在13:45前后离开Friðheimar。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
+这条黄金圈路线与第10集迪丽热巴带队的冰岛第一天完全重合。按逆向顺序环行，避免午餐过晚——09:15前出发，直奔最远的黄金瀑布，再到盖歇尔，然后在Friðheimar享用约12:30的午餐，下午最后游览辛格维利尔。日落约在16:10，请在13:45前后离开Friðheimar。若午餐按时结束，可在Friðheimar与辛格维利尔之间可选停靠布鲁阿尔瀑布（Brúarfoss）。克里德火山口留到明天上午返回雷克雅未克途中游览——彼时光线远胜今日黄昏。
 
 **Breakfast — At the apartment** · before the 09:15 start
 Pack snacks for the car — lunch at Friðheimar is ~12:30, so a coffee or small snack at Geysir is plenty.
@@ -437,11 +437,26 @@ Located in the Haukadalur geothermal valley. The famous Great Geysir rarely erup
 Lunch inside a working tomato greenhouse — the famous tomato soup with fresh-baked bread, surrounded by tomato vines. Warm, indoor and level underfoot: a good midday break before the afternoon at Þingvellir. Book ahead for ~12:30.
 在真正运作中的番茄温室里用午餐——招牌番茄汤配现烤面包，四周番茄藤蔓环绕。温暖、室内、地面平坦，是下午前往辛格维利尔之前的理想休息处。建议预订约12:30。
 
+**Optional — Brúarfoss** · ~35 min from Friðheimar · ~14:20–14:50 · only if lunch finished on time and the path is clear
+A short walk to a small, vivid-blue waterfall on the Brúará river, between Friðheimar and Þingvellir. Use the official Hlauptunga car park (ISK 750 per car), where the falls are only ~200 m, about 5 min on foot — not the free roadside trailhead on Route 37, which is a 6.5–7 km round trip along the riverbank and best skipped in winter. In November even the short path can be icy, so wear your Yaktrax, stay well back from the river edge (the banks are undercut) and turn back if it looks slippery. Allow ~30 min. Skip it if lunch ran past ~13:45, the light is already low or the path is iced over. If you stop here, Þingvellir shifts to ~15:20–15:55 (follow Plan B below) and you reach Selfoss ~17:00, after sunset. If you skip it, keep the times below.
+**可选 — 布鲁阿尔瀑布（Brúarfoss）** · 距Friðheimar约35分钟 · 约14:20–14:50 · 仅在午餐按时结束且路面状况良好时前往
+布鲁阿河上一座湛蓝色的小瀑布，位于Friðheimar与辛格维利尔之间，步行很短。请把车停在官方的Hlauptunga停车场（每车750冰岛克朗），从那里步行约200米、约5分钟即可到达瀑布——不要走37号公路旁的免费步道口，那条沿河步道往返约6.5–7公里，冬季最好避开。11月即使是短步道也可能结冰，请穿戴Yaktrax防滑鞋钉，务必远离河岸边缘（河岸下方被水掏空，不稳固），若路面湿滑就折返。预留约30分钟。若午餐超过约13:45、天色已暗或路面结冰，就直接跳过。若在此停留，辛格维利尔顺延至约15:20–15:55（按下方方案B游览），约17:00抵达塞尔福斯，此时已日落。若跳过，则沿用下方时间。
+
 **Stop 4 — Þingvellir National Park** · ~45 min from Friðheimar
 Iceland's most historically significant site — the world's oldest parliament (Alþingi, founded 930 AD) was held here on these flat lava plains. The site also sits directly on the Mid-Atlantic Ridge: the North American and Eurasian tectonic plates are visibly pulling apart. Silfra Fissure is here too — the cast's snorkelling highlight. You're skipping the snorkel, but the rift valley itself is spectacular to walk along. Allow ~1h 15min — arrive ~14:30 and leave by ~15:45, before the light fades (sunset ~16:10). Cut the walk short if lunch ran long.
 冰岛最具历史意义的地方——世界上最古老的议会（公元930年建立的阿尔庭）曾在这片熔岩平原上召开。这里同时位于大西洋中脊之上：北美板块与欧亚板块的分离之处近在眼前。丝浮拉大裂缝也在此处——花少团在这里完成了浮潜。您不做浮潜，但裂谷本身沿岸漫步已足够壮观。建议预留约1小时15分钟——约14:30抵达，15:45前离开，趁天色未暗（日落约16:10）；若午餐耽搁，可缩短步行时间。
 > Park at the **upper Hakið visitor centre car park**, not the lower lot. From there a paved, gently graded path leads down into the rift with railings and viewing platforms — the most accessible way in. Skip the steps up to Öxarárfoss waterfall.
 > 请停在**上方的Hakið游客中心停车场**，而非下方停车场。由此有一条铺装、坡度平缓的步道通往裂谷，沿途设有护栏与观景平台——这是最便于通行的路线。请避开通往Öxarárfoss瀑布的台阶。
+
+**Plan A — full visit** · Without Brúarfoss · ~14:30–15:45 (75 min) · upper Hakið car park
+~14:30–14:50 — Hakið viewpoint and visitor centre: the panorama over the rift valley, plus toilets and a warm indoor space. ~14:50–15:30 — walk the path down into Almannagjá toward Lögberg (Law Rock), where the Alþingi met from 930 AD. One guide gives ~15 min each way, so allow ~40 min with pauses. The way back is uphill: let the slowest walker set the pace, turn back at any point, and stay at the viewpoint if the path is icy. Sources disagree on how steep the path is, so judge it from the top. ~15:30–15:45 — spare time for the climb back, a hot drink or one more look from the viewpoint. Leave by ~15:45, before the light fades. Skip in both plans: Öxarárfoss (steps), Silfra, and the lower area by the church (Peningagjá, Drowning Pool) — only add that if you are ahead of schedule and want something flat.
+**方案A — 完整游览** · 不去布鲁阿尔瀑布 · 约14:30–15:45（75分钟）· 上方Hakið停车场
+约14:30–14:50——Hakið观景台与游客中心：俯瞰裂谷全景，设有洗手间和温暖的室内空间。约14:50–15:30——沿步道下行进入阿尔曼纳峡谷（Almannagjá），前往法律岩（Lögberg）——公元930年起阿尔庭便在此召开。有指南给出单程约15分钟，含停留约需40分钟。回程为上坡：请让走得最慢的人决定节奏，随时可以折返，路面结冰就留在观景台。各资料对步道坡度说法不一，请到现场从上方判断。约15:30–15:45——留作爬坡返回、喝杯热饮或再看一眼观景台的富余时间。请在约15:45前离开，趁天色未暗。两个方案都跳过：Öxarárfoss（台阶）、丝浮拉大裂缝，以及教堂附近的下游区域（Peningagjá硬币裂缝、溺水池）——只有进度提前、想走一段平路时才考虑。
+
+**Plan B — short visit** · With Brúarfoss · ~15:20–15:55 (35 min) · upper Hakið car park
+~15:20–15:35 — Hakið viewpoint and visitor centre: the panorama, toilets and a warm indoor space. ~15:35–15:55 — walk a little way down the Almannagjá path (~10 min down, ~10 min back up) to see the rift wall up close; skip it if the path is icy or anyone is tired. Leave by ~15:55 and reach Selfoss ~17:00, after sunset. If you left Brúarfoss late, do the viewpoint and toilets only (~20 min) and leave by ~15:40. Skip Lögberg, the lower area and everything else listed in Plan A.
+**方案B — 精简游览** · 含布鲁阿尔瀑布 · 约15:20–15:55（35分钟）· 上方Hakið停车场
+约15:20–15:35——Hakið观景台与游客中心：全景、洗手间和温暖的室内空间。约15:35–15:55——沿阿尔曼纳峡谷步道向下走一小段（下行约10分钟，返回约10分钟），近距离看裂谷岩壁；路面结冰或有人疲惫就跳过。请在约15:55前离开，约17:00抵达塞尔福斯，此时已日落。若离开布鲁阿尔瀑布较晚，只看观景台并使用洗手间（约20分钟），约15:40前离开。跳过法律岩、下游区域及方案A中列出的其他地点。
 
 **Dinner — Dinner in Selfoss** · back by ~16:45
 After the long day: Kaffi Krús (Austurvegur 7 — burgers, pizza, café food; same owners as Tryggvaskáli), Tommi's Burger Joint (Eyravegur 32, listed 11:00–21:00), or something simple at the apartment.
