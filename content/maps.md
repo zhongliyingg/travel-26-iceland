@@ -71,7 +71,18 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 
 ---
 
-## Day 7 · Nov 17 · Jökulsárlón, Diamond Beach · Höfn & Stokksnes (optional) / Fjallsárlón
+## Day 7 · Nov 17 · Skaftafell & Fjaðrárgljúfur
+**Centre:** 63.900, -17.200 · **Zoom:** 8
+
+| Marker | EN | ZH | Lat | Lng |
+|---|---|---|---|---|
+| 1 | Skaftafell Visitor Centre | 斯卡夫塔山游客中心 | 64.016 | -16.966 |
+| 2 | Fjaðrárgljúfur Canyon | 羽毛河峡谷 | 63.771 | -18.172 |
+| 3 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
+
+---
+
+## Day 8 · Nov 18 · Jökulsárlón, Diamond Beach · Höfn & Stokksnes (optional) / Fjallsárlón
 **Centre:** 64.050, -16.600 · **Zoom:** 7
 
 | Marker | EN | ZH | Lat | Lng |
@@ -79,21 +90,9 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 | 1 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
 | 2 | Jökulsárlón Glacier Lagoon (main car park & café) | 冰川湖（主停车场与咖啡馆） | 64.048 | -16.180 |
 | 3 | Diamond Beach | 钻石海滩 | 64.043 | -16.178 |
-| 4 | Höfn · Pakkhús (east option) | 霍芬 · Pakkhús餐厅（东行方案） | 64.251 | -15.205 |
-| 5 | Stokksnes / Vestrahorn (east option) | 斯托克角 / 维斯特拉霍恩山（东行方案） | 64.248 | -14.971 |
-| 6 | Fjallsárlón Glacier Lagoon (west option) | 菲亚德沙龙冰川湖（西返方案） | 64.019 | -16.385 |
-
----
-
-## Day 8 · Nov 18 · Skaftafell, Fjallsárlón & Fjaðrárgljúfur
-**Centre:** 63.900, -17.200 · **Zoom:** 8
-
-| Marker | EN | ZH | Lat | Lng |
-|---|---|---|---|---|
-| 1 | Skaftafell Visitor Centre | 斯卡夫塔山游客中心 | 64.016 | -16.966 |
-| 2 | Fjallsárlón Glacier Lagoon (optional) | 菲亚德沙龙冰川湖（可选） | 64.019 | -16.385 |
-| 3 | Fjaðrárgljúfur Canyon | 羽毛河峡谷 | 63.771 | -18.172 |
-| 4 | Kirkjubæjarklaustur | 教堂镇 | 63.789 | -18.055 |
+| 4 | Stokksnes / Vestrahorn (east option) | 斯托克角 / 维斯特拉霍恩山（东行方案） | 64.248 | -14.971 |
+| 5 | Höfn · Pakkhús (east option) | 霍芬 · Pakkhús餐厅（东行方案） | 64.251 | -15.205 |
+| 6 | Fjallsárlón Glacier Lagoon (optional, west option only) | 菲亚德沙龙冰川湖（可选，仅西返方案） | 64.019 | -16.385 |
 
 ---
 

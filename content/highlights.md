@@ -39,7 +39,7 @@ Two of Iceland's most dramatic waterfalls on the South Coast. Accessible platfor
 ---
 
 ## 5. Jökulsárlón Glacier Lagoon / 冰川湖与钻石海滩
-**Nov 17 · South Coast · Nature / 11月17日 · 南岸 · 自然**
+**Nov 18 · South Coast · Nature / 11月18日 · 南岸 · 自然**
 
 Icebergs drifting across a steel-grey lagoon. Diamond Beach across the road sparkles with ice on black sand.
 
