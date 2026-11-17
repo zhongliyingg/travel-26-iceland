@@ -267,41 +267,45 @@ A sit-down dinner after the long South Coast drive. Google Maps shows it open in
 
 ---
 
-### Day 7 · Tue, 17 Nov — Fjaðrárgljúfur · Skaftafell (optional) · Aurora / 羽毛河峡谷 · 斯卡夫塔山（可选）· 极光
-**Morning near Klaustur, then decide: Skaftafell in the afternoon lull, or stay local / 上午在教堂镇附近，午后再定：趁风小去斯卡夫塔山，或留在本地**
-🏨 Kirkjubæjarklaustur cabin (night 2 of 3) · 🚗 ~150 km round trip (Plan A) · ~40 km (Plan B) · easy pace
+### Day 7 · Tue, 17 Nov — Fjaðrárgljúfur · Skaftafell · Aurora / 羽毛河峡谷 · 斯卡夫塔山 · 极光
+**Canyon first, then Skaftafell late morning as the wind eases / 先看峡谷，再趁上午晚些时候风势减弱去斯卡夫塔山**
+🏨 Kirkjubæjarklaustur cabin (night 2 of 3) · 🚗 ~150 km round trip · easy pace
 
-Spend the morning near Klaustur, then make the Skaftafell call at ~12:30. Winds are strongest in the morning (9–13 m/s from the east) and are forecast to ease to ~5 m/s from about 13:00 to 17:00. If the live observations look good, go to Skaftafell in the lull (Plan A); otherwise stay local (Plan B). Tonight: an aurora watch from the cabin.
+Fjaðrárgljúfur and Eldhraun first — west of Klaustur, away from the exposed stretch — then Skaftafell late morning as the wind eases. At 09:00 Klaustur had 12 m/s with gusts of 18 m/s; the forecast was ~7 m/s at 11:00–12:00 and ~4 m/s from 14:00. Re-check at ~10:45 before heading east. If it is still too windy, do Plan B. Tonight: an aurora watch from the cabin.
 
-上午在教堂镇附近活动，约12:30再决定是否前往斯卡夫塔山。上午风力最强（东风9–13米/秒），预报约13:00至17:00减弱至约5米/秒。若实时观测数据良好，就趁风小去斯卡夫塔山（方案A）；否则留在本地（方案B）。今晚：在小木屋观赏极光。
+先去羽毛河峡谷与埃尔德赫劳恩——位于教堂镇以西，避开开阔路段——再趁上午晚些时候风势减弱去斯卡夫塔山。09:00教堂镇风速12米/秒、阵风18米/秒；预报11:00–12:00约7米/秒，14:00起约4米/秒。约10:45东行前再查看一次。若风仍太大，则改为方案B。今晚：在小木屋观赏极光。
 
-**Breakfast — Slow breakfast at the cabin / 早餐 — 在小木屋悠闲早餐** · ~09:00 · no rush / 约09:00 · 不赶时间
+**Breakfast — Slow breakfast at the cabin / 早餐 — 在小木屋悠闲早餐** · ~08:45 / 约08:45
 Pack sandwiches and a thermos for lunch and the car. Skaftafell has few winter food options.
 备好三明治和保温瓶，供午餐和车上食用。斯卡夫塔山冬季餐饮选择很少。
 
-**Morning — Fjaðrárgljúfur canyon / 上午 — 羽毛河峡谷** · ~10 min west of Klaustur · ~10:00–11:00 / 教堂镇以西约10分钟 · 约10:00–11:00
+**Morning — Fjaðrárgljúfur canyon / 上午 — 羽毛河峡谷** · ~10 min west of Klaustur · ~09:45–10:30 / 教堂镇以西约10分钟 · 约09:45–10:30
 A 100m-deep, moss-covered canyon. The first viewpoint is close to the car park — stop there, or walk up the rim path only as far as feels comfortable. The path is sometimes closed to protect the moss, so check on the day.
 深约100米、布满青苔的峡谷。第一个观景点距停车场很近——在此观赏即可，或沿峡谷边缘小径量力而行。为保护青苔，步道有时会关闭，请当天确认。
 
-**Optional — Eldhraun moss lava field / 可选 — 埃尔德赫劳恩苔藓熔岩原（Eldhraun）** · A few minutes further west on Route 1 · ~15 min · ~11:05–11:25 / 1号公路上再往西几分钟 · 约15分钟 · 约11:05–11:25
+**Optional — Eldhraun moss lava field / 可选 — 埃尔德赫劳恩苔藓熔岩原（Eldhraun）** · A few minutes further west on Route 1 · ~15 min · ~10:30–10:45 / 1号公路上再往西几分钟 · 约15分钟 · 约10:30–10:45
 A vast lava field from the 18th-century eruption, blanketed in thick moss. Pull over at a roadside lay-by and look from the car, or step out for a few minutes; do not walk on the moss, it takes years to regrow. In November it will likely be brown or under snow, so expect it to look less green than summer photos. Skip it if light or weather is poor.
 18世纪火山喷发形成的广阔熔岩原，覆盖着厚厚的苔藓。可在路边停车带靠边停车，坐在车里欣赏，或下车站几分钟；切勿踩踏苔藓，它需要多年才能重新长出。11月苔藓多半呈褐色或被积雪覆盖，不会像夏季照片那样翠绿。光线或天气不佳时可直接跳过。
 
-**Lunch — Systrakaffi, or the cabin / 午餐 — Systrakaffi，或在小木屋用餐** · ~12:00–13:00 · the indoor slot / 约12:00–13:00 · 室内休息时段
-Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Scattered snow or sleet showers are forecast around noon, so this is the time to be indoors. Or eat the packed sandwiches at the cabin.
-Systrakaffi位于Klausturvegur街，适合轻松用餐——披萨、汉堡和自制蛋糕（请确认11月营业时间）。预报中午前后有零星雪或雨夹雪阵雨，正好在室内休息。也可在小木屋吃自带的三明治。
+**Decision — Head east to Skaftafell now? / 决定 — 现在东行去斯卡夫塔山吗？** · ~10:45 · after Eldhraun / 约10:45 · 游览埃尔德赫劳恩后
+Check the live Klaustur observations on vedur.is and the road on umferdin.is. Go only if gusts are well under ~20 m/s, the mean wind is easing toward ~7 m/s as forecast for 11:00–12:00, there is no weather warning and Route 1 is clear. On the road, turn back if the car is being pushed noticeably by gusts — the open Skeiðarársandur stretch can be windier than Klaustur.
+在vedur.is查看教堂镇实时观测，在umferdin.is查看路况。仅当阵风远低于约20米/秒、平均风速按预报在11:00–12:00减弱至约7米/秒、没有天气预警且1号公路畅通时才出发。途中若车辆明显被阵风推动，请掉头返回——开阔的Skeiðarársandur路段风可能比教堂镇更大。
 
-**Decision — Skaftafell or stay local? / 决定 — 去斯卡夫塔山，还是留在本地？** · ~12:30 · check before you leave / 约12:30 · 出发前确认
-Check the live Klaustur observations on vedur.is and the road on umferdin.is. Go to Skaftafell (Plan A) only if gusts are well under ~20 m/s, the mean wind has eased to ~5 m/s as forecast for 13:00–17:00, there is no weather warning and Route 1 is clear. Otherwise do Plan B.
-在vedur.is查看教堂镇实时观测数据，在umferdin.is查看路况。仅当阵风远低于约20米/秒、平均风速已按预报在13:00–17:00减弱至约5米/秒、没有天气预警且1号公路畅通时，才去斯卡夫塔山（方案A）；否则选择方案B。
+**Late morning — Skaftafell visitor centre / 上午晚些时候 — 斯卡夫塔山游客中心** · ~1h east of Eldhraun, passing Klaustur · ~11:45–12:45 · back in Klaustur ~13:40 / 埃尔德赫劳恩以东约1小时，途经教堂镇 · 约11:45–12:45 · 约13:40回到教堂镇
+Vatnajökull National Park's visitor centre, with an exhibition, a café and glacier views from the car park area. Skip the steep Svartifoss walk. A mostly flat gravel path leads toward the Skaftafellsjökull glacier tongue, but it is longer than the Sólheimajökull walk — go only part of the way, if at all. Check the visitor centre's winter hours on the day. Packed sandwiches here are an option if you are hungry before the late lunch.
+瓦特纳冰川国家公园游客中心，设有展览与咖啡馆，在停车场一带即可远眺冰川。请跳过坡度较陡的斯瓦蒂瀑布（Svartifoss）步道。另有一条大致平坦的碎石小径通往斯卡夫塔山冰川舌，但比索尔黑马冰川的步行更长——量力而行，走一小段即可，亦可不走。请当天确认游客中心冬季开放时间。若在较晚的午餐前饿了，可在此吃自带的三明治。
 
-**Plan A — Skaftafell visitor centre / 方案A — 斯卡夫塔山游客中心** · Leave ~13:00 · ~50 min east of Klaustur · ~13:50–15:00 · back ~15:50 / 约13:00出发 · 教堂镇以东约50分钟 · 约13:50–15:00 · 约15:50返回
-Vatnajökull National Park's visitor centre, with an exhibition, a café and glacier views from the car park area. Skip the steep Svartifoss walk. A mostly flat gravel path leads toward the Skaftafellsjökull glacier tongue, but it is longer than the Sólheimajökull walk — go only part of the way, if at all. Check the visitor centre's winter hours on the day. Sunset is ~16:10, so do not linger.
-瓦特纳冰川国家公园游客中心，设有展览与咖啡馆，在停车场一带即可远眺冰川。请跳过坡度较陡的斯瓦蒂瀑布（Svartifoss）步道。另有一条大致平坦的碎石小径通往斯卡夫塔山冰川舌，但比索尔黑马冰川的步行更长——量力而行，走一小段即可，亦可不走。请当天确认游客中心冬季开放时间。日落约16:10，请勿久留。
+**Lunch — Late lunch — Systrakaffi, or the cabin / 午餐 — 较晚午餐——Systrakaffi，或在小木屋用餐** · ~13:45–14:30 / 约13:45–14:30
+Systrakaffi on Klausturvegur for something casual — pizza, burgers and homemade cakes (confirm November hours). Or eat the packed sandwiches at the cabin.
+Systrakaffi位于Klausturvegur街，适合轻松用餐——披萨、汉堡和自制蛋糕（请确认11月营业时间）。也可在小木屋吃自带的三明治。
 
-**Plan B — Kirkjugólf and Systrafoss / 方案B — Kirkjugólf教堂地板与Systrafoss姐妹瀑布** · In and beside Klaustur · ~13:15–14:10 · back at the cabin ~14:30 / 位于教堂镇内及附近 · 约13:15–14:10 · 约14:30返回小木屋
-Kirkjugólf ("Church Floor") is a flat patch of natural basalt columns, worn smooth so that it looks like tiled paving, just east of the village — a short gravel walk of a few minutes from a small car park. The path can be icy in winter: cleats on, and skip it if the path looks bad (~13:15–13:45). Systrafoss is a waterfall (roughly 60–90 m) on the cliff behind the village, easily seen from the car park at its foot; skip the steep path up the cliff, and expect a thin flow in cold weather (~13:50–14:10).
-Kirkjugólf（“教堂地板”）是一片天然玄武岩石柱的平台，顶面被磨平，看上去像铺好的地砖，位于村庄以东——从小停车场沿碎石小径步行数分钟即达。冬季小径可能结冰：请穿戴鞋钉，路面不佳就跳过（约13:15–13:45）。Systrafoss是村庄后方悬崖上的瀑布（高约60–90米），在山脚停车场即可看到；请跳过陡峭的上崖小径，天冷时水量可能偏小（约13:50–14:10）。
+**Optional — Kirkjugólf and Systrafoss / 可选 — Kirkjugólf教堂地板与Systrafoss姐妹瀑布** · In and beside Klaustur · ~14:40–15:30, before sunset ~16:10 / 位于教堂镇内及附近 · 约14:40–15:30，日落（约16:10）前
+Kirkjugólf ("Church Floor") is a flat patch of natural basalt columns, worn smooth so that it looks like tiled paving, just east of the village — a short gravel walk of a few minutes from a small car park. The path can be icy in winter: cleats on, and skip it if the path looks bad (~14:40–15:05). Systrafoss is a waterfall (roughly 60–90 m) on the cliff behind the village, easily seen from the car park at its foot; skip the steep path up the cliff, and expect a thin flow in cold weather (~15:10–15:30). Skip them if energy or light is running low.
+Kirkjugólf（“教堂地板”）是一片天然玄武岩石柱的平台，顶面被磨平，看上去像铺好的地砖，位于村庄以东——从小停车场沿碎石小径步行数分钟即达。冬季小径可能结冰：请穿戴鞋钉，路面不佳就跳过（约14:40–15:05）。Systrafoss是村庄后方悬崖上的瀑布（高约60–90米），在山脚停车场即可看到；请跳过陡峭的上崖小径，天冷时水量可能偏小（约15:10–15:30）。若体力或天光不足可跳过。
+
+**Plan B — If it is too windy at 10:45 / 方案B — 若10:45时风太大** · Swap the afternoon around / 调换下午顺序
+Have lunch, then Kirkjugólf and Systrafoss. Re-check at ~13:00: if the wind has eased as forecast (~4 m/s from 14:00), go to Skaftafell then (leave by ~13:00, back before sunset ~16:10). If not, keep Skaftafell for Day 8 Option 2.
+先吃午餐，再看Kirkjugólf与Systrafoss。约13:00再查看一次：若风力按预报减弱（14:00起约4米/秒），就此时去斯卡夫塔山（最晚约13:00出发，日落约16:10前返回）。否则把斯卡夫塔山留到第8天方案2。
 
 **Evening — Fuel up in Klaustur / 傍晚 — 在教堂镇加油** · Before dark · ~16:00 at the latest / 天黑前 · 最迟约16:00
 Fill the tank for tomorrow's long drive at Olís/ÓB (Iðjuvellir 1) or N1 in Klaustur. Self-service pumps need a chip-and-PIN card, and choosing "fill up" can place a hold of about ISK 25,000 on the card for 48–72 hours — choose a fixed amount if your limit is tight.
@@ -317,8 +321,8 @@ NOAA预测21:00至03:00 Kp指数达4.7（G1轻度磁暴），但把握不大（�
 
 `Nature` `Glacier` `Aurora` `Relaxed` `Food` `Self-drive`
 
-> Check umferdin.is and the weather at vedur.is before setting off — the Öræfi stretch near Skaftafell is known for strong crosswinds. Today's text forecast says east 10–18 m/s in the southeast. If gusts of ~20 m/s or more are forecast or observed for the Klaustur–Skaftafell stretch, skip Skaftafell and do Plan B.
-> 出发前在umferdin.is查看路况，在vedur.is查看天气——斯卡夫塔山附近的Öræfi路段以强侧风闻名。今天的文字预报为东南部东风10–18米/秒。若教堂镇至斯卡夫塔山路段预报或观测到阵风达约20米/秒或以上，就跳过斯卡夫塔山，改为方案B。
+> Check umferdin.is and the weather at vedur.is before setting off — the Öræfi stretch near Skaftafell is known for strong crosswinds. Today's text forecast says east 10–18 m/s in the southeast, easing in the afternoon. If gusts of ~20 m/s or more are forecast or observed for the Klaustur–Skaftafell stretch, do Plan B.
+> 出发前在umferdin.is查看路况，在vedur.is查看天气——斯卡夫塔山附近的Öræfi路段以强侧风闻名。今天的文字预报为东南部东风10–18米/秒，午后减弱。若教堂镇至斯卡夫塔山路段预报或观测到阵风达约20米/秒或以上，就改为方案B。
 
 ---
 
