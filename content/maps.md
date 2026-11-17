@@ -96,14 +96,14 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 
 ---
 
-## Day 9 · Nov 19 · Klaustur → Dyrhólaey → Sólheimajökull → LAVA Centre → Selfoss
+## Day 9 · Nov 19 · Klaustur → Dyrhólaey → Sólheimajökull → Skógar → Selfoss
 **Centre:** 63.650, -19.700 · **Zoom:** 8
 
 | Marker | EN | ZH | Lat | Lng |
 |---|---|---|---|---|
 | 1 | Dyrhólaey | 迪霍拉里海角 | 63.402 | -19.128 |
 | 2 | Sólheimajökull Glacier | 索尔黑马冰川 | 63.530 | -19.371 |
-| 3 | LAVA Centre, Hvolsvöllur | 熔岩中心（赫沃斯沃德吕尔） | 63.753 | -20.236 |
+| 3 | Skógafoss & Skógar Museum | 斯科加瀑布与斯科加博物馆 | 63.532 | -19.512 |
 | 4 | Selfoss | 塞尔福斯 | 63.933 | -20.997 |
 
 ---

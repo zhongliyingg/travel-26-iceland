@@ -330,9 +330,9 @@ NOAA预测21:00至03:00 Kp指数达4.7（G1轻度磁暴），但把握不大（�
 **Glacier lagoon & Diamond Beach — then east to Stokksnes (Option 1) or a short day back west (Option 2) / 冰川湖与钻石海滩——之后东行斯托克角（方案1），或轻松西返（方案2）**
 🏨 Kirkjubæjarklaustur cabin (night 3 of 3) · 🚗 ~420 km · ~5h 30min driving (Option 1) · ~250 km (Option 2)
 
-Leave at 07:30 (08:00–08:30 if the aurora watch ran late) to reach Jökulsárlón in the blue pre-sunrise twilight; sunrise is ~10:00. The times below allow for a slower pace at each stop. After Diamond Beach, decide on the spot: Option 1 east to Stokksnes if every check below passes and you leave Diamond Beach by ~11:45; otherwise Option 2, lunch at the Jökulsárlón café and a short day back west via Fjallsárlón. Skaftafell was done on Day 7. Dinner at the cabin either way.
+Leave at 07:30 (08:00–08:30 if the aurora watch ran late) to reach Jökulsárlón in the blue pre-sunrise twilight; sunrise is ~10:00. The times below allow for a slower pace at each stop. After Diamond Beach, decide on the spot: Option 1 east to Stokksnes if every check below passes and you leave Diamond Beach by ~11:45; otherwise Option 2, lunch at the Jökulsárlón café and a short day back west via Fjallsárlón, with Eldhraun at the end. Skaftafell was done on Day 7. Dinner at the cabin either way.
 
-07:30出发（若看极光熬夜，可改为08:00–08:30），日出前的蓝色晨光中抵达杰古沙龙冰川湖；日出约10:00。以下时间已为每个景点预留较宽裕的游览时间。游览钻石海滩后现场决定：若下方各项检查全部通过，且约11:45前离开钻石海滩，选方案1东行至斯托克角；否则选方案2，在杰古沙龙冰川湖咖啡馆午餐，再经菲亚德沙龙冰川湖轻松西返。斯卡夫塔山已于第7天游览。两种方案晚餐都在小木屋用餐。
+07:30出发（若看极光熬夜，可改为08:00–08:30），日出前的蓝色晨光中抵达杰古沙龙冰川湖；日出约10:00。以下时间已为每个景点预留较宽裕的游览时间。游览钻石海滩后现场决定：若下方各项检查全部通过，且约11:45前离开钻石海滩，选方案1东行至斯托克角；否则选方案2，在杰古沙龙冰川湖咖啡馆午餐，再经菲亚德沙龙冰川湖轻松西返，最后顺访埃尔德赫劳恩熔岩原。斯卡夫塔山已于第7天游览。两种方案晚餐都在小木屋用餐。
 
 **Breakfast — At the cabin / 早餐 — 小木屋内** · ~06:45 / 约06:45
 An early breakfast before the 07:30 start. Fill a thermos and pack snacks for the car.
@@ -370,9 +370,13 @@ Refuel for the ~2h 45min drive back: Olís (Hafnarbraut 45) or N1 (Vesturbraut 1
 Lunch at the café by the lagoon car park (open year-round, ~9:00–17:00; lobster soup, sandwiches, cake) before heading west. Confirm hours on the day.
 西返前在冰川湖停车场旁的咖啡馆用午餐（全年营业，约9:00–17:00；供应龙虾汤、三明治与蛋糕）。请当天确认营业时间。
 
-**Option 2 · West — Fjallsárlón (optional) / 方案2 · 西返 — 菲亚德沙龙冰川湖（可选）** · ~10 min west of Jökulsárlón, on the way back · ~12:30–13:15 · back at the cabin ~15:00 / 杰古沙龙冰川湖以西约10分钟，返程途经 · 约12:30–13:15 · 约15:00回到小木屋
+**Option 2 · West — Fjallsárlón (optional) / 方案2 · 西返 — 菲亚德沙龙冰川湖（可选）** · ~10 min west of Jökulsárlón, on the way back · ~12:30–13:15 · in Klaustur ~15:00 / 杰古沙龙冰川湖以西约10分钟，返程途经 · 约12:30–13:15 · 约15:00抵达教堂镇
 A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park. Skip it if time, weather or energy is short. Then drive straight back — Skaftafell was done on Day 7.
 更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。时间、天气或体力不足时可直接跳过。之后直接返程——斯卡夫塔山已于第7天游览。
+
+**Option 2 · West — Eldhraun moss lava field (optional) / 方案2 · 西返 — 埃尔德赫劳恩苔藓熔岩原（可选）** · ~10 min west of Klaustur, past the cabin · ~15:00–15:20 · back at the cabin ~15:30 / 教堂镇以西约10分钟，越过小木屋 · 约15:00–15:20 · 约15:30回到小木屋
+The lava field skipped on Day 7, seen in daylight before sunset (~16:05). A vast field from the 18th-century eruption, blanketed in thick moss. Pull over at a roadside lay-by and look from the car, or step out for a few minutes; do not walk on the moss, it takes years to regrow. In November it will likely be brown or under snow. Skip it if light or energy is low.
+第7天跳过的熔岩原，趁日落（约16:05）前天光尚亮时观赏。18世纪火山喷发形成的广阔熔岩原，覆盖着厚厚的苔藓。可在路边停车带靠边停车，坐在车里欣赏，或下车站几分钟；切勿踩踏苔藓，它需要多年才能重新长出。11月苔藓多半呈褐色或被积雪覆盖。若天光或体力不足可跳过。
 
 **Dinner — At the cabin / 晚餐 — 小木屋内** · Evening / 傍晚
 Cook dinner at the cabin. Last night in Klaustur — pack the bags tonight for the 09:00 Day 9 start.
@@ -405,40 +409,35 @@ Jökulsárlón and Fjallsárlón are both fed by Vatnajökull — Europe's large
 
 ---
 
-### Day 9 · Thu, 19 Nov — Klaustur → Dyrhólaey → Sólheimajökull → Skógar → Hvolsvöllur → Selfoss / 教堂镇 → 迪霍拉里 → 索尔黑马冰川 → 斯科加 → 赫沃斯沃德吕尔 → 塞尔福斯
-**The 花少5 lighthouse, a glacier, a turf-house museum & the volcano centre / 花少5灯塔、近观冰川、草皮屋博物馆与火山中心**
+### Day 9 · Thu, 19 Nov — Klaustur → Dyrhólaey → Sólheimajökull → Skógar → Selfoss / 教堂镇 → 迪霍拉里 → 索尔黑马冰川 → 斯科加 → 塞尔福斯
+**The 花少5 lighthouse, a glacier, Skógafoss & a turf-house museum / 花少5灯塔、近观冰川、斯科加瀑布与草皮屋博物馆**
 🏨 Amtmann Residence, Selfoss (night 1 of 2) · 🚗 ~200 km · ~2h 40min driving
 
-Check out by 09:00 and drive west along the South Coast, with four easy stops on the way to your base for the last two nights. The first stretch is in darkness — sunrise is ~10:20.
+Check out by 09:00 and drive west along the South Coast, with four easy stops on the way to your base for the last two nights. The first stretch is in darkness — sunrise is ~10:20. The times allow for a slower pace at each stop.
 
-09:00前退房，沿南岸向西行驶，途中四个轻松停靠点，前往最后两晚的住处。第一段路程天色未亮——日出约10:20。
+09:00前退房，沿南岸向西行驶，途中四个轻松停靠点，前往最后两晚的住处。第一段路程天色未亮——日出约10:20。以下时间已为每个景点预留较宽裕的游览时间。
 
-**Stop 5 — Dyrhólaey Lighthouse** · ~1h west of Klaustur · ~10:00–10:45 · weather-dependent
+**Stop 5 — Dyrhólaey Lighthouse** · ~1h west of Klaustur · ~10:00–11:00 · weather-dependent
 The last stop of the 花少5 South Coast route. 120m sea arch peninsula, landmark lighthouse built 1919–1927. Spectacular on clear days, and you arrive around sunrise. In ferocious winds — as the cast discovered — nearly impossible to walk forward. Go if conditions allow; skip without guilt if not. 秦海璐 made the same call. If Day 6 was stormy, Reynisfjara is ~15 min away for a second look — stay well back from the waves.
 花少5南海岸路线的最后一站。120米高的海蚀拱门半岛，建于1919至1927年的标志性灯塔。晴天时景色壮观，抵达时恰逢日出前后。风力猛烈时正如花少团所遭遇——几乎寸步难行。天气允许则前往，条件恶劣则果断放弃，无需遗憾。秦海璐就是这么决定的。若第6天遇上风暴，雷尼斯黑沙滩距此约15分钟，可再访一次——务必远离海浪。
 
-**Optional — Loftsalahellir cave** · on the Dyrhólaey road (road 218), ~2.5 km past the Ring Road junction · ~10:45–11:05 · only if the path is clear
-A shallow cave in the hillside, reached by a small path across a meadow from a little parking area — under 5 min each way, and open all year. In winter the path can be muddy, uneven or icy, so look at it from the car park and skip the cave if it looks slippery. Allow ~20 min. If you stop here, Sólheimajökull shifts to ~11:35–12:35 and the Skógar museum to ~12:50–13:45 (trim the visit to ~55 min), so the LAVA Centre still starts ~14:15 and you reach Selfoss ~16:15. If you skip it, keep the times below.
-**可选 — 洛夫特萨拉洞穴（Loftsalahellir）** · 位于迪霍拉里公路（218号公路）上，距环岛公路路口约2.5公里 · 约10:45–11:05 · 仅在路面状况良好时前往
-山坡上一处较浅的洞穴，从小停车场沿穿过草地的小路步行，单程不到5分钟，全年开放。冬季小路可能泥泞、不平或结冰，请先在停车场观察路况，若看起来湿滑就直接跳过。预留约20分钟。若在此停留，索尔黑马冰川顺延至约11:35–12:35，斯科加博物馆顺延至约12:50–13:45（参观压缩至约55分钟），这样熔岩中心仍可在约14:15开始，约16:15抵达塞尔福斯。若跳过，则沿用下方时间。
-
-**Sólheimajökull glacier** · ~30 min from Dyrhólaey · ~11:15–12:15
+**Sólheimajökull glacier** · ~30 min from Dyrhólaey · ~11:30–12:45
 A glacier tongue of the Mýrdalsjökull ice cap. A ~15–20 min gravel walk from the car park brings you to a viewpoint right in front of the ice — see a glacier up close without walking on it. Note: that is ~15–20 min *each way* on uneven gravel (~1.5 km round trip) — the longest walk of the trip. Take it slowly, wear ice cleats, and turn back at any point if the going is hard; the glacier is visible from partway along.
 米达尔斯冰原延伸出的冰川舌。从停车场沿碎石路步行约15-20分钟，即可抵达冰川正前方的观景点——无需踏上冰面，也能近距离感受冰川。注意：单程即需15-20分钟，碎石路面不平（往返约1.5公里），是全程最长的一段步行。请放慢脚步、穿戴防滑鞋钉；若体力不支可随时折返，途中已可望见冰川。
 
-**Skógar Folk Museum (Skógasafn)** · ~15 min west of Sólheimajökull · ~12:30–13:45
+**Skógafoss** · ~15 min west of Sólheimajökull · ~13:00–14:00
+The 60m curtain waterfall missed on Day 6. A flat walk of a few minutes from the car park to the base — spray can make the ground icy, so cleats on, and skip the steep stairs to the top. Have lunch nearby: the cafés by the falls or at the museum (confirm winter hours), or packed sandwiches.
+第6天错过的60米高幕布状瀑布。从停车场平路步行几分钟即可抵达瀑布脚下——水雾可能让地面结冰，请穿戴防滑鞋钉；不必攀登通往瀑布顶部的陡峭阶梯。午餐就在附近解决：瀑布旁或博物馆的咖啡馆（请确认冬季营业时间），或自带三明治。
+
+**Skógar Folk Museum (Skógasafn)** · Next to Skógafoss · ~14:05–15:35
 Turf-roofed houses, a restored church and some 18,000 regional artefacts covering a thousand years of Icelandic rural life. Indoor, flat and warm — the ideal weather-proof stop if the morning turns wet or windy. Open daily 10:00–16:00 in November.
 草皮屋、重建教堂与约18,000件地方文物，呈现冰岛千年乡村生活。室内、平坦、温暖——若上午遇上风雨，这里是最理想的避风停靠点。11月每日10:00–16:00开放。
 
-**LAVA Centre, Hvolsvöllur** · ~30 min further · ~14:15–15:30
-An interactive indoor exhibition on Iceland's volcanoes and earthquakes, with a short film. Allow 1–1.5 hours; the café is a good lunch stop.
-关于冰岛火山与地震的互动式室内展览，并有短片放映。建议预留1-1.5小时；馆内咖啡厅适合午餐。
-
-**Selfoss** · ~45 min from Hvolsvöllur · arrive ~16:15
+**Selfoss** · ~1h 30min from Skógar · arrive ~17:05, mostly after dark
 Check in to Amtmann Residence in Selfoss for two nights.
 入住塞尔福斯的Amtmann Residence，连住两晚。
 
-**On arrival — Selfoss supermarket — Krónan or Bónus** · ~16:15 · on the way into town
+**On arrival — Selfoss supermarket — Krónan or Bónus** · ~17:05 · on the way into town
 Both chains have stores in Selfoss. Krónan usually opens until ~20:00–21:00 and Bónus until ~19:00, but check kronan.is or bonus.is for the Selfoss hours. Buy breakfast for Days 10 and 11, car snacks for the Golden Circle, and something easy for one dinner at the apartment. Check the Amtmann listing for what the kitchen has.
 两家连锁超市在塞尔福斯均有门店。Krónan通常营业至约20:00–21:00，Bónus至约19:00，但请在kronan.is或bonus.is确认塞尔福斯门店的营业时间。备好第10、11天的早餐、黄金圈途中的车上零食，以及一顿可在公寓简单做的晚餐食材。请查看Amtmann房源页面，了解厨房配置。
 
