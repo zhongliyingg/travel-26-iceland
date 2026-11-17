@@ -92,7 +92,8 @@ Update this file first, then mirror changes to the `dayMaps` object in `index.ht
 | 3 | Diamond Beach | 钻石海滩 | 64.043 | -16.178 |
 | 4 | Stokksnes / Vestrahorn (east option) | 斯托克角 / 维斯特拉霍恩山（东行方案） | 64.248 | -14.971 |
 | 5 | Höfn · Pakkhús (east option) | 霍芬 · Pakkhús餐厅（东行方案） | 64.251 | -15.205 |
-| 6 | Fjallsárlón Glacier Lagoon (optional, west option only) | 菲亚德沙龙冰川湖（可选，仅西返方案） | 64.019 | -16.385 |
+| 6 | Fjallsárlón Glacier Lagoon (optional, Option 2 only) | 菲亚德沙龙冰川湖（可选，仅方案2） | 64.019 | -16.385 |
+| 7 | Skaftafell Visitor Centre (Option 2, if not done on Day 7) | 斯卡夫塔山游客中心（方案2，若第7天未去） | 64.016 | -16.966 |
 
 ---
 
