@@ -326,64 +326,68 @@ NOAA预测21:00至03:00 Kp指数达4.7（G1轻度磁暴），但把握不大（�
 
 ---
 
-### Day 8 · Wed, 18 Nov — Jökulsárlón · Diamond Beach · then Höfn & Stokksnes, or Fjallsárlón & Skaftafell / 杰古沙龙冰川湖 · 钻石海滩 · 之后东行霍芬与斯托克角，或西返菲亚德沙龙冰川湖与斯卡夫塔山
-**Glacier lagoon & Diamond Beach — then choose: east run (Option 1) or west with Skaftafell (Option 2) / 冰川湖与钻石海滩——之后二选一：东行（方案1）或西返并游斯卡夫塔山（方案2）**
+### Day 8 · Wed, 18 Nov — Jökulsárlón · Diamond Beach · then Stokksnes, or Fjallsárlón / 杰古沙龙冰川湖 · 钻石海滩 · 之后东行斯托克角，或西返菲亚德沙龙冰川湖
+**Glacier lagoon & Diamond Beach — then east to Stokksnes (Option 1) or a short day back west (Option 2) / 冰川湖与钻石海滩——之后东行斯托克角（方案1），或轻松西返（方案2）**
 🏨 Kirkjubæjarklaustur cabin (night 3 of 3) · 🚗 ~420 km · ~5h 30min driving (Option 1) · ~250 km (Option 2)
 
-Leave by 08:00 (08:30 if you were up late for the aurora) to reach Jökulsárlón around sunrise. After Diamond Beach, decide on the spot. Option 1 (east to Stokksnes) is the better fit if you did Skaftafell on Day 7 and every check below passes. Option 2 (west via Fjallsárlón, with Skaftafell if you skipped it on Day 7) is the fallback if any check fails.
+Leave at 07:30 (08:00–08:30 if the aurora watch ran late) to reach Jökulsárlón in the blue pre-sunrise twilight; sunrise is ~10:00. The times below allow for a slower pace at each stop. After Diamond Beach, decide on the spot: Option 1 east to Stokksnes if every check below passes and you leave Diamond Beach by ~11:45; otherwise Option 2, lunch at the Jökulsárlón café and a short day back west via Fjallsárlón. Skaftafell was done on Day 7. Dinner at the cabin either way.
 
-08:00前出发（若因看极光熬夜，可改为08:30），约日出时分抵达杰古沙龙冰川湖。游览钻石海滩后现场决定。若第7天已游览斯卡夫塔山，且下方各项检查全部通过，更适合选方案1（东行至斯托克角）。若有任何一项未通过，则选方案2（经菲亚德沙龙冰川湖西返；若第7天未去斯卡夫塔山，则在返程时游览）。
+07:30出发（若看极光熬夜，可改为08:00–08:30），日出前的蓝色晨光中抵达杰古沙龙冰川湖；日出约10:00。以下时间已为每个景点预留较宽裕的游览时间。游览钻石海滩后现场决定：若下方各项检查全部通过，且约11:45前离开钻石海滩，选方案1东行至斯托克角；否则选方案2，在杰古沙龙冰川湖咖啡馆午餐，再经菲亚德沙龙冰川湖轻松西返。斯卡夫塔山已于第7天游览。两种方案晚餐都在小木屋用餐。
 
-**Breakfast — At the cabin / 早餐 — 小木屋内** · ~07:00 (07:30 if leaving at 08:30) / 约07:00（若08:30出发则约07:30）
-An early breakfast before the start. Fill a thermos and pack snacks for the car.
-出发前早点吃早餐。灌好保温瓶，备些车上零食。
+**Breakfast — At the cabin / 早餐 — 小木屋内** · ~06:45 / 约06:45
+An early breakfast before the 07:30 start. Fill a thermos and pack snacks for the car.
+07:30出发前早点吃早餐。灌好保温瓶，备些车上零食。
 
-**Morning — Jökulsárlón / 上午 — 杰古沙龙冰川湖** · ~1h 45min from Klaustur · ~09:45–10:45 / 距教堂镇约1小时45分钟 · 约09:45–10:45
-Icebergs drifting in total silence, seals resting on the floating ice — a flat walk along the shore from the car park.
-巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上——从停车场沿湖岸平路漫步即可。
+**Morning — Jökulsárlón / 上午 — 杰古沙龙冰川湖** · Leave 07:30 · ~1h 45min from Klaustur · ~09:15–10:45 / 07:30出发 · 距教堂镇约1小时45分钟 · 约09:15–10:45
+Icebergs drifting in total silence, seals resting on the floating ice. A few minutes' walk from the car park over a low gravel bank to the shore, then mostly standing, looking and taking photos. The café by the car park has toilets and hot drinks — everyone use the toilets before leaving. Boat tours usually end for the season around now, so plan on viewing from the shore.
+巨大冰山在寂静湖面上静静漂流，海豹懒卧于浮冰之上。从停车场越过一道低矮碎石坡步行几分钟即到湖岸，之后主要是驻足观赏与拍照。停车场旁的咖啡馆有洗手间和热饮——离开前请大家都去一趟洗手间。游船通常在此时已停航，请以岸上观赏为主。
 
-**Late morning — Diamond Beach / 中午前 — 钻石海滩** · Across the road · ~10:45–11:15 / 马路对面 · 约10:45–11:15
-Ice chunks glittering on black sand.
-冰块在黑沙滩上熠熠生辉。
+**Late morning — Diamond Beach / 中午前 — 钻石海滩** · Across the road · ~10:45–11:30 / 马路对面 · 约10:45–11:30
+Ice chunks glittering on black sand, a few minutes' walk from the car parks on either side of the river mouth. Stay well back from the water — sneaker waves are a real danger here.
+冰块在黑沙滩上熠熠生辉，从河口两侧的停车场步行几分钟即到。请远离水边——这里的“疯狗浪”非常危险。
 
-**Decision — East or west? / 决定 — 东行还是西返？** · ~11:15 at Diamond Beach / 约11:15在钻石海滩
-Run the East-or-west check below (there is mobile signal at the lagoon). If every check passes, take Option 1; if any one fails, take Option 2.
-按下方“东行还是西返”清单逐项检查（冰川湖一带有手机信号）。全部通过则选方案1；任何一项不通过则选方案2。
+**Decision — East or west? / 决定 — 东行还是西返？** · ~11:30 at Diamond Beach / 约11:30在钻石海滩
+Run the East-or-west check below (there is mobile signal at the lagoon). Take Option 1 only if every check passes and you are leaving Diamond Beach by ~11:45; otherwise take Option 2.
+按下方“东行还是西返”清单逐项检查（冰川湖一带有手机信号）。仅当全部通过、且约11:45前离开钻石海滩时才选方案1；否则选方案2。
 
-**Option 1 · East — Stokksnes / Vestrahorn / 方案1 · 东行 — 斯托克角 / 维斯特拉霍恩山** · ~1h 15min east of Jökulsárlón, just past Höfn · ~12:30–13:45 / 杰古沙龙冰川湖以东约1小时15分钟，过霍芬即达 · 约12:30–13:45
-The jagged Vestrahorn mountain over black-sand dunes, with a lighthouse and a replica Viking village film set. Entry ~1,100 ISK per person at the Viking Café (card-only machine in the car park out of hours). The main viewpoints are a few minutes from the car; the café is a warm place to wait, and serves heart-shaped Icelandic waffles (vöfflur) worth trying. Very exposed to wind — ice cleats on. Arrive around midday, leaving plenty of daylight (sunset ~16:10); low cloud is forecast to thin around 11:00–14:00, which gives the best chance of seeing the peak.
-锯齿状的维斯特拉霍恩山耸立于黑沙丘之上，另有灯塔与维京村落电影布景。在维京咖啡馆购票，每人约1,100冰岛克朗（营业时间外可在停车场刷卡购票）。主要观景点距停车处仅几分钟路程；咖啡馆可供取暖等候，还供应心形冰岛华夫饼（vöfflur），值得一试。此处风力强劲——请穿戴防滑鞋钉。约中午抵达，留足日照时间（日落约16:10）；预报低云约在11:00–14:00散开，此时最有机会看清山峰。
+**Option 1 · East — Viking Café — Stokksnes entry / 方案1 · 东行 — 维京咖啡馆——斯托克角入口** · ~1h 15min east of Diamond Beach · ~12:45 / 钻石海滩以东约1小时15分钟 · 约12:45
+Turn off Route 1 about 10–15 min past Höfn, just before the Almannaskarð tunnel, following signs for Stokksnes / Viking Café — no need to go into Höfn on the way there. Pay the Stokksnes entry at the café (~1,100 ISK per person; card-only machine in the car park out of hours) and use the toilets. Grab heart-shaped Icelandic waffles (vöfflur) and coffee here if anyone needs a bite — this replaces lunch. Winter hours are unconfirmed.
+驶过霍芬约10–15分钟、在Almannaskarð隧道前，按Stokksnes / Viking Café指示牌驶离1号公路——去程无需进入霍芬镇。在咖啡馆购买斯托克角门票（每人约1,100冰岛克朗；营业时间外可在停车场刷卡机购票），并使用洗手间。若有人饿了，可在此买心形冰岛华夫饼（vöfflur）和咖啡——代替午餐。冬季营业时间尚未确认。
 
-**Option 1 · East — Höfn · Pakkhús / 方案1 · 东行 — 霍芬 · Pakkhús餐厅** · ~15–20 min back west of Stokksnes · late lunch ~14:15–15:15 / 斯托克角以西约15-20分钟 · 较晚午餐约14:15–15:15
-Iceland's "langoustine capital" — lunch at Pakkhús by the harbour. Park, walk in, sit down: no real walking. In November the langoustine is usually frozen tails rather than fresh, so confirm it is on the menu when booking. Refuel in Höfn before the drive back (Olís at Hafnarbraut 45 or N1 at Vesturbraut 1, both staffed). After lunch it is ~2h 45min back to the cabin, mostly in the dark after sunset ~16:10 (arrive ~18:00).
-冰岛的"龙虾之都"——在港口边的Pakkhús餐厅享用午餐。停车即入座，几乎无需步行。11月供应的多为冷冻龙虾尾而非新鲜捕捞，预订时请确认菜单上有龙虾。返程前请在霍芬加油（Hafnarbraut 45的Olís或Vesturbraut 1的N1，均有人值守）。午餐后驾车约2小时45分钟返回小木屋，日落（约16:10）后多为夜路（约18:00抵达）。
+**Option 1 · East — Black sand dunes & Vestrahorn / 方案1 · 东行 — 黑沙丘与维斯特拉霍恩山** · Past the gate on the gravel track · ~13:00–14:00 / 过闸门后沿碎石路前行 · 约13:00–14:00
+This is where you see Vestrahorn: the jagged mountain rising behind grass-tufted black dunes. Drive slowly along the unpaved track (potholes or ice possible) to the dune parking area — the classic view is right there, from the car or a few steps away, and the flat black sand in front is easy walking. Skip climbing the dunes (soft sand, uneven tufts); anyone who wants the higher angle can go up while the others wait at the car. At low tide the wet sand mirrors the mountain — check a tide app for Höfn. Low cloud can hide the peaks. Ice cleats on.
+在这里观赏维斯特拉霍恩山：锯齿状山峰耸立于长满草丛的黑沙丘之后。沿未铺装的道路慢行（可能有坑洼或结冰）至沙丘停车区——经典景色就在眼前，坐在车里或走几步即可欣赏，前方平坦的黑沙滩也很好走。不必攀爬沙丘（沙质松软、草丛高低不平）；想拍高角度的人可以上去，其他人在车旁等候。退潮时湿沙会倒映山影——可用潮汐App查看霍芬的潮汐。低云可能遮住山峰。请穿戴防滑鞋钉。
 
-**Option 2 · West — Fjallsárlón (optional) / 方案2 · 西返 — 菲亚德沙龙冰川湖（可选）** · ~10 min west of Jökulsárlón, on the way back · ~11:45–12:30 / 杰古沙龙冰川湖以西约10分钟，返程途经 · 约11:45–12:30
-A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park. Skip it if time, weather or energy is short.
-更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。时间、天气或体力不足时可直接跳过。
+**Optional — Viking village film set / 可选 — 维京村落电影布景** · Near the café, on the way out · ~15 min / 咖啡馆附近，离开时顺路 · 约15分钟
+A replica Viking village built as a film set, a short walk from the car. Go only if the path is not icy and everyone still has energy.
+为拍电影而建的复制维京村落，从停车处步行片刻即到。仅当小路未结冰、大家仍有体力时前往。
 
-**Option 2 · West — Lunch — Frost at Fjallsárlón / 方案2 · 西返 — 午餐——菲亚德沙龙冰川湖Frost餐厅** · ~12:30–13:15 / 约12:30–13:15
-Self-service restaurant (hot and cold dishes, soup, cake; listed as open daily 10:00–16:00 all year — confirm hours). Backup: the Jökulsárlón café (open year-round, ~9:00–17:00; lobster soup, sandwiches, cake). If you skip Fjallsárlón, have lunch at the Jökulsárlón café at ~11:30 and head for Skaftafell earlier.
-自助式餐厅（冷热菜品、汤与蛋糕；标注全年每日10:00–16:00营业——请确认营业时间）。备选：杰古沙龙冰川湖咖啡馆（全年营业，约9:00–17:00；供应龙虾汤、三明治与蛋糕）。若跳过菲亚德沙龙冰川湖，可约11:30在杰古沙龙咖啡馆用餐，并提前前往斯卡夫塔山。
+**Option 1 · East — Höfn — fuel / 方案1 · 东行 — 霍芬——加油** · ~15–20 min back west · ~14:30 · back at the cabin ~17:30 / 往西返回约15–20分钟 · 约14:30 · 约17:30回到小木屋
+Refuel for the ~2h 45min drive back: Olís (Hafnarbraut 45) or N1 (Vesturbraut 1), both staffed with toilets and snacks. To skip the town (it sits a few km off Route 1), use N1 Nes instead — self-service, 24/7, on Route 1 ~10 min west. Optional: a 15–20 min drive to the harbour and the Ósland headland for glacier views across the fjord, mostly from the car. About 1½ hours of the drive back is after sunset (~16:05).
+为约2小时45分钟的返程加满油：Olís（Hafnarbraut 45）或N1（Vesturbraut 1），均有人值守，有洗手间和零食。若不想进镇（霍芬距1号公路几公里），可改在N1 Nes加油——自助，全天24小时，位于1号公路往西约10分钟处。可选：花15–20分钟开车去港口和Ósland岬角，隔着峡湾远眺冰川，基本在车上欣赏即可。返程约有1个半小时在日落（约16:05）之后。
 
-**Option 2 · West — Skaftafell visitor centre / 方案2 · 西返 — 斯卡夫塔山游客中心** · Only if you skipped it on Day 7 · ~25 min west of Fjallsárlón · ~13:55–15:00 · back at the cabin ~15:50 / 仅当第7天未去时前往 · 菲亚德沙龙冰川湖以西约25分钟 · 约13:55–15:00 · 约15:50返回小木屋
-Vatnajökull National Park's visitor centre, with an exhibition, a café and glacier views from the car park area. Skip the steep Svartifoss walk. A mostly flat gravel path leads toward the Skaftafellsjökull glacier tongue, but it is longer than the Sólheimajökull walk — go only part of the way, if at all. Check the visitor centre's winter hours on the day. If you already went on Day 7, drive straight back and be at the cabin by ~15:00.
-瓦特纳冰川国家公园游客中心，设有展览与咖啡馆，在停车场一带即可远眺冰川。请跳过坡度较陡的斯瓦蒂瀑布（Svartifoss）步道。另有一条大致平坦的碎石小径通往斯卡夫塔山冰川舌，但比索尔黑马冰川的步行更长——量力而行，走一小段即可，亦可不走。请当天确认游客中心冬季开放时间。若第7天已游览，则直接返程，约15:00回到小木屋。
+**Option 2 · West — Lunch — Jökulsárlón café / 方案2 · 西返 — 午餐——杰古沙龙冰川湖咖啡馆** · By the Jökulsárlón car park · ~11:30–12:15 / 杰古沙龙冰川湖停车场旁 · 约11:30–12:15
+Lunch at the café by the lagoon car park (open year-round, ~9:00–17:00; lobster soup, sandwiches, cake) before heading west. Confirm hours on the day.
+西返前在冰川湖停车场旁的咖啡馆用午餐（全年营业，约9:00–17:00；供应龙虾汤、三明治与蛋糕）。请当天确认营业时间。
 
-**Dinner — Hotel Klaustur restaurant / 晚餐 — Klaustur酒店餐厅** · ~19:00 · book ahead (cancellable) / 约19:00 · 需提前预订（可取消）
-Hearty Icelandic mains, listed as open year-round — so nobody has to cook after the long east option (back ~18:00). If you take Option 2 and are back by ~16:00, cook at the cabin or try Systrakaffi instead, and cancel the booking. Last night in Klaustur — pack the bags tonight for the 09:00 Day 9 start.
-供应丰盛的冰岛传统主菜，标注全年营业——东行方案长途返程（约18:00到）后无需再下厨。若选择方案2、约16:00即回到小木屋，可改在小木屋做饭或去Systrakaffi用餐，并取消预订。教堂镇最后一晚——今晚收拾好行李，第9天09:00出发。
+**Option 2 · West — Fjallsárlón (optional) / 方案2 · 西返 — 菲亚德沙龙冰川湖（可选）** · ~10 min west of Jökulsárlón, on the way back · ~12:30–13:15 · back at the cabin ~15:00 / 杰古沙龙冰川湖以西约10分钟，返程途经 · 约12:30–13:15 · 约15:00回到小木屋
+A smaller, quieter lagoon where the glacier comes right down to the water — a short walk from the car park. Skip it if time, weather or energy is short. Then drive straight back — Skaftafell was done on Day 7.
+更小、更安静的冰川湖，冰川直抵湖面——从停车场步行片刻即达。时间、天气或体力不足时可直接跳过。之后直接返程——斯卡夫塔山已于第7天游览。
+
+**Dinner — At the cabin / 晚餐 — 小木屋内** · Evening / 傍晚
+Cook dinner at the cabin. Last night in Klaustur — pack the bags tonight for the 09:00 Day 9 start.
+在小木屋做晚餐。教堂镇最后一晚——今晚收拾好行李，第9天09:00出发。
 
 `Nature` `Glacier` `Food` `Self-drive`
 
-> Fill up before leaving Klaustur — stations are few and far between on this stretch (refuel in Höfn if going east). Check umferdin.is and the weather at vedur.is before setting off. The east option means a long return drive in darkness — only go if the driver is comfortable with night driving on the Ring Road.
-> 离开教堂镇前加满油——这段路加油站稀少（若东行，可在霍芬加油）。出发前在umferdin.is查看路况，在vedur.is查看天气。东行方案需在天黑后长途返程——驾驶者须能胜任环岛公路夜间驾驶方可前往。
+> Fill up before leaving Klaustur — stations are few and far between on this stretch (refuel in Höfn if going east). Check umferdin.is and the weather at vedur.is before setting off. The east option means about 1½ hours of the return drive in darkness — only go if the driver is comfortable with night driving on the Ring Road.
+> 离开教堂镇前加满油——这段路加油站稀少（若东行，可在霍芬加油）。出发前在umferdin.is查看路况，在vedur.is查看天气。东行方案返程约有1个半小时需摸黑驾驶——驾驶者须能胜任环岛公路夜间驾驶方可前往。
 
 > Fuel on this route: there is no Olís/ÓB between Klaustur and Höfn (~205 km). Fill up in Klaustur (Olís/ÓB at Iðjuvellir 1, or N1). Other stops on Route 1: Shell at Freysnes by Hótel Skaftafell (Skaftafelli 2; reported hours Mon–Fri 09:00–22:00, Sat–Sun 09:00–18:00 — confirm winter hours), N1 Fagurhólsmýri (self-service, 24/7, ~15 min east of Freysnes) and N1 Nes (self-service, 24/7, ~10 min west of Höfn). In Höfn: Olís (Hafnarbraut 45, staffed, Mon–Sat 08:00–22:00, Sun 09:00–22:00) and N1 (Vesturbraut 1, staffed). Self-service pumps need a chip-and-PIN card. An N1 prepaid card works at the N1 stops but not at Olís/ÓB or Shell.
 > 本路线加油：教堂镇至霍芬（约205公里）之间没有Olís/ÓB。请在教堂镇加满油（Iðjuvellir 1的Olís/ÓB，或N1）。1号公路上其他加油站：Freysnes的Shell（位于Hótel Skaftafell旁，Skaftafelli 2；据报营业时间周一至周五09:00–22:00，周六日09:00–18:00——请确认冬季营业时间）、N1 Fagurhólsmýri（自助，全天24小时，在Freysnes以东约15分钟）和N1 Nes（自助，全天24小时，在霍芬以西约10分钟）。霍芬：Olís（Hafnarbraut 45，有人值守，周一至周六08:00–22:00，周日09:00–22:00）和N1（Vesturbraut 1，有人值守）。自助加油机需使用带芯片和密码的银行卡。N1预付卡可在N1加油站使用，但不能用于Olís/ÓB或Shell。
 
-> East-or-west check — the weather decides, not opening hours (Stokksnes is open year-round). Check three times: the night before at the cabin, at 07:00 before leaving, and finally at ~11:15 at Diamond Beach (there is mobile signal at the lagoon). Go east only if ALL of these pass: (1) no yellow/orange/red weather warning for Southeast Iceland this afternoon or evening — en.vedur.is; (2) wind gusts below ~20 m/s from 14:00 to 19:00 on the vedur.is forecasts for Höfn and Kirkjubæjarklaustur — the Öræfi stretch near Skaftafell is known for strong crosswinds; (3) Route 1 from Höfn to Klaustur shown as easily passable, with no ice, snow or closures — umferdin.is/en (also has road webcams); (4) no South or Southeast coast alerts on safetravel.is; (5) Vestrahorn not buried in low cloud (vedur.is cloud-cover map); (6) Pakkhús confirmed open with your table (+354 478 2280). The 16:00–19:00 forecast matters most — that is the ~2h45 drive back in the dark. If any one check fails, take Option 2.
-> 东行还是西返——取决于天气，而非营业时间（斯托克角全年开放）。共检查三次：前一晚在小木屋、早上07:00出发前，以及约11:15在钻石海滩做最终决定（冰川湖一带有手机信号）。以下各项全部通过才东行：（1）en.vedur.is上东南部地区今天下午及傍晚没有黄色、橙色或红色天气预警；（2）vedur.is上霍芬与教堂镇的预报显示14:00–19:00阵风低于约20米/秒——斯卡夫塔山附近的Öræfi路段以强侧风闻名；（3）umferdin.is/en显示霍芬至教堂镇的1号公路通行顺畅，无结冰、积雪或封路（该网站也有道路实时摄像头）；（4）safetravel.is上南部及东南沿海没有警报；（5）维斯特拉霍恩山未被低云完全遮挡（vedur.is云量图）；（6）已致电Pakkhús确认当天营业且有座位（+354 478 2280）。最关键的是16:00–19:00的预报——即摸黑驾车约2小时45分钟返程的时段。任何一项不通过，就选择方案2。
+> East-or-west check — the weather decides, not opening hours (Stokksnes is open year-round). Check three times: the night before at the cabin, at 07:00 before leaving, and finally at ~11:30 at Diamond Beach (there is mobile signal at the lagoon). Go east only if ALL of these pass: (1) no yellow/orange/red weather warning for Southeast Iceland this afternoon or evening — en.vedur.is; (2) wind gusts below ~20 m/s from 14:00 to 19:00 on the vedur.is forecasts for Höfn and Kirkjubæjarklaustur — the Öræfi stretch near Skaftafell is known for strong crosswinds; (3) Route 1 from Höfn to Klaustur shown as easily passable, with no ice, snow or closures — umferdin.is/en (also has road webcams); (4) no South or Southeast coast alerts on safetravel.is; (5) Vestrahorn not buried in low cloud (vedur.is cloud-cover map); (6) you are leaving Diamond Beach by ~11:45 and everyone has the energy for a ~10-hour day. The 16:00–19:00 forecast matters most — that is the ~2h45 drive back, much of it in the dark. If any one check fails, take Option 2.
+> 东行还是西返——取决于天气，而非营业时间（斯托克角全年开放）。共检查三次：前一晚在小木屋、早上07:00出发前，以及约11:30在钻石海滩做最终决定（冰川湖一带有手机信号）。以下各项全部通过才东行：（1）en.vedur.is上东南部地区今天下午及傍晚没有黄色、橙色或红色天气预警；（2）vedur.is上霍芬与教堂镇的预报显示14:00–19:00阵风低于约20米/秒——斯卡夫塔山附近的Öræfi路段以强侧风闻名；（3）umferdin.is/en显示霍芬至教堂镇的1号公路通行顺畅，无结冰、积雪或封路（该网站也有道路实时摄像头）；（4）safetravel.is上南部及东南沿海没有警报；（5）维斯特拉霍恩山未被低云完全遮挡（vedur.is云量图）；（6）约11:45前能离开钻石海滩，且大家都有体力应付约10小时的行程。最关键的是16:00–19:00的预报——即约2小时45分钟返程、其中大半在天黑后的时段。任何一项不通过，就选择方案2。
 
 📺 **花少5 · Ep 13下 · Guide: 辛芷蕾 · Whale watching + dolphins + sea fishing + hákarl challenge + Jökulsárlón / 观鲸出海 + 邂逅海豚 + 海钓 + 臭食挑战 + 杰古沙龙冰川湖**
 辛芷蕾's day started with whale watching and sea fishing out of a harbour near Höfn — they caught fish, joined the crew for a seafood tasting, and encountered dolphins rather than whales. Back on land: a Viking restaurant's hákarl (fermented shark) challenge. The day ended at Jökulsárlón — icebergs drifting in total silence, seals resting on floating ice.
